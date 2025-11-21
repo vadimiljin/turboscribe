@@ -1,4 +1,4 @@
-{"start": 0, "end": 0, "speaker": "Serhii Kasainov", "text": "Это покажем.", "confidence": 0.3}
+{"start": 0, "end": 0, "speaker": "Serhii Kasainov", "text": "Это покажем.", "confidence": 0.7}
 {"start": 3, "end": 7.11, "speaker": "Serhii Kasainov", "text": "Вроде выглядит все клево.", "confidence": 0.95}
 {"start": 7.11, "end": 11.22, "speaker": "Serhii Kasainov", "text": "Я, может, еще чуть-чуть его яркость бы уменьшил.", "confidence": 0.95}
 {"start": 11.22, "end": 15.33, "speaker": "Serhii Kasainov", "text": "Он должен прям быть совсем фоновый.", "confidence": 0.95}
@@ -8,7 +8,7 @@
 {"start": 27.67, "end": 31.78, "speaker": "Dmitry Smaliak", "text": "Я сейчас занимаюсь справками в Destinations, чтобы у нас была вот эта вот история.", "confidence": 0.95}
 {"start": 31.78, "end": 35.89, "speaker": "Dmitry Smaliak", "text": "Работало.", "confidence": 0.95}
 {"start": 35.89, "end": 40.0, "speaker": "Dmitry Smaliak", "text": "Раскатаю это.", "confidence": 0.95}
-{"start": 40, "end": 41, "speaker": "Serhii Kasainov", "text": "В плане?", "confidence": 0.82}
+{"start": 40, "end": 41, "speaker": "Serhii Kasainov", "text": "В плане?", "confidence": 0.95}
 {"start": 41, "end": 44.0, "speaker": "Dmitry Smaliak", "text": "В плане снапшота.", "confidence": 0.95}
 {"start": 44.0, "end": 47.0, "speaker": "Dmitry Smaliak", "text": "Ну, у нас не работал tracking number в таблице копирования.", "confidence": 0.95}
 {"start": 47.0, "end": 50.0, "speaker": "Serhii Kasainov", "text": "Вообще не работал?", "confidence": 0.95}
@@ -64,7 +64,7 @@
 {"start": 288, "end": 290, "speaker": "Serhii Kasainov", "text": "Мне не приснилось.", "confidence": 0.92}
 {"start": 290, "end": 293.0, "speaker": "Serhii Kasainov", "text": "В тикете такого не было.", "confidence": 0.95}
 {"start": 293.0, "end": 296.0, "speaker": "Dmitry Smaliak", "text": "Смотрите, подождите, подождите.", "confidence": 0.95}
-{"start": 296, "end": 298, "speaker": "Semeyon S", "text": "Это другой тикет.", "confidence": 0.6}
+{"start": 296, "end": 298, "speaker": "Dmitry Smaliak", "text": "Это другой тикет.", "confidence": 0.9}
 {"start": 298, "end": 301.42, "speaker": "Dmitry Smaliak", "text": "Да, это другой тикет.", "confidence": 0.95}
 {"start": 301.42, "end": 304.84, "speaker": "Dmitry Smaliak", "text": "Нужно будет довести, чтобы оно с урла сразу сюда подтягивало.", "confidence": 0.95}
 {"start": 304.84, "end": 308.27, "speaker": "Serhii Kasainov", "text": "Да, это все верно.", "confidence": 0.95}
@@ -267,7 +267,7 @@
 {"start": 1005.16, "end": 1008.77, "speaker": "Semeyon S", "text": "Я записал.", "confidence": 0.95}
 {"start": 1008.77, "end": 1012.39, "speaker": "Semeyon S", "text": "Потому что сейчас смотрю, очень много белого.", "confidence": 0.95}
 {"start": 1012.39, "end": 1016.0, "speaker": "Semeyon S", "text": "У нас из этого идет.", "confidence": 0.95}
-{"start": 1016, "end": 1016, "speaker": "Semeyon S", "text": "Очень красиво.", "confidence": 0.3}
+{"start": 1016, "end": 1016, "speaker": "Semeyon S", "text": "Очень красиво.", "confidence": 0.65}
 {"start": 1017, "end": 1020.91, "speaker": "Manar Kurmanov", "text": "Надо будет на бэке сконфигурировать, оно сразу придет.", "confidence": 0.95}
 {"start": 1020.91, "end": 1024.82, "speaker": "Manar Kurmanov", "text": "Хотя надо будет утеснить, что это здесь одно, а вот здесь другое.", "confidence": 0.95}
 {"start": 1024.82, "end": 1028.73, "speaker": "Semeyon S", "text": "Я про это.", "confidence": 0.95}
@@ -332,7 +332,7 @@
 {"start": 1267.27, "end": 1271.18, "speaker": "Igor Golovtsov", "text": "Оно работает и...", "confidence": 0.95}
 {"start": 1271.18, "end": 1275.09, "speaker": "Igor Golovtsov", "text": "Нет, там происходит запрос.", "confidence": 0.95}
 {"start": 1275.09, "end": 1279.0, "speaker": "Igor Golovtsov", "text": "Отправляется запрос на удаление, и потом, когда он успешно завершается...", "confidence": 0.95}
-{"start": 1279, "end": 1282, "speaker": "Semeyon S", "text": "Ну, как оно сегодня для меня...", "confidence": 0.73}
+{"start": 1279, "end": 1282, "speaker": "Semeyon S", "text": "Ну, как оно сегодня для меня...", "confidence": 0.95}
 {"start": 1282, "end": 1290.17, "speaker": "Igor Golovtsov", "text": "И как в твоем случае, оно перезапрашивает просто комбайн, а тот еще не обновлен.", "confidence": 0.95}
 {"start": 1290.17, "end": 1298.33, "speaker": "Igor Golovtsov", "text": "И поэтому оно у тебя никуда не делось.", "confidence": 0.95}
 {"start": 1298.33, "end": 1306.5, "speaker": "Igor Golovtsov", "text": "Да, это пушеры делают.", "confidence": 0.95}
@@ -368,11 +368,11 @@
 {"start": 1495.0, "end": 1498.0, "speaker": "Eugene", "text": "Может даже Сергей.", "confidence": 0.95}
 {"start": 1498.0, "end": 1501.0, "speaker": "Eugene", "text": "По-моему, мы сейчас такой космический корабль делать будем.", "confidence": 0.95}
 {"start": 1501.0, "end": 1504.0, "speaker": "Alexey Afanasiev", "text": "Так вот, там Игорь как раз-то и будет.", "confidence": 0.95}
-{"start": 1508, "end": 1508, "speaker": "Alexey Afanasiev", "text": "Головцов.", "confidence": 0.3}
+{"start": 1508, "end": 1508, "speaker": "Alexey Afanasiev", "text": "Головцов.", "confidence": 0.69}
 {"start": 1515, "end": 1517, "speaker": "Semeyon S", "text": "Ну все, тогда закрываем звонок?", "confidence": 0.99}
 {"start": 1517, "end": 1518.0, "speaker": "Alexey Afanasiev", "text": "Да.", "confidence": 0.95}
 {"start": 1518.0, "end": 1519.0, "speaker": "Alexey Afanasiev", "text": "Спасибо.", "confidence": 0.95}
 {"start": 1520, "end": 1521, "speaker": "Semeyon S", "text": "Игорь, у тебя вопросов нет?", "confidence": 0.99}
-{"start": 1522, "end": 1522, "speaker": "Igor Skrynkovskyy", "text": "Больше нет.", "confidence": 0.3}
+{"start": 1522, "end": 1522, "speaker": "Igor Skrynkovskyy", "text": "Больше нет.", "confidence": 0.69}
 {"start": 1523, "end": 1526, "speaker": "Semeyon S", "text": "Ну все, тогда всем спасибо, пока.", "confidence": 0.72}
 {"start": 1527, "end": 1528, "speaker": "Igor Skrynkovskyy", "text": "Спасибо, пока.", "confidence": 0.7}

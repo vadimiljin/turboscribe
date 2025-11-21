@@ -107,7 +107,7 @@
 {"start": 1168, "end": 1173, "speaker": "Semeyon S", "text": "Нет, я наоборот не понял, что ты имел ввиду под фильтр защиты.", "confidence": 0.99}
 {"start": 1173, "end": 1175.5, "speaker": "Dan Khasis", "text": "Не фильтр, не фильтр, снизу.", "confidence": 0.95}
 {"start": 1175.5, "end": 1178.0, "speaker": "Dan Khasis", "text": "Там среднее значение есть, правильно?", "confidence": 0.95}
-{"start": 1179, "end": 1179, "speaker": "Dan Khasis", "text": "Да.", "confidence": 0.3}
+{"start": 1179, "end": 1179, "speaker": "Dan Khasis", "text": "Да.", "confidence": 0.65}
 {"start": 1180, "end": 1183, "speaker": "Dan Khasis", "text": "Посмотри, там 3 или 4 цифры после точки.", "confidence": 0.93}
 {"start": 1191, "end": 1194.33, "speaker": "Semeyon S", "text": "Так, ну вот здесь в average в одном из них был этот вот.", "confidence": 0.95}
 {"start": 1194.33, "end": 1197.67, "speaker": "Semeyon S", "text": "Ты про это?", "confidence": 0.95}
@@ -117,11 +117,11 @@
 {"start": 1215, "end": 1217.0, "speaker": "Semeyon S", "text": "Ну давайте посмотрим.", "confidence": 0.95}
 {"start": 1217.0, "end": 1219.0, "speaker": "Semeyon S", "text": "А, вот.", "confidence": 0.95}
 {"start": 1219.0, "end": 1221.0, "speaker": "Semeyon S", "text": "Это неправильное округление, да, это косяк.", "confidence": 0.95}
-{"start": 1221, "end": 1223, "speaker": "Alexey Afanasiev", "text": "Надо убрать эти лишницы.", "confidence": 0.77}
+{"start": 1221, "end": 1223, "speaker": "Alexey Afanasiev", "text": "Надо убрать эти лишницы.", "confidence": 0.95}
 {"start": 1233, "end": 1245, "speaker": "Dan Khasis", "text": "Окей, тогда следующий приоритет, это связан с... Мне нужно 15 секунд, ребят, 1 секунду.", "confidence": 0.89}
 {"start": 1373, "end": 1374, "speaker": "Semeyon S", "text": "Евгений, ты тут?", "confidence": 0.99}
 {"start": 1374, "end": 1375, "speaker": "Semeyon S", "text": "Пока ждем.", "confidence": 0.99}
-{"start": 1377, "end": 1377, "speaker": "Eugene", "text": "Да, тут.", "confidence": 0.3}
+{"start": 1377, "end": 1377, "speaker": "Semeyon S", "text": "Да, тут.", "confidence": 0.65}
 {"start": 1379, "end": 1385, "speaker": "Semeyon S", "text": "Вот, short key, вот прям сильно не хватает, так и хочется клавиатуру попереключить, одни.", "confidence": 0.99}
 {"start": 1390, "end": 1405, "speaker": "Vova", "text": "Мы там нарисовали переключатель, который позволяет тебе перемотаться на неделю вперед. И лейбл, который показывает на какой день перескочишь.", "confidence": 0.61}
 {"start": 1409, "end": 1428, "speaker": "Semeyon S", "text": "Это тоже хорошо. Сергей, наверное, нам тоже надо думать, как в архитектурку встроить hotkey, местами не хватает.", "confidence": 0.51}
@@ -142,7 +142,7 @@
 {"start": 1630.5, "end": 1633.0, "speaker": "Semeyon S", "text": "Ты сейчас, случайно, не про настройки говоришь?", "confidence": 0.95}
 {"start": 1635, "end": 1653, "speaker": "Igor Skrynkovskyy", "text": "Это про Relation между созданными и импортированными. Дэн, у нас есть информация, мы ее просто не выводим. Где-то ее нет в API, где-то ее есть в API, но она, наверное, не выводится.\n\nА там же все готово, мы как-то обратим на это внимание и добавим.", "confidence": 0.64}
 {"start": 1655, "end": 1659, "speaker": "Vova", "text": "И еще имела бы смысл фильтрация по сценарию, из которого все это произошло?", "confidence": 0.99}
-{"start": 1659, "end": 1660, "speaker": "Igor Skrynkovskyy", "text": "Само собой.", "confidence": 0.76}
+{"start": 1659, "end": 1660, "speaker": "Igor Skrynkovskyy", "text": "Само собой.", "confidence": 0.95}
 {"start": 1661, "end": 1663, "speaker": "Dan Khasis", "text": "Так я же сказал только, что я не понимаю.", "confidence": 0.99}
 {"start": 1689, "end": 1697, "speaker": "Semeyon S", "text": "Окей, мы со звонка приоритеты вытащим и отрефайним. Вот у нас это плюс-минус все есть.", "confidence": 0.99}
 {"start": 1701, "end": 1709.8, "speaker": "Dan Khasis", "text": "Скоряться, конечно, надо.", "confidence": 0.95}
@@ -175,7 +175,7 @@
 {"start": 2054, "end": 2058.5, "speaker": "Vova", "text": "Важно, чтобы их можно было потом сравнить исходник с дубликатом.", "confidence": 0.95}
 {"start": 2058.5, "end": 2063.0, "speaker": "Dan Khasis", "text": "Чтобы понять, хорошую правку я сделал или плохую.", "confidence": 0.95}
 {"start": 2064, "end": 2100, "speaker": "Dan Khasis", "text": "Сергей, мы сможем ли когда-нибудь сделать разницу между твоим подходом и моим подходом? Это то, что с моим подходом они сделали импорт всего в override. То есть в AdHocRoute или в MasterRoute.\n\nОни спокойно редактировали все с существующими инструментами. Для Gantt-чарта, которые есть, инструментами, которые есть для Multiple Routes Map, инструменты, которые есть для Comparison, Manifest, Export и так далее. Иначе они должны с нуля все переписывать в Scenario Builder.", "confidence": 0.99}
-{"start": 2101, "end": 2103, "speaker": "Vova", "text": "Да, это конечно же аргумент.", "confidence": 0.64}
+{"start": 2101, "end": 2103, "speaker": "Dan Khasis", "text": "Да, это конечно же аргумент.", "confidence": 0.85}
 {"start": 2106, "end": 2156, "speaker": "Dan Khasis", "text": "Окей, короче, я супер опаздываю. Последний пункт, что я хочу сказать. То, что если вы посмотрите на эту ситуацию, как это слово, мы по-прежнему не решили в Strategic Route Planner чексов маршрута уникального, правильно?\n\nТо есть никто не знает до конца, что раут номер один действительно, константный раут номер один во второй неделе, в третьей неделе, в четвертой неделе. Вы согласны с этим, что мы это не решили? Судя по точке нет.", "confidence": 0.74}
 {"start": 2156, "end": 2185, "speaker": "Igor Skrynkovskyy", "text": "Нет, почему-то так. У нас как раз вот эта константа за счет Solver производится. То есть у нас маршруты, они константные.\n\nТо есть на уровне Solver они прямо копируются. То есть если там есть одинаковые правила, одинаковые адреса, они прям целыми маршрутами копируются на тот же самый день, ну типа плюс семь дней делается.", "confidence": 0.99}
 {"start": 2186, "end": 2199, "speaker": "Dan Khasis", "text": "И где наш, где этот ID этого маршрута? Я никогда его не видел в UI. Фильтр по route number.", "confidence": 0.71}
@@ -204,14 +204,14 @@
 {"start": 2289.79, "end": 2294.0, "speaker": "Dan Khasis", "text": "Спасибо.", "confidence": 0.95}
 {"start": 2299, "end": 2305, "speaker": "Semeyon S", "text": "Сергей, Алексей, может мы сами быстренько comparison этот route хотя бы глянем?", "confidence": 0.99}
 {"start": 2307, "end": 2317, "speaker": "Alexey Gusentsov", "text": "Да, дайте мне минуту, сейчас. Немножко у нас snapshot переключился. Запускаю.", "confidence": 0.15}
-{"start": 2332, "end": 2334, "speaker": "Alexey Gusentsov", "text": "Так, делал я это здесь.", "confidence": 0.3}
+{"start": 2332, "end": 2334, "speaker": "Alexey Gusentsov", "text": "Так, делал я это здесь.", "confidence": 0.77}
 {"start": 2347, "end": 2348, "speaker": "Alexey Gusentsov", "text": "Меня слышно?", "confidence": 0.99}
-{"start": 2348, "end": 2348, "speaker": "Alexey Gusentsov", "text": "Да.", "confidence": 0.3}
+{"start": 2348, "end": 2348, "speaker": "Alexey Gusentsov", "text": "Да.", "confidence": 0.65}
 {"start": 2355, "end": 2356, "speaker": "Semeyon S", "text": "Слышно тебя?", "confidence": 0.99}
 {"start": 2358, "end": 2359, "speaker": "Alexey Gusentsov", "text": "Да. Интернет ни к черту.", "confidence": 0.99}
 {"start": 2366, "end": 2369, "speaker": "Vova", "text": "Потерялась тень. Здесь была...", "confidence": 0.99}
 {"start": 2369, "end": 2371, "speaker": "Alexey Gusentsov", "text": "Вот, все, сейчас должно быть слышно.", "confidence": 0.99}
-{"start": 2371, "end": 2374, "speaker": "Vova", "text": "Каждого ряда у нас здесь потерялась тень.", "confidence": 0.48}
+{"start": 2371, "end": 2374, "speaker": "Vova", "text": "Каждого ряда у нас здесь потерялась тень.", "confidence": 0.95}
 {"start": 2374, "end": 2377.45, "speaker": "Alexey Gusentsov", "text": "Да, все.", "confidence": 0.95}
 {"start": 2377.45, "end": 2380.9, "speaker": "Alexey Gusentsov", "text": "Собственно, это первый прототип, скажем так.", "confidence": 0.95}
 {"start": 2380.9, "end": 2384.35, "speaker": "Alexey Gusentsov", "text": "Тень я увидел потом, но они не везде есть.", "confidence": 0.95}
@@ -259,9 +259,9 @@
 {"start": 2550, "end": 2553.33, "speaker": "Artur Moskalenko", "text": "Дайте прерву.", "confidence": 0.95}
 {"start": 2553.33, "end": 2556.67, "speaker": "Artur Moskalenko", "text": "Там Дэн пишет, почему нет дупликата, сценариев.", "confidence": 0.95}
 {"start": 2556.67, "end": 2560.0, "speaker": "Artur Moskalenko", "text": "Это фича закрыта?", "confidence": 0.95}
-{"start": 2566, "end": 2566, "speaker": "Artur Moskalenko", "text": "Сценарий.", "confidence": 0.3}
+{"start": 2566, "end": 2566, "speaker": "Artur Moskalenko", "text": "Сценарий.", "confidence": 0.65}
 {"start": 2567, "end": 2576, "speaker": "Semeyon S", "text": "Да подожди, есть. Правда, мы, может быть, говорим о разных вещах с Дэном.", "confidence": 0.93}
-{"start": 2577, "end": 2580, "speaker": "Semeyon S", "text": "Да, Дэн на крейте имеет ввиду, скорее всего.", "confidence": 0.3}
+{"start": 2577, "end": 2580, "speaker": "Semeyon S", "text": "Да, Дэн на крейте имеет ввиду, скорее всего.", "confidence": 0.77}
 {"start": 2580, "end": 2584.67, "speaker": "Semeyon S", "text": "Вот она.", "confidence": 0.95}
 {"start": 2584.67, "end": 2589.33, "speaker": "Semeyon S", "text": "У него на аккаунте это сейчас.", "confidence": 0.95}
 {"start": 2589.33, "end": 2594.0, "speaker": "Semeyon S", "text": "Артур, сделай скриншот или Игорь.", "confidence": 0.95}
@@ -290,15 +290,15 @@
 {"start": 2754.0, "end": 2756.0, "speaker": "Semeyon S", "text": "Это вопрос к ребятам технический.", "confidence": 0.95}
 {"start": 2758, "end": 2766, "speaker": "Serhii Kasainov", "text": "Я еще не ревью вел, но задумка да. Это по сути таблица. Мы прокидываем колонки, мы прокидываем строки, все.", "confidence": 0.99}
 {"start": 2767, "end": 2783, "speaker": "Semeyon S", "text": "Сергей, может чтобы в этом убедиться, чтобы как только будет первая нулевая версия, сразу же ее и к стратегику, и стейджинг прикрутить, чтобы сразу все грабли собрать.", "confidence": 0.97}
-{"start": 2783, "end": 2788, "speaker": "Vova", "text": "А потом мы захотим сравнить facilities, а потом мы также захотим сравнить драйверов.", "confidence": 0.82}
+{"start": 2783, "end": 2788, "speaker": "Vova", "text": "А потом мы захотим сравнить facilities, а потом мы также захотим сравнить драйверов.", "confidence": 0.95}
 {"start": 2790, "end": 2794, "speaker": "Semeyon S", "text": "Вова, это очевидно. Я сейчас про ближайшие шаги говорю.", "confidence": 0.97}
 {"start": 2795, "end": 2800, "speaker": "Serhii Kasainov", "text": "Я думаю на следующей недельке мы это затянем и на route list, и на strategic.", "confidence": 0.99}
 {"start": 2802, "end": 2804, "speaker": "Semeyon S", "text": "Договорились. Сразу в двух местах.", "confidence": 0.99}
 {"start": 2807, "end": 2824, "speaker": "Alexey Gusentsov", "text": "Да, Максим, про отсутствие места справа. Это я просто физически обрезал ширину, чтобы можно было показать, когда она обрезана, и прокрутку. Потому что это локальная разработка, я вообще на route разрабатываю, что у нас на strategic там не получается немного соответственно.\n\nЭто просто визуально пока так выглядит.", "confidence": 0.99}
-{"start": 2824, "end": 2825, "speaker": "Alexey Gusentsov", "text": "Спасибо.", "confidence": 0.3}
+{"start": 2824, "end": 2825, "speaker": "Alexey Gusentsov", "text": "Спасибо.", "confidence": 0.99}
 {"start": 2829, "end": 2846, "speaker": "Vova", "text": "Если у тебя много места остается, там начинается такая сеточка из полосочек. Типа разметка есть, что сюда можно еще колонки вставить. То есть когда у тебя место останется, там есть макет, где нарисовано, что будет, когда места остается много.", "confidence": 0.99}
 {"start": 2847, "end": 2848, "speaker": "Maksym Silman", "text": "Это все по макетам, да?", "confidence": 0.99}
-{"start": 2850, "end": 2852, "speaker": "Vova", "text": "По макетам, да.", "confidence": 0.36}
+{"start": 2850, "end": 2852, "speaker": "Maksym Silman", "text": "По макетам, да.", "confidence": 0.95}
 {"start": 2853, "end": 2856.0, "speaker": "Alexey Gusentsov", "text": "Еще раз, я не совсем понял про fade, этот боковой.", "confidence": 0.95}
 {"start": 2856.0, "end": 2859.0, "speaker": "Alexey Gusentsov", "text": "То есть боковой fade, он есть только…", "confidence": 0.95}
 {"start": 2859, "end": 2874, "speaker": "Vova", "text": "Он отделяет между собой эти варианты и кладет их слоями и делает левый верхним слоем, потому что ты интуитивно вытаскивал то, что тебе нравится налево, а то, что не нравится вперед.", "confidence": 0.99}
@@ -324,7 +324,7 @@
 {"start": 2959.4, "end": 2963.2, "speaker": "Alexey Gusentsov", "text": "Да, она внедряется куда хочешь.", "confidence": 0.95}
 {"start": 2963.2, "end": 2967.0, "speaker": "Alexey Gusentsov", "text": "Это просто считай, что я в студебуке разрабатываю, но в студебуке сейчас проблемы есть большие, поэтому мне пришлось просто в раутс это пилить.", "confidence": 0.95}
 {"start": 2973, "end": 2975, "speaker": "Serhii Kasainov", "text": "Набросились на Алексея, капец.", "confidence": 0.99}
-{"start": 2976, "end": 2976, "speaker": "Serhii Kasainov", "text": "Да я тут старался вообще.", "confidence": 0.3}
+{"start": 2976, "end": 2976, "speaker": "Serhii Kasainov", "text": "Да я тут старался вообще.", "confidence": 0.67}
 {"start": 2977, "end": 2980.0, "speaker": "Vova", "text": "Алексей, ты молодец.", "confidence": 0.95}
 {"start": 2980.0, "end": 2983.0, "speaker": "Vova", "text": "Круто сделал, и очень быстро главное.", "confidence": 0.95}
 {"start": 2983.0, "end": 2986.0, "speaker": "Serhii Kasainov", "text": "О, согласен.", "confidence": 0.95}
