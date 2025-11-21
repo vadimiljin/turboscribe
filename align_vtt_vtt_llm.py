@@ -570,6 +570,39 @@ def format_time(seconds: float) -> str:
     return f"{h:02d}:{m:02d}:{s:02d}"
 
 
+def extract_date_from_gmt_filename(directory: str) -> Optional[str]:
+    """
+    Extract date from GMT filename in directory.
+    GMT20251002-132900 -> 2025-10-02 13:29
+    """
+    import os
+    import re
+    from pathlib import Path
+    
+    dir_path = Path(directory)
+    
+    # Search for GMT*.vtt or GMT*.mp4 files
+    for filename in os.listdir(dir_path):
+        match = re.match(r'GMT(\d{8})-(\d{6})', filename)
+        if match:
+            date_part = match.group(1)  # 20251002
+            time_part = match.group(2)  # 132900
+            
+            # Parse date: YYYYMMDD
+            year = date_part[0:4]
+            month = date_part[4:6]
+            day = date_part[6:8]
+            
+            # Parse time: HHMMSS
+            hour = time_part[0:2]
+            minute = time_part[2:4]
+            
+            return f"{year}-{month}-{day} {hour}:{minute}"
+    
+    # Fallback to current date if no GMT file found
+    return datetime.now().strftime('%Y-%m-%d %H:%M')
+
+
 def split_turboscribe_segment_by_speakers(
     text_seg: VTTSegment,
     speaker_segs: List[VTTSegment]
@@ -939,12 +972,19 @@ def find_vtt_files(folder_path: str) -> Tuple[Optional[str], Optional[str]]:
     return speaker_vtt, text_vtt
 
 
-def generate_markdown(segments: List[AlignedSegment], output_path: str):
+def generate_markdown(segments: List[AlignedSegment], output_path: str, folder_path: str = None):
     """Generate transcript markdown with grouped phrases."""
     lines = []
     lines.append("# Транскрипт встречи (Summary)")
     lines.append("")
-    lines.append(f"**Дата:** {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    
+    # Extract date from GMT filename if available
+    if folder_path:
+        meeting_date = extract_date_from_gmt_filename(folder_path)
+    else:
+        meeting_date = datetime.now().strftime('%Y-%m-%d %H:%M')
+    
+    lines.append(f"**Дата:** {meeting_date}")
     
     if segments:
         total_duration = segments[-1].end - segments[0].start
@@ -985,26 +1025,28 @@ def generate_markdown(segments: List[AlignedSegment], output_path: str):
     
     # Output grouped segments
     for group in grouped:
-        # Склеить все тексты одного спикера естественно
+        # Склеить все тексты одного спикера в одну строку
         texts = []
         for text in group['texts']:
             text = text.strip()
-            # Убираем лишние точки и запятые в конце
-            text = text.rstrip('.,;')
             if text:
                 texts.append(text)
         
         if not texts:
             continue
         
-        # Соединяем через ". " для разделения предложений
-        combined_text = '. '.join(texts) + '.'
+        # Соединяем все тексты через пробел в одну строку
+        combined_text = ' '.join(texts)
+        
+        # Нормализуем пробелы и знаки препинания
+        combined_text = ' '.join(combined_text.split())  # Убираем лишние пробелы
         
         start_time = format_time(group['start'])
         end_time = format_time(group['end'])
         
+        # ВСЁ В ОДНОЙ СТРОКЕ для удобного парсинга
         lines.append(f"**{group['speaker']}** [{start_time} - {end_time}]: {combined_text}")
-        lines.append("")
+        lines.append("")  # Пустая строка между спикерами
     
     # Statistics
     lines.append("---")
@@ -1192,7 +1234,7 @@ def main():
     generate_vtt(aligned, output_vtt_path)
     print(f"   [+] Transcript VTT: {Path(output_vtt_path).name}")
     
-    generate_markdown(aligned, output_md_path)
+    generate_markdown(aligned, output_md_path, folder_path=folder_path)
     print(f"   [+] Transcript MD: {Path(output_md_path).name}")
     
     generate_jsonl(aligned, output_jsonl_path)
