@@ -1,0 +1,4196 @@
+{
+  "time": "00:01:50 - 00:01:52",
+  "speaker": "Alexey Afanasiev",
+  "text": "Всем привет, кого не видел.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:02:04 - 00:02:11",
+  "speaker": "Alexey Afanasiev",
+  "text": "Игорь, я там по вчерашнему мету этот самый тикет сделал.",
+  "confidence": 0.36,
+  "match_type": "fallback",
+  "reasoning": "Nearest speaker (8.5s away, conf=36%)",
+  "duration": 7
+}
+{
+  "time": "00:02:12 - 00:02:21",
+  "speaker": "Alexey Afanasiev",
+  "text": "Проверь, пожалуйста. 19. Мы точно в сторону не ушли, я тебе сейчас в личку отправлю.",
+  "confidence": 0.35,
+  "match_type": "fallback",
+  "reasoning": "Continuing from previous speaker (no nearby speakers)",
+  "duration": 9
+}
+{
+  "time": "00:02:25 - 00:02:46",
+  "speaker": "Semeyon S",
+  "text": "Я тикет видел, но я его ещё не полностью прочитал. Плюс у нас был звонок с Дэном недавно, то, короче, Сергей может дальше больше дать информацию о том...",
+  "confidence": 0.15,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 14.6% overlap",
+  "duration": 21,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "14.6%"
+    }
+  ]
+}
+{
+  "time": "00:03:36 - 00:03:40",
+  "speaker": "Dan Khasis",
+  "text": "Сергея на звонке не будет. Диму, возможно, тоже.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:03:44 - 00:03:46",
+  "speaker": "Dan Khasis",
+  "text": "Игорь, ты покажешь тогда стратегику.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Dan Khasis активно участвует в обсуждении и упоминает других участников, что может указывать на его роль в управлении разговором. Фраза 'Игорь, ты покажешь тогда стратегику' предполагает, что спикер имеет определённый уровень авторитета или ответственности за обсуждаемую тему, что соответствует роли Dan Khasis в контексте встречи.",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:03:51 - 00:03:55",
+  "speaker": "Dan Khasis",
+  "text": "Алло, привет.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Фраза 'Алло, привет' может быть приветствием, которое часто используется в начале разговора. Учитывая, что Dan Khasis активно участвует в диалоге и был одним из последних, кто говорил, есть высокая вероятность, что это он. Однако, учитывая, что фраза может быть сказана любым из участников, уверенность не максимальная.",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:03:59 - 00:04:00",
+  "speaker": "Dan Khasis",
+  "text": "Ну что, мы готовы начинать?",
+  "confidence": 0.65,
+  "match_type": "fallback",
+  "reasoning": "Continuing active speaker (3/5 recent segments)",
+  "duration": 1
+}
+{
+  "time": "00:04:01 - 00:04:02",
+  "speaker": "Dan Khasis",
+  "text": "Да.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.92)",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:04:07 - 00:04:10",
+  "speaker": "Dan Khasis",
+  "text": "Ну мы со стратегикой начнём, с византа.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:04:11 - 00:04:34",
+  "speaker": "Dan Khasis",
+  "text": "Давай мы начнём, поскольку я не буду компьютером несколько минут, потому что я задержался по разным личным причинам. Начнём с каких-то звуковых апдейт...",
+  "confidence": 0.22,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 22.0% overlap",
+  "duration": 23,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "22.0%"
+    }
+  ]
+}
+{
+  "time": "00:04:38 - 00:04:42",
+  "speaker": "Dan Khasis",
+  "text": "Но я так понял, таймзону сейчас обсуждать нечего, там вы с Сергеем общались?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:08:00 - 00:08:13",
+  "speaker": "Dan Khasis",
+  "text": "Что ты имеешь в виду? Где именно хранятся все строчки? В стратегике при загрузке из файла там превью не отображается.",
+  "confidence": 0.08,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 8.2% overlap",
+  "duration": 13,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "8.2%"
+    }
+  ]
+}
+{
+  "time": "00:11:12 - 00:11:19",
+  "speaker": "Dan Khasis",
+  "text": "Временные окна же должны быть относительно времени TimeZone и Location самого, а не задаются…",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:11:19 - 00:11:31",
+  "speaker": "Dan Khasis",
+  "text": "Нет, это неверно, это неверно. Если ты начинаешь маршрут в 9 утра, неважно, в каком ты временном поясе, ты на него начинаешь в 9 утра.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 12,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:11:32 - 00:11:46",
+  "speaker": "Dan Khasis",
+  "text": "Да, но этот Location уже находится в физическом каком-то месте, и важно, в каком месте он находится, ты будешь время задавать в TimeZone того Location...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 14,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:11:50 - 00:12:01",
+  "speaker": "Dan Khasis",
+  "text": "Время, это не совсем время, время надо перевести на Integers, и потом эти Integers пользуются как диапазон.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 11,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:12:03 - 00:12:09",
+  "speaker": "Dan Khasis",
+  "text": "Если мы говорим о том, как хранить базу данных туда, конечно, а если их выводить пользователям, тогда им нужно локальное время.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.96)",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:13:39 - 00:13:42",
+  "speaker": "Igor Golovtsov",
+  "text": "Еще голос. Все остальное надо показывать.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:13:59 - 00:14:29",
+  "speaker": "Dan Khasis",
+  "text": "Давайте по порядку пойдем. Так, я начну сначала с того, что было сделано по Wizard. Загрузка файла у нас в целом не поменялась, она как была, так и ес...",
+  "confidence": 0.36,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 36.1% overlap",
+  "duration": 30,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "36.1%"
+    }
+  ]
+}
+{
+  "time": "00:14:31 - 00:14:34",
+  "speaker": "Dan Khasis",
+  "text": "Я еще не у компьютера, мне нужно еще 3 минуты.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:14:34 - 00:14:37",
+  "speaker": "Dan Khasis",
+  "text": "Ок, тогда жду.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:15:38 - 00:15:54",
+  "speaker": "Dan Khasis",
+  "text": "Мы это уже нарисовали. Оно переименовывается просто в Connections, и после этого появляется Connection Type, и можно добавлять что угодно, любого типа...",
+  "confidence": 0.11,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 10.7% overlap",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "10.7%"
+    }
+  ]
+}
+{
+  "time": "00:15:57 - 00:16:00",
+  "speaker": "Dan Khasis",
+  "text": "Когда это будет? Вот это главный вопрос.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.94)",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:16:09 - 00:16:32",
+  "speaker": "Dan Khasis",
+  "text": "Дэн, заменить секцию мы можем в любой момент. У нас больше ничего, кроме названия секции, нигде больше ничего не меняется. Возможно, нужно переименова...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.91)",
+  "duration": 23,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:16:32 - 00:16:57",
+  "speaker": "Dan Khasis",
+  "text": "Не совсем, Игорь, у вас меняются три маленькие вещи. Первая вещь, у вас меняется, вы должны выводить Connection, то есть Type. Вторая вещь, вы должны ...",
+  "confidence": 0.07,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 6.8% overlap",
+  "duration": 25,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "6.8%"
+    }
+  ]
+}
+{
+  "time": "00:19:05 - 00:19:36",
+  "speaker": "Dan Khasis",
+  "text": "Смотри, возможно, ты прав насчет того, чтобы не показывать количество, но мы же должны дать пользователю конфигурацию этого, скачивать или не скачиват...",
+  "confidence": 0.09,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 9.1% overlap",
+  "duration": 31,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "9.1%"
+    }
+  ]
+}
+{
+  "time": "00:19:37 - 00:21:37",
+  "speaker": "Dan Khasis",
+  "text": "Да, только отображение, а в снэпшоте уже можно показывать все эти вещи, но даже в снэпшоте важно не забыть, чтобы показывать текущий счетчик тоже не с...",
+  "confidence": 0.06,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 6.2% overlap",
+  "duration": 120,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "6.2%"
+    },
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:22:31 - 00:22:33",
+  "speaker": "Dan Khasis",
+  "text": "Пока все молчат, что вы думаете про это.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Dan Khasis активно участвовал в предыдущих обсуждениях и его стиль общения соответствует фразе, которая предполагает вовлечение других участников в диалог. Igor Skrynkovskyy также был активен, но фраза больше соответствует манере Dan Khasis, который задает вопросы и вовлекает других в обсуждение.",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:22:34 - 00:22:36",
+  "speaker": "Dan Khasis",
+  "text": "Я иду на экран, открывать экран.",
+  "confidence": 0.65,
+  "match_type": "fallback",
+  "reasoning": "Continuing active speaker (4/5 recent segments)",
+  "duration": 2
+}
+{
+  "time": "00:23:02 - 00:23:05",
+  "speaker": "Dan Khasis",
+  "text": "Игорь, пошаришь? Да.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:23:48 - 00:23:56",
+  "speaker": "Dan Khasis",
+  "text": "Ты имеешь в виду количество запросов к телематике, которые мы делали?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:23:56 - 00:24:17",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Не только. Я тебе дам пример. У них сидит какой-то IT штим в ERP, в SAP у Light and Easy, извиняюсь, MiniMelts.\n\nЧто там будет, когда будет проблема, ...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 21,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:24:17 - 00:24:23",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "У нас логи есть на это, и на входящие запросы, и на то, что мы шлем им.",
+  "confidence": 0.31,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 31.3% overlap",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "31.3%"
+    }
+  ]
+}
+{
+  "time": "00:24:26 - 00:24:34",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Мы их должны придумать, как их отпутать. Также помнишь, как у нас было notifications для уведомлений клиентов?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.95)",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:24:35 - 00:24:36",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Да.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Igor активно участвует в обсуждении и его предыдущие реплики связаны с техническими аспектами, что делает его более вероятным спикером для короткого подтверждения 'Да'.",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:24:36 - 00:25:02",
+  "speaker": "Dan Khasis",
+  "text": "Нам такого же типа надо сделать для всех этих внешних реквестов, чтобы девелоперы и IT могли видеть это. Потому что если там приходят 500-ки, мы скаже...",
+  "confidence": 0.25,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 24.5% overlap",
+  "duration": 26,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "24.5%"
+    }
+  ]
+}
+{
+  "time": "00:25:06 - 00:25:22",
+  "speaker": "Dan Khasis",
+  "text": "Дэн, вопрос такой, а фильтрация, сортировка, там какие-то еще другие вещи мы в таком же самом виде должны отображать, как сейчас? Или мы на что-то мож...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:25:24 - 00:26:33",
+  "speaker": "Dan Khasis",
+  "text": "Я думаю, если ты будешь думать, представь себе, что ты IT-администратор, ты интегратор, и к тебе приходит кто-то и жалуется, что что-то не работает. К...",
+  "confidence": 0.21,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 20.7% overlap",
+  "duration": 69,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "20.7%"
+    }
+  ]
+}
+{
+  "time": "00:26:40 - 00:26:47",
+  "speaker": "Dan Khasis",
+  "text": "Это понятно, я просто с точки зрения нашей системы смотрю на это, потому что вот этих запросов, их может быть много.",
+  "confidence": 0.09,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 8.6% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "8.6%"
+    }
+  ]
+}
+{
+  "time": "00:27:47 - 00:28:00",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Смотри, это все есть, я почти каждый день или через день приходит кто-то и спрашивает насчет, не знаю, BlueNet-овских запросов или каких-то там webhoo...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 13,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:28:00 - 00:28:05",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Да, но это не должно происходить, кто это делает, я не знаю.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:28:05 - 00:28:09",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Нет, Дэн, это происходит из-за как раз отсутствия вот такого инструмента.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:28:36 - 00:29:26",
+  "speaker": "Dan Khasis",
+  "text": "Нет, это собственно то, к чему мы пришли, что Артем должен сделать репорт, что у него есть задача. Вопрос просто в другом, я просто хочу сказать как б...",
+  "confidence": 0.12,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 11.7% overlap",
+  "duration": 50,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "11.7%"
+    }
+  ]
+}
+{
+  "time": "00:30:20 - 00:30:36",
+  "speaker": "Alexey Afanasiev",
+  "text": "Ты получишь информацию, что ты не получил это из-за кода, то есть response-код.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.97)",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:30:54 - 00:31:02",
+  "speaker": "Dan Khasis",
+  "text": "Они должны смотреть, они видят payload, request-header, response-header, response-payload, request-payload.",
+  "confidence": 0.14,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 14.4% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "14.4%"
+    },
+    {
+      "speaker": "Artur Moskalenko",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:31:09 - 00:31:11",
+  "speaker": "Dan Khasis",
+  "text": "Окей, я записался, хорошо.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:31:42 - 00:31:43",
+  "speaker": "Dan Khasis",
+  "text": "Можно показывать.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Dan Khasis активно участвует в обсуждении и его предыдущие реплики связаны с техническими аспектами, что может подразумевать, что он продолжает тему, обсуждая возможность демонстрации чего-либо.",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:31:45 - 00:31:54",
+  "speaker": "Dan Khasis",
+  "text": "Кстати, куда припали customer notification history? Артур, если с нами. Куда они припали?\n\nЯ их не видел уже месяц, больше два.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: В предыдущих фрагментах Dan активно участвует в обсуждении и задает вопросы. Упоминание 'customer notification history' может быть связано с его предыдущими комментариями о запросах и ответах, что указывает на его вовлеченность в тему.",
+  "duration": 9,
+  "candidates": [
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:31:57 - 00:32:02",
+  "speaker": "Dan Khasis",
+  "text": "Эта страница есть у всех, у кого есть notification на аккаунте.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:32:03 - 00:32:07",
+  "speaker": "Dan Khasis",
+  "text": "У меня есть notification настройки, я не вижу нигде.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.92)",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:32:07 - 00:32:14",
+  "speaker": "Dan Khasis",
+  "text": "Notification history я сейчас перепроверю, открою твой аккаунт, посмотрю.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:33:57 - 00:34:20",
+  "speaker": "Dan Khasis",
+  "text": "Смотри, переименование мы уже начали, там уже location должен быть, как минимум location должен быть, и там мы что-то еще переименовывали. Насчет дата...",
+  "confidence": 0.07,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 6.7% overlap",
+  "duration": 23,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "6.7%"
+    }
+  ]
+}
+{
+  "time": "00:34:20 - 00:34:23",
+  "speaker": "Dan Khasis",
+  "text": "Я объясню, это не проблема.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Dan Khasis активно участвует в диалоге и его предыдущие фрагменты показывают, что он объясняет и комментирует процесс. Фраза 'Я объясню, это не проблема' соответствует его стилю общения.",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:34:24 - 00:34:29",
+  "speaker": "Dan Khasis",
+  "text": "Это самые легкие вещи, которые можно даже сегодня сделать и зарелизить.",
+  "confidence": 0.65,
+  "match_type": "fallback",
+  "reasoning": "Continuing active speaker (5/5 recent segments)",
+  "duration": 5
+}
+{
+  "time": "00:34:30 - 00:34:31",
+  "speaker": "Dan Khasis",
+  "text": "Да, шикарно.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.90)",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:34:32 - 00:34:43",
+  "speaker": "Dan Khasis",
+  "text": "А можно меня поставить в курс дела по поводу новых имен? Как-то что-то где-то меняется, я даже не в курсе. Мы рисуем новые вещи, а все уже поменялось.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 11,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:35:39 - 00:35:43",
+  "speaker": "Artur Moskalenko",
+  "text": "Я думаю, не надо сейчас провести время на это, посоветуйте со мной какую-то информацию.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Artur активно участвует в обсуждении и говорит о необходимости получения информации, что соответствует его предыдущим высказываниям о позиционировании и изменениях. Фраза также указывает на желание получить советы, что может быть связано с его ролью в обсуждении маркетинга.",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Artur Moskalenko",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:35:54 - 00:36:03",
+  "speaker": "Dan Khasis",
+  "text": "Дэн, и на продакшене, и на стейджинге на Artification History есть у тебя в табе Security.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 9,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:36:04 - 00:36:11",
+  "speaker": "Dan Khasis",
+  "text": "Да, это неправильное место для этого. Может быть, из-за этого я даже не додумался смотреть туда.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Фраза относится к обсуждению местоположения информации, что соответствует контексту, в котором Dan Khasis упоминал о Security на Artification History. Artur Moskalenko был более сосредоточен на других аспектах обсуждения.",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Artur Moskalenko",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:36:12 - 00:36:17",
+  "speaker": "Dan Khasis",
+  "text": "Там все айтемы, что касается History. Там Sign-in History, Upload History, Export History.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:37:19 - 00:37:26",
+  "speaker": "Igor Golovtsov",
+  "text": "Да, шаблона, который может использовать кастомер, сейчас нет.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:37:28 - 00:37:36",
+  "speaker": "Igor Golovtsov",
+  "text": "Да, но вот у нас есть разные экземпляры. Как минимум, мы можем это сделать.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.95)",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:37:37 - 00:37:52",
+  "speaker": "Igor Golovtsov",
+  "text": "Поднимался такой вопрос. Да, самому сделать. Но мы сделаем обрезанную версию из одного клиента или из пары клиентов.\n\nИ будем надеяться, что это подой...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.92)",
+  "duration": 15,
+  "candidates": [
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:37:53 - 00:37:55",
+  "speaker": "Igor Golovtsov",
+  "text": "Она подойдет всем точно.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:39:34 - 00:39:36",
+  "speaker": "Igor Golovtsov",
+  "text": "И вот такая у нас выгрузка идет.",
+  "confidence": 0.65,
+  "match_type": "fallback",
+  "reasoning": "Continuing active speaker (4/5 recent segments)",
+  "duration": 2
+}
+{
+  "time": "00:39:57 - 00:40:01",
+  "speaker": "Dan Khasis",
+  "text": "Почему есть анимация? Пульсация есть у этого.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:40:24 - 00:40:25",
+  "speaker": "Semeyon S",
+  "text": "Из нажав вот так.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:40:26 - 00:40:34",
+  "speaker": "Dan Khasis",
+  "text": "Когда ты сказал так, правильными словами, все понятно. Там это не написано. Закрывайте все к чертовой матери.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:40:37 - 00:40:45",
+  "speaker": "Dan Khasis",
+  "text": "Ну да, окей, поправим текст. Открой еще раз эту оптимизацию. Ну вот оно у тебя первое.\n\nНе-не-не, вот это...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.97)",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:40:45 - 00:41:00",
+  "speaker": "Semeyon S",
+  "text": "А если у вас идет пушер апдейт, почему вы не можете показывать прогресс бар здесь? Или там лупер? Вы же это же можете показывать в таблице, нет?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 15,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:41:01 - 00:41:11",
+  "speaker": "Semeyon S",
+  "text": "Здесь еще потерялись сегменты на этом прогресс баре. Подожди, пожалуйста. Игорь говорит.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 10,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:41:12 - 00:41:14",
+  "speaker": "Semeyon S",
+  "text": "А где здесь этот прогресс показывать?",
+  "confidence": 0.65,
+  "match_type": "fallback",
+  "reasoning": "Continuing active speaker (3/5 recent segments)",
+  "duration": 2
+}
+{
+  "time": "00:41:17 - 00:41:20",
+  "speaker": "Dan Khasis",
+  "text": "Добавить поле, как вариант.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:41:20 - 00:41:31",
+  "speaker": "Dan Khasis",
+  "text": "Так же как в раундлист, Игорь. Так же как в раундлист. У вас есть список, красивый раундлист.\n\nУ вас есть прогресс бар, прямоугольник. Вы можете здесь...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 11,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:41:59 - 00:42:22",
+  "speaker": "Vova",
+  "text": "Маркетологи рекомендуют никогда не начинать с нуля ничего. Они говорят с десяти начинать. Человек пошел там терять вес, человек пошел заниматься спорт...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 23,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:42:44 - 00:43:02",
+  "speaker": "Dan Khasis",
+  "text": "Я понимаю, но мы не хотим тратить слишком много усилия на, как это слово? На косметику. На косметику, но мы хотим тратить время на то, что я бы сделал...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 18,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:43:03 - 00:43:39",
+  "speaker": "Dan Khasis",
+  "text": "Это было в дизайне, ребята не стали имитировать. Вова, ты откровенно нас сейчас подставляешь. Мы это не сделали, потому что у нас сейчас нет возможнос...",
+  "confidence": 0.14,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 13.8% overlap",
+  "duration": 36,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "13.8%"
+    }
+  ]
+}
+{
+  "time": "00:46:43 - 00:46:48",
+  "speaker": "Igor Golovtsov",
+  "text": "Так было, лично я делал задачу, когда мне пришла задача, наоборот, убрать соты.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.88)",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:46:52 - 00:47:03",
+  "speaker": "Vova",
+  "text": "Пришла от Семена, а где Семен это требование взял, я уже не помню.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 11,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:47:03 - 00:47:06",
+  "speaker": "Vova",
+  "text": "Когда это было? Ну, пару недель назад.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:47:06 - 00:47:09",
+  "speaker": "Semeyon S",
+  "text": "Тут было буквально два знака после запятой.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:47:09 - 00:47:17",
+  "speaker": "Semeyon S",
+  "text": "Окей, давай так, это моя ошибка, поправь на соты, окей? Я не говорю, что я прав, но мне просто любопытно.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:48:43 - 00:49:23",
+  "speaker": "Dan Khasis",
+  "text": "Тебе ничего не дает, ты совершенно прав, и Вова прав. Вова говорит, что надо делать rounding, а не truncation. Если бы здесь было 98,2, это было бы лу...",
+  "confidence": 0.48,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 47.8% overlap",
+  "duration": 40,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "47.8%"
+    }
+  ]
+}
+{
+  "time": "00:49:23 - 00:49:26",
+  "speaker": "Dan Khasis",
+  "text": "Я готов показывать дизайн для summary.",
+  "confidence": 0.65,
+  "match_type": "fallback",
+  "reasoning": "Continuing active speaker (3/5 recent segments)",
+  "duration": 3
+}
+{
+  "time": "00:52:26 - 00:52:26",
+  "speaker": "Dan Khasis",
+  "text": "В квадрате?",
+  "confidence": 0.68,
+  "match_type": "fallback",
+  "reasoning": "Nearest speaker (0.5s away, conf=68%)",
+  "duration": 0
+}
+{
+  "time": "00:52:28 - 00:52:32",
+  "speaker": "Dan Khasis",
+  "text": "Да, все Cartesian произведения, все комбинации.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:52:35 - 00:52:37",
+  "speaker": "Dan Khasis",
+  "text": "И здесь?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.89)",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:52:39 - 00:52:49",
+  "speaker": "Dan Khasis",
+  "text": "Здесь по... Да нет, здесь просто 3 на 3, еще 9. Нет, здесь не 3 на 3, здесь это...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 10,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:52:52 - 00:53:00",
+  "speaker": "Dan Khasis",
+  "text": "Вариант. 9, то есть 9 по 3.",
+  "confidence": 0.04,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 4.1% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "4.1%"
+    }
+  ]
+}
+{
+  "time": "00:53:03 - 00:53:40",
+  "speaker": "Dan Khasis",
+  "text": "У нас 3... Ладно, мы вернемся к этому, но вы понимаете, что наращивание происходит серьезное, потому что теперь если прибавить еще, сказать, я хочу во...",
+  "confidence": 0.56,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 56.4% overlap",
+  "duration": 37,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "56.4%"
+    }
+  ]
+}
+{
+  "time": "00:53:40 - 00:53:46",
+  "speaker": "Dan Khasis",
+  "text": "Да, а потом ты хочешь, а я хочу посмотреть, что если работать по субботам, а что если менять еще одного человека?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:55:16 - 00:55:45",
+  "speaker": "Dan Khasis",
+  "text": "да, но не стоит еще забывать о дирекшенах, дирекшены тоже дорогие.\n\nДирекшены дорогие, но дирекшены, если не идти на here.com Это просто time-consumin...",
+  "confidence": 0.15,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 15.1% overlap",
+  "duration": 29,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "15.1%"
+    }
+  ]
+}
+{
+  "time": "00:55:47 - 00:56:35",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Я хочу сказать другую вещь, когда вы строите distance и time-matrix, вы же получаете, вы можете получать не только секунды, но еще и дирекшены, и поли...",
+  "confidence": 0.07,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 7.0% overlap",
+  "duration": 48,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "7.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:57:27 - 00:57:43",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Нет, в Solver проблема нет, но дирекшен, если мы, скажем, сфиксированное количество локейшенов, скажем, я не знаю, тысячу, значит максимально, вы все ...",
+  "confidence": 0.45,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 45.2% overlap",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "45.2%"
+    }
+  ]
+}
+{
+  "time": "00:57:45 - 00:57:47",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Минус тысячу мы сделаем.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.90)",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:57:49 - 00:57:52",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Извиняюсь, минус n, n в квадрате минус n.",
+  "confidence": 0.65,
+  "match_type": "fallback",
+  "reasoning": "Continuing active speaker (4/5 recent segments)",
+  "duration": 3
+}
+{
+  "time": "00:57:54 - 00:58:30",
+  "speaker": "Dan Khasis",
+  "text": "Смотри, ты все правильно говоришь, вопрос в другом, вопрос в хранении данных, потому что нам сейчас удобнее хранить и работать с теми данными и с запр...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 36,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:58:30 - 00:58:36",
+  "speaker": "Dan Khasis",
+  "text": "Я понимаю, я согласен с тобой, но когда у тебя идет тысяча сценариев, в тот момент...",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Фраза 'Я понимаю, я согласен с тобой' указывает на то, что спикер реагирует на предыдущие замечания, что соответствует стилю общения Dan Khasis, который активно участвует в обсуждении и задает вопросы о хранении данных.",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "00:58:36 - 00:59:16",
+  "speaker": "Dan Khasis",
+  "text": "Нет, 100%. Смотри, я к этому и веду, что до этого времени нам было проще сделать еще один запрос в систему Prefive, получить эти данные, вместо того, ...",
+  "confidence": 0.03,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 3.1% overlap",
+  "duration": 40,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "3.1%"
+    }
+  ]
+}
+{
+  "time": "01:01:19 - 01:01:20",
+  "speaker": "Dan Khasis",
+  "text": "Конфигурировать можно все.",
+  "confidence": 0.11,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 12.0% overlap (tolerance used, penalty=0.95)",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "12.0%"
+    }
+  ]
+}
+{
+  "time": "01:03:32 - 01:04:12",
+  "speaker": "Parker Woodward",
+  "text": "С AI, вы просто делаете корпоративный спионаж, вы просто реверс-инженеризируете... С тем образом, как мы говорили, это интересно, потому что это то, о...",
+  "confidence": 0.63,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 62.8% overlap",
+  "duration": 40,
+  "candidates": [
+    {
+      "speaker": "Parker Woodward",
+      "overlap": "62.8%"
+    }
+  ]
+}
+{
+  "time": "01:05:17 - 01:05:19",
+  "speaker": "Semeyon S",
+  "text": "Что же дальше в нашей презентации?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:05:30 - 01:05:38",
+  "speaker": "Vova",
+  "text": "У нас есть выбор локалов, не так ли? Я не уверен. Аккаунтные сетки в сессии.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:07:18 - 01:07:23",
+  "speaker": "Igor Golovtsov",
+  "text": "Мы можем добавить эти данные, но без рекомендаций.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:07:48 - 01:08:02",
+  "speaker": "Igor Golovtsov",
+  "text": "Я сомневаюсь, потому что в США локальная информация и сессия, но в Канаде это метрическая информация. Локальная информация и сессия.",
+  "confidence": 0.21,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 21.0% overlap",
+  "duration": 14,
+  "candidates": [
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "21.0%"
+    }
+  ]
+}
+{
+  "time": "01:09:38 - 01:09:40",
+  "speaker": "Vova",
+  "text": "Видишь их, Паркер?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:09:41 - 01:09:42",
+  "speaker": "Vova",
+  "text": "Да, слышу.",
+  "confidence": 0.04,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 3.9% overlap (tolerance used, penalty=0.96)",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "3.9%"
+    }
+  ]
+}
+{
+  "time": "01:09:43 - 01:09:44",
+  "speaker": "Vova",
+  "text": "Видишь фильтры?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:10:16 - 01:10:25",
+  "speaker": "Semeyon S",
+  "text": "Кто-то изменил это. Это стандарт компании. Кто-то решил в некоторых экранах.\n\nЯ видел их в полной длине.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 9,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:10:27 - 01:10:43",
+  "speaker": "Semeyon S",
+  "text": "Нет, он сказал дельта-дистанция или дельта-время вместо между и мы я думаю, мы имеем один дельт.",
+  "confidence": 0.3,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 29.6% overlap",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "29.6%"
+    },
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:10:50 - 01:10:54",
+  "speaker": "Semeyon S",
+  "text": "Я не понимаю. Если хочешь показать, показывай. Если нет, перейдем дальше.\n\nПосмотрим.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:11:54 - 01:11:54",
+  "speaker": "Dan Khasis",
+  "text": "Это следующий?",
+  "confidence": 0.62,
+  "match_type": "fallback",
+  "reasoning": "Nearest speaker (1.9s away, conf=62%)",
+  "duration": 0
+}
+{
+  "time": "01:12:38 - 01:12:42",
+  "speaker": "Vova",
+  "text": "Паркер, мы добавили ветер. Видишь, лейер ветра вернулся, он вернулся.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:12:44 - 01:12:47",
+  "speaker": "Vova",
+  "text": "Можешь кликать на ветер, на самом деле?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:13:10 - 01:13:16",
+  "speaker": "Dan Khasis",
+  "text": "Правда, у нас есть похожая идея, но да, нам нужно выполнить это.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:13:19 - 01:13:20",
+  "speaker": "Dan Khasis",
+  "text": "Окей.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.88)",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:13:21 - 01:13:43",
+  "speaker": "Dan Khasis",
+  "text": "Мы будем выполнять маленькую временную линию под этим мапом. Если ветер выключен, тогда ты увидишь временную линию, подходит к оптимизации, и ты сможе...",
+  "confidence": 0.37,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 37.3% overlap",
+  "duration": 22,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "37.3%"
+    }
+  ]
+}
+{
+  "time": "01:13:46 - 01:13:48",
+  "speaker": "Dan Khasis",
+  "text": "Нет, это не сценарии, это локации.",
+  "confidence": 0.07,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 7.5% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "7.5%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:13:49 - 01:14:01",
+  "speaker": "Dan Khasis",
+  "text": "Да, но все эти стратегические оптимизации планируются на некоторое время. Когда мы знаем что время, мы можем показать это в линии, чтобы пройти этот п...",
+  "confidence": 0.44,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 44.4% overlap",
+  "duration": 12,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "44.4%"
+    }
+  ]
+}
+{
+  "time": "01:16:28 - 01:16:44",
+  "speaker": "Parker Woodward",
+  "text": "Так мы можем взять настоящую погоду забыл слово мы можем взять погоду для будущего и применять уменьшение процентов если",
+  "confidence": 0.15,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 14.9% overlap",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Parker Woodward",
+      "overlap": "14.9%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "7.2%"
+    }
+  ]
+}
+{
+  "time": "01:16:44 - 01:16:46",
+  "speaker": "Parker Woodward",
+  "text": "это что они конфигурируют если они",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Parker Woodward",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:16:46 - 01:16:56",
+  "speaker": "Parker Woodward",
+  "text": "обеспечивают это, но да и конечно нам нужно фильтры для уменьшения здесь для анализа",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 10,
+  "candidates": [
+    {
+      "speaker": "Parker Woodward",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:16:57 - 01:16:58",
+  "speaker": "Dan Khasis",
+  "text": "да",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:16:58 - 01:16:59",
+  "speaker": "Dan Khasis",
+  "text": "опять",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:16:59 - 01:17:02",
+  "speaker": "Dan Khasis",
+  "text": "мы должны делать это сейчас я понимаю",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:17:04 - 01:17:07",
+  "speaker": "Dan Khasis",
+  "text": "но можешь",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:17:15 - 01:17:16",
+  "speaker": "Dan Khasis",
+  "text": "вернуться на карту",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:17:20 - 01:17:22",
+  "speaker": "Semeyon S",
+  "text": "это да",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:17:22 - 01:17:29",
+  "speaker": "Semeyon S",
+  "text": "этот паркер что ты думаешь что мы забываем в метрике если что",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:17:32 - 01:17:48",
+  "speaker": "Semeyon S",
+  "text": "возможно чтобы показать или фильтровать названия дороги что не ясно для меня как мы гоняем надо говорить хорошо я вижу на карте но я не понимаю точно",
+  "confidence": 0.39,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 38.9% overlap",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "38.9%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:17:59 - 01:18:17",
+  "speaker": "Vova",
+  "text": "очень лист руток, а может быть, когда вы выделяете их, вы можете, это покажет вам один или будет икона или на ховер, я согласен также",
+  "confidence": 0.04,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 3.8% overlap",
+  "duration": 18,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "3.8%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "2.8%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "2.4%"
+    }
+  ]
+}
+{
+  "time": "01:18:17 - 01:18:40",
+  "speaker": "Semeyon S",
+  "text": "Вова уже нарисовал маленький календарь для такого вида на борт, который будет расположен на низу этой карты, так что мы можем выбрать настоящий день и...",
+  "confidence": 0.03,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 2.9% overlap",
+  "duration": 23,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "2.9%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Parker Woodward",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:18:40 - 01:19:06",
+  "speaker": "Parker Woodward",
+  "text": "дроп-дон фильтра, я думаю, я чувствую, окей, мы говорим о двух непосредственных вещах, но один, я чувствую, что я всегда видел календарь в верхнем сле...",
+  "confidence": 0.11,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 11.0% overlap",
+  "duration": 26,
+  "candidates": [
+    {
+      "speaker": "Parker Woodward",
+      "overlap": "11.0%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "7.9%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:19:06 - 01:19:25",
+  "speaker": "Igor Golovtsov",
+  "text": "одновременно, да, мне нравится, как вы это сделаете, и это будет вся информация, да, и мы можем добавить",
+  "confidence": 0.14,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 13.5% overlap",
+  "duration": 19,
+  "candidates": [
+    {
+      "speaker": "Igor Golovtsov",
+      "overlap": "13.5%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "7.2%"
+    },
+    {
+      "speaker": "Parker Woodward",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:19:25 - 01:19:33",
+  "speaker": "Semeyon S",
+  "text": "настройки, мы добавим настройки, конечно, конечно, одна вещь, которая не выдающаяся,",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:19:33 - 01:19:42",
+  "speaker": "Manar Kurmanov",
+  "text": "как и реальные сценариев, как бы это очень полезно, если вы можете увидеть, что реальные настройки",
+  "confidence": 0.09,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 9.1% overlap",
+  "duration": 9,
+  "candidates": [
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "9.1%"
+    }
+  ]
+}
+{
+  "time": "01:19:42 - 01:20:29",
+  "speaker": "Semeyon S",
+  "text": "были, это будет еще одна кнопка, которая говорит о настройках, окей, это в прогрессе, сейчас может быть, один из разработчиков покажет нам некоторые и...",
+  "confidence": 0.16,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 15.6% overlap",
+  "duration": 47,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "15.6%"
+    },
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "10.8%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:20:30 - 01:20:53",
+  "speaker": "Semeyon S",
+  "text": "один минуту, пожалуйста, я не уверен, что я только что делал, это ваш местный",
+  "confidence": 0.17,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 16.6% overlap",
+  "duration": 23,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "16.6%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:23:06 - 01:23:26",
+  "speaker": "Dan Khasis",
+  "text": "Я понимаю, после того, как вы объяснили это, мне не очевидно сразу, что это как неделя на неделю рауты, так что один колонн , который у вас с 20 раута...",
+  "confidence": 0.25,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 25.2% overlap",
+  "duration": 20,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "25.2%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "9.8%"
+    }
+  ]
+}
+{
+  "time": "01:23:52 - 01:23:59",
+  "speaker": "Dan Khasis",
+  "text": "Вы не можете увидеть, как эти путь 1 и путь 7 связаны, но они являются один и тот же путь 7.",
+  "confidence": 0.43,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 43.3% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "43.3%"
+    }
+  ]
+}
+{
+  "time": "01:23:59 - 01:24:02",
+  "speaker": "Dan Khasis",
+  "text": "Мы уже объяснили это, я провел час, объясняя это в прошлый раз.",
+  "confidence": 0.21,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 21.3% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "21.3%"
+    }
+  ]
+}
+{
+  "time": "01:24:02 - 01:24:05",
+  "speaker": "Dan Khasis",
+  "text": "Да, но из UI мы не показываем это.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:24:06 - 01:24:22",
+  "speaker": "Dan Khasis",
+  "text": "Это совершенно разное дело, это совершенно разное дело, это не связано с тем, что мы пытаемся решить. Это должно быть сделано, но это совершенно разно...",
+  "confidence": 0.29,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 29.5% overlap",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "29.5%"
+    }
+  ]
+}
+{
+  "time": "01:24:22 - 01:24:37",
+  "speaker": "Dan Khasis",
+  "text": "Нет, это просто группировка этих связанных путей вместе. Эти связанные пути, группированные пути, по принципу, что они должны быть выполнены одним чел...",
+  "confidence": 0.41,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 40.9% overlap",
+  "duration": 15,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "40.9%"
+    }
+  ]
+}
+{
+  "time": "01:27:06 - 01:27:11",
+  "speaker": "Dan Khasis",
+  "text": "Нет концепта, что дороги принадлежат одному человеку. Вы создали этот концепт.",
+  "confidence": 0.09,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 9.4% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "9.4%"
+    }
+  ]
+}
+{
+  "time": "01:28:12 - 01:28:18",
+  "speaker": "Semeyon S",
+  "text": "для путей, которые связаны друг с другом, потому что они подчиняются одинаковому составу локаций",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:28:22 - 01:28:54",
+  "speaker": "Manar Kurmanov",
+  "text": "именно, и я говорю, что это совершенно отдельная вещь, я не говорю, что это плохо, я говорю, что это действительно правильно, но это просто совершенно...",
+  "confidence": 0.24,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 23.9% overlap",
+  "duration": 32,
+  "candidates": [
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "23.9%"
+    }
+  ]
+}
+{
+  "time": "01:28:55 - 01:29:06",
+  "speaker": "Manar Kurmanov",
+  "text": "подождите секунду, я должен дать мне секунду, извините, меньшинство, дайте Манар",
+  "confidence": 0.31,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 31.2% overlap",
+  "duration": 11,
+  "candidates": [
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "31.2%"
+    }
+  ]
+}
+{
+  "time": "01:29:07 - 01:29:44",
+  "speaker": "Manar Kurmanov",
+  "text": "поделиться его экраном, привет всем снова, дайте мне демонстрировать, как вы можете видеть, я добавил новый кнопок, называемый плагин сеттингов, он за...",
+  "confidence": 0.29,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 28.8% overlap",
+  "duration": 37,
+  "candidates": [
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "28.8%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "9.0%"
+    },
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:31:36 - 01:32:22",
+  "speaker": "Dan Khasis",
+  "text": "Это нормально, это нормально, смотри, главная вещь, что Вова, вот здесь забавная часть, что я пытаюсь, когда у тебя есть дорога, и у тебя есть дорога,...",
+  "confidence": 0.13,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 12.6% overlap",
+  "duration": 46,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "12.6%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "12.3%"
+    },
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:32:22 - 01:32:36",
+  "speaker": "Dan Khasis",
+  "text": "Они могут быть одинаковыми, они могут быть не одинаковыми полностью, они могут быть похожи, довольно похожи, но они должны быть посещены одним человек...",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Фрагмент обсуждает детали, которые соответствуют контексту предыдущих высказываний Dan Khasis о необходимости единого подхода к задачам, что указывает на его активное участие в обсуждении.",
+  "duration": 14,
+  "candidates": [
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:32:37 - 01:32:39",
+  "speaker": "Dan Khasis",
+  "text": "Как это система узнает это?",
+  "confidence": 0.65,
+  "match_type": "fallback",
+  "reasoning": "Continuing active speaker (4/5 recent segments)",
+  "duration": 2
+}
+{
+  "time": "01:32:40 - 01:32:45",
+  "speaker": "Dan Khasis",
+  "text": "Потому что эти дороги делятся на одинаковые местоположения.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.96)",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:32:47 - 01:32:56",
+  "speaker": "Vova",
+  "text": "Нет, вы просто сказали, что они не одинаковые, вы просто сказали, что они одинаковые. Попробуй это, может быть.",
+  "confidence": 0.04,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 4.3% overlap",
+  "duration": 9,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "4.3%"
+    }
+  ]
+}
+{
+  "time": "01:33:20 - 01:34:17",
+  "speaker": "Dan Khasis",
+  "text": "Я не знаю, что вы хотите сказать, но я думаю, что это очень важный момент, что Вася, блядь, всегда будет служить этих клиентов.",
+  "confidence": 0.15,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 15.3% overlap",
+  "duration": 57,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "15.3%"
+    }
+  ]
+}
+{
+  "time": "01:34:32 - 01:34:39",
+  "speaker": "Dan Khasis",
+  "text": "Да, водитель еще не выбран, но роуты уже сгруппированы по принципу, что на них на все нужно назначить одного и того же водителя.",
+  "confidence": 0.21,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 21.0% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "21.0%"
+    }
+  ]
+}
+{
+  "time": "01:34:39 - 01:34:46",
+  "speaker": "Dan Khasis",
+  "text": "И надо было это сказать, но ты сказал сразу водитель.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:35:15 - 01:35:23",
+  "speaker": "Semeyon S",
+  "text": "Другими словами, наш Optimization Engine сейчас будет планировать кашу и будут ездить разные люди к одному и тому же клиенту.",
+  "confidence": 0.11,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 10.7% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "10.7%"
+    },
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "6.4%"
+    }
+  ]
+}
+{
+  "time": "01:35:48 - 01:35:49",
+  "speaker": "Dan Khasis",
+  "text": "Это у меня, Дэн, пропал, или у всех?",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Фраза 'Это у меня, Дэн, пропал, или у всех?' указывает на обращение к Дэну, что делает его наиболее вероятным спикером, учитывая, что он недавно был активен в диалоге.",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:36:13 - 01:36:27",
+  "speaker": "Manar Kurmanov",
+  "text": "Дэвид звонит, если ты хочешь говорить по-английски. Манар, может мы покажем компонент в таймзоне?",
+  "confidence": 0.52,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 52.3% overlap",
+  "duration": 14,
+  "candidates": [
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "52.3%"
+    }
+  ]
+}
+{
+  "time": "01:36:28 - 01:36:32",
+  "speaker": "Alexey Afanasiev",
+  "text": "Да, давайте сделаем это.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:36:32 - 01:36:55",
+  "speaker": "Manar Kurmanov",
+  "text": "Это довольно просто.",
+  "confidence": 0.13,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 12.6% overlap",
+  "duration": 23,
+  "candidates": [
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "12.6%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:38:19 - 01:38:29",
+  "speaker": "Semeyon S",
+  "text": "Да, я думаю, что ты говоришь, Боба, что вместо генеральной таймзоны, таймзоны для локаций, и таймзоны для сторажей важны.",
+  "confidence": 0.07,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 7.5% overlap",
+  "duration": 10,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "7.5%"
+    }
+  ]
+}
+{
+  "time": "01:39:25 - 01:39:27",
+  "speaker": "Dan Khasis",
+  "text": "Хорошо. Дэвид...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:39:27 - 01:39:28",
+  "speaker": "David Palle",
+  "text": "Ты считаешь, что это теряемое время?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:39:44 - 01:39:46",
+  "speaker": "Dan Khasis",
+  "text": "Смешно, да, смешно.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:39:48 - 01:39:52",
+  "speaker": "Dan Khasis",
+  "text": "Но теперь есть таймзонный выбор. Это главная причина.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:39:54 - 01:39:56",
+  "speaker": "Dan Khasis",
+  "text": "Это хорошо.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:39:57 - 01:39:59",
+  "speaker": "Dan Khasis",
+  "text": "Это будет лучше.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:40:00 - 01:40:01",
+  "speaker": "Dan Khasis",
+  "text": "У нас будет новый дизайн.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:41:35 - 01:41:39",
+  "speaker": "Dan Khasis",
+  "text": "Да. Окей, я дам вам идеи.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:42:02 - 01:42:06",
+  "speaker": "Dan Khasis",
+  "text": "Лучше попросить Евгения показать, потому что он главный разработчик для мапы.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:42:16 - 01:42:17",
+  "speaker": "Dan Khasis",
+  "text": "Ты видишь мой экран, нет?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:43:01 - 01:43:03",
+  "speaker": "Dan Khasis",
+  "text": "Да, просто возьми один быстро, да.",
+  "confidence": 0.46,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 47.4% overlap (tolerance used, penalty=0.97)",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "47.4%"
+    },
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:43:29 - 01:43:31",
+  "speaker": "David Palle",
+  "text": "Да, это имеет смысл.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:44:00 - 01:44:01",
+  "speaker": "Dan Khasis",
+  "text": "Да, да.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:44:02 - 01:44:07",
+  "speaker": "Dan Khasis",
+  "text": "Так что, я помню, вы сказали, что для некоторых клиентов это действительно важно для них.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:44:18 - 01:44:20",
+  "speaker": "David Palle",
+  "text": "Да, день, время и место.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:44:21 - 01:44:25",
+  "speaker": "David Palle",
+  "text": "Хорошо, да, да. Так что, это специфично для того места, когда они будут на месте. Хорошо.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:44:27 - 01:44:38",
+  "speaker": "Dan Khasis",
+  "text": "Так что, следующий шаг в том, чтобы включить это в профиль сделать профиль.",
+  "confidence": 0.09,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 8.7% overlap",
+  "duration": 11,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "8.7%"
+    }
+  ]
+}
+{
+  "time": "01:46:01 - 01:46:04",
+  "speaker": "David Palle",
+  "text": "Правильно. Или погода. Погода замедляет дорогу.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:46:05 - 01:46:11",
+  "speaker": "David Palle",
+  "text": "Мы должны включить это на уровне аккаунта. Да. Или на уровне оптимизации.",
+  "confidence": 0.18,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 18.0% overlap",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "18.0%"
+    }
+  ]
+}
+{
+  "time": "01:46:22 - 01:46:27",
+  "speaker": "Dan Khasis",
+  "text": "Окей. Ребята, можете показать фильтры?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:46:30 - 01:46:31",
+  "speaker": "Dan Khasis",
+  "text": "Фильтры? Фильтры.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.96)",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:46:40 - 01:46:55",
+  "speaker": "Eugene",
+  "text": "Дименсиональные и финансовые фильтры. Окей. Нет, они фиксированы.\n\nТеперь вы можете фильтровать практически любое случайное.",
+  "confidence": 0.09,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 9.4% overlap",
+  "duration": 15,
+  "candidates": [
+    {
+      "speaker": "Eugene",
+      "overlap": "9.4%"
+    }
+  ]
+}
+{
+  "time": "01:46:58 - 01:47:08",
+  "speaker": "Semeyon S",
+  "text": "Отлично. Вы можете посмотреть на одну специальную дорогу на одну специальную неделю. Или специальные дни на несколько недель.\n\nОкей. Отлично.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 10,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:49:14 - 01:49:16",
+  "speaker": "Manar Kurmanov",
+  "text": "Да, я говорю, это локально.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Manar Kurmanov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:50:13 - 01:50:16",
+  "speaker": "Dan Khasis",
+  "text": "Это замечательно, да, и это просто способ, чтобы они видели, что они использовали.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:50:18 - 01:50:21",
+  "speaker": "Dan Khasis",
+  "text": "Да, когда вы создали сценарии.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:50:24 - 01:50:27",
+  "speaker": "Dan Khasis",
+  "text": "Да, Дэвид, нет, нет, ты продолжай, ты скажешь, а потом...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.96)",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:50:27 - 01:50:39",
+  "speaker": "David Palle",
+  "text": "Да, моя вопроса была, я знаю, что у нас есть список сценариев, прежде чем мы зайдем в уровень рута, у нас есть список сценариев, будут ли некоторые из...",
+  "confidence": 0.07,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 7.5% overlap",
+  "duration": 12,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "7.5%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:50:39 - 01:50:47",
+  "speaker": "David Palle",
+  "text": "Вот именно, вот почему я прекращал говорить, потому что ты меня подбил к этому, точно так же. Компарации, сзади-сзади-компарации.",
+  "confidence": 0.3,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 29.8% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "29.8%"
+    }
+  ]
+}
+{
+  "time": "01:50:50 - 01:51:02",
+  "speaker": "David Palle",
+  "text": "Да, мы добавим, конечно. Мы получим намного больше информации здесь, сейчас это простая информация, но я думаю, что надо что-то иметь.",
+  "confidence": 0.13,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 12.8% overlap",
+  "duration": 12,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "12.8%"
+    }
+  ]
+}
+{
+  "time": "01:53:59 - 01:54:15",
+  "speaker": "Dan Khasis",
+  "text": "Я думаю, поговорить с Валерием Псёловым, чтобы посмотреть на Scope, на то, что у нас там, внутри Clarify для View Spreadsheet, потому что это то, что ...",
+  "confidence": 0.2,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 19.7% overlap",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "19.7%"
+    },
+    {
+      "speaker": "David Palle",
+      "overlap": "7.7%"
+    }
+  ]
+}
+{
+  "time": "01:54:22 - 01:54:36",
+  "speaker": "David Palle",
+  "text": "Хорошо, я задам вопрос. View Spreadsheet в Clarify. Clarify, View Spreadsheet в Clarify.\n\nОкей, есть вопросы? Или я могу заканчивать?",
+  "confidence": 0.41,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 40.8% overlap",
+  "duration": 14,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "40.8%"
+    }
+  ]
+}
+{
+  "time": "01:54:38 - 01:54:39",
+  "speaker": "David Palle",
+  "text": "Нет вопросов?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:55:49 - 01:55:57",
+  "speaker": "David Palle",
+  "text": "Мы увидим, как это произойдет, но, я думаю, мы можем разговаривать о нашем звонке, но если это закончится, когда это будет, в среду?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:55:59 - 01:56:00",
+  "speaker": "David Palle",
+  "text": "В следующий субботник, 9.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.89)",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:56:01 - 01:56:13",
+  "speaker": "David Palle",
+  "text": "Я имею в виду, что они могут Симона, я думаю, что вы, ребята, у вас будет мапа пути и таблица пути на субботник. Это долгое время. Это неделя от сегод...",
+  "confidence": 0.21,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 21.0% overlap",
+  "duration": 12,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "21.0%"
+    }
+  ]
+}
+{
+  "time": "01:56:14 - 01:56:17",
+  "speaker": "David Palle",
+  "text": "Да, это должно быть готово до этого.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:56:25 - 01:56:33",
+  "speaker": "David Palle",
+  "text": "Что было еще? Две или три другие большие картинки, Дэвид, для Iron Mountain, потому что они могут переливаться, как мы сделали. Можешь напомнить мне?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:58:49 - 01:58:51",
+  "speaker": "David Palle",
+  "text": "Мы получаем это от Google или кто-то?",
+  "confidence": 0.24,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 24.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "24.0%"
+    }
+  ]
+}
+{
+  "time": "01:58:53 - 01:59:15",
+  "speaker": "David Palle",
+  "text": "Каждый раз, когда мы планируем дорогу, мы проверяем их, и когда мы проверяем их, мы получаем, мы можем позволить, дайте мне, как долго эта дорога буде...",
+  "confidence": 0.27,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 27.1% overlap",
+  "duration": 22,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "27.1%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "14.3%"
+    },
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "01:59:16 - 01:59:20",
+  "speaker": "Dan Khasis",
+  "text": "Хорошо, хорошо, я понял, я понял. Хорошо, так это да, так это да, хорошо.",
+  "confidence": 0.21,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 21.3% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "21.3%"
+    }
+  ]
+}
+{
+  "time": "01:59:21 - 01:59:29",
+  "speaker": "Dan Khasis",
+  "text": "Они просто должны обеспечить это, когда они идут. Метод расчета времени, это время с трафиком, вместо того, чтобы только время.",
+  "confidence": 0.4,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 39.9% overlap",
+  "duration": 8,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "39.9%"
+    }
+  ]
+}
+{
+  "time": "02:00:32 - 02:00:35",
+  "speaker": "David Palle",
+  "text": "Да, у нас есть ограничение на 250.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:01:14 - 02:01:17",
+  "speaker": "Dan Khasis",
+  "text": "Да, ты говоришь о ограничении. Что я говорю...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:01:17 - 02:01:27",
+  "speaker": "Dan Khasis",
+  "text": "Нет, нет, нет. Окей. Ограничение на дороге, ограничение на сегментах.\n\nДавайте просто... Какая была самая большая брига в Мэрилене рядом с тем, где ты...",
+  "confidence": 0.14,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 14.2% overlap",
+  "duration": 10,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "14.2%"
+    }
+  ]
+}
+{
+  "time": "02:01:30 - 02:01:31",
+  "speaker": "David Palle",
+  "text": "Брига Ки, наверное.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:01:33 - 02:02:23",
+  "speaker": "David Palle",
+  "text": "Окей, брига Ки. Итак, если мы хотели поставить... Если мы хотели поставить...\n\nБрига Ки имеет, скажем, 2 дороги, 2 дороги влево и влево. Итак, если мы...",
+  "confidence": 0.67,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 66.9% overlap",
+  "duration": 50,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "66.9%"
+    }
+  ]
+}
+{
+  "time": "02:05:48 - 02:06:12",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Хорошо, но, Игорь, давайте просто предположим, что мы хотим сделать это неэффективно. Не так ли это, что мы входим и позволяем любому, что находится в...",
+  "confidence": 0.18,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 18.5% overlap",
+  "duration": 24,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "18.5%"
+    }
+  ]
+}
+{
+  "time": "02:06:14 - 02:06:20",
+  "speaker": "Dan Khasis",
+  "text": "Да, но это несложно сделать, потому что сложно изменить существующие...",
+  "confidence": 0.36,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 36.1% overlap",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "36.1%"
+    }
+  ]
+}
+{
+  "time": "02:06:21 - 02:06:30",
+  "speaker": "David Palle",
+  "text": "Я видел бесплатные модификаторы Open Source и OSRM для OpenStreetMaps, которые можно ввести и...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 9,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:07:08 - 02:07:17",
+  "speaker": "David Palle",
+  "text": "Мы бы просто заплатили больше денег, чтобы работать с этой инстанцией, но это было бы наше, и они бы сделали, что угодно.",
+  "confidence": 0.4,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 39.5% overlap",
+  "duration": 9,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "39.5%"
+    }
+  ]
+}
+{
+  "time": "02:07:20 - 02:07:31",
+  "speaker": "David Palle",
+  "text": "Да, это, в основном, то, что сделали RoadNet, они просто использовали разные маповые датабасы. Одна главная маповая версия, которая служила как мастер...",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 11,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:07:34 - 02:07:40",
+  "speaker": "David Palle",
+  "text": "Мы можем... Я знаю, что Here.com и Google позволяют сделать небольшие изменения.",
+  "confidence": 0.41,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 41.3% overlap",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "41.3%"
+    }
+  ]
+}
+{
+  "time": "02:09:11 - 02:09:15",
+  "speaker": "David Palle",
+  "text": "Это звучит, как маппинг в Enterprise, как crowdsourcing.",
+  "confidence": 0.37,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 37.5% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "37.5%"
+    }
+  ]
+}
+{
+  "time": "02:09:15 - 02:09:19",
+  "speaker": "Dan Khasis",
+  "text": "Да, точно, 100%, точно, точно.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:10:11 - 02:10:15",
+  "speaker": "Igor Skrynkovskyy",
+  "text": "Мы можем легко изменить это, безусловно. Есть много инструментов для опыта.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Igor Skrynkovskyy",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:10:16 - 02:10:17",
+  "speaker": "David Palle",
+  "text": "Да, да.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:10:46 - 02:10:59",
+  "speaker": "Dan Khasis",
+  "text": "У нас еще нет ассет-локаций, но, Игорь, я думаю, что мы сможем записать ассеты и записать их на производство в среду. Может быть, мы сможем записать и...",
+  "confidence": 0.32,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 32.2% overlap",
+  "duration": 13,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "32.2%"
+    }
+  ]
+}
+{
+  "time": "02:11:13 - 02:11:17",
+  "speaker": "David Palle",
+  "text": "Если мы сможем показать список, то они делают какие-то ассеты?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:11:39 - 02:11:51",
+  "speaker": "Dan Khasis",
+  "text": "Мы поддерживаем это через нестированные ассеты. Ты можешь сказать, что это мое место в больнице, в котором я имею много ассетов.",
+  "confidence": 0.19,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 18.6% overlap",
+  "duration": 12,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "18.6%"
+    }
+  ]
+}
+{
+  "time": "02:12:07 - 02:12:08",
+  "speaker": "Alexey Gusentsov",
+  "text": "Хорошо.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Alexey Gusentsov",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:12:23 - 02:12:45",
+  "speaker": "Alexey Gusentsov",
+  "text": "Семен, есть что-то еще на твоей стороне, что мы выпустили эту неделю, что тебе интересно, что мы хотели показать этим или другим клиентам? Потому что ...",
+  "confidence": 0.55,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 55.3% overlap",
+  "duration": 22,
+  "candidates": [
+    {
+      "speaker": "Alexey Gusentsov",
+      "overlap": "55.3%"
+    }
+  ]
+}
+{
+  "time": "02:14:18 - 02:14:25",
+  "speaker": "Alexey Gusentsov",
+  "text": "Это не метрический экран. Это хирургическая связь экрана. Метрики и KPIs идут в другом направлении.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Alexey Gusentsov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:15:32 - 02:15:33",
+  "speaker": "Alexey Gusentsov",
+  "text": "Да, это замечательно.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Alexey Gusentsov",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:15:34 - 02:15:37",
+  "speaker": "Alexey Gusentsov",
+  "text": "Вы можете фильтровать кустомерный имен, если хотите.",
+  "confidence": 0.08,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 8.3% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Alexey Gusentsov",
+      "overlap": "8.3%"
+    }
+  ]
+}
+{
+  "time": "02:16:11 - 02:16:13",
+  "speaker": "Dan Khasis",
+  "text": "Если вы начнете писать, я думаю, что это будет работать.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:16:14 - 02:16:14",
+  "speaker": "Dan Khasis",
+  "text": "Хорошо.",
+  "confidence": 0.61,
+  "match_type": "fallback",
+  "reasoning": "Nearest speaker (2.4s away, conf=61%)",
+  "duration": 0
+}
+{
+  "time": "02:16:19 - 02:16:20",
+  "speaker": "Dan Khasis",
+  "text": "Это автокомплект.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:16:20 - 02:16:21",
+  "speaker": "Dan Khasis",
+  "text": "Да. Да, да.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:16:23 - 02:16:24",
+  "speaker": "Dan Khasis",
+  "text": "Отлично.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:17:26 - 02:17:31",
+  "speaker": "Dan Khasis",
+  "text": "Как я знаю, держится ли это продукт через фильтр?",
+  "confidence": 0.26,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 26.2% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "26.2%"
+    }
+  ]
+}
+{
+  "time": "02:19:30 - 02:20:00",
+  "speaker": "Dan Khasis",
+  "text": "И, конечно, я не хочу переносить инвентарь потому что я не хочу переносить инвентарь на другой инвентарь, потому что мы не хотим переносить инвентарь ...",
+  "confidence": 0.28,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 28.3% overlap",
+  "duration": 30,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "28.3%"
+    }
+  ]
+}
+{
+  "time": "02:20:59 - 02:21:02",
+  "speaker": "Alexey Afanasiev",
+  "text": "Да, мы не имеем клиентов и мы не имеем суммы.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.97)",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:21:03 - 02:21:05",
+  "speaker": "Vova",
+  "text": "Сумма еще не готова, поэтому она не здесь.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:21:06 - 02:21:10",
+  "speaker": "Vova",
+  "text": "То же самое с автомобилями, нам нужно добавить автомобили тоже.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:21:10 - 02:21:17",
+  "speaker": "Vova",
+  "text": "Да, автомобили. Ну, это достаточно хорошо, чтобы идти в живую. Идите в живую с этим и добавьте остальное.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:21:17 - 02:21:20",
+  "speaker": "Vova",
+  "text": "Хорошо, завтра будет выставлено, я думаю завтра утром.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:21:35 - 02:21:39",
+  "speaker": "Vova",
+  "text": "Ладно, в понедельник, в тюрьму, что угодно, до твердого дня.",
+  "confidence": 0.25,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 24.7% overlap",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "24.7%"
+    }
+  ]
+}
+{
+  "time": "02:21:43 - 02:22:19",
+  "speaker": "Vova",
+  "text": "Хорошо, это все от меня, спасибо. Алексей, у нас есть еще что-нибудь? Это все.\n\nЭто все. Ничего другого, я действительно хочу поделиться чем-то, пока ...",
+  "confidence": 0.57,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 57.1% overlap",
+  "duration": 36,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "57.1%"
+    }
+  ]
+}
+{
+  "time": "02:22:19 - 02:22:20",
+  "speaker": "Vova",
+  "text": "О, вау.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:25:22 - 02:25:23",
+  "speaker": "David Palle",
+  "text": "Да, именно.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:25:24 - 02:25:27",
+  "speaker": "David Palle",
+  "text": "И вы можете сделать это на уровне индивидуального раута, но также на уровне сценария.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:26:34 - 02:26:39",
+  "speaker": "David Palle",
+  "text": "Мы могли наблюдать цены на уровне остановки, на уровне руля, на уровне часа.",
+  "confidence": 0.42,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 41.6% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "41.6%"
+    }
+  ]
+}
+{
+  "time": "02:26:40 - 02:26:45",
+  "speaker": "David Palle",
+  "text": "Правильно, но некоторые из того, что мы пропустили... Я думаю, что мы пропустили несколько фильмов, которые я помню видеть.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:27:48 - 02:27:51",
+  "speaker": "David Palle",
+  "text": "У нас есть 70% того, что нам нужно.",
+  "confidence": 0.23,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 23.0% overlap",
+  "duration": 3,
+  "candidates": [
+    {
+      "speaker": "David Palle",
+      "overlap": "23.0%"
+    }
+  ]
+}
+{
+  "time": "02:29:23 - 02:29:24",
+  "speaker": "Semeyon S",
+  "text": "Звучит круто.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:29:25 - 02:29:44",
+  "speaker": "Semeyon S",
+  "text": "Расскажи нам путь. Семен, какой был путь для релиза в следующий субботник? Обязательно фиксировали проблему, но что было в стратегическом раутинге?\n\nМ...",
+  "confidence": 0.47,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 46.5% overlap",
+  "duration": 19,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "46.5%"
+    }
+  ]
+}
+{
+  "time": "02:34:39 - 02:34:40",
+  "speaker": "Alexey Afanasiev",
+  "text": "Это будет хорошо.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:35:11 - 02:35:12",
+  "speaker": "Alexey Afanasiev",
+  "text": "Что вы думаете?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap (tolerance used, penalty=0.86)",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:35:25 - 02:35:34",
+  "speaker": "Dan Khasis",
+  "text": "Что за вопрос? Мы должны добавить ассеты, мы должны добавить туда кастомарные мест, да.",
+  "confidence": 0.05,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 5.0% overlap",
+  "duration": 9,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "5.0%"
+    }
+  ]
+}
+{
+  "time": "02:35:34 - 02:35:44",
+  "speaker": "Dan Khasis",
+  "text": "У нас проблема с названием. Видишь, у нас мест основной слой, который мы подгрузили, заплодили. А что это за мест?",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 10,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:35:46 - 02:35:52",
+  "speaker": "Dan Khasis",
+  "text": "Это, которые мы заплодили. Это импорт мест.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:35:53 - 02:36:00",
+  "speaker": "Dan Khasis",
+  "text": "Окей, я тебе дам. Нет, это и то, и то то же самое.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 7,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:36:01 - 02:36:03",
+  "speaker": "Dan Khasis",
+  "text": "Это и то, и то, да.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 2,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:37:06 - 02:37:16",
+  "speaker": "Dan Khasis",
+  "text": "То есть ты хочешь объединить импортивные локейшены со словами кластерные локейшены вместе?",
+  "confidence": 0.2,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 20.2% overlap",
+  "duration": 10,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "20.2%"
+    }
+  ]
+}
+{
+  "time": "02:37:19 - 02:37:35",
+  "speaker": "Dan Khasis",
+  "text": "Я думаю, что ты запутан. Одна и та же самая сущность. Просто одна сущность показывает ее как latitude и longitude, а другая сущность показывает ее как...",
+  "confidence": 0.03,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 2.9% overlap",
+  "duration": 16,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "2.9%"
+    }
+  ]
+}
+{
+  "time": "02:37:53 - 02:38:32",
+  "speaker": "Semeyon S",
+  "text": "Я не согласен. Нет, я не согласен с этим. Никто это не сказал.\n\nВо-первых, контекст потерялся. Никто не сказал, что это только насчет... Я не согласен...",
+  "confidence": 0.43,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 42.6% overlap",
+  "duration": 39,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "42.6%"
+    }
+  ]
+}
+{
+  "time": "02:39:40 - 02:39:41",
+  "speaker": "Semeyon S",
+  "text": "Это решение.",
+  "confidence": 0.0,
+  "match_type": "high_confidence",
+  "reasoning": "Dominant speaker with 0.0% overlap",
+  "duration": 1,
+  "candidates": [
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:40:49 - 02:40:54",
+  "speaker": "Dan Khasis",
+  "text": "По мне напрашивается плова какое-то, что это локейшны, которые мы только что заимпортировали.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Фраза 'по мне напрашивается плова какое-то' указывает на неформальный стиль общения, который соответствует манере Дана. Он также недавно был активен в диалоге, что увеличивает вероятность его участия в этом фрагменте.",
+  "duration": 5,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:40:56 - 02:41:02",
+  "speaker": "Semeyon S",
+  "text": "Чтобы их пока различать.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Фраза 'Чтобы их пока различать' логически продолжает обсуждение о секциях и их объединении, что соответствует теме, поднятой Semeyon S в предыдущем фрагменте. Он также был активен в диалоге, что увеличивает вероятность, что это его слова.",
+  "duration": 6,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Vova",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:41:05 - 02:41:14",
+  "speaker": "Dan Khasis",
+  "text": "Ну окей, мы тогда все.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Фраза 'Ну окей, мы тогда все' звучит как завершение обсуждения, что соответствует стилю Dan Khasis, который недавно активно участвовал в диалоге и мог бы подвести итог. Однако, учитывая, что Semeyon S также был активен, есть небольшая вероятность, что это мог сказать он.",
+  "duration": 9,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}
+{
+  "time": "02:41:40 - 02:41:44",
+  "speaker": "Semeyon S",
+  "text": "У меня есть много чего показать. Если у тебя есть время, я бы и выяснил.",
+  "confidence": 0.68,
+  "match_type": "llm_resolved",
+  "reasoning": "Fallback+LLM: Фраза содержит элементы, указывающие на желание показать что-то и выяснить детали, что соответствует стилю общения Semeyon S, который активно участвует в обсуждении и задает вопросы. Dan Khasis завершает разговор, а Alexey Afanasiev не упоминался в предыдущих фрагментах, что делает Semeyon S наиболее вероятным спикером.",
+  "duration": 4,
+  "candidates": [
+    {
+      "speaker": "Dan Khasis",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Semeyon S",
+      "overlap": "0.0%"
+    },
+    {
+      "speaker": "Alexey Afanasiev",
+      "overlap": "0.0%"
+    }
+  ]
+}

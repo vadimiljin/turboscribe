@@ -253,6 +253,75 @@ def calculate_overlap(seg1_start: float, seg1_end: float, seg2_start: float, seg
     return max(0, overlap_end - overlap_start)
 
 
+def detect_time_offset(
+    speaker_vtt: List[VTTSegment],
+    text_vtt: List[VTTSegment],
+    max_offset: int = 60,
+    sample_size: int = 50
+) -> float:
+    """
+    Detect systematic time offset between VTT files.
+    
+    Args:
+        speaker_vtt: Speaker segments
+        text_vtt: Text segments
+        max_offset: Maximum offset to test (in seconds)
+        sample_size: Number of segments to sample for detection
+    
+    Returns:
+        Best offset in seconds (positive = text is ahead)
+    """
+    if not speaker_vtt or not text_vtt:
+        return 0.0
+    
+    best_offset = 0
+    best_score = 0
+    
+    # Sample segments for faster detection
+    sample = text_vtt[:min(sample_size, len(text_vtt))]
+    
+    print(f"   [SYNC] Detecting time offset (testing ±{max_offset}s)...")
+    
+    # Try different offsets
+    for offset in range(-max_offset, max_offset + 1):
+        score = 0
+        matches = 0
+        
+        for text_seg in sample:
+            # Apply offset to text segment
+            adjusted_start = text_seg.start + offset
+            adjusted_end = text_seg.end + offset
+            
+            # Find best overlap with this offset
+            best_overlap = 0
+            for spk_seg in speaker_vtt:
+                overlap = calculate_overlap(
+                    spk_seg.start, spk_seg.end,
+                    adjusted_start, adjusted_end
+                )
+                if overlap > best_overlap:
+                    best_overlap = overlap
+            
+            if best_overlap > 0:
+                score += best_overlap
+                matches += 1
+        
+        if score > best_score:
+            best_score = score
+            best_offset = offset
+    
+    # Calculate quality of offset
+    total_sample_duration = sum(s.end - s.start for s in sample)
+    quality_ratio = best_score / total_sample_duration if total_sample_duration > 0 else 0
+    
+    if abs(best_offset) > 0:
+        print(f"   [SYNC] Detected offset: {best_offset:+d}s (quality: {quality_ratio:.1%})")
+    else:
+        print(f"   [SYNC] No offset detected (files are synchronized)")
+    
+    return best_offset
+
+
 def find_speaker_candidates(
     text_seg: VTTSegment,
     speaker_segs: List[VTTSegment],
@@ -262,60 +331,57 @@ def find_speaker_candidates(
     Find all possible speaker candidates for a text segment.
     
     Args:
+        text_seg: Text segment to match
+        speaker_segs: List of speaker segments
         tolerance: Time tolerance in seconds (expands speaker windows)
     
-    Returns list of candidates with overlap info, sorted by overlap duration.
+    Returns:
+        List of candidates with overlap info, sorted by overlap duration.
     """
     candidates = []
     text_duration = text_seg.end - text_seg.start
     
     for spk_seg in speaker_segs:
-        # Calculate strict overlap
+        # Apply tolerance by expanding speaker segment window
+        expanded_start = spk_seg.start - tolerance
+        expanded_end = spk_seg.end + tolerance
+        
+        # Calculate both strict and tolerant overlaps
         strict_overlap = calculate_overlap(
             spk_seg.start, spk_seg.end,
             text_seg.start, text_seg.end
         )
         
-        # If tolerance requested, also try expanded window
-        if tolerance > 0 and strict_overlap == 0:
-            expanded_start = spk_seg.start - tolerance
-            expanded_end = spk_seg.end + tolerance
+        tolerant_overlap = calculate_overlap(
+            expanded_start, expanded_end,
+            text_seg.start, text_seg.end
+        )
+        
+        if tolerant_overlap > 0:
+            overlap_ratio = tolerant_overlap / text_duration if text_duration > 0 else 0
             
-            tolerant_overlap = calculate_overlap(
-                expanded_start, expanded_end,
-                text_seg.start, text_seg.end
-            )
+            # Calculate confidence penalty for using tolerance
+            penalty = 1.0
+            used_tolerance = False
             
-            if tolerant_overlap > 0:
-                overlap_ratio = tolerant_overlap / text_duration if text_duration > 0 else 0
-                
-                # Apply small penalty for using tolerance
+            if tolerance > 0 and strict_overlap == 0:
+                # We only got a match because of tolerance
+                used_tolerance = True
                 gap = min(
                     abs(spk_seg.end - text_seg.start),
                     abs(text_seg.end - spk_seg.start)
                 )
-                penalty = max(0.85, 1.0 - (gap / (tolerance * 2)) * 0.15)
-                
-                candidates.append({
-                    'speaker': spk_seg.speaker,
-                    'overlap_duration': tolerant_overlap,
-                    'overlap_ratio': overlap_ratio,
-                    'confidence_multiplier': penalty,
-                    'used_tolerance': True,
-                    'speaker_start': spk_seg.start,
-                    'speaker_end': spk_seg.end
-                })
-        elif strict_overlap > 0:
-            # Strict match - no penalty
-            overlap_ratio = strict_overlap / text_duration if text_duration > 0 else 0
+                # Smaller penalty for small gaps
+                penalty = max(0.7, 1.0 - (gap / (tolerance * 2)) * 0.3)
+            
             candidates.append({
                 'speaker': spk_seg.speaker,
-                'overlap_duration': strict_overlap,
+                'overlap_duration': tolerant_overlap,
                 'overlap_ratio': overlap_ratio,
-                'confidence_multiplier': 1.0,
-                'used_tolerance': False,
+                'confidence_penalty': penalty,
                 'speaker_start': spk_seg.start,
-                'speaker_end': spk_seg.end
+                'speaker_end': spk_seg.end,
+                'used_tolerance': used_tolerance
             })
     
     # Sort by overlap duration (descending)
@@ -330,10 +396,16 @@ def find_speaker_candidates(
                 'speaker': spk,
                 'overlap_duration': 0,
                 'overlap_ratio': 0,
-                'confidence_multiplier': c['confidence_multiplier'],
+                'confidence_penalty': c['confidence_penalty'],
                 'used_tolerance': c['used_tolerance']
             }
-        speaker_totals[spk]['overlap_duration'] += c['overlap_duration']
+        else:
+            speaker_totals[spk]['overlap_duration'] += c['overlap_duration']
+            # Keep best penalty
+            speaker_totals[spk]['confidence_penalty'] = max(
+                speaker_totals[spk]['confidence_penalty'],
+                c['confidence_penalty']
+            )
     
     # Recalculate ratios
     for spk in speaker_totals:
@@ -349,79 +421,110 @@ def find_speaker_candidates(
 def smart_fallback(
     text_seg: VTTSegment,
     speaker_vtt: List[VTTSegment],
-    context_before: List[AlignedSegment]
+    context_before: List[AlignedSegment],
+    verbose: bool = False
 ) -> Dict:
     """
-    Intelligent fallback using conversation context.
+    Intelligent fallback using conversation context and proximity.
+    
+    Args:
+        text_seg: Text segment without clear speaker match
+        speaker_vtt: All speaker segments
+        context_before: Previously aligned segments for context
+        verbose: Whether to print detailed reasoning
     
     Returns:
         Dict with speaker, confidence, and reasoning
     """
-    # Find speakers within 10sec window
-    time_window = 10.0
+    # Find speakers within reasonable time window
+    time_window = 10.0  # 10 seconds before/after
     nearby_speakers = [
         s for s in speaker_vtt
-        if abs(s.start - text_seg.start) < time_window
+        if abs(s.start - text_seg.start) < time_window or abs(s.end - text_seg.start) < time_window
     ]
     
-    # Strategy 1: Continue from active speaker
+    if verbose:
+        print(f"\n[FALLBACK] No time overlap for segment at {format_time(text_seg.start)}")
+        print(f"[FALLBACK] Text: {text_seg.text[:80]}...")
+        print(f"[FALLBACK] Found {len(nearby_speakers)} speakers within {time_window}s")
+    
+    # Strategy 1: Continue from active speaker (if recently dominant)
     if context_before and len(context_before) >= 3:
         recent_speaker = context_before[-1].speaker
         recent_count = sum(1 for s in context_before[-5:] if s.speaker == recent_speaker)
         
-        if recent_count >= 3 and nearby_speakers:
-            if any(s.speaker == recent_speaker for s in nearby_speakers):
+        # If speaker spoke in 3+ of last 5 segments, likely continuing
+        if recent_count >= 3:
+            # Check if this speaker is plausible (not too far in time)
+            if nearby_speakers and any(s.speaker == recent_speaker for s in nearby_speakers):
+                if verbose:
+                    print(f"[FALLBACK] Strategy: Continuing active speaker ({recent_count}/5 recent)")
                 return {
                     'speaker': recent_speaker,
                     'confidence': 0.65,
-                    'reasoning': f'Active speaker ({recent_count}/5 recent)'
+                    'reasoning': f'Continuing active speaker ({recent_count}/5 recent segments)'
                 }
     
-    # Strategy 2: Nearest speaker
+    # Strategy 2: Use nearest speaker (temporally)
     if nearby_speakers:
+        # Find closest by time distance
         nearest = min(nearby_speakers, key=lambda s: min(
             abs(s.start - text_seg.start),
-            abs(s.end - text_seg.start)
+            abs(s.end - text_seg.start),
+            abs(s.start - text_seg.end),
+            abs(s.end - text_seg.end)
         ))
         
         time_dist = min(
             abs(nearest.start - text_seg.start),
-            abs(nearest.end - text_seg.start)
+            abs(nearest.end - text_seg.start),
+            abs(nearest.start - text_seg.end),
+            abs(nearest.end - text_seg.end)
         )
         
-        confidence = max(0.4, 0.7 - (time_dist / time_window) * 0.3)
+        # Confidence decreases with distance
+        confidence = max(0.3, 0.7 - (time_dist / time_window) * 0.4)
+        
+        if verbose:
+            print(f"[FALLBACK] Strategy: Nearest speaker ({time_dist:.1f}s away)")
         
         return {
             'speaker': nearest.speaker,
             'confidence': confidence,
-            'reasoning': f'Nearest ({time_dist:.1f}s away)'
+            'reasoning': f'Nearest speaker ({time_dist:.1f}s away, conf={confidence:.0%})'
         }
     
-    # Strategy 3: Previous speaker
+    # Strategy 3: Continue from previous speaker (last resort)
     if context_before:
+        if verbose:
+            print(f"[FALLBACK] Strategy: Last speaker (no nearby alternatives)")
         return {
             'speaker': context_before[-1].speaker,
             'confidence': 0.35,
-            'reasoning': 'Previous speaker'
+            'reasoning': 'Continuing from previous speaker (no nearby speakers)'
         }
     
-    # Strategy 4: Global nearest
+    # Strategy 4: Find absolutely nearest (anywhere in recording)
     if speaker_vtt:
         nearest = min(speaker_vtt, key=lambda s: min(
             abs(s.start - text_seg.start),
             abs(s.end - text_seg.end)
         ))
         
+        if verbose:
+            print(f"[FALLBACK] Strategy: Global nearest speaker (emergency)")
+        
         return {
             'speaker': nearest.speaker,
-            'confidence': 0.30,
-            'reasoning': 'Global nearest'
+            'confidence': 0.25,
+            'reasoning': 'Emergency fallback: global nearest speaker'
         }
     
+    # This should never happen if speaker_vtt is not empty
     return {
         'speaker': 'Unknown',
         'confidence': 0.0,
-        'reasoning': 'No speakers'
+        'reasoning': 'No speakers available'
     }
 
 
@@ -464,15 +567,15 @@ def ask_llm_for_speaker(
     context_text += f"\n**ТЕКУЩИЙ ФРАГМЕНТ** [{format_time(text_seg.start)} - {format_time(text_seg.end)}]:\n"
     context_text += f'"{text_seg.text}"\n\n'
     
-    # Check if candidates have real time overlap
-    has_overlap = any(c.get('overlap_ratio', 0) > 0 for c in candidates)
+    # Check if we have real time overlap or context-based candidates
+    has_real_overlap = any(c.get('overlap_ratio', 0) > 0 for c in candidates)
     
-    if has_overlap:
+    if has_real_overlap:
         context_text += "Кандидаты (по времени overlap):\n"
         for i, c in enumerate(candidates[:5], 1):  # Top 5
             context_text += f"{i}. {c['speaker']}: {c['overlap_ratio']:.1%} времени\n"
     else:
-        context_text += "Кандидаты (нет прямого временного пересечения, выбраны по контексту):\n"
+        context_text += "Кандидаты (по контексту разговора, нет прямого временного пересечения):\n"
         for i, c in enumerate(candidates[:5], 1):  # Top 5
             context_text += f"{i}. {c['speaker']}: недавно активен в диалоге\n"
     
@@ -689,6 +792,13 @@ def align_with_llm(
     """
     Align speaker VTT with text VTT, using LLM for ambiguous cases.
     
+    Enhanced with:
+    1. Auto time offset detection
+    2. Tolerant candidate search
+    3. Smart fallback with context
+    4. LLM for fallback cases
+    5. Detailed logging
+    
     Note: TurboScribe может указывать до 8 спикеров независимо от реального количества.
     Мы используем временной overlap для маппинга на реальных участников.
     """
@@ -700,14 +810,34 @@ def align_with_llm(
     else:
         print("[!] OpenAI not available, will use fallback for ambiguous cases")
     
-    # Build speaker mapping
+    # STEP 1: Detect and apply time offset
+    print("\n[STEP 1/5] Detecting time offset between files...")
+    time_offset = detect_time_offset(speaker_vtt, text_vtt)
+    
+    # Apply offset to text segments if needed
+    if abs(time_offset) > 0:
+        print(f"   [SYNC] Applying {time_offset:+d}s offset to text segments...")
+        adjusted_text_vtt = []
+        for seg in text_vtt:
+            adjusted_text_vtt.append(VTTSegment(
+                start=seg.start + time_offset,
+                end=seg.end + time_offset,
+                speaker=seg.speaker,
+                text=seg.text
+            ))
+        text_vtt = adjusted_text_vtt
+    
+    # STEP 2: Build speaker mapping
+    print("\n[STEP 2/5] Building speaker mapping...")
     speaker_mapping = build_speaker_mapping(speaker_vtt)
     
     aligned = []
     stats = {
         'high_confidence': 0,
         'llm_resolved': 0,
-        'fallback': 0
+        'fallback': 0,
+        'fallback_with_tolerance': 0,
+        'fallback_smart': 0
     }
     
     llm_stats = {
@@ -716,7 +846,8 @@ def align_with_llm(
         'fallbacks': 0      # Times we fell back due to no API key
     }
     
-    # Split text segments if they span multiple speakers
+    # STEP 3: Split text segments by speakers
+    print("\n[STEP 3/5] Splitting text segments by speaker boundaries...")
     expanded_text_vtt = []
     for text_seg in text_vtt:
         split_segments = split_turboscribe_segment_by_speakers(text_seg, speaker_vtt)
@@ -724,10 +855,17 @@ def align_with_llm(
     
     print(f"   [+] Расширено до {len(expanded_text_vtt)} сегментов после разделения по спикерам")
     
+    # STEP 4: Align with progressive fallback strategy
+    print("\n[STEP 4/5] Aligning segments with progressive fallback...")
+    
+    # Configuration
+    TOLERANCE_SECONDS = 3.0  # Time tolerance for borderline cases
+    LLM_AMBIGUITY_THRESHOLD = 0.15  # Second candidate overlap threshold
+    
     for i, text_seg in enumerate(expanded_text_vtt):
         # Progress indicator
         if not verbose and i > 0 and i % 50 == 0:
-            print(f"   [PROGRESS] Обработано {i}/{len(expanded_text_vtt)} сегментов (LLM попыток: {llm_stats['attempts']}, реальных вызовов: {llm_stats['actual_calls']})")
+            print(f"   [PROGRESS] {i}/{len(expanded_text_vtt)} сегментов (LLM: {llm_stats['attempts']}/{llm_stats['actual_calls']}, fallback: {stats['fallback']})")
         
         # If text segment already has speaker assigned, use it directly
         if text_seg.speaker:
@@ -744,54 +882,66 @@ def align_with_llm(
             stats['high_confidence'] += 1
             continue
         
-        # Find all candidates (strict first)
+        # STRATEGY 1: Try strict time-based matching
         candidates = find_speaker_candidates(text_seg, speaker_vtt, tolerance=0.0)
         
-        # If no candidates with strict overlap, try with tolerance
-        used_tolerance = False
+        # STRATEGY 2: If no strict match, try with tolerance
         if not candidates:
-            candidates = find_speaker_candidates(text_seg, speaker_vtt, tolerance=3.0)
-            used_tolerance = True
+            candidates = find_speaker_candidates(text_seg, speaker_vtt, tolerance=TOLERANCE_SECONDS)
+            if candidates:
+                stats['fallback_with_tolerance'] += 1
         
+        # STRATEGY 3: If still no candidates, use smart fallback
         if not candidates:
-            # No overlap even with tolerance
-            fallback_result = smart_fallback(text_seg, speaker_vtt, aligned[-10:] if aligned else [])
+            # Smart fallback with optional LLM
+            fallback_result = smart_fallback(
+                text_seg,
+                speaker_vtt,
+                aligned[-10:] if aligned else [],
+                verbose
+            )
             
-            # If we have API key and good context, try LLM even for fallback
+            # For smart fallback, optionally ask LLM if we have good context
             if client and len(aligned) >= 5 and fallback_result['confidence'] < 0.6:
-                # Build pseudo-candidates from recent speakers
-                recent_speakers = list(set(s.speaker for s in aligned[-10:]))[:5]
-                if recent_speakers:
+                # Try to get LLM opinion even without direct time overlap
+                # Build context-based candidates from recent speakers
+                context_speakers = list(set(s.speaker for s in aligned[-10:]))[:5]
+                if context_speakers:
                     pseudo_candidates = [
                         {
                             'speaker': spk,
-                            'overlap_ratio': 0.0,
-                            'confidence_multiplier': 1.0
+                            'overlap_ratio': 0.0,  # No direct overlap
+                            'confidence_penalty': 1.0
                         }
-                        for spk in recent_speakers
+                        for spk in context_speakers
                     ]
                     
                     llm_stats['attempts'] += 1
+                    if not verbose:
+                        print(f"   [LLM] Segment #{i+1} at {format_time(text_seg.start)} - fallback case, asking LLM...")
                     
                     llm_result = ask_llm_for_speaker(
-                        text_seg, pseudo_candidates,
+                        text_seg,
+                        pseudo_candidates,
                         aligned[-5:],
                         text_vtt[i+1:i+3] if i+1 < len(text_vtt) else [],
-                        client, verbose, llm_stats
+                        client,
+                        verbose,
+                        llm_stats
                     )
                     
-                    # Use LLM result but with reduced confidence
                     aligned.append(AlignedSegment(
                         start=text_seg.start,
                         end=text_seg.end,
                         speaker=llm_result['speaker'],
                         text=text_seg.text,
-                        confidence=llm_result['confidence'] * 0.85,  # Penalty for no time overlap
+                        confidence=llm_result['confidence'] * 0.8,  # Reduce confidence for fallback LLM
                         match_type="llm_resolved",
                         reasoning=f"Fallback+LLM: {llm_result['reasoning']}",
                         candidates=pseudo_candidates
                     ))
                     stats['llm_resolved'] += 1
+                    stats['fallback_smart'] += 1
                     continue
             
             # Use smart fallback result
@@ -806,30 +956,32 @@ def align_with_llm(
                 candidates=[]
             ))
             stats['fallback'] += 1
+            stats['fallback_smart'] += 1
             continue
         
-        # Classify confidence
+        # We have candidates - classify confidence
         top_candidate = candidates[0]
-        confidence_mult = top_candidate.get('confidence_multiplier', 1.0)
+        
+        # Get confidence penalty (only applies if tolerance was used)
+        confidence_penalty = top_candidate.get('confidence_penalty', 1.0)
         base_overlap = top_candidate['overlap_ratio']
         
-        if len(candidates) == 1 and base_overlap > 0.8:
+        if len(candidates) == 1 and base_overlap > 0.75:
             # High confidence: single speaker, strong overlap
-            final_conf = min(0.99, base_overlap * confidence_mult * 1.1)
             aligned.append(AlignedSegment(
                 start=text_seg.start,
                 end=text_seg.end,
                 speaker=top_candidate['speaker'],
                 text=text_seg.text,
-                confidence=final_conf,
+                confidence=min(0.99, base_overlap * confidence_penalty * 1.05),
                 match_type="high_confidence",
-                reasoning=f"Single speaker with {base_overlap:.1%} overlap" +
-                         (f" (tolerance)" if used_tolerance else ""),
+                reasoning=f"Single speaker with {base_overlap:.1%} overlap" + 
+                         (f" (tolerance used)" if top_candidate.get('used_tolerance') else ""),
                 candidates=candidates
             ))
             stats['high_confidence'] += 1
             
-        elif len(candidates) > 1 and candidates[1]['overlap_ratio'] > 0.15:
+        elif len(candidates) > 1 and candidates[1]['overlap_ratio'] > LLM_AMBIGUITY_THRESHOLD:
             # Ambiguous: multiple speakers with significant overlap
             # Use LLM
             llm_stats['attempts'] += 1
@@ -844,6 +996,7 @@ def align_with_llm(
                 text_seg, candidates, context_before, context_after, client, verbose, llm_stats
             )
             
+            # Don't apply penalty to LLM results - LLM considers all factors
             aligned.append(AlignedSegment(
                 start=text_seg.start,
                 end=text_seg.end,
@@ -858,16 +1011,15 @@ def align_with_llm(
             
         else:
             # Medium confidence: use top candidate
-            final_conf = base_overlap * confidence_mult
             aligned.append(AlignedSegment(
                 start=text_seg.start,
                 end=text_seg.end,
                 speaker=top_candidate['speaker'],
                 text=text_seg.text,
-                confidence=final_conf,
+                confidence=base_overlap * confidence_penalty,
                 match_type="high_confidence",
                 reasoning=f"Dominant speaker with {base_overlap:.1%} overlap" +
-                         (f" (tolerance, ×{confidence_mult:.2f})" if used_tolerance else ""),
+                         (f" (tolerance used, penalty={confidence_penalty:.2f})" if top_candidate.get('used_tolerance') else ""),
                 candidates=candidates
             ))
             stats['high_confidence'] += 1
@@ -881,6 +1033,11 @@ def align_with_llm(
     print(f"   High confidence (time-based): {stats['high_confidence']} ({stats['high_confidence']/len(aligned)*100:.1f}%)")
     print(f"   LLM resolved: {stats['llm_resolved']} ({stats['llm_resolved']/len(aligned)*100:.1f}%)")
     print(f"   Fallback: {stats['fallback']} ({stats['fallback']/len(aligned)*100:.1f}%)")
+    if stats['fallback_with_tolerance'] > 0:
+        print(f"     ↳ Used tolerance: {stats['fallback_with_tolerance']}")
+    if stats['fallback_smart'] > 0:
+        print(f"     ↳ Smart fallback: {stats['fallback_smart']}")
+    
     print(f"\n[LLM USAGE]")
     print(f"   Ambiguous cases detected: {llm_stats['attempts']}")
     print(f"   Actual OpenAI API calls: {llm_stats['actual_calls']}")
@@ -1058,6 +1215,60 @@ def generate_jsonl(segments: List[AlignedSegment], output_path: str):
             f.write(json.dumps(data, ensure_ascii=False) + '\n')
 
 
+def log_problematic_segments(segments: List[AlignedSegment], output_path: str, confidence_threshold: float = 0.7):
+    """
+    Generate detailed log of problematic segments for manual review.
+    
+    Args:
+        segments: All aligned segments
+        output_path: Base path for output (will generate *-issues.jsonl)
+        confidence_threshold: Segments below this confidence are logged
+    """
+    # Find problematic segments
+    problematic = [s for s in segments if s.confidence < confidence_threshold]
+    
+    if not problematic:
+        print(f"   [OK] Все сегменты с уверенностью ≥{confidence_threshold:.0%}")
+        return
+    
+    # Generate log path
+    log_path = output_path.replace('.jsonl', '-issues.jsonl')
+    
+    with open(log_path, 'w', encoding='utf-8') as f:
+        for seg in problematic:
+            data = {
+                'time': f"{format_time(seg.start)} - {format_time(seg.end)}",
+                'speaker': seg.speaker,
+                'text': seg.text[:150] + ('...' if len(seg.text) > 150 else ''),
+                'confidence': round(seg.confidence, 2),
+                'match_type': seg.match_type,
+                'reasoning': seg.reasoning,
+                'duration': round(seg.end - seg.start, 1)
+            }
+            
+            # Add candidate info if available
+            if seg.candidates:
+                data['candidates'] = [
+                    {
+                        'speaker': c['speaker'],
+                        'overlap': f"{c['overlap_ratio']:.1%}"
+                    }
+                    for c in seg.candidates[:3]  # Top 3
+                ]
+            
+            f.write(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
+    
+    print(f"   [!] {len(problematic)} проблемных сегментов (confidence <{confidence_threshold:.0%}) → {Path(log_path).name}")
+    
+    # Statistics by type
+    by_type = {}
+    for seg in problematic:
+        by_type[seg.match_type] = by_type.get(seg.match_type, 0) + 1
+    
+    print(f"       Распределение: ", end='')
+    print(', '.join(f"{typ}: {count}" for typ, count in sorted(by_type.items())))
+
+
 def generate_vtt(segments: List[AlignedSegment], output_path: str):
     """Generate VTT output file."""
     lines = ["WEBVTT", ""]
@@ -1188,7 +1399,7 @@ def main():
     print(f"   [+] {len(aligned)} выровненных сегментов")
     
     # Generate outputs
-    print("\n[FILE] Генерация выходных файлов...")
+    print("\n[STEP 5/5] Генерация выходных файлов...")
     generate_vtt(aligned, output_vtt_path)
     print(f"   [+] Transcript VTT: {Path(output_vtt_path).name}")
     
@@ -1197,6 +1408,9 @@ def main():
     
     generate_jsonl(aligned, output_jsonl_path)
     print(f"   [+] Transcript JSONL: {Path(output_jsonl_path).name}")
+    
+    # Log problematic segments
+    log_problematic_segments(aligned, output_jsonl_path, confidence_threshold=0.7)
     
     # Final stats
     avg_conf = sum(s.confidence for s in aligned) / len(aligned)
