@@ -1,0 +1,62 @@
+# Employees Database
+
+Централизованная база всех сотрудников, упомянутых в Product Review документах.
+
+## People
+
+- [Address Book](mailto:Address Book) # research email
+- [Address Book Map](mailto:Address Book Map)
+- [Address Book Map](mailto:Address Book Map) # research email
+- [Admin Panel](mailto:Admin Panel)
+- [Alex Shulha](mailto:Alex Shulha)
+- [Alex Yasko](mailto:alexy@route4me.com)
+- [Alexey Gusentsov](mailto:alexey.gusentsov@route4me.com)
+- [Artur Moskalenko](mailto:arturm@route4me.com)
+- [Assign Facility](mailto:Assign Facility)
+- [Assignment Board](mailto:Assignment Board)
+- [Bulk Facility Selection](mailto:Bulk Facility Selection)
+- [Custom Data](mailto:Custom Data)
+- [Customer Portal](mailto:Customer Portal)
+- [Dan Khasis](mailto:dan@route4me.com)
+- [Davron Usmonov](mailto:davronu@route4me.com)
+- [Dispatch Board](mailto:Dispatch Board)
+- [Driver Skills](mailto:Driver Skills)
+- [Facility Snapshot](mailto:Facility Snapshot)
+- [Fraud Bugs](mailto:Fraud Bugs)
+- [Gantt Chart](mailto:Gantt Chart)
+- [Global Development Queue](mailto:Global Development Queue) # research email
+- [Gurgen Hakobyan](mailto:gurgen.hakobyan@route4me.com)
+- [Igor Golovtsov](mailto:igorgolovtsov@route4me.com)
+- [Manar Kurmanov](mailto:manar.kurmanov@route4me.com)
+- [Master Recurring Routes](mailto:Master Recurring Routes)
+- [Mobile App](mailto:Mobile App)
+- [Need Update](mailto:Need Update) # research email
+- [Oleksandr Ishchenko](mailto:oleksandri@route4me.com)
+- [Optimization Snapshot](mailto:Optimization Snapshot)
+- [Product Progress Review](mailto:Product Progress Review) # research email
+- [Roman Kozodoi](mailto:roman@route4me.com)
+- [Route Optimization Wizard](mailto:Route Optimization Wizard)
+- [Routes List](mailto:Routes List)
+- [Routes Map](mailto:Routes Map)
+- [Semeyon Svetliy](mailto:semeyon@route4me.com)
+- [Serhii Kasainov](mailto:kserhii@route4me.com)
+- [Service Time](mailto:Service Time) # research email
+- [Service Time Design](mailto:Service Time Design) # research email
+- [Strategic Optimizations](mailto:Strategic Optimizations) # research email
+- [Strategic Planner](mailto:Strategic Planner)
+- [Strategic Route Planner](mailto:Strategic Route Planner)
+- [Total Durations](mailto:Total Durations)
+- [User Actioned](mailto:User Actioned)
+- [User Skills](mailto:User Skills)
+- [Vadim Iljin](mailto:outreach@route4me.com)
+- [Vladimir Fedorov](mailto:vladimirfedorov@route4me.com)
+- [Vladimir Zhakhavets](mailto:vova@route4me.com)
+- [Volodymyr Ishchenko](mailto:vladimiri@route4me.com)
+- [Vova](mailto:Vova) # research email
+- [Weather Layer](mailto:Weather Layer)
+- [Александр Ковтунов](mailto:alexkovtunov@route4me.com)
+- [Алексей Афанасьев](mailto:alexey@route4me.com)
+- [Владимир Жахавец](mailto:vladimir@route4me.com)
+- [Евгений Бондаренко](mailto:eugene.bondarenko@route4me.com)
+- [Игорь Скрыньковский](mailto:igor@route4me.com)
+- [Стратегическая](mailto:Стратегическая) # research email

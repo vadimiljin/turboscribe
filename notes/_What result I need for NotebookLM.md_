@@ -1,0 +1,22 @@
+# What result I need for NotebookLM
+
+For each of 3+4 hour video transcripts, I need 
+
+transcript.md (conversation + RICH intelligence - everything combined - very compact but readable)
+
+- Full conversation with timestamps ✓
+- Participant list with segment counts ✓
+- Executive summary ✓
+- **Detailed decisions** (quotes, confidence, timestamps) ⭐ NEW
+- **Detailed action items** (owners, deadlines, quotes) ⭐ NEW
+- **Detailed risks** (grouped by severity, mitigation) ⭐ NEW
+- **Open questions** (with quotes) ⭐ NEW
+- **Technical terminology** (definitions, frequency) ⭐ NEW
+
+It must be better that SUMMARY made with gemini LLM and by hand by Alexey after every meeting, which used ugly broken transcripts. It must be really useful for software development and knowledge collection.
+
+/home/vadim/Projects/route4me.com/turboscribe/notes/SUMMARY by Alexey Product Progress Review 6 Nov 2025.txt
+
++ I need speakers.md, its draft:
+
+/home/vadim/Projects/route4me.com/turboscribe/notes/speakers.md_Structure.md

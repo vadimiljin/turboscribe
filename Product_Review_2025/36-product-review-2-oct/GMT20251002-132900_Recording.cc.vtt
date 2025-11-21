@@ -1,0 +1,3131 @@
+WEBVTT
+
+01:04:16.000 --> 01:04:22.000
+There's a lot.
+
+01:04:22.000 --> 01:04:25.000
+So, what's next on our presentation?
+
+01:04:25.000 --> 01:04:31.000
+Uh, about, uh, one moment about, uh, measurements. So, we can add dollar.
+
+01:04:31.000 --> 01:04:35.000
+But it works only for US, and maybe Canada customers.
+
+01:04:35.000 --> 01:04:39.000
+I thought we have the locale selection, don't we? In the account settings, in the session.
+
+01:04:39.000 --> 01:04:43.000
+I'm not sure.
+
+01:04:43.000 --> 01:04:49.000
+Wait a few posts a missing measurement units. Uh, is it cubic meters or cubic feet?
+
+01:04:49.000 --> 01:05:04.000
+Yes. Yes, we have, but we have an old problem. Uh, when this, um, parameters just an integers, abstract integers.
+
+01:05:04.000 --> 01:05:12.000
+And the solver does not… does know nothing about, uh, actual inches, meters, etc.
+
+01:05:12.000 --> 01:05:13.000
+Yeah, but…
+
+01:05:13.000 --> 01:05:24.000
+We can add it to the UI without recalculation. Just as an… as a…
+
+01:05:24.000 --> 01:05:25.000
+We are measuring trucks in, uh, feeds.
+
+01:05:25.000 --> 01:05:28.000
+Cosmetic thing, without recalculation.
+
+01:05:28.000 --> 01:05:35.000
+And then we are measuring load of this truck in abstract units. Uh, so this kind of strange.
+
+01:05:35.000 --> 01:05:39.000
+Uh, it will bring a problem at some point.
+
+01:05:39.000 --> 01:05:46.000
+It is… it is, uh… it's how it works right now. That's it.
+
+01:05:46.000 --> 01:05:47.000
+This is one.
+
+01:05:47.000 --> 01:05:51.000
+For Solver, it doesn't matter. Which measurements it is.
+
+01:05:51.000 --> 01:05:53.000
+Yes, but it should be the same, you need.
+
+01:05:53.000 --> 01:05:54.000
+Yes, we…
+
+01:05:54.000 --> 01:05:59.000
+Unless it is the same, it is not meaningful.
+
+01:05:59.000 --> 01:06:05.000
+But if it is different, then our optimization engine produced
+
+01:06:05.000 --> 01:06:11.000
+unusable… unusable routes.
+
+01:06:11.000 --> 01:06:23.000
+The problem is that we have the locale information, the session, and the account settings. We need to output it. We have the data, it's in the session. If you click… Here, it tells you miles and miles per gallon.
+
+01:06:23.000 --> 01:06:26.000
+Well, we can add these things, but without recalculations, that's it.
+
+01:06:26.000 --> 01:06:27.000
+Yeah, Bob.
+
+01:06:27.000 --> 01:06:34.000
+And, uh… But this is… this is all wrong in general. This is wrong, too, really. It's supposed to be…
+
+01:06:34.000 --> 01:06:35.000
+Let's written parallel one, please.
+
+01:06:35.000 --> 01:06:36.000
+Uh… You're supposed to pay your ISO code, you're supposed to pick your ISO code or locale.
+
+01:06:36.000 --> 01:06:43.000
+Metro contemporial.
+
+01:06:43.000 --> 01:06:54.000
+That was it. I've done it, we pick it based on all that.
+
+01:06:54.000 --> 01:07:01.000
+I disagree, because locale, uh, show… In the US, uh, it's mild, and…
+
+01:07:01.000 --> 01:07:08.000
+Federal system, uh, but in Canada, it's a metric system. So, local is the same English.
+
+01:07:08.000 --> 01:07:09.000
+Uh…
+
+01:07:09.000 --> 01:07:15.000
+No, um, no, no, no, you… The units… the unit's locale is different from the language. I'm not saying that. Yeah.
+
+01:07:15.000 --> 01:07:17.000
+Ah, okay, I see. Okay, okay, okay, okay, I see. Yeah, yeah, yeah, I see, okay.
+
+01:07:17.000 --> 01:07:23.000
+Yeah. The language does not change.
+
+01:07:23.000 --> 01:07:26.000
+Uh, okay.
+
+01:07:26.000 --> 01:07:40.000
+We will add these parameters just for rendering. Uh, and these, uh, setting space also must be changed, of course.
+
+01:07:40.000 --> 01:07:45.000
+Because it's quite old, and it doesn't make any sense.
+
+01:07:45.000 --> 01:07:50.000
+Uh…
+
+01:07:50.000 --> 01:08:00.000
+So, uh, filters. Was it in the main page, uh, with fixes from, uh, so he and…
+
+01:08:00.000 --> 01:08:09.000
+I'm not sure what they did.
+
+01:08:09.000 --> 01:08:14.000
+We did a bunch of updates and bug fixes for those filters.
+
+01:08:14.000 --> 01:08:27.000
+Uh… Since, uh, last call.
+
+01:08:27.000 --> 01:08:34.000
+I think you should show briefly filters for routes and destinations as well.
+
+01:08:34.000 --> 01:08:46.000
+Okay, okay. Uh, crowdfilters…
+
+01:08:46.000 --> 01:08:47.000
+Yeah, I'm here, what?
+
+01:08:47.000 --> 01:08:52.000
+See them, Parker? You see the filters?
+
+01:08:52.000 --> 01:08:53.000
+You know, I've seen…
+
+01:08:53.000 --> 01:09:00.000
+Yeah, it… it would be nice to hear from you any feedback.
+
+01:09:00.000 --> 01:09:04.000
+For UI, uh, maybe important filters, or whatever important you think.
+
+01:09:04.000 --> 01:09:22.000
+I saw inconsistency here, this two matrix, uh, looks nice, and corrected, but in a level above, it was named differently, and it was confusing.
+
+01:09:22.000 --> 01:09:27.000
+Somebody changed it. This is a company standard. Somebody decided.
+
+01:09:27.000 --> 01:09:31.000
+In some screens, I saw them ride the full… the full length.
+
+01:09:31.000 --> 01:09:41.000
+No, it was saying delta… delta distance, or delta time.
+
+01:09:41.000 --> 01:09:45.000
+Instead of between… and we, uh…
+
+01:09:45.000 --> 01:09:55.000
+I believe we are seeing destinations, not stops.
+
+01:09:55.000 --> 01:09:59.000
+I don't understand. If you want to show it, show it. If not, let's move on.
+
+01:09:59.000 --> 01:10:05.000
+Let's take a look, we can…
+
+01:10:05.000 --> 01:10:16.000
+Why was it? Zeus, uh…
+
+01:10:16.000 --> 01:10:29.000
+Uh, this map, uh, doesn't have an backend endpoint yet. Uh, but, uh, the scenarios page, uh, in the location tab.
+
+01:10:29.000 --> 01:10:36.000
+It's already uses live, um… backend endpoint for staging.
+
+01:10:36.000 --> 01:10:41.000
+Uh, Igor, can you show it to…
+
+01:10:41.000 --> 01:10:46.000
+Uh… what do I need to show? Can you repeat, please?
+
+01:10:46.000 --> 01:10:59.000
+Uh, can you go on the, uh, higher level? To actual list of scenarios for that… for that optimization.
+
+01:10:59.000 --> 01:11:01.000
+This one…
+
+01:11:01.000 --> 01:11:13.000
+Yeah, click on locations. Uh, and, uh, activate map, please.
+
+01:11:13.000 --> 01:11:19.000
+Yeah. Uh, so…
+
+01:11:19.000 --> 01:11:29.000
+It already uses the backend, uh… endpoint… Please click and show the, um…
+
+01:11:29.000 --> 01:11:35.000
+Layers. Yeah. And…
+
+01:11:35.000 --> 01:11:43.000
+Clusters… heatmap. And standard, um, layers. They should work all.
+
+01:11:43.000 --> 01:11:49.000
+Marker, we also added weather. You see the weather layer is back in… it's back in now.
+
+01:11:49.000 --> 01:11:50.000
+Uh, can you click on the weather, actually?
+
+01:11:50.000 --> 01:11:58.000
+The only… the… Yeah, the only thing I want to provide feedback for the next release, you need to add another arrow here.
+
+01:11:58.000 --> 01:12:02.000
+You gotta pick a date and a time picker. In the past or in the future.
+
+01:12:02.000 --> 01:12:04.000
+For weather.
+
+01:12:04.000 --> 01:12:09.000
+Yeah, because you want to see what the weather's gonna be like in the past or the future, you can't.
+
+01:12:09.000 --> 01:12:10.000
+Hmm.
+
+01:12:10.000 --> 01:12:11.000
+It's pointless otherwise. It's pointless otherwise.
+
+01:12:11.000 --> 01:12:24.000
+Yeah, it totally makes sense. Uh, we… Uh, true, we have the similar idea, but yeah, we need to implement it a sub.
+
+01:12:24.000 --> 01:12:26.000
+Okay, um, let me see if David…
+
+01:12:26.000 --> 01:12:35.000
+we will implement a small timeline beneath this map. If there, uh, whether there is enabled.
+
+01:12:35.000 --> 01:12:42.000
+then you will see a timeline that matches the… this range of this optimization.
+
+01:12:42.000 --> 01:12:52.000
+And you will be able to scroll through the dates of these scenarios.
+
+01:12:52.000 --> 01:12:53.000
+These are locations. You mean these…
+
+01:12:53.000 --> 01:12:59.000
+Yeah, but this… but all these strategic optimization, it is planned for some period of time.
+
+01:12:59.000 --> 01:13:07.000
+When we know this period of time, we can show a timeline to scroll weather through this period.
+
+01:13:07.000 --> 01:13:23.000
+He has a… Correct, great idea. I want to bring something up. We need a preview.
+
+01:13:23.000 --> 01:13:33.000
+We need a preview of the date picker. You know why? Because, go back to scenarios for a second.
+
+01:13:33.000 --> 01:13:41.000
+When you go along and looking at a scenario, you basically want to preview it starting from a specific time, right? I know you did a two-week cycle.
+
+01:13:41.000 --> 01:13:45.000
+You need to be able to start looking at it from a specific date.
+
+01:13:45.000 --> 01:13:52.000
+So if this is the date… then… then let's just pretend that this is correct. Let's say this is the date.
+
+01:13:52.000 --> 01:14:05.000
+We're missing a filter, by the way, on start date. That's the… that's… I'm not saying it's a huge problem, but it is a problem. We should definitely… I don't… this is the wrong section, too. The wrong header title.
+
+01:14:05.000 --> 01:14:10.000
+I feel like this should be called schedule, not route. But anyway, here's the thing.
+
+01:14:10.000 --> 01:14:15.000
+Okay.
+
+01:14:15.000 --> 01:14:26.000
+You already have the dates in your own, so technically, when you look at the weather, you could pass the date as an argument already.
+
+01:14:26.000 --> 01:14:32.000
+One thing we should put in… We could add it in a month, we don't have to add it right now.
+
+01:14:32.000 --> 01:14:40.000
+In the scenario planner. You know, we have the rules. In the regular route optimization profile is that it…
+
+01:14:40.000 --> 01:14:45.000
+If it's raining, if it's snowing, if it's colder, we can slow down the service time.
+
+01:14:45.000 --> 01:14:56.000
+So if, in future dates, we really should be slowing down the service time, based on.
+
+01:14:56.000 --> 01:15:01.000
+Some of these things. Does that make sense?
+
+01:15:01.000 --> 01:15:03.000
+Yes.
+
+01:15:03.000 --> 01:15:12.000
+Because you know the weather on the day, because the scheduler's telling you what day it's gonna be on.
+
+01:15:12.000 --> 01:15:15.000
+So if you know the weather, then you gotta slow down the service time.
+
+01:15:15.000 --> 01:15:19.000
+And the travel time.
+
+01:15:19.000 --> 01:15:28.000
+So, you mean on the, uh, on the step when we are creating actual scenarios?
+
+01:15:28.000 --> 01:15:36.000
+So, when we're picking, uh, the dates, we can grab actual weather.
+
+01:15:36.000 --> 01:15:48.000
+Um… I forgot the word. We can grab weather for the future and apply slowdown.
+
+01:15:48.000 --> 01:15:49.000
+Uh, percentages. Uh-huh, I see. Totally makes sense.
+
+01:15:49.000 --> 01:15:54.000
+Yeah. If that's what they configure it, if they enabled it, but yeah.
+
+01:15:54.000 --> 01:16:02.000
+And, of course, we need to filters for slowdowns here. Uh, for analysis.
+
+01:16:02.000 --> 01:16:03.000
+Yeah. But again, we don't have to do that right now.
+
+01:16:03.000 --> 01:16:06.000
+With the… maybe with the weather flex. I do understand. Mm-hmm.
+
+01:16:06.000 --> 01:16:20.000
+Maybe in a month. But…
+
+01:16:20.000 --> 01:16:26.000
+Can you go back to the map?
+
+01:16:26.000 --> 01:16:28.000
+This one…
+
+01:16:28.000 --> 01:16:37.000
+Yeah, this one. Uh… Parker, what do you think? What are we missing in metrics?
+
+01:16:37.000 --> 01:16:38.000
+Is it possible to show, like,
+
+01:16:38.000 --> 01:16:40.000
+If anything.
+
+01:16:40.000 --> 01:16:46.000
+Or to filter by route names, like, what's not clear to me is…
+
+01:16:46.000 --> 01:16:52.000
+like, what week sees are running to say, okay, well, sure, I see it on the map, but I don't understand…
+
+01:16:52.000 --> 01:16:57.000
+necessarily really quickly which ones are which.
+
+01:16:57.000 --> 01:17:06.000
+That's a good point. So… We gotta output either another… a list of routes here, like a helper list.
+
+01:17:06.000 --> 01:17:08.000
+Routes. And then, maybe, when you highlight them.
+
+01:17:08.000 --> 01:17:13.000
+Uh, what…
+
+01:17:13.000 --> 01:17:18.000
+You could… it'll show you the one, or with the eye icon.
+
+01:17:18.000 --> 01:17:21.000
+Or on hover.
+
+01:17:21.000 --> 01:17:30.000
+I agree. Also, Volvoa already draw a small. Calendar for such view.
+
+01:17:30.000 --> 01:17:35.000
+Uh, on the bot, uh, which will be located on the bottom of this map.
+
+01:17:35.000 --> 01:17:48.000
+So we can, uh, pick actual, uh, date and week. To filter out, and it will be way easier than drop-down filter, I think.
+
+01:17:48.000 --> 01:17:58.000
+I feel… okay, but you're… we're talking two unrelated things, but one that I feel like I've always seen calendars and, like, the top left or the top right.
+
+01:17:58.000 --> 01:18:04.000
+So we could potentially… making you a separator here, put the calendar here.
+
+01:18:04.000 --> 01:18:13.000
+When they… and then put the routes list here, and then when they click on a date, the routes list change automatically, and then the map updates, and then you solve through all the problems simultaneously.
+
+01:18:13.000 --> 01:18:14.000
+I like it. I will draw it.
+
+01:18:14.000 --> 01:18:21.000
+Yeah.
+
+01:18:21.000 --> 01:18:22.000
+Alright, correct. Good?
+
+01:18:22.000 --> 01:18:28.000
+And there will be all the information.
+
+01:18:28.000 --> 01:18:37.000
+Yeah. And then we can add tooltips as well. We will add tooltips.
+
+01:18:37.000 --> 01:18:38.000
+One thing that's not output is
+
+01:18:38.000 --> 01:18:39.000
+Obviously.
+
+01:18:39.000 --> 01:18:40.000
+Of course. Of course.
+
+01:18:40.000 --> 01:18:41.000
+like, the actual scenario settings, like…
+
+01:18:41.000 --> 01:18:45.000
+It's very helpful if you can see
+
+01:18:45.000 --> 01:18:47.000
+what the actual settings were.
+
+01:18:47.000 --> 01:18:48.000
+forwards, you know.
+
+01:18:48.000 --> 01:18:49.000
+It will be here. It will be another.
+
+01:18:49.000 --> 01:18:53.000
+stop, as it says, Applied Settings.
+
+01:18:53.000 --> 01:18:54.000
+Okay.
+
+01:18:54.000 --> 01:18:55.000
+Uh…
+
+01:18:55.000 --> 01:19:05.000
+It's, uh, in progress, uh, right now, uh, maybe, uh, one of the developers will show us some intermediate.
+
+01:19:05.000 --> 01:19:13.000
+Results, uh, because I saw… It's already yesterday on the call.
+
+01:19:13.000 --> 01:19:14.000
+Okay.
+
+01:19:14.000 --> 01:19:17.000
+With developers.
+
+01:19:17.000 --> 01:19:22.000
+Uh, which one? I mean? Which developer control.
+
+01:19:22.000 --> 01:19:23.000
+Sorry? Uh, Manar.
+
+01:19:23.000 --> 01:19:27.000
+Ah, okay.
+
+01:19:27.000 --> 01:19:33.000
+Banar, can you show us briefly apply setting stop?
+
+01:19:33.000 --> 01:19:43.000
+Yeah, okay. One minute, please.
+
+01:19:43.000 --> 01:19:50.000
+Oops, slotting. I'm not sure.
+
+01:19:50.000 --> 01:19:57.000
+I was just instant.
+
+01:19:57.000 --> 01:20:02.000
+It's your local dev environment or staging?
+
+01:20:02.000 --> 01:20:08.000
+It's dev environment, and I was like… Fixing it, so maybe what…
+
+01:20:08.000 --> 01:20:09.000
+Maybe you will show us in a few minutes when you're ready.
+
+01:20:09.000 --> 01:20:13.000
+A few minutes. Yeah. Okay.
+
+01:20:13.000 --> 01:20:14.000
+I have one thing to discuss about strategic plan.
+
+01:20:14.000 --> 01:20:16.000
+Okay.
+
+01:20:16.000 --> 01:20:22.000
+After last…
+
+01:20:22.000 --> 01:20:23.000
+Okay…
+
+01:20:23.000 --> 01:20:29.000
+Uh, well, give me a moment. Eager, Alexei, we… we show everything which we could for strategic…
+
+01:20:29.000 --> 01:20:34.000
+Yes.
+
+01:20:34.000 --> 01:20:36.000
+Okay, if, uh… Okay, okay.
+
+01:20:36.000 --> 01:20:42.000
+Back a minute, okay?
+
+01:20:42.000 --> 01:20:43.000
+Can I?
+
+01:20:43.000 --> 01:20:44.000
+I think Wolver can show us until we're waiting for Manala.
+
+01:20:44.000 --> 01:20:54.000
+Yeah. Okay, uh, so, uh, I left, uh, last week's discussion. I realized that we are missing one more entity here.
+
+01:20:54.000 --> 01:20:59.000
+Uh, we choose, and we named it Route Sets. So, a route set is a…
+
+01:20:59.000 --> 01:21:05.000
+subset of locations that are gonna be visited by the same person.
+
+01:21:05.000 --> 01:21:11.000
+It is a set of routes that are gonna be planned for this, uh…
+
+01:21:11.000 --> 01:21:14.000
+cluster of locations.
+
+01:21:14.000 --> 01:21:18.000
+And as I understood, uh…
+
+01:21:18.000 --> 01:21:23.000
+Most of customers want same people to visit the same locations always.
+
+01:21:23.000 --> 01:21:26.000
+And not allowed to visit, uh…
+
+01:21:26.000 --> 01:21:30.000
+by others. So we need to, uh…
+
+01:21:30.000 --> 01:21:35.000
+explicitly shows these clusters.
+
+01:21:35.000 --> 01:21:36.000
+Uh, so we, uh…
+
+01:21:36.000 --> 01:21:47.000
+boots, routes, plant routes together into sets that will be executed by the same person.
+
+01:21:47.000 --> 01:21:50.000
+So we had a route sets list.
+
+01:21:50.000 --> 01:21:57.000
+Uh, where you can see, uh, the, geographically, how many rows in each set.
+
+01:21:57.000 --> 01:22:01.000
+How many locations each set, and a few…
+
+01:22:01.000 --> 01:22:06.000
+quality metrics of each route set.
+
+01:22:06.000 --> 01:22:11.000
+What do you think?
+
+01:22:11.000 --> 01:22:13.000
+I understand it after you explained it.
+
+01:22:13.000 --> 01:22:22.000
+it's not immediately clear to me that this is, like, week-to-week routes. So, the one column that you have with 20 routes, I understand that it's a route set.
+
+01:22:22.000 --> 01:22:25.000
+And there's 20 routes in there.
+
+01:22:25.000 --> 01:22:30.000
+It's not… doesn't feel that clear to me. I mean, I get it.
+
+01:22:30.000 --> 01:22:39.000
+I don't… this isn't… I think that this is a totally different… topic, and I don't think that's related to strategic planner. We explained last week that.
+
+01:22:39.000 --> 01:22:47.000
+How to calculate if it's the same route week over week. The problem was that in one week, the algorithm is calling Route 1.
+
+01:22:47.000 --> 01:22:55.000
+With the same 10 stops, it's going around 1, but then in the second week, it's going around 7, and it's the exact same 10 stops.
+
+01:22:55.000 --> 01:22:56.000
+That was the problem. This does not solve that problem.
+
+01:22:56.000 --> 01:23:03.000
+And you don't have… you don't have any way to see how this routes 1 and Route 7 are related, but they belong to the same route set.
+
+01:23:03.000 --> 01:23:05.000
+We do have a way, I explained it. I spent an hour explaining it last time.
+
+01:23:05.000 --> 01:23:07.000
+Yes, but, but…
+
+01:23:07.000 --> 01:23:11.000
+from UI, we don't show it. Anyway, how they are related?
+
+01:23:11.000 --> 01:23:18.000
+This is a totally separate thing. This is a totally separate thing. It's not related to what we're trying to solve. It needs to be done, but this is a totally separate thing.
+
+01:23:18.000 --> 01:23:21.000
+Yeah. So…
+
+01:23:21.000 --> 01:23:25.000
+This is… this is the territory planning. This is automated territory planning.
+
+01:23:25.000 --> 01:23:27.000
+No, no, this is basically just grouping of these related routes together.
+
+01:23:27.000 --> 01:23:30.000
+Which…
+
+01:23:30.000 --> 01:23:50.000
+So, uh, this route said, uh, group routes, by the principle that they are meant to be executed by the same person.
+
+01:23:50.000 --> 01:24:02.000
+This is a very complicated topic that cannot be discussed right now. It's just… this is not… This is just… I don't want to say anything except that it's too complicated to discuss right now.
+
+01:24:02.000 --> 01:24:09.000
+I will say that the strategic scenario planner. That we have, Igor, it needs to be able to do.
+
+01:24:09.000 --> 01:24:15.000
+The same thing that you guys generate with the clusterization algorithm.
+
+01:24:15.000 --> 01:24:24.000
+During the, uh, smart zones that you generate. We need to be able to put…
+
+01:24:24.000 --> 01:24:31.000
+Imagine you have Geotab, or Samsara, or some ERP system, or some SAP, whatever.
+
+01:24:31.000 --> 01:24:40.000
+And from all these systems, you get your orders. And your customer locations.
+
+01:24:40.000 --> 01:24:44.000
+And what we need to do is we need to take any number.
+
+01:24:44.000 --> 01:24:52.000
+Of orders. 100,000, a million, doesn't matter. It goes into that system… the clusterization engine.
+
+01:24:52.000 --> 01:24:57.000
+And it generates the smart zones, and the smart zones get stored to territories.
+
+01:24:57.000 --> 01:25:03.000
+With a different status code. Which is basically a territory simulation.
+
+01:25:03.000 --> 01:25:12.000
+It's basically a copy of the Strategic Optimization Wizard, but rather than doing the route planning mode, you're doing territory planning mode.
+
+01:25:12.000 --> 01:25:19.000
+This is closer to what withdrew, is that territory planning mode.
+
+01:25:19.000 --> 01:25:30.000
+Where we're proposing ideas for territories. And then in the scenarios, you're putting no more than $100,000 per territory, no more than…
+
+01:25:30.000 --> 01:25:44.000
+50,000 stops for territory, and no more than… 25 miles between stops, that goes into smart zones. Smart zones generates the ideas, and then it shows almost the same.
+
+01:25:44.000 --> 01:25:53.000
+As this, but based on your historical order data. Or your customers. This is a… this is an interesting topic, but it's not… it's a totally unrelated topic.
+
+01:25:53.000 --> 01:25:56.000
+Uh, let me put it in another perspective.
+
+01:25:56.000 --> 01:26:01.000
+So, here is a routes list, and now it has a grouping.
+
+01:26:01.000 --> 01:26:07.000
+by route set, so you can see which routes belong to the same person.
+
+01:26:07.000 --> 01:26:12.000
+Uh, and so these route sets, they share…
+
+01:26:12.000 --> 01:26:14.000
+There's no concept of routes that belong to the same person. You invented this concept.
+
+01:26:14.000 --> 01:26:24.000
+Yeah, but… but… but as far as I understand, customers want to visit, so…
+
+01:26:24.000 --> 01:26:33.000
+the same person visits the same set of customers every time. So, these routes are belong to each, uh, are related to each other, because they share
+
+01:26:33.000 --> 01:26:35.000
+the same set of locations.
+
+01:26:35.000 --> 01:26:41.000
+And this route, meant to be executed by the same person for this reason, because
+
+01:26:41.000 --> 01:26:49.000
+They share the same set of destinations.
+
+01:26:49.000 --> 01:26:58.000
+Uh, and we are missing a grouping on this principle.
+
+01:26:58.000 --> 01:26:59.000
+By this criteria.
+
+01:26:59.000 --> 01:27:10.000
+We talked about that, and that… and it's not what you visualize. What you showed, and what you're showing now, is two totally different things.
+
+01:27:10.000 --> 01:27:13.000
+It's a very different concepts.
+
+01:27:13.000 --> 01:27:20.000
+So, is this, uh, just a grouping, uh, for routes that are related to each other?
+
+01:27:20.000 --> 01:27:27.000
+Because they share the same set of locations.
+
+01:27:27.000 --> 01:27:33.000
+Exactly, and I'm saying that it's a totally separate thing. I'm not saying it's bad, I'm saying that it's actually… it's correct, but it's just totally separate.
+
+01:27:33.000 --> 01:27:40.000
+Mm-hmm.
+
+01:27:40.000 --> 01:27:43.000
+Okay, uh… let… Manage Show.
+
+01:27:43.000 --> 01:27:51.000
+We know, we know, we know that we need… that, uh…
+
+01:27:51.000 --> 01:27:57.000
+What do you call it?
+
+01:27:57.000 --> 01:28:07.000
+That mode. We know we need that mode. Hold on a second, I gotta… give me one second, sorry.
+
+01:28:07.000 --> 01:28:17.000
+Uh… meanwhile, let Manar… share his screen.
+
+01:28:17.000 --> 01:28:33.000
+Hello, everybody, again. Let me demonstrate…
+
+01:28:33.000 --> 01:28:40.000
+Come on.
+
+01:28:40.000 --> 01:28:50.000
+So, as you can see, I had a new tab called Apply Settings. It's closed by the feature flag, so… we can close it anywhere, anytime we want.
+
+01:28:50.000 --> 01:28:57.000
+It has a few settings that we have right now. It's general, schedule, and optimization.
+
+01:28:57.000 --> 01:29:04.000
+Like, tabs, sourcing. Everything is from the scenario, and…
+
+01:29:04.000 --> 01:29:09.000
+I guess… There will be more.
+
+01:29:09.000 --> 01:29:14.000
+Because, as always, as I saw in design, it should be more the data.
+
+01:29:14.000 --> 01:29:23.000
+We'll add that later. Right now, we have only 3 tabs, but… It's a quite… self-describable.
+
+01:29:23.000 --> 01:29:31.000
+Uh, why earliest roads start and latest road start at the same time?
+
+01:29:31.000 --> 01:29:36.000
+Well, I don't know. So it came in its way.
+
+01:29:36.000 --> 01:29:37.000
+I'm using the backend, so… It's weird, yeah.
+
+01:29:37.000 --> 01:29:41.000
+Uh, are you… It's worth. We will check it. It doesn't make…
+
+01:29:41.000 --> 01:29:54.000
+Actually, actually, actually, it's possible, but it's worth, because in the solar or in the API, it is just a start time, it's 6 AM.
+
+01:29:54.000 --> 01:30:02.000
+Yeah. Maybe it's this stage. Like that, hits on the local machine, but I'm using the staging APIs.
+
+01:30:02.000 --> 01:30:09.000
+Maybe we have another three scenarios. No, no…
+
+01:30:09.000 --> 01:30:10.000
+So that we can…
+
+01:30:10.000 --> 01:30:14.000
+Time zone also is not formatted, uh. Uh, user-friendly yet.
+
+01:30:14.000 --> 01:30:24.000
+Yeah, it will be from after. Yeah, uh, the time zone, uh…
+
+01:30:24.000 --> 01:30:25.000
+I have to drop for another call.
+
+01:30:25.000 --> 01:30:28.000
+Pull request is already merged. I didn't.
+
+01:30:28.000 --> 01:30:32.000
+Okay? Have a good day.
+
+01:30:32.000 --> 01:30:33.000
+Thanks, guys.
+
+01:30:33.000 --> 01:30:41.000
+Uh, we have a time zone. Utilities, but they are in different pull requests, and they just merged yet, so I will add it a little earlier today.
+
+01:30:41.000 --> 01:30:47.000
+It's fine, it's fine. Look, the main thing… Yeah, Volvoa…
+
+01:30:47.000 --> 01:30:55.000
+Here's the confusing part that I'm trying… that when you have a route, and you have the route, and it's the same guy.
+
+01:30:55.000 --> 01:31:02.000
+And he's doing different. He has 5 days a week that he works, or 4 days a week that he works, and he does the same.
+
+01:31:02.000 --> 01:31:08.000
+And the forest… on the first week, he does forest stuff. On the second week, he does stuff.
+
+01:31:08.000 --> 01:31:18.000
+And that what happens is. They, um…
+
+01:31:18.000 --> 01:31:24.000
+The system needs to provide an opinion. About, okay, these are the same routes?
+
+01:31:24.000 --> 01:31:25.000
+That… from week to week? And then that's it.
+
+01:31:25.000 --> 01:31:42.000
+They may not be the same, they may be not the same completely. They may be similar, pretty similar, but they're meant to be visited by the same person. They meant to be assigned to the same person.
+
+01:31:42.000 --> 01:31:44.000
+How's the system gonna know that?
+
+01:31:44.000 --> 01:31:50.000
+Because, uh, those roads share the same set of locations.
+
+01:31:50.000 --> 01:31:52.000
+And customers want to…
+
+01:31:52.000 --> 01:31:59.000
+No, you just said that they're not the same, you just said they're…
+
+01:31:59.000 --> 01:32:04.000
+Let's try this one, maybe.
+
+01:32:04.000 --> 01:32:25.000
+No, no, take your… this is also on here. Hey, so I knew…
+
+01:32:25.000 --> 01:32:38.000
+store.
+
+01:32:38.000 --> 01:32:40.000
+told your driver position, I told you the location of SIGDA.
+
+01:32:40.000 --> 01:32:47.000
+The design system is a repeat design is a custom location of the court of a detailer.
+
+01:32:47.000 --> 01:32:50.000
+Rasputili.
+
+01:32:50.000 --> 01:32:51.000
+Um, no…
+
+01:32:51.000 --> 01:32:55.000
+Yeah, yeah, no. Yeah, that…
+
+01:32:55.000 --> 01:32:58.000
+To share it with the…
+
+01:32:58.000 --> 01:32:59.000
+The location… I think that in terms of Chileavan.
+
+01:32:59.000 --> 01:33:06.000
+Anokur.
+
+01:33:06.000 --> 01:33:24.000
+And that, then you give away each can create mo. At the mushta…
+
+01:33:24.000 --> 01:33:32.000
+I'll just…
+
+01:33:32.000 --> 01:33:45.000
+Not the answer. The anti-customers, AT Arstonovsky.
+
+01:33:45.000 --> 01:33:53.000
+Hey, no, the… In other bulletes, because I… Lotitska also raising.
+
+01:33:53.000 --> 01:33:55.000
+Ethan, you can create another digital abstract my group across the principal guys.
+
+01:33:55.000 --> 01:34:16.000
+Okay, Shakarna, yappa… The STBS card show now.
+
+01:34:16.000 --> 01:34:27.000
+Okay? Now, booted.
+
+01:34:27.000 --> 01:34:40.000
+Yeah. Yeah, when you might be sneaking.
+
+01:34:40.000 --> 01:34:56.000
+Oh, the optimization engine, more…
+
+01:34:56.000 --> 01:35:07.000
+Yeah, it's not… yeah, yeah, yeah, good… Yeah, good thing to continue with, Tim.
+
+01:35:07.000 --> 01:35:08.000
+As you can see, that was snapshot percussion facility.
+
+01:35:08.000 --> 01:35:17.000
+Hey, you're on with us now.
+
+01:35:17.000 --> 01:35:18.000
+manner.
+
+01:35:18.000 --> 01:35:22.000
+Uh, David on the call, uh, Alexei, David on the call, it's better to switch to English.
+
+01:35:22.000 --> 01:35:26.000
+Ah, ah, sweet.
+
+01:35:26.000 --> 01:35:33.000
+monarch, maybe we will show, uh… time zone component.
+
+01:35:33.000 --> 01:35:35.000
+It's really… yeah.
+
+01:35:35.000 --> 01:35:36.000
+Let's do it. Let's do it. Yep.
+
+01:35:36.000 --> 01:36:00.000
+Maybe. Yeah, it's a little… let's see. Deploy, you know? One sec…
+
+01:36:00.000 --> 01:36:01.000
+Mm-hmm.
+
+01:36:01.000 --> 01:36:05.000
+It's pretty simple. Not following design, but…
+
+01:36:05.000 --> 01:36:11.000
+Eventually. Something right here.
+
+01:36:11.000 --> 01:36:19.000
+It's used autocomplete, so you can search. Cool. Any… time zone you want.
+
+01:36:19.000 --> 01:36:27.000
+It saves the latest… time zones you used, so… They stored in the local storage.
+
+01:36:27.000 --> 01:36:28.000
+And we will delete some countries, yeah?
+
+01:36:28.000 --> 01:36:33.000
+So, on the browser.
+
+01:36:33.000 --> 01:36:34.000
+From this… from the… from this list.
+
+01:36:34.000 --> 01:36:38.000
+Already deleted some countries. There is not something like Russia or…
+
+01:36:38.000 --> 01:36:40.000
+Mm-hmm. Yeah.
+
+01:36:40.000 --> 01:36:41.000
+Mm-hmm.
+
+01:36:41.000 --> 01:36:43.000
+No, North Korea or something like that. Removed them already.
+
+01:36:43.000 --> 01:36:55.000
+In this time zone is related to upload data, not G2 scenario, because we are setting it on scenario level, so you can pick different time zones for different scenarios. This is kind of…
+
+01:36:55.000 --> 01:37:01.000
+wrong. I believe it should be set on…
+
+01:37:01.000 --> 01:37:03.000
+While you're mapping data.
+
+01:37:03.000 --> 01:37:05.000
+So, you are…
+
+01:37:05.000 --> 01:37:07.000
+explaining in which time zone
+
+01:37:07.000 --> 01:37:08.000
+data is.
+
+01:37:08.000 --> 01:37:14.000
+Hey, Dan, this is Dave. I was able to join
+
+01:37:14.000 --> 01:37:15.000
+Because you uploaded a file,
+
+01:37:15.000 --> 01:37:16.000
+Hmm…
+
+01:37:16.000 --> 01:37:18.000
+And, uh, it is not obvious in which time zone time that file was.
+
+01:37:18.000 --> 01:37:23.000
+Yeah.
+
+01:37:23.000 --> 01:37:26.000
+Yes, I think what you're saying, Vova, is that
+
+01:37:26.000 --> 01:37:38.000
+Rather than having a generic time zone, the time zone for the locations and the time zone for the facilities are what matter.
+
+01:37:38.000 --> 01:37:40.000
+Well, I can add that. Now, we are using only lists.
+
+01:37:40.000 --> 01:37:42.000
+Uh, uh, uh…
+
+01:37:42.000 --> 01:37:43.000
+All available time zones, well, according to our country, or…
+
+01:37:43.000 --> 01:37:49.000
+I'm not seeing any benefit in allowing to pick different time zones for different scenarios.
+
+01:37:49.000 --> 01:38:07.000
+Can you… give a pause a little bit? Manar… shows only new component for choosing time zones.
+
+01:38:07.000 --> 01:38:09.000
+His work doesn't related to what you're talking about right now.
+
+01:38:09.000 --> 01:38:10.000
+Yeah.
+
+01:38:10.000 --> 01:38:11.000
+Hmm.
+
+01:38:11.000 --> 01:38:17.000
+We talked about time zones with Dan, uh, a few hours ago.
+
+01:38:17.000 --> 01:38:29.000
+People are working hard on this task. This is the reason why they are not on that call right now. Let's not waste anybody's time, okay?
+
+01:38:29.000 --> 01:38:31.000
+If you think this is a waste of time, okay?
+
+01:38:31.000 --> 01:38:32.000
+Okay?
+
+01:38:32.000 --> 01:38:36.000
+So, David, the…
+
+01:38:36.000 --> 01:38:42.000
+I was talking about it.
+
+01:38:42.000 --> 01:38:47.000
+Me and Igor, we spent 10 hours on time zones. That's why we don't need to talk about it more.
+
+01:38:47.000 --> 01:38:48.000
+Because they already know what we're doing.
+
+01:38:48.000 --> 01:38:58.000
+Makes sense, yep. Makes sense.
+
+01:38:58.000 --> 01:38:59.000
+Yeah, yeah, which is, yeah, which is nice. It's good.
+
+01:38:59.000 --> 01:39:07.000
+There's a time zone picker now, is the point, is the… the main… the main, uh…
+
+01:39:07.000 --> 01:39:08.000
+Uh-huh.
+
+01:39:08.000 --> 01:39:09.000
+It will be better. We have a new design.
+
+01:39:09.000 --> 01:39:13.000
+The big picture, the big picture, David, is that the customer will pick.
+
+01:39:13.000 --> 01:39:24.000
+How they want to do the time zone, so… They want to do it off of the depot, they could do it off of the facility, they could do it off of their account's primary zone, they could do it…
+
+01:39:24.000 --> 01:39:33.000
+Based on a variety of different things.
+
+01:39:33.000 --> 01:39:34.000
+Thank you.
+
+01:39:34.000 --> 01:39:35.000
+Okay, I'm done. Here.
+
+01:39:35.000 --> 01:39:39.000
+That's it. There's no… there's no good answer. The biggest… Volvo, you want to help with the time zones?
+
+01:39:39.000 --> 01:39:48.000
+Please come up with a design for the timeline. Where… where they could pick the time zone. There's gonna be…
+
+01:39:48.000 --> 01:39:52.000
+The time… the time zone has been changed in the timeline.
+
+01:39:52.000 --> 01:40:01.000
+With a drop-down. They have to pick… They have to pick how they want to see the Gantt chart. The time zone of the Gantt chart. They could pick.
+
+01:40:01.000 --> 01:40:13.000
+The browser's computer time, they could pick… each… they could pick UT, uh, in any arbitrary time zone, or they could pick.
+
+01:40:13.000 --> 01:40:20.000
+Um… show everything in its own time zone, and then every route.
+
+01:40:20.000 --> 01:40:25.000
+And the timeline will have its own offset. So, it has to be done.
+
+01:40:25.000 --> 01:40:39.000
+Very clean. And uh… The easiest… the first thing to do is… to let them pick. They have to pick, uh…
+
+01:40:39.000 --> 01:40:40.000
+Yeah. Uh, okay, I'll provide some ideas.
+
+01:40:40.000 --> 01:40:47.000
+What they want to see on the Gantt chart. And…
+
+01:40:47.000 --> 01:40:56.000
+Okay, can you… Igor Manar, can you quickly show David the… really quickly, the weather stuff, and also the, uh…
+
+01:40:56.000 --> 01:41:06.000
+He was tied up in an important customer call. The weather stuff and the, uh, the preview of the route map, so he could give us some ideas of what we might be missing.
+
+01:41:06.000 --> 01:41:11.000
+Uh, it's better to ask Evgeny to show, because he's the main developer for Map, for layers.
+
+01:41:11.000 --> 01:41:21.000
+Yeah, maybe… yeah, that's fine. I thought it was the other guys, it's no problem. Whoever wants to show it can show it.
+
+01:41:21.000 --> 01:41:24.000
+Do you see my screen now?
+
+01:41:24.000 --> 01:41:25.000
+So look, David, so I'll walk you through it quickly, just since… I'll talk faster than English.
+
+01:41:25.000 --> 01:41:30.000
+Yes.
+
+01:41:30.000 --> 01:41:38.000
+This is a preview of the route, so every route that's gonna be on that day is gonna be here. We're gonna add another table to the left, it's gonna have the list of the routes.
+
+01:41:38.000 --> 01:41:43.000
+And the calendar picker on top of that. They wanted to jump to another date.
+
+01:41:43.000 --> 01:41:44.000
+But basically, it's gonna… that's how it's gonna show up over here.
+
+01:41:44.000 --> 01:41:51.000
+Makes sense, okay.
+
+01:41:51.000 --> 01:41:52.000
+Yeah, looks good. Yeah.
+
+01:41:52.000 --> 01:41:58.000
+Okay? So that's… we're getting closer. We're getting closer to what we talked about. So this'll be up in the next few couple days, probably.
+
+01:41:58.000 --> 01:42:04.000
+Nice, okay.
+
+01:42:04.000 --> 01:42:07.000
+Yeah, I just… yeah, just, yeah, I just grab one really quickly, yeah.
+
+01:42:07.000 --> 01:42:08.000
+looks good.
+
+01:42:08.000 --> 01:42:17.000
+What… if you want to take a screenshot of this, please do, David, because we want… The reason I'm asking is because we might be missing some metrics that we're not… we don't know about, or that… because they're rushing to do it, and so if you have some ideas on certain KPIs.
+
+01:42:17.000 --> 01:42:21.000
+Okay, I'm gonna fast-forward and say 3 or 6 months from now.
+
+01:42:21.000 --> 01:42:26.000
+The customer's gonna be able to select the KPI they want to see.
+
+01:42:26.000 --> 01:42:33.000
+But if we're talking about 3 to 6 days from now, we gotta just pick the top 10 KPIs that we think.
+
+01:42:33.000 --> 01:42:34.000
+Yeah. Makes sense.
+
+01:42:34.000 --> 01:42:40.000
+Applicable to everybody.
+
+01:42:40.000 --> 01:42:44.000
+So, the second thing is that we have a new weather layer.
+
+01:42:44.000 --> 01:42:49.000
+It's gonna… it's gonna be enabled everywhere? Including here.
+
+01:42:49.000 --> 01:42:54.000
+And then based… you notice that there's a route start date, so then based on the route start date.
+
+01:42:54.000 --> 01:42:55.000
+Yeah.
+
+01:42:55.000 --> 01:43:03.000
+The weather conditions will change on the map. We use it from our weather vendor.
+
+01:43:03.000 --> 01:43:04.000
+I don't know. Yeah, yeah.
+
+01:43:04.000 --> 01:43:13.000
+See, you see it says what… So, I remember you had a custody… you mentioned that some customers, this is really important for them.
+
+01:43:13.000 --> 01:43:17.000
+Yeah, that's really nice.
+
+01:43:17.000 --> 01:43:18.000
+And then we had…
+
+01:43:18.000 --> 01:43:23.000
+And this is… and this is forecasting it for the day, or for the time that they're gonna be there?
+
+01:43:23.000 --> 01:43:25.000
+Yeah, the day and the time and the place.
+
+01:43:25.000 --> 01:43:32.000
+Okay, yeah, yeah, yeah, so it's specific to that location for the time that they're at the location, okay.
+
+01:43:32.000 --> 01:43:37.000
+So, the next step is then to incorporate this into the routing profile so that.
+
+01:43:37.000 --> 01:43:45.000
+Their typical weather service slowdowns, all that shit are… are properly, uh, linked.
+
+01:43:45.000 --> 01:43:46.000
+So that…
+
+01:43:46.000 --> 01:43:54.000
+Is the weather provider provide… I know some weather providers out there will provide specific, uh, you know, road risk scores, different combinations of different weather mean different…
+
+01:43:54.000 --> 01:43:59.000
+degradations in road speed. Are we getting that from them, or we're trying to calculate ourselves?
+
+01:43:59.000 --> 01:44:08.000
+We're trying to calculate ourselves, but I know that this one does have that, we could look into it. In fact, I could send you the info if you want to take… spend 30 minutes.
+
+01:44:08.000 --> 01:44:09.000
+Sure, yeah.
+
+01:44:09.000 --> 01:44:15.000
+Smell-tested or contact support, then by all means, you could…
+
+01:44:15.000 --> 01:44:23.000
+Yeah, yeah, feel free to send whatever you have. Yeah, I evaluated a bunch of them when I was at Omnitracks, just seeing what they offered, and even, like, TomTom here offered it, because they were
+
+01:44:23.000 --> 01:44:26.000
+getting it from some of the same vendors.
+
+01:44:26.000 --> 01:44:37.000
+Yeah, there's a legit vendor, I think that they had an M&A deal in the last 2 or 3 years, and they're, uh… focused exclusively on weather and weather optimization stuff, and…
+
+01:44:37.000 --> 01:44:47.000
+They're real good. So, uh, and they do historical and future. So, and they… and, like, 6 different or 10 different types of…
+
+01:44:47.000 --> 01:44:48.000
+Oh, perfect.
+
+01:44:48.000 --> 01:44:51.000
+Weather attributes.
+
+01:44:51.000 --> 01:45:02.000
+The idea is obviously that it would change, uh… the customer would say, look, if it's… for every 10 degrees it gets colder, I want to slow down my service time by one… by…
+
+01:45:02.000 --> 01:45:05.000
+You know, 10% or 30 seconds, or forget.
+
+01:45:05.000 --> 01:45:10.000
+Correct, yeah, or fog… fog slows the roads down this much, fog plus rain.
+
+01:45:10.000 --> 01:45:12.000
+Now, rules engine we gotta put in at the account level.
+
+01:45:12.000 --> 01:45:16.000
+Yeah. Yeah.
+
+01:45:16.000 --> 01:45:17.000
+Correct, yeah.
+
+01:45:17.000 --> 01:45:20.000
+Or the optimization model.
+
+01:45:20.000 --> 01:45:27.000
+This is really great.
+
+01:45:27.000 --> 01:45:35.000
+Okay, and then, um… Guys, can you show me the filter quick?
+
+01:45:35.000 --> 01:45:37.000
+The filters, filters here.
+
+01:45:37.000 --> 01:45:48.000
+So we've got… there's no… She can find the…
+
+01:45:48.000 --> 01:45:49.000
+Okay.
+
+01:45:49.000 --> 01:45:50.000
+Dimensional and financial filters are wrong.
+
+01:45:50.000 --> 01:45:58.000
+No, they're fixed. Thing. Yeah, that's good.
+
+01:45:58.000 --> 01:46:02.000
+She could filter now pretty much anything in the scenario.
+
+01:46:02.000 --> 01:46:09.000
+That's great. Yeah, so you could just look at one specific route for one specific week,
+
+01:46:09.000 --> 01:46:15.000
+or specific days across weeks. Okay, that's great.
+
+01:46:15.000 --> 01:46:22.000
+Yeah. And then, um…
+
+01:46:22.000 --> 01:46:32.000
+And then the other big one is in the route snapshot, we have now information about.
+
+01:46:32.000 --> 01:46:38.000
+The, uh, we just got more info and more variables and other stuff that they brought… that they put into this.
+
+01:46:38.000 --> 01:46:46.000
+System.
+
+01:46:46.000 --> 01:46:53.000
+Yeah, can somebody pick the sharing screen for the snapshot? Because, uh, yeah.
+
+01:46:53.000 --> 01:46:58.000
+I don't think I can do it.
+
+01:46:58.000 --> 01:47:06.000
+Uh, Igor, can you show… quickly, uh, snapshot from.
+
+01:47:06.000 --> 01:47:07.000
+Strategic optimization.
+
+01:47:07.000 --> 01:47:14.000
+The thing is Star Wars.
+
+01:47:14.000 --> 01:47:20.000
+Yeah.
+
+01:47:20.000 --> 01:47:30.000
+Uh, it's not complete, because we don't have backend endpoint yet, so it uses, uh, mocked data as well.
+
+01:47:30.000 --> 01:47:40.000
+Uh, but soon, backend will be ready, we will connect. The endpoint.
+
+01:47:40.000 --> 01:47:48.000
+And it will work. Then it's quite hard to understand your voice completely.
+
+01:47:48.000 --> 01:47:49.000
+Yeah, it's… yeah, it's choppy, yeah.
+
+01:47:49.000 --> 01:47:54.000
+Completely break down.
+
+01:47:54.000 --> 01:48:01.000
+We see the settings yet on his mobile screen? Or not yet.
+
+01:48:01.000 --> 01:48:02.000
+The route settings. The route settings that were used for the scenario simulation.
+
+01:48:02.000 --> 01:48:09.000
+Uh, can you repeat which settings?
+
+01:48:09.000 --> 01:48:14.000
+Remember, he had a loading error, the skeleton was frozen?
+
+01:48:14.000 --> 01:48:19.000
+Ah, uh… It's not on staging yet. Manar, can you…
+
+01:48:19.000 --> 01:48:22.000
+Yeah, I'm saying, on his local, local, can he show it on the local, please?
+
+01:48:22.000 --> 01:48:30.000
+Yeah, yeah, yeah, yeah. Yeah. Uh, Manar Shoal, please, apply its settings again.
+
+01:48:30.000 --> 01:48:43.000
+One second.
+
+01:48:43.000 --> 01:48:44.000
+Here, we have only 3 scenarios, so… not much information here.
+
+01:48:44.000 --> 01:48:49.000
+Yep.
+
+01:48:49.000 --> 01:48:57.000
+It's the second one, max row duration 8 hour. Someone created that.
+
+01:48:57.000 --> 01:49:07.000
+We have a tree view here, have a lot of information. It's coming from the backend, so… It's not to mock data, it's real data.
+
+01:49:07.000 --> 01:49:12.000
+Right now, it's on the staging, so… maybe… not quite.
+
+01:49:12.000 --> 01:49:16.000
+Great, but I think in production it will be much, much.
+
+01:49:16.000 --> 01:49:17.000
+Yeah, interesting.
+
+01:49:17.000 --> 01:49:24.000
+This is great, yeah, and this is just a way for them to see what they used.
+
+01:49:24.000 --> 01:49:25.000
+Yeah.
+
+01:49:25.000 --> 01:49:26.000
+Yeah. When you created the… Scenarios.
+
+01:49:26.000 --> 01:49:27.000
+Yes.
+
+01:49:27.000 --> 01:49:28.000
+Will some… if I go ahead.
+
+01:49:28.000 --> 01:49:31.000
+And… yeah, David, no, no, you go ahead. You say it, and then… Go ahead, please.
+
+01:49:31.000 --> 01:49:40.000
+Yeah, my question was gonna be, I know we have a list of scenarios before we get into the route levels, we just have a list of scenarios. Will some of the settings
+
+01:49:40.000 --> 01:49:44.000
+be columns that are available to view for the scenario, so that if I'm looking at a list of scenarios,
+
+01:49:44.000 --> 01:49:50.000
+That's exactly it. That's why I stopped talking, because you fucking… you beat me to it, exactly right.
+
+01:49:50.000 --> 01:49:51.000
+Yeah.
+
+01:49:51.000 --> 01:49:55.000
+The comparison, the side-by-side comparison.
+
+01:49:55.000 --> 01:49:56.000
+Yes, we will add, of course.
+
+01:49:56.000 --> 01:50:04.000
+Here's scenarios. We'll add much more information here. Right now, it's, uh…
+
+01:50:04.000 --> 01:50:08.000
+Simple one, but I think… It's better to have something, right?
+
+01:50:08.000 --> 01:50:15.000
+You remember, David, our objective is to just… is to just completely obliterate the competition.
+
+01:50:15.000 --> 01:50:16.000
+So, it's whatever we learned, but also whatever you could tell us.
+
+01:50:16.000 --> 01:50:28.000
+Okay.
+
+01:50:28.000 --> 01:50:31.000
+Okay, anything else?
+
+01:50:31.000 --> 01:50:37.000
+Not… no, no, not… they… they… they don't. I mean, typically,
+
+01:50:37.000 --> 01:50:41.000
+You can get to these settings, but you have to go inside of the…
+
+01:50:41.000 --> 01:50:44.000
+You have to go inside of the actual profiles,
+
+01:50:44.000 --> 01:50:48.000
+what they might call a strategic pass, or, you know, a routing pass to be able to see the settings.
+
+01:50:48.000 --> 01:50:51.000
+seeing it easy like this, they won't have.
+
+01:50:51.000 --> 01:50:59.000
+And even at the level that we were talking about, and the list of scenarios or optimizations, they wouldn't have it there. It's typically just a list of
+
+01:50:59.000 --> 01:51:03.000
+Okay, these are the planning sessions, the scenarios that I ran.
+
+01:51:03.000 --> 01:51:06.000
+they wouldn't have some of these applied settings there.
+
+01:51:06.000 --> 01:51:08.000
+Easily, but for me…
+
+01:51:08.000 --> 01:51:09.000
+Yeah.
+
+01:51:09.000 --> 01:51:10.000
+Yeah, because it's a pain in the ass to compare it. It's like looking at 5 different stocks.
+
+01:51:10.000 --> 01:51:17.000
+Exactly. But for me, I was even talking with, you know, I was talking with Parker and Vlad about this the other day.
+
+01:51:17.000 --> 01:51:23.000
+If I can see that I ran one scenario at max duration 8 hours, another scenario at max duration 10 hours,
+
+01:51:23.000 --> 01:51:26.000
+Another one, max duration, you know, 8 hours.
+
+01:51:26.000 --> 01:51:31.000
+And maybe different number of routes. I did this one at 10 routes, I did this one at 11 routes.
+
+01:51:31.000 --> 01:51:36.000
+then very quickly, it becomes really easy to see what all the differences were, you know?
+
+01:51:36.000 --> 01:51:40.000
+here's why I had less unrided locations, here's why, you know…
+
+01:51:40.000 --> 01:51:44.000
+this happened, um…
+
+01:51:44.000 --> 01:51:47.000
+That's exactly right. And we just talked about that at length with the guys. You're totally right.
+
+01:51:47.000 --> 01:51:50.000
+Yeah.
+
+01:51:50.000 --> 01:52:00.000
+Which brings me to my next question about… about this, and that question is, um…
+
+01:52:00.000 --> 01:52:01.000
+Yeah.
+
+01:52:01.000 --> 01:52:14.000
+Volvo, can you draw a full-screen mode? Because if I want to compare 25 scenarios as columns… It's not gonna fit in this cute little wide thing. I gotta have it. I need a full-screen mode, similar to the spreadsheet we have in Scope.
+
+01:52:14.000 --> 01:52:19.000
+Where… I need to be able to see.
+
+01:52:19.000 --> 01:52:20.000
+20, 30 columns side by side. Easily. I…
+
+01:52:20.000 --> 01:52:41.000
+Now, it is basically the same as the same table you are using when you are defining scenarios, so it will be option, option, option, option, option, and scenario, scenario, scenario, and it will be matrix of options and all scenarios.
+
+01:52:41.000 --> 01:52:42.000
+Inside here, right? Or something.
+
+01:52:42.000 --> 01:52:47.000
+Um, no, no, not here. It will be on upper level, on strategic optimization level.
+
+01:52:47.000 --> 01:52:57.000
+So you will be able to compare settings side by side here.
+
+01:52:57.000 --> 01:53:00.000
+I'll draw it.
+
+01:53:00.000 --> 01:53:04.000
+So this is going to be a read-only table with all settings and
+
+01:53:04.000 --> 01:53:15.000
+I think… talk to Valyrib Soltis, get to look at… the scope… the scope thing that we have over there.
+
+01:53:15.000 --> 01:53:26.000
+Inside of Clarify for the spreadsheet view, because that's where we want to see it, as, like, the spreadsheet view, and uh…
+
+01:53:26.000 --> 01:53:29.000
+Okay, I'll… I'll ask.
+
+01:53:29.000 --> 01:53:31.000
+Spreadsheet view in…
+
+01:53:31.000 --> 01:53:33.000
+clarified.
+
+01:53:33.000 --> 01:53:38.000
+Glorify, clarify a spreadsheet view.
+
+01:53:38.000 --> 01:53:42.000
+Okay, any questions? Or I can close it.
+
+01:53:42.000 --> 01:53:48.000
+No questions?
+
+01:53:48.000 --> 01:53:50.000
+No, did you notice the service time slowdown was in there?
+
+01:53:50.000 --> 01:53:53.000
+I saw, yeah, I was… yeah, I was, uh…
+
+01:53:53.000 --> 01:53:58.000
+So that's the thing that would technically have to change dynamically.
+
+01:53:58.000 --> 01:54:04.000
+Based on… Um… the weather and the other rules.
+
+01:54:04.000 --> 01:54:07.000
+Correct, yeah. Yeah.
+
+01:54:07.000 --> 01:54:11.000
+Would we show this stuff to Iron Mountain? Since…
+
+01:54:11.000 --> 01:54:16.000
+I would show them that, yeah. And, I mean, what I would also do, I think, if…
+
+01:54:16.000 --> 01:54:20.000
+If we can for Iron Mountain. It depends on how the conversation goes.
+
+01:54:20.000 --> 01:54:25.000
+But if we want to buy ourselves more time for some of this to be…
+
+01:54:25.000 --> 01:54:32.000
+all together and ready. We can even try to eat up more time next week just on routing, dispatching, all the asset.
+
+01:54:32.000 --> 01:54:36.000
+you know, facility stuff that's been built in, the organizational hire, you know.
+
+01:54:36.000 --> 01:54:42.000
+Everything that they asked for, we can spend time, and then if we want, we can basically say, hey, looks like we might have run out of time to really get
+
+01:54:42.000 --> 01:54:46.000
+deep into strategic planning, we can spend a couple minutes, or we can have another
+
+01:54:46.000 --> 01:54:49.000
+call to really dive into it, and that might buy us more time.
+
+01:54:49.000 --> 01:54:51.000
+Or we can just try to cover it all, but…
+
+01:54:51.000 --> 01:54:55.000
+I think we might be able to…
+
+01:54:55.000 --> 01:54:58.000
+Yeah.
+
+01:54:58.000 --> 01:54:59.000
+Yeah, on the crop quality, yeah.
+
+01:54:59.000 --> 01:55:03.000
+Well, let's see what… we'll see how it happens, but I guess let's debate it on our, uh… call, but if it gets done by then, what is it Wednesday?
+
+01:55:03.000 --> 01:55:06.000
+Uh, next Thursday, the 9th.
+
+01:55:06.000 --> 01:55:12.000
+I mean, I feel like they might have this, uh, Simone, I think that you guys will have the routes map.
+
+01:55:12.000 --> 01:55:16.000
+And the routes table on… by the Thursday. It's a long time. It's a week from now.
+
+01:55:16.000 --> 01:55:22.000
+Uh… Yes, it should be ready.
+
+01:55:22.000 --> 01:55:23.000
+Before that.
+
+01:55:23.000 --> 01:55:29.000
+Yeah. Um…
+
+01:55:29.000 --> 01:55:38.000
+What was the other… two or three other big picture items, David, for… for Iron Mountain? Because they might overlap with what we did. Can you remind me?
+
+01:55:38.000 --> 01:55:40.000
+Uh, sure, one second, let me…
+
+01:55:40.000 --> 01:55:46.000
+Let me just bring it up real quick, so I'm not, uh, misspeaking here.
+
+01:55:46.000 --> 01:55:55.000
+One second. Uh…
+
+01:55:55.000 --> 01:56:04.000
+Where did it go?
+
+01:56:04.000 --> 01:56:09.000
+Okay, I just opened it up here. Um…
+
+01:56:09.000 --> 01:56:12.000
+You want me to just share it on my screen, Dan, or…?
+
+01:56:12.000 --> 01:56:17.000
+Or I can just talk to it, but it was, uh, they did… it was, for them,
+
+01:56:17.000 --> 01:56:20.000
+It was customer locations that I think we can easily handle.
+
+01:56:20.000 --> 01:56:24.000
+Uh…
+
+01:56:24.000 --> 01:56:36.000
+product optimization, the demo profiles, which I think will be easy to talk through and show them that exist. The database function, like, you know, in their mind, you know, the ability for the system to be the system of record,
+
+01:56:36.000 --> 01:56:38.000
+You'll be able to show…
+
+01:56:38.000 --> 01:56:40.000
+Uh, drag and drop.
+
+01:56:40.000 --> 01:56:45.000
+is already available, correct, from what I recall?
+
+01:56:45.000 --> 01:56:54.000
+Where you can drag a stop on the map to another route, or move things around. I think that was… I think you showed me that a couple weeks ago.
+
+01:56:54.000 --> 01:57:00.000
+Um, reassigned from one stop to another… from one… sorry, from one route to another.
+
+01:57:00.000 --> 01:57:09.000
+the dispatching, I think, is fine.
+
+01:57:09.000 --> 01:57:12.000
+map data…
+
+01:57:12.000 --> 01:57:18.000
+height, weight-restricted roads, commercial road restrictions. The only thing that we don't do necessarily is…
+
+01:57:18.000 --> 01:57:22.000
+We don't support historic traffic from a vendor like here or others, but…
+
+01:57:22.000 --> 01:57:26.000
+We have weather, which will be nice.
+
+01:57:26.000 --> 01:57:36.000
+I mean, we have is traffic in the sense that Google incorporates, and here.com incorporates the historic traffic in their predictions, so when we query.
+
+01:57:36.000 --> 01:57:42.000
+Their engine incorporates storm data when planning routes and when looking around, so we say.
+
+01:57:42.000 --> 01:57:53.000
+Give me a route for Monday, the September is gonna know, well, Monday in September, that's… that's, uh… schools… schools in session.
+
+01:57:53.000 --> 01:57:54.000
+Uh-oh, so we are getting that from Google, or whoever?
+
+01:57:54.000 --> 01:58:02.000
+This road is always busy, then you do is… Well, we… well, every time we plan a route, we query them, and we…
+
+01:58:02.000 --> 01:58:12.000
+And when we do query, then we get… Um… we could enable, hey, show me how long this route would take with traffic.
+
+01:58:12.000 --> 01:58:19.000
+And then, on this exact date, and then they say, here's what it would be. And then we say, thank you, and we store that shit, and then we show it to the customer.
+
+01:58:19.000 --> 01:58:22.000
+Oh, okay, okay, got it, got it, okay.
+
+01:58:22.000 --> 01:58:26.000
+Okay, so it's a yes, then, so it is a yes, okay.
+
+01:58:26.000 --> 01:58:33.000
+They just have to enable it in that when they go… the time calculation method is time with traffic instead of just time.
+
+01:58:33.000 --> 01:58:40.000
+Yeah, yeah. Yeah. The one thing, and you know, we do telematics integrations, we can do the strategic planning solution,
+
+01:58:40.000 --> 01:58:49.000
+I think, you know, like, we've come really far so far, and even if it's not fully there, I think it'll hopefully be enough to, uh…
+
+01:58:49.000 --> 01:58:52.000
+to show them just how much has been built in a short amount of time, and…
+
+01:58:52.000 --> 01:58:59.000
+how much further it's gonna go, and it already has things that some of the competition doesn't have, like you were pointing out.
+
+01:58:59.000 --> 01:59:03.000
+Um, the bigger gap, I think, is going to be map edits, which…
+
+01:59:03.000 --> 01:59:05.000
+is… this is just…
+
+01:59:05.000 --> 01:59:06.000
+Yeah.
+
+01:59:06.000 --> 01:59:11.000
+It's him, but what? It's in progress, so Igor, are you here with us?
+
+01:59:11.000 --> 01:59:12.000
+Yeah.
+
+01:59:12.000 --> 01:59:17.000
+Still with us? Igor says… Igor and I talked about this already. We're, um…
+
+01:59:17.000 --> 01:59:26.000
+See, our main JavaScript guy's not on the call with us this second, but… Here's what we're thinking. Um…
+
+01:59:26.000 --> 01:59:27.000
+Sure.
+
+01:59:27.000 --> 01:59:35.000
+David, so they… you… we can… we can click… up to… what was it, Igor? 200, 300? Or something?
+
+01:59:35.000 --> 01:59:37.000
+Segments?
+
+01:59:37.000 --> 01:59:41.000
+Yeah, yeah, we have a limit for 250, I must remember.
+
+01:59:41.000 --> 01:59:50.000
+We could pass in 250. Um… 250 segments.
+
+01:59:50.000 --> 01:59:57.000
+Into the… into our route, into the… Our routing engine, and what a segment is, basically a link on a road.
+
+01:59:57.000 --> 01:59:59.000
+Yeah, yeah, yeah, yep.
+
+01:59:59.000 --> 02:00:08.000
+So, if you tell us, like, look, I need… XYZ, and I needed, uh…
+
+02:00:08.000 --> 02:00:13.000
+Then the system will do that. It'll… you can pass in 250 individual.
+
+02:00:13.000 --> 02:00:17.000
+Road segments into that, and we will honor that as an avoidance zone.
+
+02:00:17.000 --> 02:00:18.000
+So that… so yes, so you're talking about an avoidance zone. What I'm talking about is… oh, okay.
+
+02:00:18.000 --> 02:00:24.000
+So, we're gonna… No, no, no, but…
+
+02:00:24.000 --> 02:00:29.000
+An avoidance road, an avoidance segment. So let's just do what?
+
+02:00:29.000 --> 02:00:33.000
+What's the biggest bridge in Maryland, next to where you live?
+
+02:00:33.000 --> 02:00:39.000
+Uh, the… the key bridge, probably.
+
+02:00:39.000 --> 02:00:49.000
+Okay, the Key Bridge. So… If we were to put… if we were gonna put… the Key Bridge has, let's say, 2 roads going in, 2 roads going out.
+
+02:00:49.000 --> 02:00:58.000
+So we were gonna put… something there, what we would do is, uh…
+
+02:00:58.000 --> 02:01:08.000
+Um… We would basically click on the road right before the bridge.
+
+02:01:08.000 --> 02:01:14.000
+And what we would then do is we would… basically put a red… strike it out, like, call it a red line, or whatever you want to call it. The shit would glow red.
+
+02:01:14.000 --> 02:01:17.000
+Correct. Yep.
+
+02:01:17.000 --> 02:01:23.000
+They would persistently store. And then, that's it. No routes would be permitted.
+
+02:01:23.000 --> 02:01:28.000
+To ever go through that road. Because of that road segment, we effectively.
+
+02:01:28.000 --> 02:01:29.000
+Correct, and… and…
+
+02:01:29.000 --> 02:01:31.000
+Deleted it off the map.
+
+02:01:31.000 --> 02:01:35.000
+Yeah, so that's more restricting travel on a road.
+
+02:01:35.000 --> 02:01:40.000
+when I was talking about a similar, but maybe a little bit different, um…
+
+02:01:40.000 --> 02:01:44.000
+I have some examples of it here, but here's one.
+
+02:01:44.000 --> 02:01:50.000
+This is the same presentation I showed you yesterday, just briefly, but you're talking about this. You're talking about restricting travel.
+
+02:01:50.000 --> 02:01:57.000
+So how can I make sure that certain vehicles don't pass on specific roads so I can block this road like you're talking about?
+
+02:01:57.000 --> 02:02:00.000
+And now it doesn't go that way, now it goes on this road.
+
+02:02:00.000 --> 02:02:04.000
+That's what you're talking about. What the other thing that…
+
+02:02:04.000 --> 02:02:09.000
+that Omnitrex could do that we… Brian and I were saying Iron Mountain might want.
+
+02:02:09.000 --> 02:02:13.000
+There's the ability to get into the map itself,
+
+02:02:13.000 --> 02:02:24.000
+And this is what RoadNet would take the map from whoever, anyone of a, you know, two dozen vendors, and convert it to their own proprietary format.
+
+02:02:24.000 --> 02:02:33.000
+And then once it was in their proprietary format, they could change address ranges, they could change road names, they could change the road class, and with the road class, a speed change, they could change a speed manually.
+
+02:02:33.000 --> 02:02:36.000
+They could even go in here and change the geometry.
+
+02:02:36.000 --> 02:02:39.000
+So they can go into this specific segment,
+
+02:02:39.000 --> 02:02:46.000
+you know, click change shape, and then they could modify the geometry, or they could just add a completely new road. A road doesn't exist…
+
+02:02:46.000 --> 02:02:50.000
+A road isn't here in the digital maps, but it exists in real life.
+
+02:02:50.000 --> 02:02:57.000
+So then I go in here, and when I'm in changing shape, I start adding the rotor, and I start adding the geog… the geometry of the road.
+
+02:02:57.000 --> 02:03:02.000
+And I can add all the address range information, the road name, the type of road, all that stuff.
+
+02:03:02.000 --> 02:03:06.000
+You could even change whether a street was…
+
+02:03:06.000 --> 02:03:12.000
+When you were talking about was disabling a road. I could change a road the one way or leave it two-way, or loadable.
+
+02:03:12.000 --> 02:03:15.000
+Loadable means that a…
+
+02:03:15.000 --> 02:03:20.000
+vehicle can come off the side of it, like here, and go onto the road. If it's not loadable,
+
+02:03:20.000 --> 02:03:22.000
+then a vehicle can travel on the road,
+
+02:03:22.000 --> 02:03:28.000
+But it can't hop off of that road to service an account on that road.
+
+02:03:28.000 --> 02:03:29.000
+a highway would be a good example of that.
+
+02:03:29.000 --> 02:03:33.000
+So, um…
+
+02:03:33.000 --> 02:03:34.000
+Igor, Igor, we…
+
+02:03:34.000 --> 02:03:41.000
+So this is more of, like, the editing that Brian and I were talking about, and then they could get into the actual nodes. So all the nodes that connect to the segments could be modified even
+
+02:03:41.000 --> 02:03:47.000
+So, for every node, there's a possibility of, you know, multiple different turns, obviously.
+
+02:03:47.000 --> 02:03:51.000
+Depending on which direction you're traveling. And then here, you could restrict it,
+
+02:03:51.000 --> 02:03:53.000
+Or you could assign a penalty for
+
+02:03:53.000 --> 02:04:00.000
+like, left turns could all be assigned a penalty globally, or just in a specific segment.
+
+02:04:00.000 --> 02:04:04.000
+So, not every… here's the thing, not every fleet needs this, but…
+
+02:04:04.000 --> 02:04:12.000
+But for the large enterprises, like, you know, uh, Iron Mountain, you know, the U.S. Foods, Cisco's, and all of them, a lot of them,
+
+02:04:12.000 --> 02:04:14.000
+A lot of them will go down this route.
+
+02:04:14.000 --> 02:04:25.000
+And companies that do a lot of residential deliveries, like Nestle Waters in the past, which is now, uh, Ready Refresh, you know, Blue Triton Primo, all those companies that do a lot of residential deliveries,
+
+02:04:25.000 --> 02:04:31.000
+It doesn't matter who it is, Apple Maps, Google Maps here, TomTom, none of them can keep up with adding roads for new…
+
+02:04:31.000 --> 02:04:34.000
+uh, housing developments fast enough.
+
+02:04:34.000 --> 02:04:40.000
+So what those fleets will do is they'll go in here, and they'll add the roads themselves, because they need to deliver to them.
+
+02:04:40.000 --> 02:04:47.000
+They need to deliver to them for 3, 6, 9 months a year before Google, Apple, or anyone adds them.
+
+02:04:47.000 --> 02:04:54.000
+So then they add them themselves so that they can plan for them and navigate to them.
+
+02:04:54.000 --> 02:05:04.000
+Okay, but I… Igor… Igor, the… let's just pretend we wanted to do this inefficiently. Isn't this basically us going in.
+
+02:05:04.000 --> 02:05:12.000
+And letting anyone edit… what's inside of Pre-5, and then they could have their own…
+
+02:05:12.000 --> 02:05:20.000
+Pre-5 customized the instance, and uh… we could just query it for that account. Isn't it the same shit?
+
+02:05:20.000 --> 02:05:26.000
+Yeah, but it's not easy to make, because it's hard to change the existing mapping.
+
+02:05:26.000 --> 02:05:31.000
+There's some free… I've seen the free open source. I've seen free open source OSRM.
+
+02:05:31.000 --> 02:05:36.000
+Modifiers, uh, for OpenStreetMaps that you can go in and…
+
+02:05:36.000 --> 02:05:44.000
+Then we can do it, yes, and there are a lot of tools for this, but, uh.
+
+02:05:44.000 --> 02:05:49.000
+If they need a real-time update, we are not ready to make it.
+
+02:05:49.000 --> 02:06:09.000
+Yes, but we can… we can see, and we can check how… how long it will take. But you're right that we can make a different instance for specifically for customer, and run specifically a small map.
+
+02:06:09.000 --> 02:06:11.000
+For… for region, for state, or something. Yeah.
+
+02:06:11.000 --> 02:06:16.000
+Yeah, we just charge… We would just charge, uh…
+
+02:06:16.000 --> 02:06:24.000
+Extra. Yeah.
+
+02:06:24.000 --> 02:06:40.000
+Yeah, that's… I mean, it's essentially what RoadNet did. They just had different map databases. You know, one main… one main map version that served as the master, and then they just created different instances for different customers.
+
+02:06:40.000 --> 02:06:44.000
+Well, we could… well, we have… I know here.com and Google give you the ability to make some small changes.
+
+02:06:44.000 --> 02:06:49.000
+they… well, they do, they do, and they, um…
+
+02:06:49.000 --> 02:06:55.000
+And, I mean, you know, here, and TomTom releases new map updates every week, here every two weeks.
+
+02:06:55.000 --> 02:07:04.000
+Um, but yes, both of them have tools themselves that allow you to recommend changes and or make changes, similar to OpenStreetMaps.
+
+02:07:04.000 --> 02:07:09.000
+Um, one of the… one of the things that we had even talked about at Omnitrax, you know,
+
+02:07:09.000 --> 02:07:17.000
+was… you know, you're doing it differently than Omnitrexid, where Omnitrex was only updating the maps every quarter.
+
+02:07:17.000 --> 02:07:22.000
+you're… I believe you're hitting, you know, live maps today via API, so that
+
+02:07:22.000 --> 02:07:27.000
+you're always hitting live, like, you're always hitting the newest version of whatever your provider's providing you.
+
+02:07:27.000 --> 02:07:30.000
+Which Omnitrex wasn't doing, they were only doing it every quarter.
+
+02:07:30.000 --> 02:07:37.000
+Um, but one of the things that we had talked about at Omnitrex as well was if somebody was making a change,
+
+02:07:37.000 --> 02:07:44.000
+Um, if… if I'm Iron Mountain, and you work at Cisco, and I trust you, Dan, because you're just as detail-oriented as I am,
+
+02:07:44.000 --> 02:07:47.000
+Maybe I want to benefit from your changes.
+
+02:07:47.000 --> 02:07:55.000
+So one of the things that we had talked about was the ability for customers to see the changes that other customers have made if they want to share them, and if they want to accept them.
+
+02:07:55.000 --> 02:08:00.000
+And then, you know, if I'm focusing on Maryland and you're focusing on Florida,
+
+02:08:00.000 --> 02:08:02.000
+then you can accept my Maryland changes.
+
+02:08:02.000 --> 02:08:08.000
+And I could accept your Florida changes, and now we both have more up-to-date information for new developments.
+
+02:08:08.000 --> 02:08:11.000
+that we're both serving without having to do the work ourselves.
+
+02:08:11.000 --> 02:08:15.000
+to add roads or modify things, or things like that.
+
+02:08:15.000 --> 02:08:19.000
+That's… that's going down a whole different path, but yeah.
+
+02:08:19.000 --> 02:08:20.000
+Yes, exactly, 100%, exactly.
+
+02:08:20.000 --> 02:08:23.000
+It's like, sounds like enterprise map crowdsourcing.
+
+02:08:23.000 --> 02:08:24.000
+Exactly.
+
+02:08:24.000 --> 02:08:31.000
+We could do that too, it's not a problem, as long as… What we need to do is get Volvo to draw.
+
+02:08:31.000 --> 02:08:42.000
+To take some of the open source editors. Make it look like our style, and then present it to… on the road as a sales tool on the roadmap, and if people want to get it.
+
+02:08:42.000 --> 02:08:46.000
+Then we'll just deploy it, because it's not… it's… And that's it.
+
+02:08:46.000 --> 02:08:55.000
+Yeah, we could… I mean, we could verify, you know, we could validate interest and things like that, too, when we're engaging with some of these fleets, you know, to make sure it makes sense. I… I…
+
+02:08:55.000 --> 02:09:00.000
+I mean, just from past experience, I recall there being interest, but before we get on the path of doing it,
+
+02:09:00.000 --> 02:09:05.000
+We can validate, you know, the interest for a crowdsourced piece, but the map edit piece, at a minimum, I know is
+
+02:09:05.000 --> 02:09:07.000
+needed by the largest fleets.
+
+02:09:07.000 --> 02:09:12.000
+the crowdsourcing piece, interest from some, not all, but, you know…
+
+02:09:12.000 --> 02:09:17.000
+But it's, you know, it's a… would be a differentiator, too.
+
+02:09:17.000 --> 02:09:18.000
+Yeah.
+
+02:09:18.000 --> 02:09:20.000
+We can easily edit that thing, for sure. There's a ton of open source tools that do it.
+
+02:09:20.000 --> 02:09:24.000
+Yeah. Yep.
+
+02:09:24.000 --> 02:09:31.000
+Okay, what… anything else? Any other big stuff we need? Prior Mountain that we might have already done?
+
+02:09:31.000 --> 02:09:32.000
+Um…
+
+02:09:32.000 --> 02:09:34.000
+This week… in this week's release. Besides the menu change and those adding the word database.
+
+02:09:34.000 --> 02:09:40.000
+Yeah, besides that, um, yeah, besides that, I would say, uh, I don't…
+
+02:09:40.000 --> 02:09:42.000
+Think so?
+
+02:09:42.000 --> 02:09:44.000
+Uh, I'm just trying to go through this list again.
+
+02:09:44.000 --> 02:09:51.000
+So, facility-facility types, locations, we have the database piece, we have the asset locations.
+
+02:09:51.000 --> 02:09:52.000
+optimization.
+
+02:09:52.000 --> 02:09:58.000
+We don't have asset locations yet. We… but Igor, I don't think we're gonna get Simone assets.
+
+02:09:58.000 --> 02:10:05.000
+Copy and paste it on production by Thursday, are we? Maybe on staging, we could get something on staging, maybe?
+
+02:10:05.000 --> 02:10:06.000
+But I don't know about…
+
+02:10:06.000 --> 02:10:15.000
+We're gonna get on staging, but it could be our mocking data, or, uh, super simple, uh.
+
+02:10:15.000 --> 02:10:16.000
+Gotcha. Yeah.
+
+02:10:16.000 --> 02:10:18.000
+I don't know, API or pages.
+
+02:10:18.000 --> 02:10:23.000
+As long as we could show a list. What do they actually do? Some sort of asset management, though?
+
+02:10:23.000 --> 02:10:26.000
+Uh, today they don't, but…
+
+02:10:26.000 --> 02:10:29.000
+So today they don't, but the use cases…
+
+02:10:29.000 --> 02:10:34.000
+But use case-wise, uh, they… they do have multiple…
+
+02:10:34.000 --> 02:10:44.000
+Within… within large locations like hospitals, universities, or buildings, they'll have multiple collection boxes that require servicing when they're doing shredding, uh, pickup.
+
+02:10:44.000 --> 02:10:46.000
+like, box pickup.
+
+02:10:46.000 --> 02:10:49.000
+We support that through… we support that through nested hierarchical customer locations.
+
+02:10:49.000 --> 02:10:51.000
+Yes.
+
+02:10:51.000 --> 02:10:58.000
+Which that you could say. This is my location of the hospital, and then in it, I have a sub-location, and you can have as many sub-locations as you want.
+
+02:10:58.000 --> 02:11:08.000
+Correct, so that's what I would maybe show then, I guess, is the nested, uh, nested location, so, uh…
+
+02:11:08.000 --> 02:11:09.000
+Yeah.
+
+02:11:09.000 --> 02:11:12.000
+Yeah, we have that. Okay.
+
+02:11:12.000 --> 02:11:16.000
+So, which I would show that. I would definitely show that, because that'll be of interest to them.
+
+02:11:16.000 --> 02:11:20.000
+Yeah, Brian and I were putting this list together yesterday, and I'm…
+
+02:11:20.000 --> 02:11:22.000
+I'm trying to think of anything else that's…
+
+02:11:22.000 --> 02:11:27.000
+that's notable for you to maybe just kind of know or use here, uh…
+
+02:11:27.000 --> 02:11:30.000
+So, 3 main businesses.
+
+02:11:30.000 --> 02:11:31.000
+I don't…
+
+02:11:31.000 --> 02:11:35.000
+So, Melan, is there anything else on your side? That we… that we released this week, Samuel?
+
+02:11:35.000 --> 02:11:47.000
+That you think is interesting enough that… that we would want to show this or the other clients?
+
+02:11:47.000 --> 02:11:50.000
+With the… I… because we only talked about strategic, we didn't talk about anything else right now.
+
+02:11:50.000 --> 02:12:00.000
+Uh… we… I think it's worth to look at facility snapshot right now.
+
+02:12:00.000 --> 02:12:01.000
+Hmm.
+
+02:12:01.000 --> 02:12:04.000
+Okay, let's do it.
+
+02:12:04.000 --> 02:12:08.000
+Alexei, can you show us a facility snapshot?
+
+02:12:08.000 --> 02:12:17.000
+Yep.
+
+02:12:17.000 --> 02:12:23.000
+So, should I continue in English, or Spanish direction? Okay, so, uh…
+
+02:12:23.000 --> 02:12:30.000
+Only two moments. The first one with the team tap. That duplicates the gym management page.
+
+02:12:30.000 --> 02:12:41.000
+Fully with that review. And here you can open, and here you can view send routes for this, uh…
+
+02:12:41.000 --> 02:12:52.000
+So, um… That's all… and with Configurator. That's all for this tab. If there is no question, we can go to another tab. Custom locations, about your…
+
+02:12:52.000 --> 02:12:56.000
+This shows you all the team members that are linked to this facility.
+
+02:12:56.000 --> 02:12:57.000
+This facility, yep, yep, yep, you can… you can check this, uh, here.
+
+02:12:57.000 --> 02:13:00.000
+Yes.
+
+02:13:00.000 --> 02:13:02.000
+And what is missing here is, uh, calculations on
+
+02:13:02.000 --> 02:13:05.000
+Facility to apply. Yep.
+
+02:13:05.000 --> 02:13:12.000
+all these drivers, and they are executing routes within this facility. We need to show counts of…
+
+02:13:12.000 --> 02:13:18.000
+customers, locations, and routes, this driver executed.
+
+02:13:18.000 --> 02:13:23.000
+within this facility for this time range.
+
+02:13:23.000 --> 02:13:31.000
+This is not a metric screen, this is a hierarchical relationship screen. The metrics and KPIs go elsewhere.
+
+02:13:31.000 --> 02:13:34.000
+But it is really one hymn, I believe.
+
+02:13:34.000 --> 02:13:36.000
+In context of facilities.
+
+02:13:36.000 --> 02:13:40.000
+to see, uh, these are employees of this facility, basically.
+
+02:13:40.000 --> 02:13:47.000
+The problem is, is that we can't… We're not gonna create 5 new APIs and core…
+
+02:13:47.000 --> 02:13:50.000
+Architecture changes. Just to add that thing.
+
+02:13:50.000 --> 02:13:51.000
+No.
+
+02:13:51.000 --> 02:13:55.000
+Because this… this is a standard API that they plugged and played.
+
+02:13:55.000 --> 02:14:03.000
+What you're asking for is weeks or months of development work. What we need to do is embed it from Business Insights.
+
+02:14:03.000 --> 02:14:07.000
+From the other places, and where we have the counts and metrics by object type.
+
+02:14:07.000 --> 02:14:13.000
+I see.
+
+02:14:13.000 --> 02:14:30.000
+So, let's move next, and the second tab is customer locations. You asked about to add the grouping or filter by customer name, so we… add filter and grouping too. So here you can see the custom locations, and grouping by customer name for easier searching.
+
+02:14:30.000 --> 02:14:37.000
+So for Iron Mountain, David, this is… so you have 50 facilities, these are all the customers you're servicing out of this facility?
+
+02:14:37.000 --> 02:14:40.000
+Yeah, no, this is great. Yep.
+
+02:14:40.000 --> 02:14:45.000
+And you can filter by customer name if you want.
+
+02:14:45.000 --> 02:14:59.000
+The only thing is, is that… You see the grouping? It's grouping by customer, so if a customer has multiple sub-locations or multiple locations, they would group that way.
+
+02:14:59.000 --> 02:15:01.000
+And could, uh…
+
+02:15:01.000 --> 02:15:06.000
+I didn't see it when he was clicking through, um…
+
+02:15:06.000 --> 02:15:08.000
+Is it…
+
+02:15:08.000 --> 02:15:17.000
+Would it have to be an exact customer name, or would it be, like, uh… almost like a Boolean search, where if I just start typing up a specific customer name, it just…
+
+02:15:17.000 --> 02:15:18.000
+Ah, okay. All right.
+
+02:15:18.000 --> 02:15:20.000
+I think it will be work. Yep.
+
+02:15:20.000 --> 02:15:24.000
+So anything with… yeah, okay, perfect.
+
+02:15:24.000 --> 02:15:27.000
+Yeah, yep.
+
+02:15:27.000 --> 02:15:32.000
+Great. That's great.
+
+02:15:32.000 --> 02:15:38.000
+That's all from my side. Any questions?
+
+02:15:38.000 --> 02:15:39.000
+No, that looked really good.
+
+02:15:39.000 --> 02:15:48.000
+Uh… Uh, is it ready for production from your point of view?
+
+02:15:48.000 --> 02:15:49.000
+Yeah.
+
+02:15:49.000 --> 02:16:00.000
+From mine? It's ready to deploy on stage, because for now, it's local development. So, I'm just moving the big users page into the framework, so it should… so it will be the same pages here and here.
+
+02:16:00.000 --> 02:16:02.000
+Oh, sorry. Uh…
+
+02:16:02.000 --> 02:16:12.000
+And I make a few small suggestions? Uh, it would be convenient for me to… if I'm looking at a customer location.
+
+02:16:12.000 --> 02:16:21.000
+It would be… by the way, Orders is here too, David. Important. Orders can be attributed to the facility servicing it, or the facility that has that inventory that is going into that.
+
+02:16:21.000 --> 02:16:23.000
+Mmm.
+
+02:16:23.000 --> 02:16:30.000
+So orders is here as well, so this is basically all the outstanding orders in that facility, synced from your OMS or whatever.
+
+02:16:30.000 --> 02:16:35.000
+How would I know whether it's holding the product or not?
+
+02:16:35.000 --> 02:16:39.000
+Via a filter, or…?
+
+02:16:39.000 --> 02:16:40.000
+Okay.
+
+02:16:40.000 --> 02:16:45.000
+Well, this is not so much inventory, it's more of, like, an abstract concept in that.
+
+02:16:45.000 --> 02:16:55.000
+If that order… if it was a hypothetical. Inventory type of service.
+
+02:16:55.000 --> 02:16:58.000
+the correct information, yeah.
+
+02:16:58.000 --> 02:16:59.000
+Yeah, yeah.
+
+02:16:59.000 --> 02:17:03.000
+Then we'd have to trust that your source system sent to us to… that… of the correct information. Eventually, as… if we do sync with the WMS.
+
+02:17:03.000 --> 02:17:06.000
+And we could probably run some extra… intelligence on it, you know?
+
+02:17:06.000 --> 02:17:08.000
+Yeah, yeah. Yep.
+
+02:17:08.000 --> 02:17:17.000
+And then the one other thing is. The order has a type, so if the… every… do we have a column here, guys, for the order type?
+
+02:17:17.000 --> 02:17:31.000
+Because one could be a service, one could be a delivery, so the… If the type is a service, then it doesn't matter. If the type is a delivery, then maybe it does matter, and then that's when we start.
+
+02:17:31.000 --> 02:17:32.000
+Yeah.
+
+02:17:32.000 --> 02:17:37.000
+Selling the whole… inventory thing, and, like, you posting on your LinkedIn about…
+
+02:17:37.000 --> 02:17:38.000
+Yeah.
+
+02:17:38.000 --> 02:17:42.000
+Too much inventory, too little inventory, whatever, well… that stuff, now you could potentially…
+
+02:17:42.000 --> 02:17:48.000
+Somehow cross-sell that, but… One thing I was gonna say to you guys.
+
+02:17:48.000 --> 02:17:58.000
+Both on the orders screen and the customer location screen, and the route screen, and the team screen, it would be nice to have a many, many menu where I could click on it.
+
+02:17:58.000 --> 02:18:03.000
+And I could either… and I could reassign. To another facility from inside the list.
+
+02:18:03.000 --> 02:18:08.000
+So that, if I wanted to change the facility fulfilling that order.
+
+02:18:08.000 --> 02:18:12.000
+Or if I wanted to reassign the driver to another facility.
+
+02:18:12.000 --> 02:18:17.000
+I don't want… I don't want to go… leave the screen, like, hey, I found something I don't like, let me click on it.
+
+02:18:17.000 --> 02:18:19.000
+Hmm.
+
+02:18:19.000 --> 02:18:30.000
+And then let me reassign it to another facility. And it's the same thing if I'm in the… region, if I see a list of the stuff in the region, let me click on it and relink the primary.
+
+02:18:30.000 --> 02:18:35.000
+Thing. Now, facilities have two… you are one-to-many, so you could have one object can be linked to multiple.
+
+02:18:35.000 --> 02:18:42.000
+Facilities? So, in our case, um… what we could do is…
+
+02:18:42.000 --> 02:18:45.000
+We could take the, um…
+
+02:18:45.000 --> 02:18:52.000
+Probably we can take the assign facility button. And, uh, like, in routes.
+
+02:18:52.000 --> 02:18:57.000
+Nothing wrongs. I've worked with. Like, assigned driver, I mean. We have a button assigned facilities, so when…
+
+02:18:57.000 --> 02:18:58.000
+Uh, we… basic…
+
+02:18:58.000 --> 02:19:03.000
+Uh, and then this all came about bulk actions, so we need to check boxes here, and…
+
+02:19:03.000 --> 02:19:04.000
+actions with selection.
+
+02:19:04.000 --> 02:19:07.000
+Um, by bulk, mm?
+
+02:19:07.000 --> 02:19:13.000
+But it could be even in version 1, not even bulk, where it's like, hey, this item, I don't like it here.
+
+02:19:13.000 --> 02:19:20.000
+Let me move it. You click on it. And you can reassign the facility. I mean, you might as well just add another… another… the same… the same button you have.
+
+02:19:20.000 --> 02:19:21.000
+as simplest…
+
+02:19:21.000 --> 02:19:23.000
+Right? You have another button for assigned facility.
+
+02:19:23.000 --> 02:19:31.000
+Implementation, I believe, is a context menu, so you can right-click on any row and do something.
+
+02:19:31.000 --> 02:19:39.000
+You could do the context menu, but you could also do… assigned… you could check… the same button you have for assigned facility and routes.
+
+02:19:39.000 --> 02:19:44.000
+The same ball you have for a signed facility and locations.
+
+02:19:44.000 --> 02:19:58.000
+You could do the same… the same here. If you wanted to… because then you don't have to invent anything new, you already have it.
+
+02:19:58.000 --> 02:20:03.000
+The one thing that… are we missing customers here? Shouldn't we have customers here as well?
+
+02:20:03.000 --> 02:20:09.000
+Yes, we are mission customers, and we are mission summary.
+
+02:20:09.000 --> 02:20:10.000
+Pastor?
+
+02:20:10.000 --> 02:20:14.000
+Summary's not ready yet. That's why it's not there.
+
+02:20:14.000 --> 02:20:15.000
+Yeah, vehicles.
+
+02:20:15.000 --> 02:20:17.000
+The same for a vehicle. We need that vehicles, too.
+
+02:20:17.000 --> 02:20:22.000
+Well, this is good enough to go live with, so go live with this, and then add the other shit.
+
+02:20:22.000 --> 02:20:33.000
+Okay, tomorrow it will be staged, tomorrow morning, I think, and uh… If everything will be done, so we'll release it next week, Monday.
+
+02:20:33.000 --> 02:20:40.000
+I think that's just my… prediction on it.
+
+02:20:40.000 --> 02:20:48.000
+Okay? Monday, Tuesday, whatever. Just do it before Thursday.
+
+02:20:48.000 --> 02:20:53.000
+Okay, that's all from my side. Thank you.
+
+02:20:53.000 --> 02:20:56.000
+Alexei, do we have anything else, uh… Alexeya Fanasyv, I mean.
+
+02:20:56.000 --> 02:21:03.000
+This is old. This is all…
+
+02:21:03.000 --> 02:21:08.000
+If nothing else, I really want to share something while David is here.
+
+02:21:08.000 --> 02:21:18.000
+And in case of some opinions.
+
+02:21:18.000 --> 02:21:20.000
+This is a summary.
+
+02:21:20.000 --> 02:21:24.000
+Over a scenario in a strategic planner.
+
+02:21:24.000 --> 02:21:27.000
+Oh, wow.
+
+02:21:27.000 --> 02:21:33.000
+So, uh, what it does, it shows basic stats at the top.
+
+02:21:33.000 --> 02:21:35.000
+Uh, how…
+
+02:21:35.000 --> 02:21:37.000
+totals in this scenario.
+
+02:21:37.000 --> 02:21:38.000
+Mm-hmm.
+
+02:21:38.000 --> 02:21:42.000
+And also, it shows a couple of breakdowns by different aspects.
+
+02:21:42.000 --> 02:21:47.000
+So, you can see breakdown rows by distance.
+
+02:21:47.000 --> 02:21:50.000
+Lone rows, short roads, and so on, total roads.
+
+02:21:50.000 --> 02:21:53.000
+You can see the program by duration.
+
+02:21:53.000 --> 02:21:55.000
+Show throats, all long roads.
+
+02:21:55.000 --> 02:22:00.000
+You can see routes by destinations count.
+
+02:22:00.000 --> 02:22:09.000
+time distribution by activity type, traveling, waiting, breaks.
+
+02:22:09.000 --> 02:22:11.000
+vehicle utilization.
+
+02:22:11.000 --> 02:22:13.000
+a long time.
+
+02:22:13.000 --> 02:22:17.000
+uh… break down…
+
+02:22:17.000 --> 02:22:24.000
+by weekdays, so you can see busy weekdays and free weekdays.
+
+02:22:24.000 --> 02:22:29.000
+Uh, you can see distribution of routes by week.
+
+02:22:29.000 --> 02:22:34.000
+Uh, weeks, busy weeks and empty weeks.
+
+02:22:34.000 --> 02:22:39.000
+And… whatever else we need here? I'm…
+
+02:22:39.000 --> 02:22:44.000
+Welcome for ideas. Do you think this is useful?
+
+02:22:44.000 --> 02:22:47.000
+Uh, definitely, yeah.
+
+02:22:47.000 --> 02:22:51.000
+Yeah, and this is more than most… this is more than most…
+
+02:22:51.000 --> 02:22:56.000
+People will… even if some people provide some of this information, it's all tabular, not…
+
+02:22:56.000 --> 02:23:02.000
+in a graphic format like this, so this summary dashboard view is really, really great.
+
+02:23:02.000 --> 02:23:04.000
+Um…
+
+02:23:04.000 --> 02:23:10.000
+There's a couple other metrics I might add that sometimes people look at, um…
+
+02:23:10.000 --> 02:23:12.000
+We know what our costs are,
+
+02:23:12.000 --> 02:23:16.000
+Um… I don't think I saw…
+
+02:23:16.000 --> 02:23:20.000
+I don't think I saw cost information.
+
+02:23:20.000 --> 02:23:23.000
+But knowing what the cost is, I think, would be good.
+
+02:23:23.000 --> 02:23:25.000
+And then, um…
+
+02:23:25.000 --> 02:23:30.000
+like, similar metrics, but around the cost, and then a lot of times,
+
+02:23:30.000 --> 02:23:32.000
+when I was doing routing,
+
+02:23:32.000 --> 02:23:38.000
+And doing a baseline comparison against the optimized solution, I was looking at cost as a percent of sales.
+
+02:23:38.000 --> 02:23:50.000
+But not just… not just, uh, you know, let's say my… my destinations are the same, my routes might… may or may not be different, the duration might be different, total distance might be different, cost,
+
+02:23:50.000 --> 02:23:53.000
+You know, would be different, revenue would be the same,
+
+02:23:53.000 --> 02:23:57.000
+But I might look at my costs as a percent of sales as a whole,
+
+02:23:57.000 --> 02:24:01.000
+And, uh, individually at a route level.
+
+02:24:01.000 --> 02:24:05.000
+And then when I'm looking at the comparison of the scenarios,
+
+02:24:05.000 --> 02:24:14.000
+Scenario by scenario, not in the… not just in the individual view, but when I'm looking at the scenarios, I might look and say, okay, my cost as a percent of sales is…
+
+02:24:14.000 --> 02:24:19.000
+15% versus 18%, so I just took 3% off.
+
+02:24:19.000 --> 02:24:22.000
+3% of the, you know, cost off.
+
+02:24:22.000 --> 02:24:24.000
+through the optimization that I did.
+
+02:24:24.000 --> 02:24:25.000
+Some basically divide this basis, and you see the…
+
+02:24:25.000 --> 02:24:28.000
+Yes, exactly, yeah.
+
+02:24:28.000 --> 02:24:29.000
+How…
+
+02:24:29.000 --> 02:24:34.000
+And you can do that at the individual route level, but then also at a scenario level.
+
+02:24:34.000 --> 02:24:35.000
+I can find some examples of…
+
+02:24:35.000 --> 02:24:45.000
+Yeah, but the problem is, is that you don't know… You don't know what to trust to build your cost basis. What do you… how are you supposed to know that?
+
+02:24:45.000 --> 02:24:51.000
+Like, is it per stop? Is it per hour? Is it per… I know for the old one we can, but… to get it building correctly, how do you know for the new one?
+
+02:24:51.000 --> 02:24:52.000
+Is it per mile?
+
+02:24:52.000 --> 02:24:58.000
+Well, for the new one, it would be making sure… it would be making sure that we're accounting for all of it, and I think I might have
+
+02:24:58.000 --> 02:25:01.000
+Might have sent some feedback on this in a thread, but…
+
+02:25:01.000 --> 02:25:06.000
+One of the things that… that was, uh…
+
+02:25:06.000 --> 02:25:11.000
+One of the things that we could account for in RoadNet was a couple more cost dimensions.
+
+02:25:11.000 --> 02:25:13.000
+that made sure that…
+
+02:25:13.000 --> 02:25:17.000
+You know, almost all of the typical fixed and variable costs
+
+02:25:17.000 --> 02:25:20.000
+cost metrics were captured.
+
+02:25:20.000 --> 02:25:24.000
+And then that just ensured that, um…
+
+02:25:24.000 --> 02:25:30.000
+That ensures that when we were looking at… let me share my screen really quickly here.
+
+02:25:30.000 --> 02:25:34.000
+And then we gotta get ready for that other call in a couple minutes, but uh…
+
+02:25:34.000 --> 02:25:36.000
+Share screen.
+
+02:25:36.000 --> 02:25:38.000
+Let's see here…
+
+02:25:38.000 --> 02:25:40.000
+I'll… let me zoom.
+
+02:25:40.000 --> 02:25:44.000
+We have… we could track costs at the stop level, the driver level, the hour level.
+
+02:25:44.000 --> 02:25:46.000
+Correct, but some of what we're missing
+
+02:25:46.000 --> 02:25:53.000
+Some of what we're missing… I think we're missing a couple fields that I remember seeing, um…
+
+02:25:53.000 --> 02:25:54.000
+Yeah.
+
+02:25:54.000 --> 02:25:58.000
+We're missing a lot of stuff. Uh, we're missing a lot of stuff.
+
+02:25:58.000 --> 02:26:00.000
+We're mixing just the route cost, which is like, hey, this is my cost per route, I don't… no matter what, it's just…
+
+02:26:00.000 --> 02:26:14.000
+Yeah, and I think what I saw, like, I think what I saw is we can do, like, an hourly rate, and we can do a distance rate, but the distance rate doesn't differentiate distance rate for a worker versus a vehicle. It's just a distance rate, I believe.
+
+02:26:14.000 --> 02:26:20.000
+en route for me. Whereas… whereas with RoadNet and some other solutions, but let's just use RoadNet as the example,
+
+02:26:20.000 --> 02:26:26.000
+You could have a regular rate and overtime rate, a per-stop rate, a distance rate,
+
+02:26:26.000 --> 02:26:29.000
+And even a…
+
+02:26:29.000 --> 02:26:35.000
+a per… a per-size over minimum, so anytime you get above a certain minimum,
+
+02:26:35.000 --> 02:26:45.000
+You know, in a quantity, a delivery quantity, then they get paid, you know, and then you could even determine when the overtime hours begin, 8 hours, 9 hours, whatever it might be.
+
+02:26:45.000 --> 02:26:49.000
+And then on the vehicle side, it was similar.
+
+02:26:49.000 --> 02:26:52.000
+Um, let me see the…
+
+02:26:52.000 --> 02:26:55.000
+Sure, this is great.
+
+02:26:55.000 --> 02:27:02.000
+Yes, yeah, yeah, I agree. We have 70-80% of what we need, and then on the vehicle side, it was fixed cost,
+
+02:27:02.000 --> 02:27:12.000
+Because even when the vehicle's sitting, you're still paying for it. I'm still paying a lease, or it's depreciating, so I might be paying… I'm making this up $150 a day, right?
+
+02:27:12.000 --> 02:27:17.000
+So even when it's sitting, I'm paying for the vehicle to sit, and then my variable cost is my cost per mile.
+
+02:27:17.000 --> 02:27:19.000
+Which is cost for fuel,
+
+02:27:19.000 --> 02:27:22.000
+Plus cost for repair and maintenance.
+
+02:27:22.000 --> 02:27:27.000
+So, at this point, you know, we can't figure this out for them. They need to enter their own shit in here.
+
+02:27:27.000 --> 02:27:34.000
+the fields are at least available, and we're separating variable costs for the worker versus variable costs for the
+
+02:27:34.000 --> 02:27:38.000
+for the vehicle. And in this instance, there might not be a variable cost for the worker,
+
+02:27:38.000 --> 02:27:41.000
+The worker might not have a variable cost,
+
+02:27:41.000 --> 02:27:46.000
+If he's a driver, unless he's an over the… unless he's getting paid per mile, the worker might not have that.
+
+02:27:46.000 --> 02:27:49.000
+The vehicle itself is incurring a variable cost.
+
+02:27:49.000 --> 02:27:52.000
+So it's just kind of separating it out.
+
+02:27:52.000 --> 02:27:54.000
+And then sometimes…
+
+02:27:54.000 --> 02:28:02.000
+Some vehicles might have hourly costs, so this was just kind of accounting for… accounting for some of that.
+
+02:28:02.000 --> 02:28:11.000
+But then it was the combination of all these things coming together in the scenarios, you know, or in routing, because these fields were the same in routing, or for strategic optimizations,
+
+02:28:11.000 --> 02:28:14.000
+That's what added up to the total cost.
+
+02:28:14.000 --> 02:28:26.000
+And then that's what allowed people to do that kind of pre-post comparison.
+
+02:28:26.000 --> 02:28:29.000
+This all sounds great, but we need to add…
+
+02:28:29.000 --> 02:28:43.000
+Tell us the roadmap. What was the roadmap? Uh, Simone, what's the roadmap for the release by… for next Thursday?
+
+02:28:43.000 --> 02:28:49.000
+For the strategic… obviously, the bug fixes, but then the strategic route plan, or what… the map?
+
+02:28:49.000 --> 02:29:05.000
+Um… So, uh, we must add the filters about weekdays and days for, uh, destination, uh, for visits.
+
+02:29:05.000 --> 02:29:17.000
+Map for, uh, locations. A map for, uh, destinations, uh, for routes inside the scenario.
+
+02:29:17.000 --> 02:29:25.000
+Uh… draft snapshots, I mean, for insights strategic.
+
+02:29:25.000 --> 02:29:36.000
+Uh… systems. Uh, bug fixes, etc, facility snapshot, uh. Your facility snapshot.
+
+02:29:36.000 --> 02:29:48.000
+Um… just thinking, did I miss something else? Um…
+
+02:29:48.000 --> 02:29:53.000
+Uh, Alexei Fanas, did I miss something else, or… that's it?
+
+02:29:53.000 --> 02:30:00.000
+It's our plan, basically, for the week.
+
+02:30:00.000 --> 02:30:05.000
+I can send you this file too, Dan, but this is an example of an Excel file I built just when I was doing
+
+02:30:05.000 --> 02:30:07.000
+Scenario planning using their tool.
+
+02:30:07.000 --> 02:30:12.000
+Where I basically just pasted some information, and then the rest calculated out.
+
+02:30:12.000 --> 02:30:21.000
+But a lot of times, we would look at, like, you know, miles per stop, cases per stop, dollars per stop, dollars per square mile, stops per square mile.
+
+02:30:21.000 --> 02:30:29.000
+So that I was talking about before, like, you know, a route cost per stop, or route cost as a percent of sales, so route by route, I could see what the call… what routes…
+
+02:30:29.000 --> 02:30:36.000
+were generally more expensive to run than others, so if some routes were 4%, other routes were 12%, 15%.
+
+02:30:36.000 --> 02:30:40.000
+And then I can compare it against each other,
+
+02:30:40.000 --> 02:30:42.000
+And again, this is all in Excel, because
+
+02:30:42.000 --> 02:30:53.000
+some of the nice inputs and all that weren't built in, but then I could look very quickly and say, okay, you know, pre-post, you know, 7.3% cost of the percent of sales versus 7.4%.
+
+02:30:53.000 --> 02:31:00.000
+And in this instance, you could see, you know, how things were changing. And sometimes you're adding routes, and sometimes your costs do increase.
+
+02:31:00.000 --> 02:31:08.000
+But it was very easy to kind of see these cost, you know, these cost differences, you know, how things were increasing. And here, I would even break it out.
+
+02:31:08.000 --> 02:31:12.000
+Knowing what fixed costs were, you know, I would look at, you know, hey, depreciation,
+
+02:31:12.000 --> 02:31:18.000
+fuel, repair, maintenance. That was me just breaking it out and calculating it separately.
+
+02:31:18.000 --> 02:31:24.000
+Just to try to get some, you know, some easier comparison side-by-side between the different scenarios.
+
+02:31:24.000 --> 02:31:30.000
+We have to drop here for the trans cold call, but I can send this off to you later.
+
+02:31:30.000 --> 02:31:31.000
+Right.
+
+02:31:31.000 --> 02:31:36.000
+Okay. Okay, there's a… there's a few small things for the strategic.
+
+02:31:36.000 --> 02:31:49.000
+That… Uh, we need to… that we need to do, Simone, also, that, uh…
+
+02:31:49.000 --> 02:31:56.000
+Let me think about it, and I'll tell you, but I think the main one was the preview, and the route consistency metric.
+
+02:31:56.000 --> 02:32:02.000
+Gotta look at the route consistency metric. We gotta get to a gate, and…
+
+02:32:02.000 --> 02:32:04.000
+And Igor, to help us with that.
+
+02:32:04.000 --> 02:32:14.000
+Uh, yeah, and if it will be, uh, controlled by the same switcher from front-end, uh.
+
+02:32:14.000 --> 02:32:21.000
+It will… will work automatically, basically. Uh, also…
+
+02:32:21.000 --> 02:32:34.000
+We must finish, uh… routed, unrouted issue, but… I believe it will be resolved soon.
+
+02:32:34.000 --> 02:32:39.000
+The main thing for recurring is… is, uh…
+
+02:32:39.000 --> 02:32:51.000
+The mapping… I think once the mapping, it shows up… And I would say the highest party on the mapping is showing the list of the routes. The routes are showing the…
+
+02:32:51.000 --> 02:33:00.000
+The polyline is totally pointless. If you don't show the list of the routes at the same time next to the polyline.
+
+02:33:00.000 --> 02:33:01.000
+There's no point.
+
+02:33:01.000 --> 02:33:08.000
+Agree. Uh… And I think it's pretty simple to add a list of routes, because we already have the same.
+
+02:33:08.000 --> 02:33:11.000
+Because it already has it. Yeah.
+
+02:33:11.000 --> 02:33:19.000
+Yeah, we have the same list for orders on routes, and in a couple on… And in a couple of other places.
+
+02:33:19.000 --> 02:33:23.000
+So, it's basically copy and paste and connect existing. Endpoints.
+
+02:33:23.000 --> 02:33:27.000
+Exactly. Exactly.
+
+02:33:27.000 --> 02:33:45.000
+Uh, I will, uh… Well, I think Evgeny will add it quickly. I'll ask him to do it tomorrow and prepare tickets for that, uh, my morning. I hope it will be pretty quick.
+
+02:33:45.000 --> 02:33:46.000
+Okay, let's discuss one.
+
+02:33:46.000 --> 02:33:48.000
+I think it'll be fine.
+
+02:33:48.000 --> 02:33:51.000
+One small think about, uh, about…
+
+02:33:51.000 --> 02:33:54.000
+the problem with naming.
+
+02:33:54.000 --> 02:33:58.000
+So, he was, uh, upload locations.
+
+02:33:58.000 --> 02:34:00.000
+Yes.
+
+02:34:00.000 --> 02:34:04.000
+And we need to show here the custom allocation layer.
+
+02:34:04.000 --> 02:34:07.000
+And they have the same name.
+
+02:34:07.000 --> 02:34:15.000
+Right now.
+
+02:34:15.000 --> 02:34:32.000
+So, Jenny, what do you think?
+
+02:34:32.000 --> 02:34:33.000
+No. Smarty, uh…
+
+02:34:33.000 --> 02:34:37.000
+Chelsea shows up across… provide me to assets.
+
+02:34:37.000 --> 02:34:38.000
+Customer locations, da.
+
+02:34:38.000 --> 02:34:48.000
+Look, costuming locations, he has it.
+
+02:34:48.000 --> 02:34:54.000
+Are stored as a location in.
+
+02:34:54.000 --> 02:34:59.000
+at the import location.
+
+02:34:59.000 --> 02:35:00.000
+As this customer.
+
+02:35:00.000 --> 02:35:05.000
+Okay, I tell them to…
+
+02:35:05.000 --> 02:35:06.000
+No, eta… no… no…
+
+02:35:06.000 --> 02:35:22.000
+At the… at the…
+
+02:35:22.000 --> 02:35:33.000
+That's a little bit. Heat map.
+
+02:35:33.000 --> 02:35:45.000
+Last year's categorio. He cooked the Chernik Golich gives the life of pod menu, pod…
+
+02:35:45.000 --> 02:35:54.000
+Of what facilities, pod locations, pod assets, pod… vehicles…
+
+02:35:54.000 --> 02:36:04.000
+Norway Golichki… Nogalicke Bundesliga. Heat map. Eh…
+
+02:36:04.000 --> 02:36:10.000
+With the live chatting materials, occasions.
+
+02:36:10.000 --> 02:36:19.000
+Uh-huh.
+
+02:36:19.000 --> 02:36:27.000
+So, slowing customer allocation of Nistia?
+
+02:36:27.000 --> 02:36:35.000
+The…
+
+02:36:35.000 --> 02:36:42.000
+Etta.
+
+02:36:42.000 --> 02:36:43.000
+Mm-hmm.
+
+02:36:43.000 --> 02:36:51.000
+rich,
+
+02:36:51.000 --> 02:37:11.000
+each captain is that same.
+
+02:37:11.000 --> 02:37:20.000
+So. Yes, yesterday, this tweeting, I think Kakova go over it, yesterday, yes, Leon Prafty, there might be an image.
+
+02:37:20.000 --> 02:37:35.000
+Dvati, but… eat a lot of it.
+
+02:37:35.000 --> 02:37:36.000
+Good.
+
+02:37:36.000 --> 02:37:47.000
+The what?
+
+02:37:47.000 --> 02:37:59.000
+Layers. But private locations?
+
+02:37:59.000 --> 02:38:10.000
+Customer locations.
+
+02:38:10.000 --> 02:38:25.000
+Checkbox.
+
+02:38:25.000 --> 02:38:34.000
+Players, uh…
+
+02:38:34.000 --> 02:38:37.000
+Okay, what?
+
+02:38:37.000 --> 02:38:39.000
+solute.
+
+02:38:39.000 --> 02:38:40.000
+Wiki, what the… what that?
+
+02:38:40.000 --> 02:38:41.000
+emotional ideation. Emotional leadership.
+
+02:38:41.000 --> 02:38:42.000
+basically external. Yeah, ab businessnika…
+
+02:38:42.000 --> 02:38:43.000
+No. Ettagles.
+
+02:38:43.000 --> 02:38:53.000
+Da.
+
+02:38:53.000 --> 02:38:55.000
+phone. That's changed up.
+
+02:38:55.000 --> 02:38:57.000
+eta.
+
+02:38:57.000 --> 02:39:07.000
+Uh, glove necessarily carpe.
+
+02:39:07.000 --> 02:39:12.000
+With the sleeve.
+
+02:39:12.000 --> 02:39:42.000
+Alright, so the Polynesian Sleep, right?
+
+02:40:04.000 --> 02:40:09.000
+Bakar is legit.
+
+02:40:09.000 --> 02:40:39.000
+Hmm. Notebookie.
+

@@ -1,0 +1,24 @@
+# Product Review 17 July 2025
+- Destination Snapshot [[Vladimir Fedorov](mailto:vladimirfedorov@route4me.com)]
+- Left panel, Overview, History [AG]
+- Activity & Attachment tabs [VF]
+- Data Retention [[Alexey Gusentsov](mailto:alexey.gusentsov@route4me.com)[Dmitry Lyubetsky](mailto:dmitryl@route4me.com)]
+  - BE [Dmitry Lyubetsky](mailto:dmitryl@route4me.com)
+  - FE[Alexey Gusentsov](mailto:alexey.gusentsov@route4me.com)
+- Mobile:
+  - R4M: New Route View (iOS) [[Victor Zyabko](mailto:victor@route4me.com)]
+  - R4T: Route preview and Add destination (iOS) [[Olha Skulska](mailto:olga@route4me.com)]
+  - Questions: - Geocoding here SDK [ [Anton Khavanskii](mailto:anton@route4me.com)]
+- Releases Questions - [Artur Moskalenko](mailto:arturm@route4me.com)
+- New Pricing Page - hide registration process [[Vladimir Zhakhavets](mailto:vova@route4me.com)] https://www.figma.com/design/Dr2IGBENaFWu7TWbU3FHuc/Billing?node-id=5597-62207&t=TDwwsOiP9CBimAb2-1
+- Telemetry in Vehicle Snapshot  [[Vladimir Zhakhavets](mailto:vova@route4me.com)] https://www.figma.com/design/5zzTzSnqz2CjShT39H74hM/Vehicle-Snapshot?node-id=225-10589&t=BEAo6E09wcqMFe8w-1
+- Schedule Editor for Customer Location and Recurring Routes  [[Vladimir Zhakhavets](mailto:vova@route4me.com)] https://www.figma.com/design/ghAn2xYd0f50whivKdeHLe/Schedule-Editor?node-id=1181-34306&t=DK3ktMkCuv4MxAH0-1
+- Inventory Manager and Item Snapshot [[Vladimir Zhakhavets](mailto:vova@route4me.com)]
+- Arrival / Departure Time UI  [[Vladimir Zhakhavets](mailto:vova@route4me.com)]
+# Critical Questions
+- External Users / Cross-Account Data Sharing   [https://www.figma.com/design/1jjBlRBwTL5kX8FZOWUCeb/Users?node-id=3988-32373&t=C70CVgVfhOIIqCGL-1](https://www.figma.com/design/1jjBlRBwTL5kX8FZOWUCeb/Users?node-id=3988-32373&t=C70CVgVfhOIIqCGL-1)
+  - Solution Architecture [[Igor Skrynkovskyy](mailto:igor@route4me.com)]
+  - Design: New Page for Invites and Displaying the Status of the Invited User [[Vladimir Zhakhavets](mailto:vova@route4me.com)]
+- Facility-Based Visibility Filter
+  - Design: Solution via table-level header [[Vladimir Zhakhavets](mailto:vova@route4me.com)] [https://www.figma.com/design/0LEMn1UDp1uchc50xSIR2U/Inventory-Manager?node-id=1-38241&t=uevdhTMebH5ExctB-1](https://www.figma.com/design/0LEMn1UDp1uchc50xSIR2U/Inventory-Manager?node-id=1-38241&t=uevdhTMebH5ExctB-1)
+  - Design: Header-level solution (not for all pages due to missing attribution in some cases)  [[Vladimir Zhakhavets](mailto:vova@route4me.com)]  [https://www.figma.com/design/NlbBIJDfF1exqwLi0r1gH7/Global-Header?node-id=1512-2509&t=7TRnVDFzx3nT3UVw-1](https://www.figma.com/design/NlbBIJDfF1exqwLi0r1gH7/Global-Header?node-id=1512-2509&t=7TRnVDFzx3nT3UVw-1)

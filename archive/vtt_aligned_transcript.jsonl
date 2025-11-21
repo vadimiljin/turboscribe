@@ -1,0 +1,570 @@
+{"start": 176.26, "end": 177.5, "speaker": "Artur Moskalenko", "text": "Дэн, привет.", "confidence": 0.61, "match_type": "single", "duration": 1.24}
+{"start": 178.26, "end": 180.46, "speaker": "Semeyon S", "text": "Ребята, кто там хотел начать?", "confidence": 0.935, "match_type": "single", "duration": 2.2}
+{"start": 181.64, "end": 181.9, "speaker": "Serhii Kasainov", "text": "Я.", "confidence": 1.0, "match_type": "single", "duration": 0.26}
+{"start": 183.02, "end": 183.36, "speaker": "Semeyon S", "text": "Давай.", "confidence": 0.988, "match_type": "single", "duration": 0.34}
+{"start": 184.62, "end": 186.74, "speaker": "Igor Skrynkovskyy", "text": "Давайте подождем чтобы Дэн сказал.", "confidence": 0.966, "match_type": "single", "duration": 2.12}
+{"start": 187.66, "end": 187.86, "speaker": "Igor Skrynkovskyy", "text": "Может он подключается.", "confidence": 0.141, "match_type": "split", "duration": 0.2}
+{"start": 189.04, "end": 189.94, "speaker": "Dan Khasis", "text": "Да, я слушаю.", "confidence": 1.0, "match_type": "single", "duration": 0.9}
+{"start": 189.94, "end": 190.289, "speaker": "Dan Khasis", "text": "Так, от", "confidence": 0.053, "match_type": "split", "duration": 0.35}
+{"start": 195.88, "end": 197.68, "speaker": "Serhii Kasainov", "text": "меня маленький апдейт по снапшотам.", "confidence": 1.0, "match_type": "single", "duration": 1.8}
+{"start": 198.24, "end": 200.94, "speaker": "Serhii Kasainov", "text": "Мы очень долго к этому шли и наконец-то", "confidence": 1.0, "match_type": "single", "duration": 2.7}
+{"start": 200.94, "end": 201.38, "speaker": "Serhii Kasainov", "text": "пришли.", "confidence": 1.0, "match_type": "single", "duration": 0.44}
+{"start": 202.32, "end": 205.2, "speaker": "Serhii Kasainov", "text": "Мы затянули таблицы из", "confidence": 1.0, "match_type": "single", "duration": 2.88}
+{"start": 205.2, "end": 206.76, "speaker": "Serhii Kasainov", "text": "routes-листа", "confidence": 1.0, "match_type": "single", "duration": 1.56}
+{"start": 206.76, "end": 207.22, "speaker": "Serhii Kasainov", "text": "практически уже во все снапшоты.", "confidence": 0.139, "match_type": "split", "duration": 0.46}
+{"start": 209.88, "end": 211.3, "speaker": "Serhii Kasainov", "text": "Я сегодня закончу, будут все.", "confidence": 1.0, "match_type": "single", "duration": 1.42}
+{"start": 212.14, "end": 215.1, "speaker": "Serhii Kasainov", "text": "Благодаря чему у нас на каждом снапшоте, по", "confidence": 1.0, "match_type": "single", "duration": 2.96}
+{"start": 215.1, "end": 217.12, "speaker": "Serhii Kasainov", "text": "крайней мере пока для routes и destination,", "confidence": 1.0, "match_type": "single", "duration": 2.02}
+{"start": 217.48, "end": 220.38, "speaker": "Serhii Kasainov", "text": "доступен весь тот функционал, который", "confidence": 1.0, "match_type": "single", "duration": 2.9}
+{"start": 220.38, "end": 222.07999999999998, "speaker": "Serhii Kasainov", "text": "у нас здесь раньше не был.", "confidence": 1.0, "match_type": "single", "duration": 1.7}
+{"start": 222.07999999999998, "end": 222.44, "speaker": "Serhii Kasainov", "text": "В частности полный список фильтров", "confidence": 0.113, "match_type": "split", "duration": 0.36}
+{"start": 224.94, "end": 227.74, "speaker": "Serhii Kasainov", "text": "с поиском, с группировками, группировки", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 227.74, "end": 229.38, "speaker": "Serhii Kasainov", "text": "собственно самой таблицы,", "confidence": 1.0, "match_type": "single", "duration": 1.64}
+{"start": 230.46, "end": 232.78, "speaker": "Serhii Kasainov", "text": "группировки", "confidence": 1.0, "match_type": "single", "duration": 2.32}
+{"start": 232.78, "end": 235.34, "speaker": "Serhii Kasainov", "text": "колонок, которые в частности для", "confidence": 1.0, "match_type": "single", "duration": 2.56}
+{"start": 235.34, "end": 236.2, "speaker": "Serhii Kasainov", "text": "тайм-зоны.", "confidence": 1.0, "match_type": "single", "duration": 0.86}
+{"start": 238.8, "end": 241.62, "speaker": "Serhii Kasainov", "text": "Да, этот вопрос меня тоже очень беспокоит.", "confidence": 0.894, "match_type": "single", "duration": 2.82}
+{"start": 243.3, "end": 243.82, "speaker": "Serhii Kasainov", "text": "Как?", "confidence": 1.0, "match_type": "single", "duration": 0.52}
+{"start": 244.94, "end": 245.4, "speaker": "Serhii Kasainov", "text": "None?", "confidence": 1.0, "match_type": "single", "duration": 0.46}
+{"start": 246.54, "end": 247.24, "speaker": "Serhii Kasainov", "text": "None.", "confidence": 0.63, "match_type": "single", "duration": 0.7}
+{"start": 247.46, "end": 250.02, "speaker": "Serhii Kasainov", "text": "Хорошо, none если можно, я бы тоже поменял.", "confidence": 1.0, "match_type": "single", "duration": 2.56}
+{"start": 250.02, "end": 250.53, "speaker": "Serhii Kasainov", "text": "Только когда выбран none,", "confidence": 0.156, "match_type": "split", "duration": 0.51}
+{"start": 253.2, "end": 254.78, "speaker": "Vova", "text": "здесь ничего не будет написано.", "confidence": 1.0, "match_type": "single", "duration": 1.58}
+{"start": 254.88, "end": 257.48, "speaker": "Vova", "text": "Будет написано groupby просто, если выбран none.", "confidence": 1.0, "match_type": "single", "duration": 2.6}
+{"start": 257.86, "end": 260.839, "speaker": "Vova", "text": "Вот здесь термин меняется на none, а", "confidence": 1.0, "match_type": "single", "duration": 2.98}
+{"start": 260.839, "end": 262.66, "speaker": "Vova", "text": "здесь убирается совсем, когда none выбран.", "confidence": 1.0, "match_type": "single", "duration": 1.82}
+{"start": 265.31, "end": 267.85, "speaker": "Serhii Kasainov", "text": "Ну groupby, давай хотя бы прочерк может?", "confidence": 1.0, "match_type": "single", "duration": 2.54}
+{"start": 268.37, "end": 270.08, "speaker": "Serhii Kasainov", "text": "Нет, нет, нет.", "confidence": 0.568, "match_type": "split", "duration": 1.71}
+{"start": 271.63, "end": 274.29, "speaker": "Vova", "text": "Групбай без двоеточия и без лейбла.", "confidence": 1.0, "match_type": "single", "duration": 2.66}
+{"start": 274.40999999999997, "end": 276.49, "speaker": "Vova", "text": "Просто groupby и стрелочка вниз.", "confidence": 1.0, "match_type": "single", "duration": 2.08}
+{"start": 276.90999999999997, "end": 278.85, "speaker": "Vova", "text": "Приглашает тебя выбрать группировку.", "confidence": 1.0, "match_type": "single", "duration": 1.94}
+{"start": 279.99, "end": 282.87, "speaker": "Vova", "text": "Группировка отключена, ничего не выбрано.", "confidence": 1.0, "match_type": "single", "duration": 2.88}
+{"start": 283.11, "end": 285.29, "speaker": "Serhii Kasainov", "text": "Я понял, вопросов нет, договорились, хорошо.", "confidence": 1.0, "match_type": "single", "duration": 2.18}
+{"start": 286.13, "end": 287.45, "speaker": "Serhii Kasainov", "text": "На чем я остановился?", "confidence": 1.0, "match_type": "single", "duration": 1.32}
+{"start": 287.69, "end": 290.65, "speaker": "Serhii Kasainov", "text": "Да, соответственно доступно вот это вот менюшечка, пока", "confidence": 1.0, "match_type": "single", "duration": 2.96}
+{"start": 290.65, "end": 293.47, "speaker": "Serhii Kasainov", "text": "только вот те три пункта, которые здесь", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 293.47, "end": 293.85, "speaker": "Serhii Kasainov", "text": "были.", "confidence": 1.0, "match_type": "single", "duration": 0.38}
+{"start": 294.11, "end": 297.03, "speaker": "Serhii Kasainov", "text": "Сейчас в QA эту итерацию одобрят и затащу", "confidence": 1.0, "match_type": "single", "duration": 2.92}
+{"start": 297.03, "end": 299.89, "speaker": "Serhii Kasainov", "text": "в принципе все пункты, которые есть", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 299.89, "end": 301.21, "speaker": "Serhii Kasainov", "text": "в меню на routes-листе.", "confidence": 1.0, "match_type": "single", "duration": 1.32}
+{"start": 301.21, "end": 304.03, "speaker": "Serhii Kasainov", "text": "То есть на снапшоте любом можно будет с routes-таблицей", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 304.03, "end": 306.93, "speaker": "Serhii Kasainov", "text": "работать практически так же, как и на", "confidence": 0.941, "match_type": "dominant", "duration": 2.9}
+{"start": 306.93, "end": 307.29, "speaker": "Serhii Kasainov", "text": "routes.", "confidence": 1.0, "match_type": "single", "duration": 0.36}
+{"start": 307.93, "end": 310.01, "speaker": "Serhii Kasainov", "text": "То же самое, соответственно, для destination.", "confidence": 1.0, "match_type": "single", "duration": 2.08}
+{"start": 315.07, "end": 317.51, "speaker": "Serhii Kasainov", "text": "Что тут еще интересного показать?", "confidence": 0.878, "match_type": "single", "duration": 2.44}
+{"start": 318.41, "end": 320.85, "speaker": "Serhii Kasainov", "text": "А, ну метрики тоже тут соответственно", "confidence": 1.0, "match_type": "single", "duration": 2.44}
+{"start": 320.85, "end": 322.69, "speaker": "Serhii Kasainov", "text": "автоматически стали доступны.", "confidence": 1.0, "match_type": "single", "duration": 1.84}
+{"start": 323.39, "end": 326.35, "speaker": "Serhii Kasainov", "text": "Ну и дальше по снапшотам эта же таблица будет", "confidence": 1.0, "match_type": "single", "duration": 2.96}
+{"start": 326.35, "end": 328.71, "speaker": "Serhii Kasainov", "text": "везде переиспользоваться с небольшими", "confidence": 1.0, "match_type": "single", "duration": 2.36}
+{"start": 328.71, "end": 332.29, "speaker": "Serhii Kasainov", "text": "правками, что, например, там", "confidence": 1.0, "match_type": "single", "duration": 3.58}
+{"start": 332.29, "end": 335.21, "speaker": "Serhii Kasainov", "text": "на юзер-снапшоте мы не будем допускать", "confidence": 1.0, "match_type": "single", "duration": 2.92}
+{"start": 335.21, "end": 336.51, "speaker": "Serhii Kasainov", "text": "фильтрацию по юзеру.", "confidence": 1.0, "match_type": "single", "duration": 1.3}
+{"start": 336.89, "end": 339.57, "speaker": "Serhii Kasainov", "text": "Или там на facility-снапшоте мы не будем делать", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 339.57, "end": 340.87, "speaker": "Serhii Kasainov", "text": "группировку по facility.", "confidence": 1.0, "match_type": "single", "duration": 1.3}
+{"start": 342.07, "end": 344.85, "speaker": "Serhii Kasainov", "text": "Вот это, в принципе, такие вот", "confidence": 1.0, "match_type": "single", "duration": 2.78}
+{"start": 344.85, "end": 347.33, "speaker": "Serhii Kasainov", "text": "улучшения", "confidence": 1.0, "match_type": "single", "duration": 2.48}
+{"start": 347.33, "end": 347.75, "speaker": "Serhii Kasainov", "text": "уже готовы.", "confidence": 0.172, "match_type": "split", "duration": 0.42}
+{"start": 349.99, "end": 352.81, "speaker": "Serhii Kasainov", "text": "Скоро, думаю, в понедельник мы их доставим на route.", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 353.39, "end": 355.93, "speaker": "Serhii Kasainov", "text": "И был у меня вопрос, Дэн, почему мы не", "confidence": 1.0, "match_type": "single", "duration": 2.54}
+{"start": 355.93, "end": 357.83, "speaker": "Serhii Kasainov", "text": "зарелизили destination-снапшот?", "confidence": 1.0, "match_type": "single", "duration": 1.9}
+{"start": 358.21, "end": 361.73, "speaker": "Serhii Kasainov", "text": "Ну, почему мы не зарелизили, я знаю, почему, может", "confidence": 0.952, "match_type": "dominant", "duration": 3.52}
+{"start": 361.73, "end": 364.41, "speaker": "Serhii Kasainov", "text": "ты нам его одобришь, там по нему есть, конечно,", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 364.55, "end": 367.15, "speaker": "Serhii Kasainov", "text": "мелкие оправки, но мне он выглядит лучше, чем", "confidence": 1.0, "match_type": "single", "duration": 2.6}
+{"start": 367.15, "end": 369.91, "speaker": "Serhii Kasainov", "text": "многие другие снапшоты, которые мы уже", "confidence": 1.0, "match_type": "single", "duration": 2.76}
+{"start": 369.91, "end": 370.47, "speaker": "Serhii Kasainov", "text": "зарелизили.", "confidence": 1.0, "match_type": "single", "duration": 0.56}
+{"start": 378.24, "end": 381.18, "speaker": "Dan Khasis", "text": "Надо посмотреть, наверное, была причина, я не", "confidence": 1.0, "match_type": "single", "duration": 2.94}
+{"start": 381.18, "end": 384.14, "speaker": "Dan Khasis", "text": "помню причину, может вы неправильно помните,", "confidence": 1.0, "match_type": "single", "duration": 2.96}
+{"start": 384.26, "end": 386.46, "speaker": "Dan Khasis", "text": "я неправильно помню, и просто", "confidence": 1.0, "match_type": "single", "duration": 2.2}
+{"start": 386.46, "end": 387.14, "speaker": "Dan Khasis", "text": "теперь недопонимание.", "confidence": 0.234, "match_type": "split", "duration": 0.68}
+{"start": 390.86, "end": 393.82, "speaker": "Serhii Kasainov", "text": "Ну там есть список тикетов, но опять же, мы", "confidence": 0.958, "match_type": "single", "duration": 2.96}
+{"start": 393.82, "end": 396.46, "speaker": "Serhii Kasainov", "text": "их пересмотрим, я просто вот не помню, что там прям", "confidence": 1.0, "match_type": "single", "duration": 2.64}
+{"start": 396.46, "end": 397.4, "speaker": "Serhii Kasainov", "text": "критичного было.", "confidence": 1.0, "match_type": "single", "duration": 0.94}
+{"start": 397.74, "end": 398.52, "speaker": "Serhii Kasainov", "text": "Он идеален?", "confidence": 1.0, "match_type": "single", "duration": 0.78}
+{"start": 398.62, "end": 399.42, "speaker": "Serhii Kasainov", "text": "Нет, он не идеален.", "confidence": 0.812, "match_type": "dominant", "duration": 0.8}
+{"start": 399.44, "end": 401.84000000000003, "speaker": "Alexey Gusentsov", "text": "Ну точно нету таких левейших, я помню, к ним было.", "confidence": 1.0, "match_type": "single", "duration": 2.4}
+{"start": 402.74, "end": 403.78, "speaker": "Serhii Kasainov", "text": "Кого нету?", "confidence": 0.828, "match_type": "single", "duration": 1.04}
+{"start": 407.94, "end": 410.18, "speaker": "Serhii Kasainov", "text": "Ну в любом случае он выглядит лучше, чем budget optimization.", "confidence": 0.731, "match_type": "single", "duration": 2.24}
+{"start": 410.2, "end": 411.5, "speaker": "Serhii Kasainov", "text": "Ой, извините, на интернет попал, извините.", "confidence": 0.465, "match_type": "nearest", "duration": 1.3}
+{"start": 413.8, "end": 415.12, "speaker": "Serhii Kasainov", "text": "Да, Алексей, бывает.", "confidence": 0.947, "match_type": "single", "duration": 1.32}
+{"start": 416.12, "end": 418.76, "speaker": "Serhii Kasainov", "text": "Он выглядит лучше, чем optimization-снапшот, чем", "confidence": 1.0, "match_type": "single", "duration": 2.64}
+{"start": 418.76, "end": 421.3, "speaker": "Serhii Kasainov", "text": "user-снапшот и чем vehicle-снапшот.", "confidence": 1.0, "match_type": "single", "duration": 2.54}
+{"start": 421.44, "end": 423.3, "speaker": "Serhii Kasainov", "text": "Карта прибавляет плюс", "confidence": 1.0, "match_type": "single", "duration": 1.86}
+{"start": 423.3, "end": 426.12, "speaker": "Serhii Kasainov", "text": "50%, нет, плюс", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 426.12, "end": 428.34, "speaker": "Serhii Kasainov", "text": "70% к привлекательности.", "confidence": 1.0, "match_type": "single", "duration": 2.22}
+{"start": 429.32, "end": 432.08, "speaker": "Serhii Kasainov", "text": "Давайте может зарелизим, если что-то", "confidence": 0.89, "match_type": "single", "duration": 2.76}
+{"start": 432.08, "end": 434.5, "speaker": "Serhii Kasainov", "text": "совсем плохо, я бы сегодня его быстро", "confidence": 1.0, "match_type": "single", "duration": 2.42}
+{"start": 434.5, "end": 436.34, "speaker": "Serhii Kasainov", "text": "подправил и завтра бы релизнули.", "confidence": 1.0, "match_type": "single", "duration": 1.84}
+{"start": 443.91, "end": 446.71, "speaker": "Semeyon S", "text": "Ну давай после звонка", "confidence": 0.848, "match_type": "single", "duration": 2.8}
+{"start": 446.71, "end": 449.29, "speaker": "Semeyon S", "text": "тикеты по диагонали", "confidence": 1.0, "match_type": "single", "duration": 2.58}
+{"start": 449.29, "end": 449.75, "speaker": "Semeyon S", "text": "глянем.", "confidence": 1.0, "match_type": "single", "duration": 0.46}
+{"start": 453.54, "end": 454.07, "speaker": "Semeyon S", "text": "Я не против ничего релизать рано", "confidence": 0.166, "match_type": "split", "duration": 0.53}
+{"start": 456.42, "end": 457.48, "speaker": "Dan Khasis", "text": "или релизать часто.", "confidence": 1.0, "match_type": "single", "duration": 1.06}
+{"start": 459.99, "end": 462.79, "speaker": "Dan Khasis", "text": "Мне просто больше", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 462.79, "end": 464.03, "speaker": "Dan Khasis", "text": "любопытно, если", "confidence": 0.335, "match_type": "split", "duration": 1.24}
+{"start": 466.49, "end": 468.53, "speaker": "Dan Khasis", "text": "есть какой-то уровень минимальной", "confidence": 1.0, "match_type": "single", "duration": 2.04}
+{"start": 468.53, "end": 469.55, "speaker": "Dan Khasis", "text": "полезности", "confidence": 1.0, "match_type": "single", "duration": 1.02}
+{"start": 469.55, "end": 471.79, "speaker": "Dan Khasis", "text": "этого", "confidence": 1.0, "match_type": "single", "duration": 2.24}
+{"start": 471.79, "end": 473.90999999999997, "speaker": "Dan Khasis", "text": "релиза.", "confidence": 1.0, "match_type": "single", "duration": 2.12}
+{"start": 478.49, "end": 481.23, "speaker": "Dan Khasis", "text": "Например, мы уже 6 месяцев", "confidence": 0.54, "match_type": "single", "duration": 2.74}
+{"start": 481.23, "end": 483.71, "speaker": "Dan Khasis", "text": "пытаемся запустить это несчастное сервис тайм.", "confidence": 1.0, "match_type": "single", "duration": 2.48}
+{"start": 483.97, "end": 486.61, "speaker": "Dan Khasis", "text": "Мы потратили на прошлый", "confidence": 1.0, "match_type": "single", "duration": 2.64}
+{"start": 486.61, "end": 489.17, "speaker": "Dan Khasis", "text": "митинг в понедельник", "confidence": 1.0, "match_type": "single", "duration": 2.56}
+{"start": 489.17, "end": 489.49, "speaker": "Dan Khasis", "text": "минимум час насчет", "confidence": 0.109, "match_type": "split", "duration": 0.32}
+{"start": 491.81, "end": 493.99, "speaker": "Dan Khasis", "text": "historical service time и все", "confidence": 1.0, "match_type": "single", "duration": 2.18}
+{"start": 493.99, "end": 495.83, "speaker": "Dan Khasis", "text": "вариации", "confidence": 1.0, "match_type": "single", "duration": 1.84}
+{"start": 495.83, "end": 496.48, "speaker": "Dan Khasis", "text": "и варианты, которые с ним", "confidence": 0.227, "match_type": "split", "duration": 0.65}
+{"start": 498.41, "end": 501.27, "speaker": "Dan Khasis", "text": "связаны, плюсы и минусы.", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 501.27, "end": 501.93, "speaker": "Dan Khasis", "text": "Как", "confidence": 0.417, "match_type": "split", "duration": 0.66}
+{"start": 502.93, "end": 505.83, "speaker": "Dan Khasis", "text": "это надо рассматривать и", "confidence": 1.0, "match_type": "single", "duration": 2.9}
+{"start": 505.83, "end": 506.95, "speaker": "Dan Khasis", "text": "как это надо делать.", "confidence": 1.0, "match_type": "single", "duration": 1.12}
+{"start": 510.45, "end": 512.73, "speaker": "Dan Khasis", "text": "Ок, так мы сделаем релиз", "confidence": 1.0, "match_type": "single", "duration": 2.28}
+{"start": 513.5, "end": 515.71, "speaker": "Dan Khasis", "text": "destination, но если destination", "confidence": 0.779, "match_type": "split", "duration": 2.21}
+{"start": 515.71, "end": 518.409, "speaker": "Dan Khasis", "text": "не имеет полноценную графическую линковку,", "confidence": 1.0, "match_type": "single", "duration": 2.7}
+{"start": 519.549, "end": 523.76, "speaker": "Dan Khasis", "text": "relationship линковку, полноценный", "confidence": 0.498, "match_type": "split", "duration": 4.21}
+{"start": 528.42, "end": 530.92, "speaker": "Dan Khasis", "text": "линк на ордер, полноценный линк на", "confidence": 1.0, "match_type": "single", "duration": 2.5}
+{"start": 532.42, "end": 535.8, "speaker": "Dan Khasis", "text": "destination,", "confidence": 0.727, "match_type": "single", "duration": 3.38}
+{"start": 537.94, "end": 540.64, "speaker": "Dan Khasis", "text": "полноценный линк на customer, на", "confidence": 1.0, "match_type": "single", "duration": 2.7}
+{"start": 540.64, "end": 542.32, "speaker": "Dan Khasis", "text": "customer location, на strategic", "confidence": 0.613, "match_type": "split", "duration": 1.68}
+{"start": 543.52, "end": 545.28, "speaker": "Dan Khasis", "text": "route, откуда это все произошло.", "confidence": 1.0, "match_type": "single", "duration": 1.76}
+{"start": 545.46, "end": 547.54, "speaker": "Dan Khasis", "text": "Тогда какой смысл, если мы не показываем", "confidence": 1.0, "match_type": "single", "duration": 2.08}
+{"start": 547.54, "end": 548.92, "speaker": "Dan Khasis", "text": "никакие", "confidence": 0.73, "match_type": "single", "duration": 1.38}
+{"start": 548.92, "end": 551.84, "speaker": "Dan Khasis", "text": "высокоуровневые атрибуты и так далее.", "confidence": 0.859, "match_type": "single", "duration": 2.92}
+{"start": 552.53, "end": 557.11, "speaker": "Dan Khasis", "text": "Например, в", "confidence": 0.241, "match_type": "dominant", "duration": 4.58}
+{"start": 557.11, "end": 558.73, "speaker": "Dan Khasis", "text": "этом случае вы показываете,", "confidence": 1.0, "match_type": "single", "duration": 1.62}
+{"start": 559.21, "end": 561.91, "speaker": "Dan Khasis", "text": "как я понимаю, это липовый", "confidence": 1.0, "match_type": "single", "duration": 2.7}
+{"start": 561.91, "end": 563.47, "speaker": "Dan Khasis", "text": "ордер, это не настоящий.", "confidence": 1.0, "match_type": "single", "duration": 1.56}
+{"start": 565.73, "end": 568.73, "speaker": "Serhii Kasainov", "text": "Я думаю, что это external order, это точно не", "confidence": 1.0, "match_type": "single", "duration": 3.0}
+{"start": 568.73, "end": 569.61, "speaker": "Serhii Kasainov", "text": "наши айдишники.", "confidence": 1.0, "match_type": "single", "duration": 0.88}
+{"start": 570.47, "end": 572.93, "speaker": "Dan Khasis", "text": "Где наш ордер объект?", "confidence": 0.854, "match_type": "single", "duration": 2.46}
+{"start": 573.87, "end": 576.23, "speaker": "Serhii Kasainov", "text": "Ну мы договаривались наши внутренние", "confidence": 1.0, "match_type": "single", "duration": 2.36}
+{"start": 576.23, "end": 577.87, "speaker": "Serhii Kasainov", "text": "айдишники не показывать.", "confidence": 1.0, "match_type": "single", "duration": 1.64}
+{"start": 578.51, "end": 580.65, "speaker": "Dan Khasis", "text": "Не айдишники, а наш объект.", "confidence": 1.0, "match_type": "single", "duration": 2.14}
+{"start": 584.39, "end": 585.31, "speaker": "Serhii Kasainov", "text": "Не понял.", "confidence": 1.0, "match_type": "single", "duration": 0.92}
+{"start": 585.31, "end": 585.7, "speaker": "Serhii Kasainov", "text": "Здесь должен быть переход на ссылку на", "confidence": 0.119, "match_type": "split", "duration": 0.39}
+{"start": 588.27, "end": 590.71, "speaker": "Igor Golovtsov", "text": "связь с ордером.", "confidence": 0.241, "match_type": "single", "duration": 2.44}
+{"start": 591.57, "end": 593.53, "speaker": "Serhii Kasainov", "text": "Это понятно, здесь должна быть ссылка.", "confidence": 1.0, "match_type": "single", "duration": 1.96}
+{"start": 594.97, "end": 596.99, "speaker": "Alexey Gusentsov", "text": "Да, ссылки мы делали, они должны быть и на ордере,", "confidence": 1.0, "match_type": "single", "duration": 2.02}
+{"start": 597.07, "end": 597.57, "speaker": "Alexey Gusentsov", "text": "и на кастомере.", "confidence": 1.0, "match_type": "single", "duration": 0.5}
+{"start": 597.65, "end": 599.19, "speaker": "Alexey Gusentsov", "text": "Я не знаю, почему здесь нет, нужно разбираться, но они", "confidence": 1.0, "match_type": "single", "duration": 1.54}
+{"start": 599.19, "end": 599.85, "speaker": "Alexey Gusentsov", "text": "точно должны быть.", "confidence": 1.0, "match_type": "single", "duration": 0.66}
+{"start": 600.35, "end": 601.85, "speaker": "Alexey Gusentsov", "text": "Может как раз таки есть такая пара, я не помню.", "confidence": 1.0, "match_type": "single", "duration": 1.5}
+{"start": 601.97, "end": 603.81, "speaker": "Serhii Kasainov", "text": "На этом аккаунте нет ордер снапшота.", "confidence": 0.9, "match_type": "split", "duration": 1.84}
+{"start": 604.45, "end": 605.51, "speaker": "Serhii Kasainov", "text": "То же самое с кастом.", "confidence": 1.0, "match_type": "single", "duration": 1.06}
+{"start": 605.55, "end": 607.99, "speaker": "Serhii Kasainov", "text": "Это понятно, это мы сейчас очень быстро можем доделать.", "confidence": 1.0, "match_type": "single", "duration": 2.44}
+{"start": 609.03, "end": 611.01, "speaker": "Serhii Kasainov", "text": "Тут просто большой уже объем работы сделал.", "confidence": 1.0, "match_type": "single", "duration": 1.98}
+{"start": 611.01, "end": 613.71, "speaker": "Serhii Kasainov", "text": "Я просто помню, вот это вот не было, по-моему,", "confidence": 1.0, "match_type": "single", "duration": 2.7}
+{"start": 614.05, "end": 615.85, "speaker": "Serhii Kasainov", "text": "запровнуто окончательно.", "confidence": 1.0, "match_type": "single", "duration": 1.8}
+{"start": 616.49, "end": 618.23, "speaker": "Serhii Kasainov", "text": "Есть ли layout в порядке?", "confidence": 1.0, "match_type": "single", "duration": 1.74}
+{"start": 618.35, "end": 621.09, "speaker": "Serhii Kasainov", "text": "Есть ли как бы тут прям очевидных замечаний, кроме", "confidence": 1.0, "match_type": "single", "duration": 2.74}
+{"start": 621.09, "end": 621.81, "speaker": "Serhii Kasainov", "text": "перехода, нет?", "confidence": 1.0, "match_type": "single", "duration": 0.72}
+{"start": 621.95, "end": 622.59, "speaker": "Serhii Kasainov", "text": "Давайте дожмем.", "confidence": 1.0, "match_type": "single", "duration": 0.64}
+{"start": 623.33, "end": 626.19, "speaker": "Serhii Kasainov", "text": "Ну тут большой объем работы был выполнен, который", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 626.19, "end": 627.07, "speaker": "Serhii Kasainov", "text": "просто висит.", "confidence": 1.0, "match_type": "single", "duration": 0.88}
+{"start": 627.5, "end": 630.35, "speaker": "Dan Khasis", "text": "Я не спорю, я не спорю, но я просто пытаюсь", "confidence": 0.9, "match_type": "split", "duration": 2.85}
+{"start": 630.35, "end": 633.21, "speaker": "Dan Khasis", "text": "тебе сказать, представь, что ты юзер,", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 634.25, "end": 635.51, "speaker": "Dan Khasis", "text": "какая польза от этого?", "confidence": 1.0, "match_type": "single", "duration": 1.26}
+{"start": 637.35, "end": 639.89, "speaker": "Dan Khasis", "text": "Например, ты показываешь маршрут.", "confidence": 1.0, "match_type": "single", "duration": 2.54}
+{"start": 640.03, "end": 641.75, "speaker": "Dan Khasis", "text": "Я не знаю, если это хорошо или плохо.", "confidence": 1.0, "match_type": "single", "duration": 1.72}
+{"start": 643.63, "end": 646.63, "speaker": "Dan Khasis", "text": "Geofence, если это пришел от Customer Location,", "confidence": 1.0, "match_type": "single", "duration": 3.0}
+{"start": 647.65, "end": 650.63, "speaker": "Dan Khasis", "text": "а Customer Location пришел от", "confidence": 1.0, "match_type": "single", "duration": 2.98}
+{"start": 650.63, "end": 651.74, "speaker": "Dan Khasis", "text": "Geotab, и мы не понимаем,", "confidence": 0.38, "match_type": "split", "duration": 1.11}
+{"start": 653.71, "end": 654.95, "speaker": "Dan Khasis", "text": "что это от Geotab.", "confidence": 1.0, "match_type": "single", "duration": 1.24}
+{"start": 655.31, "end": 657.41, "speaker": "Dan Khasis", "text": "Во-первых, здесь полигон", "confidence": 1.0, "match_type": "single", "duration": 2.1}
+{"start": 657.41, "end": 660.21, "speaker": "Dan Khasis", "text": "дорисовать геотабовский.", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 661.51, "end": 664.19, "speaker": "Dan Khasis", "text": "Когда я говорю насчет графика, я постоянно", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 664.19, "end": 668.36, "speaker": "Dan Khasis", "text": "имею в виду, что все эти", "confidence": 1.0, "match_type": "single", "duration": 4.17}
+{"start": 668.36, "end": 670.79, "speaker": "Dan Khasis", "text": "взаимодействованные отношения, вот", "confidence": 0.213, "match_type": "split", "duration": 2.43}
+{"start": 680.34, "end": 684.75, "speaker": "Dan Khasis", "text": "что меня больше", "confidence": 1.0, "match_type": "single", "duration": 4.41}
+{"start": 684.75, "end": 687.65, "speaker": "Dan Khasis", "text": "тревожит, какой смысл", "confidence": 1.0, "match_type": "single", "duration": 2.9}
+{"start": 687.65, "end": 688.79, "speaker": "Dan Khasis", "text": "всего этого, если мы все", "confidence": 0.44, "match_type": "split", "duration": 1.14}
+{"start": 690.37, "end": 692.51, "speaker": "Dan Khasis", "text": "равно завязали руки", "confidence": 1.0, "match_type": "single", "duration": 2.14}
+{"start": 692.51, "end": 696.13, "speaker": "Dan Khasis", "text": "людям", "confidence": 0.795, "match_type": "dominant", "duration": 3.62}
+{"start": 696.13, "end": 697.61, "speaker": "Dan Khasis", "text": "за спиной.", "confidence": 1.0, "match_type": "single", "duration": 1.48}
+{"start": 697.75, "end": 699.75, "speaker": "Dan Khasis", "text": "И, кстати, здесь дефект вот этот.", "confidence": 1.0, "match_type": "single", "duration": 2.0}
+{"start": 701.91, "end": 704.23, "speaker": "Dan Khasis", "text": "Мы же им завязали руки за спиной.", "confidence": 1.0, "match_type": "single", "duration": 2.32}
+{"start": 705.07, "end": 707.57, "speaker": "Dan Khasis", "text": "Если это был ордер RouteFormation,", "confidence": 1.0, "match_type": "single", "duration": 2.5}
+{"start": 707.77, "end": 710.17, "speaker": "Dan Khasis", "text": "мы не линкуем на него.", "confidence": 1.0, "match_type": "single", "duration": 2.4}
+{"start": 710.95, "end": 713.81, "speaker": "Dan Khasis", "text": "Если это был Customer Location, мы", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 713.81, "end": 714.77, "speaker": "Dan Khasis", "text": "это не показываем.", "confidence": 1.0, "match_type": "single", "duration": 0.96}
+{"start": 715.89, "end": 718.83, "speaker": "Dan Khasis", "text": "Если это был Customer Location с Geotab, мы", "confidence": 1.0, "match_type": "single", "duration": 2.94}
+{"start": 718.83, "end": 720.21, "speaker": "Dan Khasis", "text": "это тоже не показываем.", "confidence": 1.0, "match_type": "single", "duration": 1.38}
+{"start": 720.35, "end": 722.87, "speaker": "Dan Khasis", "text": "Если у него был Geofence, мы его тоже не", "confidence": 1.0, "match_type": "single", "duration": 2.52}
+{"start": 722.87, "end": 723.37, "speaker": "Dan Khasis", "text": "показываем.", "confidence": 1.0, "match_type": "single", "duration": 0.5}
+{"start": 724.43, "end": 724.97, "speaker": "Dan Khasis", "text": "То есть что", "confidence": 1.0, "match_type": "single", "duration": 0.54}
+{"start": 724.97, "end": 727.63, "speaker": "Dan Khasis", "text": "этот", "confidence": 1.0, "match_type": "single", "duration": 2.66}
+{"start": 727.63, "end": 729.09, "speaker": "Dan Khasis", "text": "экран помогает людям?", "confidence": 1.0, "match_type": "single", "duration": 1.46}
+{"start": 729.09, "end": 731.17, "speaker": "Dan Khasis", "text": "Attachments, окей, я согласен.", "confidence": 1.0, "match_type": "single", "duration": 2.08}
+{"start": 731.95, "end": 734.69, "speaker": "Dan Khasis", "text": "Activities, окей, если фильтр работает, я", "confidence": 1.0, "match_type": "single", "duration": 2.74}
+{"start": 734.69, "end": 735.23, "speaker": "Dan Khasis", "text": "согласен.", "confidence": 1.0, "match_type": "single", "duration": 0.54}
+{"start": 736.99, "end": 739.17, "speaker": "Dan Khasis", "text": "History, что History показывает, я не понимаю.", "confidence": 1.0, "match_type": "single", "duration": 2.18}
+{"start": 739.35, "end": 740.35, "speaker": "Dan Khasis", "text": "Что History показывает?", "confidence": 1.0, "match_type": "single", "duration": 1.0}
+{"start": 742.53, "end": 744.09, "speaker": "Artur Moskalenko", "text": "Delivery Attempts.", "confidence": 0.989, "match_type": "single", "duration": 1.56}
+{"start": 746.75, "end": 749.53, "speaker": "Dan Khasis", "text": "Я не понимаю, что это", "confidence": 1.0, "match_type": "single", "duration": 2.78}
+{"start": 749.53, "end": 750.79, "speaker": "Dan Khasis", "text": "значит Delivery Attempts.", "confidence": 1.0, "match_type": "single", "duration": 1.26}
+{"start": 750.87, "end": 752.17, "speaker": "Dan Khasis", "text": "Это копия Activities?", "confidence": 1.0, "match_type": "single", "duration": 1.3}
+{"start": 756.41, "end": 758.25, "speaker": "Artur Moskalenko", "text": "По сути, да.", "confidence": 1.0, "match_type": "single", "duration": 1.84}
+{"start": 760.51, "end": 762.27, "speaker": "Dan Khasis", "text": "Какой смысл это иметь тогда?", "confidence": 1.0, "match_type": "single", "duration": 1.76}
+{"start": 762.27, "end": 762.609, "speaker": "Dan Khasis", "text": "И Activity, включая", "confidence": 0.122, "match_type": "split", "duration": 0.34}
+{"start": 764.77, "end": 767.73, "speaker": "Serhii Kasainov", "text": "Activity по рауту.", "confidence": 0.89, "match_type": "single", "duration": 2.96}
+{"start": 769.51, "end": 772.01, "speaker": "Dan Khasis", "text": "Я не понимаю, как это связано с чем-то.", "confidence": 0.995, "match_type": "single", "duration": 2.5}
+{"start": 772.45, "end": 774.65, "speaker": "Maksym Silman", "text": "Насколько я помню, History – это", "confidence": 1.0, "match_type": "single", "duration": 2.2}
+{"start": 774.65, "end": 777.53, "speaker": "Maksym Silman", "text": "исторически измененное название Notes.", "confidence": 1.0, "match_type": "single", "duration": 2.88}
+{"start": 779.37, "end": 782.33, "speaker": "Alexey Gusentsov", "text": "Нет, то есть History – это как раз-таки Activities,", "confidence": 1.0, "match_type": "single", "duration": 2.96}
+{"start": 782.69, "end": 784.91, "speaker": "Alexey Gusentsov", "text": "а вот Activities – это Notes, по-моему.", "confidence": 1.0, "match_type": "single", "duration": 2.22}
+{"start": 788.46, "end": 789.02, "speaker": "Serhii Kasainov", "text": "Я понял.", "confidence": 1.0, "match_type": "single", "duration": 0.56}
+{"start": 790.19, "end": 792.9, "speaker": "Serhii Kasainov", "text": "Просто у нас в любом случае, чтобы посмотреть Destination", "confidence": 0.9, "match_type": "split", "duration": 2.71}
+{"start": 792.9, "end": 795.52, "speaker": "Serhii Kasainov", "text": "вот в таком вот развернутом виде, у нас нет никакого", "confidence": 1.0, "match_type": "single", "duration": 2.62}
+{"start": 795.52, "end": 796.14, "speaker": "Serhii Kasainov", "text": "интерфейса.", "confidence": 1.0, "match_type": "single", "duration": 0.62}
+{"start": 796.14, "end": 799.14, "speaker": "Serhii Kasainov", "text": "То есть я должен идти в какой-нибудь Editor, там", "confidence": 1.0, "match_type": "single", "duration": 3.0}
+{"start": 799.14, "end": 802.48, "speaker": "Serhii Kasainov", "text": "открывать этот второй Sidebar, листать", "confidence": 1.0, "match_type": "single", "duration": 3.34}
+{"start": 802.48, "end": 805.28, "speaker": "Serhii Kasainov", "text": "вниз, находить вот эти вот, те же", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 805.28, "end": 806.2, "speaker": "Serhii Kasainov", "text": "Visit Details.", "confidence": 1.0, "match_type": "single", "duration": 0.92}
+{"start": 806.72, "end": 809.24, "speaker": "Serhii Kasainov", "text": "Вот так, чтобы я в одном месте мог глянуть конкретно", "confidence": 1.0, "match_type": "single", "duration": 2.52}
+{"start": 809.24, "end": 810.219, "speaker": "Serhii Kasainov", "text": "один стоп, у нас такого нет.", "confidence": 0.422, "match_type": "split", "duration": 0.98}
+{"start": 811.88, "end": 812.55, "speaker": "Serhii Kasainov", "text": "Я не, окей, но, так что", "confidence": 0.208, "match_type": "split", "duration": 0.67}
+{"start": 814.78, "end": 817.56, "speaker": "Dan Khasis", "text": "мы, так что ты смотришь?", "confidence": 1.0, "match_type": "single", "duration": 2.78}
+{"start": 817.66, "end": 820.46, "speaker": "Dan Khasis", "text": "Мы делаем полностью новую страницу, чтобы увидеть", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 820.46, "end": 821.12, "speaker": "Dan Khasis", "text": "Custom Data?", "confidence": 1.0, "match_type": "single", "duration": 0.66}
+{"start": 824.28, "end": 826.08, "speaker": "Serhii Kasainov", "text": "Мы под все делаем снапшоты.", "confidence": 1.0, "match_type": "single", "duration": 1.8}
+{"start": 827.08, "end": 829.74, "speaker": "Dan Khasis", "text": "Я понимаю, окей, я говорю в первой версии, ты", "confidence": 1.0, "match_type": "single", "duration": 2.66}
+{"start": 829.74, "end": 831.56, "speaker": "Dan Khasis", "text": "предлагаешь, мы делаем…", "confidence": 0.958, "match_type": "single", "duration": 1.82}
+{"start": 832.84, "end": 834.82, "speaker": "Dan Khasis", "text": "Давай мы наизнанку на это посмотрим.", "confidence": 1.0, "match_type": "single", "duration": 1.98}
+{"start": 835.08, "end": 835.82, "speaker": "Dan Khasis", "text": "Если ты хочешь", "confidence": 0.286, "match_type": "split", "duration": 0.74}
+{"start": 837.8, "end": 840.72, "speaker": "Dan Khasis", "text": "посмотреть на снапшот, тебе нужно знать, куда ты поехал.", "confidence": 1.0, "match_type": "single", "duration": 2.92}
+{"start": 841.86, "end": 844.44, "speaker": "Dan Khasis", "text": "Мы говорим насчет сайт-мэпа, Custom", "confidence": 1.0, "match_type": "single", "duration": 2.58}
+{"start": 844.44, "end": 844.98, "speaker": "Dan Khasis", "text": "Forms.", "confidence": 1.0, "match_type": "single", "duration": 0.54}
+{"start": 845.12, "end": 847.8, "speaker": "Dan Khasis", "text": "Тебе хотелось бы знать, какие Custom Forms, какие", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 847.8, "end": 849.04, "speaker": "Dan Khasis", "text": "Workflows были сделаны.", "confidence": 1.0, "match_type": "single", "duration": 1.24}
+{"start": 849.92, "end": 851.22, "speaker": "Dan Khasis", "text": "API для этого всего есть.", "confidence": 1.0, "match_type": "single", "duration": 1.3}
+{"start": 852.04, "end": 854.8, "speaker": "Dan Khasis", "text": "История сейчас непонятна вообще, что здесь показывают.", "confidence": 1.0, "match_type": "single", "duration": 2.76}
+{"start": 855.08, "end": 856.55, "speaker": "Dan Khasis", "text": "Невозможно, черта непонятна.", "confidence": 1.0, "match_type": "single", "duration": 1.47}
+{"start": 856.84, "end": 859.1, "speaker": "Dan Khasis", "text": "Это выглядит как копия друг друга.", "confidence": 1.0, "match_type": "dominant", "duration": 2.26}
+{"start": 859.4, "end": 862.06, "speaker": "Vova", "text": "По макету вот это было Activity Feed,", "confidence": 1.0, "match_type": "single", "duration": 2.66}
+{"start": 863.36, "end": 865.52, "speaker": "Vova", "text": "а вот это было", "confidence": 1.0, "match_type": "single", "duration": 2.16}
+{"start": 865.52, "end": 868.5, "speaker": "Vova", "text": "Workflows Completion", "confidence": 1.0, "match_type": "single", "duration": 2.98}
+{"start": 868.5, "end": 871.3, "speaker": "Vova", "text": "Action, Mandatory и Optional", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 871.3, "end": 873.36, "speaker": "Vova", "text": "Action, которые на Destination Completed.", "confidence": 0.904, "match_type": "single", "duration": 2.06}
+{"start": 873.68, "end": 876.56, "speaker": "Vova", "text": "И ты их попросил назвать Activities, и оно", "confidence": 0.47, "match_type": "nearest", "duration": 2.88}
+{"start": 876.56, "end": 879.18, "speaker": "Vova", "text": "начало пересекаться по имени с Activity Feed.", "confidence": 0.326, "match_type": "nearest", "duration": 2.62}
+{"start": 879.18, "end": 881.0, "speaker": "Vova", "text": "А потом стало выглядеть странно.", "confidence": 0.283, "match_type": "nearest", "duration": 1.82}
+{"start": 881.08, "end": 882.54, "speaker": "Vova", "text": "Activity Feed, потом Activities.", "confidence": 0.36, "match_type": "nearest", "duration": 1.46}
+{"start": 885.44, "end": 888.24, "speaker": "Vova", "text": "Поэтому кто-то решил переименовать Activity", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 888.24, "end": 889.04, "speaker": "Vova", "text": "Feed в History.", "confidence": 1.0, "match_type": "single", "duration": 0.8}
+{"start": 892.28, "end": 893.14, "speaker": "Serhii Kasainov", "text": "Спорное решение?", "confidence": 1.0, "match_type": "single", "duration": 0.86}
+{"start": 894.28, "end": 895.68, "speaker": "Dan Khasis", "text": "Я не согласен с этим.", "confidence": 1.0, "match_type": "single", "duration": 1.4}
+{"start": 896.28, "end": 898.58, "speaker": "Dan Khasis", "text": "С точки зрения, что для меня History", "confidence": 1.0, "match_type": "single", "duration": 2.3}
+{"start": 898.58, "end": 900.109, "speaker": "Dan Khasis", "text": "нужная вещь, и в History", "confidence": 0.632, "match_type": "split", "duration": 1.53}
+{"start": 901.12, "end": 904.12, "speaker": "Dan Khasis", "text": "надо иметь список всех бывших", "confidence": 1.0, "match_type": "single", "duration": 3.0}
+{"start": 904.12, "end": 907.74, "speaker": "Dan Khasis", "text": "маршрутов, где был этот адрес, где", "confidence": 0.67, "match_type": "single", "duration": 3.62}
+{"start": 907.74, "end": 908.84, "speaker": "Vova", "text": "был этот Destination.", "confidence": 0.487, "match_type": "nearest", "duration": 1.1}
+{"start": 909.16, "end": 911.84, "speaker": "Vova", "text": "Destination может быть только в одном маршруте.", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 911.84, "end": 912.639, "speaker": "Vova", "text": "Нет, в этом, видите, вы", "confidence": 0.253, "match_type": "split", "duration": 0.8}
+{"start": 914.68, "end": 916.68, "speaker": "Dan Khasis", "text": "слышали, что мы на ровном месте", "confidence": 1.0, "match_type": "single", "duration": 2.0}
+{"start": 916.68, "end": 917.259, "speaker": "Dan Khasis", "text": "уже, что мы на", "confidence": 0.174, "match_type": "split", "duration": 0.58}
+{"start": 919.68, "end": 922.3, "speaker": "Dan Khasis", "text": "ровном месте уже, даже внутри", "confidence": 1.0, "match_type": "single", "duration": 2.62}
+{"start": 922.3, "end": 923.12, "speaker": "Dan Khasis", "text": "команды не", "confidence": 1.0, "match_type": "single", "duration": 0.82}
+{"start": 923.12, "end": 923.529, "speaker": "Dan Khasis", "text": "согласны,", "confidence": 0.117, "match_type": "split", "duration": 0.41}
+{"start": 926.84, "end": 928.8, "speaker": "Dan Khasis", "text": "что Destination, это ты", "confidence": 1.0, "match_type": "single", "duration": 1.96}
+{"start": 928.8, "end": 930.26, "speaker": "Dan Khasis", "text": "приехал.", "confidence": 0.791, "match_type": "single", "duration": 1.46}
+{"start": 930.64, "end": 933.32, "speaker": "Semeyon S", "text": "Вот почему я как попугай говорю", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 933.32, "end": 934.419, "speaker": "Semeyon S", "text": "постоянно, полноценная", "confidence": 0.401, "match_type": "split", "duration": 1.1}
+{"start": 936.06, "end": 938.88, "speaker": "Dan Khasis", "text": "линковка нужна на Customer и Customer Location,", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 938.88, "end": 939.329, "speaker": "Dan Khasis", "text": "потому что по Customer Location", "confidence": 0.137, "match_type": "split", "duration": 0.45}
+{"start": 941.82, "end": 944.58, "speaker": "Dan Khasis", "text": "мы можем видеть все предыдущие визиты.", "confidence": 1.0, "match_type": "single", "duration": 2.76}
+{"start": 947.19, "end": 950.55, "speaker": "Dan Khasis", "text": "Сейчас бесполезно смотреть на Destination, потому", "confidence": 1.0, "match_type": "single", "duration": 3.36}
+{"start": 950.55, "end": 952.51, "speaker": "Dan Khasis", "text": "что Destination...", "confidence": 0.809, "match_type": "single", "duration": 1.96}
+{"start": 953.65, "end": 956.51, "speaker": "Dan Khasis", "text": "Давай мы перейдем на техническую фразеологию,", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 957.45, "end": 961.48, "speaker": "Dan Khasis", "text": "больше чем на бизнесовую.", "confidence": 1.0, "match_type": "single", "duration": 4.03}
+{"start": 962.28, "end": 965.14, "speaker": "Dan Khasis", "text": "У вас есть класс, и вы", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 965.14, "end": 969.37, "speaker": "Dan Khasis", "text": "делаете new x", "confidence": 1.0, "match_type": "single", "duration": 4.23}
+{"start": 970.18, "end": 972.25, "speaker": "Dan Khasis", "text": "class A, x", "confidence": 0.755, "match_type": "split", "duration": 2.07}
+{"start": 972.25, "end": 974.57, "speaker": "Dan Khasis", "text": "класса типа A, правильно?", "confidence": 1.0, "match_type": "single", "duration": 2.32}
+{"start": 975.29, "end": 978.66, "speaker": "Dan Khasis", "text": "И теперь вы", "confidence": 0.424, "match_type": "dominant", "duration": 3.37}
+{"start": 978.66, "end": 981.5, "speaker": "Dan Khasis", "text": "можете инициализацию делать, копию", "confidence": 1.0, "match_type": "single", "duration": 2.84}
+{"start": 981.5, "end": 982.56, "speaker": "Dan Khasis", "text": "класса A, как y и", "confidence": 0.384, "match_type": "split", "duration": 1.06}
+{"start": 984.4, "end": 985.28, "speaker": "Dan Khasis", "text": "как z, правильно?", "confidence": 1.0, "match_type": "single", "duration": 0.88}
+{"start": 985.6, "end": 988.02, "speaker": "Dan Khasis", "text": "И теперь у вас есть три инстанса класса A.", "confidence": 1.0, "match_type": "single", "duration": 2.42}
+{"start": 992.18, "end": 995.32, "speaker": "Dan Khasis", "text": "Но здесь получается, что", "confidence": 1.0, "match_type": "single", "duration": 3.14}
+{"start": 995.32, "end": 998.5, "speaker": "Dan Khasis", "text": "Destination в этом случае, это", "confidence": 1.0, "match_type": "single", "duration": 3.18}
+{"start": 998.5, "end": 1001.82, "speaker": "Dan Khasis", "text": "является объектом, который", "confidence": 0.61, "match_type": "dominant", "duration": 3.32}
+{"start": 1001.82, "end": 1004.32, "speaker": "Dan Khasis", "text": "типом классом, а класс у нас", "confidence": 1.0, "match_type": "single", "duration": 2.5}
+{"start": 1004.32, "end": 1004.98, "speaker": "Dan Khasis", "text": "Destination.", "confidence": 1.0, "match_type": "single", "duration": 0.66}
+{"start": 1006.52, "end": 1007.69, "speaker": "Dan Khasis", "text": "Но у нас нет", "confidence": 0.469, "match_type": "split", "duration": 1.17}
+{"start": 1009.14, "end": 1011.96, "speaker": "Dan Khasis", "text": "истории всех бывших инициализаций", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 1012.6, "end": 1014.96, "speaker": "Dan Khasis", "text": "инстанса этого объекта.", "confidence": 1.0, "match_type": "single", "duration": 2.36}
+{"start": 1016.08, "end": 1018.82, "speaker": "Dan Khasis", "text": "А все предыдущие инициализации этого", "confidence": 1.0, "match_type": "single", "duration": 2.74}
+{"start": 1018.82, "end": 1020.68, "speaker": "Dan Khasis", "text": "объекта, это все", "confidence": 1.0, "match_type": "single", "duration": 1.86}
+{"start": 1020.68, "end": 1021.079, "speaker": "Dan Khasis", "text": "Destination, когда-либо", "confidence": 0.123, "match_type": "split", "duration": 0.4}
+{"start": 1023.599, "end": 1025.119, "speaker": "Dan Khasis", "text": "за историю существовали.", "confidence": 1.0, "match_type": "single", "duration": 1.52}
+{"start": 1029.24, "end": 1031.94, "speaker": "Igor Skrynkovskyy", "text": "Но у вас эта информация", "confidence": 0.421, "match_type": "single", "duration": 2.7}
+{"start": 1031.94, "end": 1032.5, "speaker": "Igor Skrynkovskyy", "text": "есть, да?", "confidence": 1.0, "match_type": "single", "duration": 0.56}
+{"start": 1032.859, "end": 1033.579, "speaker": "Igor Skrynkovskyy", "text": "И она есть.", "confidence": 1.0, "match_type": "single", "duration": 0.72}
+{"start": 1033.92, "end": 1037.24, "speaker": "Igor Skrynkovskyy", "text": "У нас есть эта информация, и даже через API, через", "confidence": 1.0, "match_type": "single", "duration": 3.32}
+{"start": 1037.24, "end": 1039.76, "speaker": "Igor Skrynkovskyy", "text": "route API, через это мы можем", "confidence": 1.0, "match_type": "single", "duration": 2.52}
+{"start": 1039.76, "end": 1040.56, "speaker": "Igor Skrynkovskyy", "text": "получить ее.", "confidence": 1.0, "match_type": "single", "duration": 0.8}
+{"start": 1041.0, "end": 1043.04, "speaker": "Igor Skrynkovskyy", "text": "Просто нам нужно в фильтр передать", "confidence": 1.0, "match_type": "single", "duration": 2.04}
+{"start": 1043.04, "end": 1045.98, "speaker": "Igor Skrynkovskyy", "text": "определенные значения.", "confidence": 0.943, "match_type": "single", "duration": 2.94}
+{"start": 1046.44, "end": 1049.28, "speaker": "Semeyon S", "text": "Сергей, открой, пожалуйста, скриншот, я в", "confidence": 1.0, "match_type": "single", "duration": 2.84}
+{"start": 1049.28, "end": 1050.0, "speaker": "Semeyon S", "text": "Zoom скинул.", "confidence": 1.0, "match_type": "single", "duration": 0.72}
+{"start": 1051.36, "end": 1052.82, "speaker": "Semeyon S", "text": "Коли ты Slack не смотришь.", "confidence": 1.0, "match_type": "single", "duration": 1.46}
+{"start": 1054.26, "end": 1056.58, "speaker": "Vova", "text": "Но вот эта информация вся, она", "confidence": 0.815, "match_type": "single", "duration": 2.32}
+{"start": 1056.58, "end": 1059.58, "speaker": "Vova", "text": "именно об одном инстансе, об одном инстансе", "confidence": 1.0, "match_type": "single", "duration": 3.0}
+{"start": 1059.58, "end": 1060.699, "speaker": "Vova", "text": "Destination, об одном визите на один", "confidence": 0.397, "match_type": "split", "duration": 1.12}
+{"start": 1062.4, "end": 1063.96, "speaker": "Vova", "text": "адрес в конкретном маршруте.", "confidence": 1.0, "match_type": "single", "duration": 1.56}
+{"start": 1064.46, "end": 1067.28, "speaker": "Vova", "text": "В History, да, можно разместить историю", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 1067.28, "end": 1070.0, "speaker": "Vova", "text": "других визитов, других маршрутов, то есть другие", "confidence": 1.0, "match_type": "single", "duration": 2.72}
+{"start": 1070.0, "end": 1072.52, "speaker": "Vova", "text": "Destination, другие инстансы.", "confidence": 1.0, "match_type": "single", "duration": 2.52}
+{"start": 1072.82, "end": 1074.42, "speaker": "Vova", "text": "Вот их можно в History поставить.", "confidence": 1.0, "match_type": "single", "duration": 1.6}
+{"start": 1075.9, "end": 1078.2, "speaker": "Vova", "text": "И там будет ссылка на другие", "confidence": 1.0, "match_type": "single", "duration": 2.3}
+{"start": 1078.2, "end": 1079.64, "speaker": "Vova", "text": "Destination снапшоты.", "confidence": 1.0, "match_type": "single", "duration": 1.44}
+{"start": 1080.56, "end": 1081.18, "speaker": "Dan Khasis", "text": "Да.", "confidence": 0.322, "match_type": "single", "duration": 0.62}
+{"start": 1081.86, "end": 1083.18, "speaker": "Serhii Kasainov", "text": "Давайте это делать.", "confidence": 0.867, "match_type": "single", "duration": 1.32}
+{"start": 1084.42, "end": 1087.14, "speaker": "Serhii Kasainov", "text": "А ActivityFeed потом сделаем, потому что, опять же,", "confidence": 1.0, "match_type": "single", "duration": 2.72}
+{"start": 1087.4, "end": 1089.8, "speaker": "Serhii Kasainov", "text": "полезность ActivityFeed, мне кажется, поменьше.", "confidence": 1.0, "match_type": "single", "duration": 2.4}
+{"start": 1090.96, "end": 1091.72, "speaker": "Dan Khasis", "text": "Я понял, что…", "confidence": 0.249, "match_type": "single", "duration": 0.76}
+{"start": 1091.72, "end": 1094.58, "speaker": "Dan Khasis", "text": "ActivityFeed важен с точки зрения, что каждая вещь, которая там", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 1094.58, "end": 1097.5, "speaker": "Dan Khasis", "text": "произошла, хорошо виден.", "confidence": 1.0, "match_type": "single", "duration": 2.92}
+{"start": 1097.64, "end": 1100.9, "speaker": "Dan Khasis", "text": "GeoFence виден, этот,", "confidence": 1.0, "match_type": "single", "duration": 3.26}
+{"start": 1101.48, "end": 1107.28, "speaker": "Dan Khasis", "text": "как его, у", "confidence": 0.782, "match_type": "dominant", "duration": 5.8}
+{"start": 1107.28, "end": 1108.36, "speaker": "Dan Khasis", "text": "вас уже все есть.", "confidence": 1.0, "match_type": "single", "duration": 1.08}
+{"start": 1108.36, "end": 1108.73, "speaker": "Dan Khasis", "text": "Вы должны", "confidence": 0.096, "match_type": "split", "duration": 0.37}
+{"start": 1112.21, "end": 1113.79, "speaker": "Dan Khasis", "text": "просто вывести это на backend.", "confidence": 1.0, "match_type": "single", "duration": 1.58}
+{"start": 1115.59, "end": 1117.27, "speaker": "Dan Khasis", "text": "Извиняюсь, на фронтенд с бэкэнда.", "confidence": 1.0, "match_type": "single", "duration": 1.68}
+{"start": 1125.57, "end": 1128.41, "speaker": "Serhii Kasainov", "text": "То есть, пока мы не доделаем History и", "confidence": 1.0, "match_type": "single", "duration": 2.84}
+{"start": 1128.41, "end": 1131.19, "speaker": "Serhii Kasainov", "text": "ActivityFeed, никаких движений по этому снапшоту", "confidence": 1.0, "match_type": "single", "duration": 2.78}
+{"start": 1131.19, "end": 1132.75, "speaker": "Serhii Kasainov", "text": "вперед не будет.", "confidence": 1.0, "match_type": "single", "duration": 1.56}
+{"start": 1134.97, "end": 1135.83, "speaker": "Serhii Kasainov", "text": "Я правильно понял?", "confidence": 1.0, "match_type": "single", "duration": 0.86}
+{"start": 1136.29, "end": 1139.01, "speaker": "Dan Khasis", "text": "Я думаю, что если вы удалите время на History,", "confidence": 1.0, "match_type": "single", "duration": 2.72}
+{"start": 1139.51, "end": 1141.07, "speaker": "Dan Khasis", "text": "открой Activity на секунду.", "confidence": 1.0, "match_type": "single", "duration": 1.56}
+{"start": 1142.15, "end": 1144.25, "speaker": "Serhii Kasainov", "text": "Так, а нам как раз History, Игорь прав, нам очень", "confidence": 1.0, "match_type": "single", "duration": 2.1}
+{"start": 1144.25, "end": 1145.01, "speaker": "Serhii Kasainov", "text": "легко сделать.", "confidence": 1.0, "match_type": "single", "duration": 0.76}
+{"start": 1145.13, "end": 1147.87, "speaker": "Serhii Kasainov", "text": "У нас есть все фильтры, чтобы показать", "confidence": 1.0, "match_type": "single", "duration": 2.74}
+{"start": 1147.87, "end": 1150.69, "speaker": "Serhii Kasainov", "text": "Destination и все остальные, у которых есть", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 1150.69, "end": 1151.95, "speaker": "Serhii Kasainov", "text": "подвязка к кастомеру.", "confidence": 1.0, "match_type": "single", "duration": 1.26}
+{"start": 1152.37, "end": 1154.81, "speaker": "Serhii Kasainov", "text": "Но я предполагаю, что где есть еще подвязка", "confidence": 1.0, "match_type": "single", "duration": 2.44}
+{"start": 1154.81, "end": 1155.75, "speaker": "Serhii Kasainov", "text": "к…", "confidence": 1.0, "match_type": "single", "duration": 0.94}
+{"start": 1155.75, "end": 1156.83, "speaker": "Serhii Kasainov", "text": "Нет, OrderID нет.", "confidence": 1.0, "match_type": "single", "duration": 1.08}
+{"start": 1158.11, "end": 1160.33, "speaker": "Dan Khasis", "text": "У вас есть в OrderID в RadData", "confidence": 0.9, "match_type": "split", "duration": 2.22}
+{"start": 1160.33, "end": 1161.419, "speaker": "Dan Khasis", "text": "табличке, в RadDestination, там", "confidence": 0.345, "match_type": "split", "duration": 1.09}
+{"start": 1163.49, "end": 1165.97, "speaker": "Dan Khasis", "text": "есть полноценный внутренний OrderID.", "confidence": 1.0, "match_type": "single", "duration": 2.48}
+{"start": 1167.83, "end": 1170.45, "speaker": "Dan Khasis", "text": "И, в принципе, если на то пошло, если", "confidence": 1.0, "match_type": "single", "duration": 2.62}
+{"start": 1170.45, "end": 1174.95, "speaker": "Dan Khasis", "text": "говорить о 3, 4, 5 версиях вперед, когда", "confidence": 0.698, "match_type": "dominant", "duration": 4.5}
+{"start": 1174.95, "end": 1177.51, "speaker": "Dan Khasis", "text": "можно открыть еще одну панель, чтобы, когда", "confidence": 1.0, "match_type": "single", "duration": 2.56}
+{"start": 1177.51, "end": 1178.969, "speaker": "Dan Khasis", "text": "кликнулся Order, открылись", "confidence": 0.528, "match_type": "split", "duration": 1.46}
+{"start": 1180.41, "end": 1181.89, "speaker": "Dan Khasis", "text": "бы все OrderLineItem.", "confidence": 1.0, "match_type": "single", "duration": 1.48}
+{"start": 1182.07, "end": 1184.93, "speaker": "Dan Khasis", "text": "И потом ты кликнул OrderLineItem, может быть,", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 1185.01, "end": 1186.81, "speaker": "Dan Khasis", "text": "откроется еще одна вкладка и покажет", "confidence": 0.656, "match_type": "split", "duration": 1.8}
+{"start": 1187.89, "end": 1190.31, "speaker": "Dan Khasis", "text": "все транзакции с инвойсинг-системой.", "confidence": 1.0, "match_type": "single", "duration": 2.42}
+{"start": 1190.37, "end": 1192.21, "speaker": "Dan Khasis", "text": "Или, может быть, здесь было бы транзакции и", "confidence": 0.657, "match_type": "split", "duration": 1.84}
+{"start": 1193.31, "end": 1196.25, "speaker": "Dan Khasis", "text": "инвойсинг, потому что она же пролинкована к Destination,", "confidence": 1.0, "match_type": "single", "duration": 2.94}
+{"start": 1196.51, "end": 1197.49, "speaker": "Dan Khasis", "text": "а сейчас API готов.", "confidence": 1.0, "match_type": "single", "duration": 0.98}
+{"start": 1197.95, "end": 1200.73, "speaker": "Dan Khasis", "text": "Ребята его сделали, вы даже внедрили его сами", "confidence": 1.0, "match_type": "single", "duration": 2.78}
+{"start": 1200.73, "end": 1201.69, "speaker": "Dan Khasis", "text": "на этой неделе.", "confidence": 1.0, "match_type": "single", "duration": 0.96}
+{"start": 1204.89, "end": 1207.81, "speaker": "Dan Khasis", "text": "Потому что это же не на уровне Destination инвойсы.", "confidence": 1.0, "match_type": "single", "duration": 2.92}
+{"start": 1209.12, "end": 1213.53, "speaker": "Serhii Kasainov", "text": "Ну да, просто", "confidence": 0.867, "match_type": "single", "duration": 4.41}
+{"start": 1213.53, "end": 1215.33, "speaker": "Serhii Kasainov", "text": "History мы сейчас можем сделать очень быстро.", "confidence": 1.0, "match_type": "single", "duration": 1.8}
+{"start": 1216.73, "end": 1219.63, "speaker": "Dan Khasis", "text": "Окей, шикарно, но кликни на Activity, пожалуйста, на секунду.", "confidence": 1.0, "match_type": "single", "duration": 2.9}
+{"start": 1223.43, "end": 1225.91, "speaker": "Dan Khasis", "text": "Так здесь это неправильно.", "confidence": 1.0, "match_type": "single", "duration": 2.48}
+{"start": 1226.07, "end": 1227.16, "speaker": "Dan Khasis", "text": "Это же не Activity.", "confidence": 0.401, "match_type": "split", "duration": 1.09}
+{"start": 1229.43, "end": 1230.65, "speaker": "Dan Khasis", "text": "Для меня это не Activity.", "confidence": 1.0, "match_type": "single", "duration": 1.22}
+{"start": 1230.77, "end": 1232.83, "speaker": "Dan Khasis", "text": "Мы везде называем это ActivityFeed.", "confidence": 1.0, "match_type": "single", "duration": 2.06}
+{"start": 1233.83, "end": 1236.09, "speaker": "Vova", "text": "Нет, здесь должны быть заметки", "confidence": 1.0, "match_type": "single", "duration": 2.26}
+{"start": 1236.09, "end": 1238.99, "speaker": "Vova", "text": "от водителей о том,", "confidence": 1.0, "match_type": "single", "duration": 2.9}
+{"start": 1239.07, "end": 1241.67, "speaker": "Vova", "text": "как они successful, complete, или почему они", "confidence": 1.0, "match_type": "single", "duration": 2.6}
+{"start": 1241.67, "end": 1242.77, "speaker": "Vova", "text": "проводили этот визит.", "confidence": 1.0, "match_type": "single", "duration": 1.1}
+{"start": 1247.1, "end": 1248.1, "speaker": "Semeyon S", "text": "Это Notes.", "confidence": 0.976, "match_type": "single", "duration": 1.0}
+{"start": 1248.28, "end": 1250.52, "speaker": "Dan Khasis", "text": "И это не Activity, опять говорю.", "confidence": 1.0, "match_type": "single", "duration": 2.24}
+{"start": 1251.2, "end": 1254.12, "speaker": "Vova", "text": "Да, я не знаю, как его правильно называть.", "confidence": 1.0, "match_type": "single", "duration": 2.92}
+{"start": 1254.2, "end": 1256.42, "speaker": "Vova", "text": "Я его называл всегда Proof of Visit или", "confidence": 1.0, "match_type": "single", "duration": 2.22}
+{"start": 1256.42, "end": 1258.52, "speaker": "Vova", "text": "что-то такое, но", "confidence": 1.0, "match_type": "single", "duration": 2.1}
+{"start": 1258.52, "end": 1259.269, "speaker": "Vova", "text": "тебе не", "confidence": 0.287, "match_type": "split", "duration": 0.75}
+{"start": 1261.26, "end": 1263.8, "speaker": "Vova", "text": "понравилось название Proof of Visit, и ты сам сказал переименовать", "confidence": 1.0, "match_type": "single", "duration": 2.54}
+{"start": 1263.8, "end": 1264.5, "speaker": "Vova", "text": "его в Activity.", "confidence": 1.0, "match_type": "single", "duration": 0.7}
+{"start": 1265.5, "end": 1267.36, "speaker": "Vova", "text": "И на этом оно остановилось.", "confidence": 1.0, "match_type": "single", "duration": 1.86}
+{"start": 1269.48, "end": 1270.12, "speaker": "Vova", "text": "Давай выберем.", "confidence": 1.0, "match_type": "single", "duration": 0.64}
+{"start": 1270.31, "end": 1272.2, "speaker": "Dan Khasis", "text": "Мы вернемся к этому тогда.", "confidence": 0.9, "match_type": "split", "duration": 1.89}
+{"start": 1273.26, "end": 1274.3, "speaker": "Dan Khasis", "text": "Я подумаю.", "confidence": 1.0, "match_type": "single", "duration": 1.04}
+{"start": 1277.36, "end": 1279.98, "speaker": "Dan Khasis", "text": "Но инвойсы сюда пойдут, потому что вы", "confidence": 0.934, "match_type": "single", "duration": 2.62}
+{"start": 1279.98, "end": 1282.66, "speaker": "Dan Khasis", "text": "знаете, с каким Destination инвойс связан.", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 1284.22, "end": 1286.7, "speaker": "Dan Khasis", "text": "Если у нас будет Asset, чтобы кто-то", "confidence": 1.0, "match_type": "single", "duration": 2.48}
+{"start": 1286.7, "end": 1288.06, "speaker": "Dan Khasis", "text": "разгрузил что-то, кто-то", "confidence": 1.0, "match_type": "single", "duration": 1.36}
+{"start": 1289.76, "end": 1292.38, "speaker": "Dan Khasis", "text": "разгрузил что-то, кто-то", "confidence": 0.721, "match_type": "single", "duration": 2.62}
+{"start": 1292.38, "end": 1293.24, "speaker": "Dan Khasis", "text": "загрузил что-то.", "confidence": 1.0, "match_type": "single", "duration": 0.86}
+{"start": 1293.48, "end": 1295.96, "speaker": "Dan Khasis", "text": "Там будут тоже наклейки, которые были", "confidence": 1.0, "match_type": "single", "duration": 2.48}
+{"start": 1295.96, "end": 1296.82, "speaker": "Dan Khasis", "text": "сосканированы.", "confidence": 1.0, "match_type": "single", "duration": 0.86}
+{"start": 1296.96, "end": 1298.32, "speaker": "Dan Khasis", "text": "Тоже можно сюда поставить.", "confidence": 1.0, "match_type": "single", "duration": 1.36}
+{"start": 1300.32, "end": 1300.92, "speaker": "Dan Khasis", "text": "Заказы.", "confidence": 1.0, "match_type": "single", "duration": 0.6}
+{"start": 1301.14, "end": 1303.86, "speaker": "Dan Khasis", "text": "На одном Destination может быть множество заказов.", "confidence": 1.0, "match_type": "single", "duration": 2.72}
+{"start": 1304.08, "end": 1306.56, "speaker": "Dan Khasis", "text": "Всегда могут заказы, вкладка по заказам быть.", "confidence": 1.0, "match_type": "single", "duration": 2.48}
+{"start": 1308.78, "end": 1311.48, "speaker": "Dan Khasis", "text": "То есть я говорю в третья, четвертая, пятая версия и", "confidence": 1.0, "match_type": "single", "duration": 2.7}
+{"start": 1311.48, "end": 1311.8, "speaker": "Dan Khasis", "text": "так далее.", "confidence": 1.0, "match_type": "single", "duration": 0.32}
+{"start": 1314.78, "end": 1317.22, "speaker": "Dan Khasis", "text": "Здесь я и некоторые другие", "confidence": 1.0, "match_type": "single", "duration": 2.44}
+{"start": 1317.22, "end": 1319.66, "speaker": "Dan Khasis", "text": "замечания небольшие.", "confidence": 1.0, "match_type": "single", "duration": 2.44}
+{"start": 1320.78, "end": 1323.2, "speaker": "Dan Khasis", "text": "Что вот это на уровне", "confidence": 0.924, "match_type": "single", "duration": 2.42}
+{"start": 1323.2, "end": 1326.2, "speaker": "Dan Khasis", "text": "маршрута, но я думаю,", "confidence": 0.577, "match_type": "dominant", "duration": 3.0}
+{"start": 1326.34, "end": 1328.74, "speaker": "Dan Khasis", "text": "что имеет смысл сделать какой-то уровень", "confidence": 1.0, "match_type": "single", "duration": 2.4}
+{"start": 1328.74, "end": 1331.66, "speaker": "Dan Khasis", "text": "вкладывания ценностей,", "confidence": 1.0, "match_type": "single", "duration": 2.92}
+{"start": 1333.94, "end": 1336.44, "speaker": "Dan Khasis", "text": "потому что эта иллюзия как будто бы", "confidence": 1.0, "match_type": "single", "duration": 2.5}
+{"start": 1337.36, "end": 1339.36, "speaker": "Dan Khasis", "text": "это на уровне Destination, но это", "confidence": 0.719, "match_type": "split", "duration": 2.0}
+{"start": 1339.36, "end": 1339.88, "speaker": "Dan Khasis", "text": "неверно.", "confidence": 1.0, "match_type": "single", "duration": 0.52}
+{"start": 1342.04, "end": 1344.4, "speaker": "Dan Khasis", "text": "Потом notification уведомления.", "confidence": 1.0, "match_type": "single", "duration": 2.36}
+{"start": 1344.56, "end": 1346.78, "speaker": "Dan Khasis", "text": "У вас есть уже в системе", "confidence": 1.0, "match_type": "single", "duration": 2.22}
+{"start": 1346.78, "end": 1349.34, "speaker": "Dan Khasis", "text": "notification history", "confidence": 0.607, "match_type": "single", "duration": 2.56}
+{"start": 1349.34, "end": 1352.24, "speaker": "Dan Khasis", "text": "уведомление покупателю", "confidence": 1.0, "match_type": "single", "duration": 2.9}
+{"start": 1352.24, "end": 1354.46, "speaker": "Dan Khasis", "text": "насчет доставки", "confidence": 1.0, "match_type": "single", "duration": 2.22}
+{"start": 1354.46, "end": 1355.9, "speaker": "Dan Khasis", "text": "и так далее.", "confidence": 1.0, "match_type": "single", "duration": 1.44}
+{"start": 1356.92, "end": 1358.529, "speaker": "Dan Khasis", "text": "Это тоже здесь может быть в какой-то", "confidence": 0.599, "match_type": "split", "duration": 1.61}
+{"start": 1359.74, "end": 1360.6, "speaker": "Dan Khasis", "text": "будущей версии.", "confidence": 1.0, "match_type": "single", "duration": 0.86}
+{"start": 1362.62, "end": 1365.62, "speaker": "Serhii Kasainov", "text": "Для этого нам надо запустить версию 1.", "confidence": 0.798, "match_type": "single", "duration": 3.0}
+{"start": 1366.1, "end": 1368.82, "speaker": "Dan Khasis", "text": "Я не спорю с тобой, но здесь не", "confidence": 1.0, "match_type": "single", "duration": 2.72}
+{"start": 1368.82, "end": 1370.16, "speaker": "Dan Khasis", "text": "хватает критических вещей.", "confidence": 1.0, "match_type": "single", "duration": 1.34}
+{"start": 1370.28, "end": 1373.1, "speaker": "Dan Khasis", "text": "Кастомер здесь нужен, внешний order", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 1373.1, "end": 1374.04, "speaker": "Dan Khasis", "text": "ID здесь нужен.", "confidence": 1.0, "match_type": "single", "duration": 0.94}
+{"start": 1375.88, "end": 1377.28, "speaker": "Dan Khasis", "text": "Кастомер и кастомер location.", "confidence": 1.0, "match_type": "single", "duration": 1.4}
+{"start": 1380.56, "end": 1382.7, "speaker": "Dan Khasis", "text": "Нет, потому что это константная вещь.", "confidence": 1.0, "match_type": "single", "duration": 2.14}
+{"start": 1382.92, "end": 1385.78, "speaker": "Dan Khasis", "text": "Если речь идет о том, что ты обслуживаешь какую", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 1385.78, "end": 1388.52, "speaker": "Dan Khasis", "text": "-то точку, тебе критически важно", "confidence": 1.0, "match_type": "single", "duration": 2.74}
+{"start": 1388.52, "end": 1389.32, "speaker": "Dan Khasis", "text": "знать, кого ты обслуживаешь.", "confidence": 0.388, "match_type": "split", "duration": 0.8}
+{"start": 1390.58, "end": 1394.24, "speaker": "Dan Khasis", "text": "Какой-то минимум, даже", "confidence": 0.476, "match_type": "dominant", "duration": 3.66}
+{"start": 1394.24, "end": 1396.8, "speaker": "Dan Khasis", "text": "не custom data, это", "confidence": 1.0, "match_type": "single", "duration": 2.56}
+{"start": 1396.8, "end": 1399.34, "speaker": "Dan Khasis", "text": "чепуха, но какой-то минимум.", "confidence": 0.918, "match_type": "single", "duration": 2.54}
+{"start": 1401.6, "end": 1404.5, "speaker": "Dan Khasis", "text": "Игорь, неужели у нас нет customer ID и customer", "confidence": 1.0, "match_type": "single", "duration": 2.9}
+{"start": 1404.5, "end": 1407.24, "speaker": "Dan Khasis", "text": "location ID до уровня", "confidence": 1.0, "match_type": "dominant", "duration": 2.74}
+{"start": 1407.24, "end": 1407.6, "speaker": "Igor Skrynkovskyy", "text": "Destination?", "confidence": 0.591, "match_type": "split", "duration": 0.36}
+{"start": 1408.46, "end": 1408.76, "speaker": "Igor Skrynkovskyy", "text": "Есть.", "confidence": 1.0, "match_type": "single", "duration": 0.3}
+{"start": 1409.47, "end": 1411.54, "speaker": "Dan Khasis", "text": "Вот оттуда мы это будем вытаскивать.", "confidence": 0.9, "match_type": "split", "duration": 2.07}
+{"start": 1412.12, "end": 1415.06, "speaker": "Dan Khasis", "text": "То есть, если они это сделали по-черному и", "confidence": 1.0, "match_type": "single", "duration": 2.94}
+{"start": 1415.06, "end": 1418.06, "speaker": "Dan Khasis", "text": "залили customer в Legacy поле,", "confidence": 1.0, "match_type": "single", "duration": 3.0}
+{"start": 1418.3, "end": 1420.6, "speaker": "Dan Khasis", "text": "показывайте это здесь в медлелампочке.", "confidence": 1.0, "match_type": "single", "duration": 2.3}
+{"start": 1420.6, "end": 1421.019, "speaker": "Dan Khasis", "text": "Если они это сделали", "confidence": 0.19, "match_type": "split", "duration": 0.42}
+{"start": 1422.58, "end": 1425.26, "speaker": "Dan Khasis", "text": "современно, из Strategic Planner или", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 1425.26, "end": 1427.12, "speaker": "Dan Khasis", "text": "из Customer Location Planner", "confidence": 1.0, "match_type": "single", "duration": 1.86}
+{"start": 1427.12, "end": 1429.8, "speaker": "Dan Khasis", "text": "или из адрес", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 1429.8, "end": 1430.8, "speaker": "Dan Khasis", "text": "Bookmap, нам нужно показать", "confidence": 0.345, "match_type": "split", "duration": 1.0}
+{"start": 1432.7, "end": 1435.34, "speaker": "Dan Khasis", "text": "здесь полноценную ссылку на", "confidence": 1.0, "match_type": "single", "duration": 2.64}
+{"start": 1435.34, "end": 1436.08, "speaker": "Dan Khasis", "text": "customer ID.", "confidence": 1.0, "match_type": "single", "duration": 0.74}
+{"start": 1436.84, "end": 1438.6, "speaker": "Dan Khasis", "text": "В первую очередь, даже", "confidence": 1.0, "match_type": "single", "duration": 1.76}
+{"start": 1438.6, "end": 1438.88, "speaker": "Dan Khasis", "text": "выше, чем", "confidence": 0.093, "match_type": "split", "duration": 0.28}
+{"start": 1441.32, "end": 1441.74, "speaker": "Dan Khasis", "text": "адрес.", "confidence": 1.0, "match_type": "single", "duration": 0.42}
+{"start": 1441.98, "end": 1444.7, "speaker": "Dan Khasis", "text": "Потому что это выйдет внешняя ссылка на", "confidence": 1.0, "match_type": "single", "duration": 2.72}
+{"start": 1444.7, "end": 1447.36, "speaker": "Dan Khasis", "text": "customer и внешняя ссылка на customer", "confidence": 1.0, "match_type": "single", "duration": 2.66}
+{"start": 1447.36, "end": 1447.92, "speaker": "Dan Khasis", "text": "location.", "confidence": 1.0, "match_type": "single", "duration": 0.56}
+{"start": 1447.92, "end": 1448.39, "speaker": "Dan Khasis", "text": "И, в принципе, в", "confidence": 0.129, "match_type": "split", "duration": 0.47}
+{"start": 1451.2, "end": 1453.46, "speaker": "Dan Khasis", "text": "10 версии это может выйти на ссылку", "confidence": 1.0, "match_type": "single", "duration": 2.26}
+{"start": 1453.46, "end": 1456.58, "speaker": "Dan Khasis", "text": "в Telematics, что", "confidence": 1.0, "match_type": "single", "duration": 3.12}
+{"start": 1456.58, "end": 1457.21, "speaker": "Dan Khasis", "text": "в их внешнюю систему", "confidence": 0.201, "match_type": "split", "duration": 0.63}
+{"start": 1459.4, "end": 1460.1, "speaker": "Dan Khasis", "text": "Telematics.", "confidence": 1.0, "match_type": "single", "duration": 0.7}
+{"start": 1469.57, "end": 1470.69, "speaker": "Serhii Kasainov", "text": "Я все записал.", "confidence": 1.0, "match_type": "single", "duration": 1.12}
+{"start": 1475.58, "end": 1476.16, "speaker": "Serhii Kasainov", "text": "У меня все.", "confidence": 1.0, "match_type": "single", "duration": 0.58}
+{"start": 1476.72, "end": 1476.96, "speaker": "Serhii Kasainov", "text": "Спасибо.", "confidence": 1.0, "match_type": "single", "duration": 0.24}
+{"start": 1481.27, "end": 1484.13, "speaker": "Dan Khasis", "text": "Если вы можете прибавить customer, и", "confidence": 0.859, "match_type": "single", "duration": 2.86}
+{"start": 1484.13, "end": 1486.43, "speaker": "Dan Khasis", "text": "тогда запускать customer и customer location?", "confidence": 1.0, "match_type": "single", "duration": 2.3}
+{"start": 1488.17, "end": 1489.01, "speaker": "Serhii Kasainov", "text": "Можем.", "confidence": 0.538, "match_type": "single", "duration": 0.84}
+{"start": 1491.66, "end": 1492.51, "speaker": "Dan Khasis", "text": "И запускать", "confidence": 0.247, "match_type": "split", "duration": 0.85}
+{"start": 1495.21, "end": 1496.11, "speaker": "Serhii Kasainov", "text": "я правильно услышал?", "confidence": 1.0, "match_type": "single", "duration": 0.9}
+{"start": 1498.62, "end": 1499.6, "speaker": "Dan Khasis", "text": "Да, только", "confidence": 1.0, "match_type": "single", "duration": 0.98}
+{"start": 1499.6, "end": 1503.08, "speaker": "Dan Khasis", "text": "нам", "confidence": 1.0, "match_type": "single", "duration": 3.48}
+{"start": 1503.08, "end": 1505.46, "speaker": "Dan Khasis", "text": "надо закончить этот сайт-мэп, потому", "confidence": 1.0, "match_type": "single", "duration": 2.38}
+{"start": 1505.46, "end": 1508.04, "speaker": "Dan Khasis", "text": "что вот эти", "confidence": 1.0, "match_type": "single", "duration": 2.58}
+{"start": 1508.04, "end": 1510.16, "speaker": "Dan Khasis", "text": "PDF-attachments, потому что", "confidence": 1.0, "match_type": "single", "duration": 2.12}
+{"start": 1515.95, "end": 1517.95, "speaker": "Dan Khasis", "text": "до конца непонятно.", "confidence": 0.814, "match_type": "single", "duration": 2.0}
+{"start": 1528.43, "end": 1531.25, "speaker": "Dan Khasis", "text": "Эти люди, мы продаем landscaping и так", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 1531.25, "end": 1534.05, "speaker": "Dan Khasis", "text": "далее, они не купят.", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 1534.93, "end": 1536.75, "speaker": "Dan Khasis", "text": "Им надо будет видеть", "confidence": 0.958, "match_type": "single", "duration": 1.82}
+{"start": 1536.75, "end": 1538.549, "speaker": "Dan Khasis", "text": "фотки, инструкции,", "confidence": 0.543, "match_type": "split", "duration": 1.8}
+{"start": 1540.37, "end": 1541.61, "speaker": "Dan Khasis", "text": "которые мы дали водителю.", "confidence": 1.0, "match_type": "single", "duration": 1.24}
+{"start": 1542.67, "end": 1545.21, "speaker": "Dan Khasis", "text": "Например, если они подпишут контракт, они захотят", "confidence": 1.0, "match_type": "single", "duration": 2.54}
+{"start": 1545.21, "end": 1545.69, "speaker": "Dan Khasis", "text": "увидеть.", "confidence": 1.0, "match_type": "single", "duration": 0.48}
+{"start": 1546.41, "end": 1547.73, "speaker": "Dan Khasis", "text": "Это в первую очередь.", "confidence": 0.907, "match_type": "single", "duration": 1.32}
+{"start": 1548.03, "end": 1550.77, "speaker": "Dan Khasis", "text": "Их люди просто напрочь не могут работать без", "confidence": 1.0, "match_type": "single", "duration": 2.74}
+{"start": 1550.77, "end": 1552.13, "speaker": "Dan Khasis", "text": "этого вообще.", "confidence": 1.0, "match_type": "single", "duration": 1.36}
+{"start": 1557.32, "end": 1557.9, "speaker": "Serhii Kasainov", "text": "Я понял.", "confidence": 1.0, "match_type": "single", "duration": 0.58}
+{"start": 1559.26, "end": 1562.18, "speaker": "Serhii Kasainov", "text": "Доврон, если ты собираешься показывать таблицу items, я", "confidence": 1.0, "match_type": "single", "duration": 2.92}
+{"start": 1562.18, "end": 1564.96, "speaker": "Serhii Kasainov", "text": "бы не советовал, потому что здесь есть те замечания,", "confidence": 1.0, "match_type": "single", "duration": 2.78}
+{"start": 1564.96, "end": 1567.92, "speaker": "Serhii Kasainov", "text": "которые мы обсуждали в прошлый раз, и которые не поправлены.", "confidence": 1.0, "match_type": "single", "duration": 2.96}
+{"start": 1568.6, "end": 1571.4, "speaker": "Serhii Kasainov", "text": "И доллар на американском рынке", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 1571.4, "end": 1572.38, "speaker": "Serhii Kasainov", "text": "слева пишут.", "confidence": 1.0, "match_type": "single", "duration": 0.98}
+{"start": 1573.42, "end": 1576.28, "speaker": "Serhii Kasainov", "text": "Поэтому, во-первых, плохо, что ты сделал таблицу отдельно, а", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 1576.28, "end": 1579.28, "speaker": "Serhii Kasainov", "text": "во-вторых, плохо, что она не учитывает эти замечания, которые", "confidence": 1.0, "match_type": "single", "duration": 3.0}
+{"start": 1579.28, "end": 1580.24, "speaker": "Serhii Kasainov", "text": "были в понедельник.", "confidence": 1.0, "match_type": "single", "duration": 0.96}
+{"start": 1580.92, "end": 1582.58, "speaker": "Serhii Kasainov", "text": "Это мой короткий оценок.", "confidence": 0.942, "match_type": "single", "duration": 1.66}
+{"start": 1582.62, "end": 1582.96, "speaker": "Davron Usmonov", "text": "Спасибо.", "confidence": 0.679, "match_type": "single", "duration": 0.34}
+{"start": 1583.16, "end": 1585.44, "speaker": "Davron Usmonov", "text": "В понедельник они успели сюда изменения внести.", "confidence": 1.0, "match_type": "single", "duration": 2.28}
+{"start": 1585.58, "end": 1588.06, "speaker": "Davron Usmonov", "text": "Я, во-первых, хотел показать, что это тематический", "confidence": 1.0, "match_type": "single", "duration": 2.48}
+{"start": 1588.06, "end": 1590.82, "speaker": "Davron Usmonov", "text": "connection, который sub, и", "confidence": 1.0, "match_type": "single", "duration": 2.76}
+{"start": 1590.82, "end": 1593.36, "speaker": "Davron Usmonov", "text": "он немного отличается по своей структуре и", "confidence": 1.0, "match_type": "single", "duration": 2.54}
+{"start": 1593.36, "end": 1596.0, "speaker": "Davron Usmonov", "text": "наполнению от остальных тематических", "confidence": 1.0, "match_type": "single", "duration": 2.64}
+{"start": 1596.0, "end": 1597.36, "speaker": "Davron Usmonov", "text": "соединений.", "confidence": 1.0, "match_type": "single", "duration": 1.36}
+{"start": 1597.5, "end": 1599.18, "speaker": "Davron Usmonov", "text": "Тут, во-первых, не виклы, а items.", "confidence": 1.0, "match_type": "single", "duration": 1.68}
+{"start": 1599.5, "end": 1602.36, "speaker": "Davron Usmonov", "text": "Дальше список будет пополняться, и", "confidence": 1.0, "match_type": "single", "duration": 2.86}
+{"start": 1602.36, "end": 1605.06, "speaker": "Davron Usmonov", "text": "левая колонка отображает инфу, которая", "confidence": 1.0, "match_type": "single", "duration": 2.7}
+{"start": 1605.06, "end": 1607.26, "speaker": "Davron Usmonov", "text": "относится именно к sub connection.", "confidence": 1.0, "match_type": "single", "duration": 2.2}
+{"start": 1607.6, "end": 1609.78, "speaker": "Davron Usmonov", "text": "То есть тут нет инфы о виклах, а", "confidence": 0.9, "match_type": "split", "duration": 2.18}
+{"start": 1609.78, "end": 1612.74, "speaker": "Davron Usmonov", "text": "информация только то, что относится", "confidence": 1.0, "match_type": "single", "duration": 2.96}
+{"start": 1612.74, "end": 1613.489, "speaker": "Davron Usmonov", "text": "именно к данному connection.", "confidence": 0.337, "match_type": "split", "duration": 0.75}
+{"start": 1615.62, "end": 1618.52, "speaker": "Davron Usmonov", "text": "В разработке у нас добавление фильтров,", "confidence": 1.0, "match_type": "single", "duration": 2.9}
+{"start": 1618.96, "end": 1621.06, "speaker": "Davron Usmonov", "text": "добавление колонок, поэтому это", "confidence": 1.0, "match_type": "single", "duration": 2.1}
+{"start": 1621.06, "end": 1623.32, "speaker": "Davron Usmonov", "text": "нулевая версия.", "confidence": 1.0, "match_type": "single", "duration": 2.26}
+{"start": 1623.74, "end": 1625.36, "speaker": "Davron Usmonov", "text": "И вот, как сказал Сергей, еще", "confidence": 1.0, "match_type": "single", "duration": 1.62}
+{"start": 1625.36, "end": 1625.959, "speaker": "Davron Usmonov", "text": "нулевая, даже минус первая,", "confidence": 0.194, "match_type": "split", "duration": 0.6}
+{"start": 1628.28, "end": 1630.88, "speaker": "Davron Usmonov", "text": "потому что тут есть вещи, которые нужно поправить.", "confidence": 1.0, "match_type": "single", "duration": 2.6}
+{"start": 1633.22, "end": 1635.06, "speaker": "Davron Usmonov", "text": "Это буквально нулевая версия.", "confidence": 1.0, "match_type": "single", "duration": 1.84}
+{"start": 1639.05, "end": 1641.87, "speaker": "Vova", "text": "Можно твой approve по", "confidence": 1.0, "match_type": "single", "duration": 2.82}
+{"start": 1641.87, "end": 1642.87, "speaker": "Vova", "text": "этому вопросу?", "confidence": 1.0, "match_type": "single", "duration": 1.0}
+{"start": 1644.15, "end": 1646.65, "speaker": "Vova", "text": "Меня раздражает вот эта ступенька здесь.", "confidence": 1.0, "match_type": "single", "duration": 2.5}
+{"start": 1647.31, "end": 1649.07, "speaker": "Vova", "text": "Ты ok с ней или нет?", "confidence": 1.0, "match_type": "single", "duration": 1.76}
+{"start": 1650.25, "end": 1651.83, "speaker": "Dan Khasis", "text": "Один вопрос, и навсегда решим.", "confidence": 1.0, "match_type": "single", "duration": 1.58}
+{"start": 1652.53, "end": 1653.47, "speaker": "Dan Khasis", "text": "А что с ней?", "confidence": 1.0, "match_type": "single", "duration": 0.94}
+{"start": 1654.05, "end": 1655.41, "speaker": "Dan Khasis", "text": "Какой вариант от нее?", "confidence": 1.0, "match_type": "single", "duration": 1.36}
+{"start": 1655.81, "end": 1658.65, "speaker": "Vova", "text": "Равнять по краю вот здесь можно,", "confidence": 0.9, "match_type": "split", "duration": 2.84}
+{"start": 1659.37, "end": 1660.19, "speaker": "Vova", "text": "как второй вариант.", "confidence": 1.0, "match_type": "single", "duration": 0.82}
+{"start": 1661.11, "end": 1663.05, "speaker": "Vova", "text": "Мне больше нравится, когда выравнено здесь.", "confidence": 1.0, "match_type": "single", "duration": 1.94}
+{"start": 1663.67, "end": 1666.35, "speaker": "Dan Khasis", "text": "Я думаю, что она будет странно выглядеть выравнена.", "confidence": 1.0, "match_type": "single", "duration": 2.68}
+{"start": 1666.97, "end": 1667.95, "speaker": "Dan Khasis", "text": "Подождите, это очень важно.", "confidence": 0.434, "match_type": "split", "duration": 0.98}
+{"start": 1669.35, "end": 1670.95, "speaker": "Davron Usmonov", "text": "Полгода назад, Вова, было...", "confidence": 1.0, "match_type": "single", "duration": 1.6}
+{"start": 1670.95, "end": 1672.87, "speaker": "Davron Usmonov", "text": "Да, подождите, дайте, пожалуйста, скажу.", "confidence": 0.725, "match_type": "split", "duration": 1.92}
+{"start": 1675.15, "end": 1677.89, "speaker": "Igor Golovtsov", "text": "Да, было сначала, эта кнопка была, зеленая", "confidence": 1.0, "match_type": "single", "duration": 2.74}
+{"start": 1677.89, "end": 1680.37, "speaker": "Igor Golovtsov", "text": "кнопка справа во всех заголовках страниц,", "confidence": 1.0, "match_type": "single", "duration": 2.48}
+{"start": 1680.37, "end": 1683.67, "speaker": "Igor Golovtsov", "text": "приклеена к правому краю, выравнена по контенту, а", "confidence": 1.0, "match_type": "single", "duration": 3.3}
+{"start": 1683.67, "end": 1685.33, "speaker": "Igor Golovtsov", "text": "слева был заголовок", "confidence": 1.0, "match_type": "single", "duration": 1.66}
+{"start": 1685.33, "end": 1687.95, "speaker": "Igor Golovtsov", "text": "страницы, и", "confidence": 1.0, "match_type": "single", "duration": 2.62}
+{"start": 1687.95, "end": 1690.67, "speaker": "Igor Golovtsov", "text": "breadcrumbs слева тоже были приклеены по", "confidence": 1.0, "match_type": "single", "duration": 2.72}
+{"start": 1690.67, "end": 1691.57, "speaker": "Igor Golovtsov", "text": "контенту.", "confidence": 0.91, "match_type": "single", "duration": 0.9}
+{"start": 1691.99, "end": 1694.63, "speaker": "Igor Golovtsov", "text": "Потом было сказано всем массово", "confidence": 1.0, "match_type": "single", "duration": 2.64}
+{"start": 1694.63, "end": 1696.25, "speaker": "Igor Golovtsov", "text": "отодвинуть это от углов.", "confidence": 1.0, "match_type": "single", "duration": 1.62}
+{"start": 1696.93, "end": 1699.39, "speaker": "Igor Golovtsov", "text": "То есть мы вернемся, если мы сейчас решим", "confidence": 1.0, "match_type": "single", "duration": 2.46}
+{"start": 1699.39, "end": 1701.03, "speaker": "Igor Golovtsov", "text": "приклеить опять это к правому краю.", "confidence": 1.0, "match_type": "dominant", "duration": 1.64}
+{"start": 1701.03, "end": 1703.41, "speaker": "Dan Khasis", "text": "Нет, она выглядит балансировано так.", "confidence": 1.0, "match_type": "single", "duration": 2.38}
+{"start": 1703.77, "end": 1705.85, "speaker": "Dan Khasis", "text": "Она так правильно выглядит.", "confidence": 1.0, "match_type": "single", "duration": 2.08}
+{"start": 1706.11, "end": 1707.45, "speaker": "Vova", "text": "Хорошо, я получил ответ.", "confidence": 1.0, "match_type": "single", "duration": 1.34}
+{"start": 1707.75, "end": 1708.15, "speaker": "Vova", "text": "Спасибо.", "confidence": 1.0, "match_type": "single", "duration": 0.4}
+{"start": 1709.41, "end": 1712.43, "speaker": "Dan Khasis", "text": "Если вы сделаете прямо в UI, прямо", "confidence": 0.994, "match_type": "single", "duration": 3.02}
+{"start": 1712.43, "end": 1715.41, "speaker": "Dan Khasis", "text": "рукой просто взять и все", "confidence": 1.0, "match_type": "single", "duration": 2.98}
+{"start": 1715.41, "end": 1718.21, "speaker": "Dan Khasis", "text": "сессии поменять, вы увидите, что это будет выглядеть", "confidence": 1.0, "match_type": "single", "duration": 2.8}
+{"start": 1718.21, "end": 1718.53, "speaker": "Dan Khasis", "text": "очень", "confidence": 1.0, "match_type": "single", "duration": 0.32}
+{"start": 1718.53, "end": 1720.039, "speaker": "Dan Khasis", "text": "некрасиво.", "confidence": 0.394, "match_type": "split", "duration": 1.51}
+{"start": 1722.73, "end": 1725.49, "speaker": "Igor Golovtsov", "text": "Она так и была, просто убери там, сними галочку паддингов,", "confidence": 1.0, "match_type": "single", "duration": 2.76}
+{"start": 1725.57, "end": 1725.67, "speaker": "Igor Golovtsov", "text": "да.", "confidence": 1.0, "match_type": "single", "duration": 0.1}
+{"start": 1726.39, "end": 1728.35, "speaker": "Igor Golovtsov", "text": "Она так и была, ты сказал отодвинуть.", "confidence": 1.0, "match_type": "dominant", "duration": 1.96}
+{"start": 1728.39, "end": 1731.31, "speaker": "Dan Khasis", "text": "Нет, она сразу начинает давить на", "confidence": 1.0, "match_type": "single", "duration": 2.92}
+{"start": 1731.31, "end": 1731.69, "speaker": "Dan Khasis", "text": "мозги.", "confidence": 1.0, "match_type": "single", "duration": 0.38}
+{"start": 1736.06, "end": 1736.86, "speaker": "Vova", "text": "Окей, я понял.", "confidence": 1.0, "match_type": "single", "duration": 0.8}
+{"start": 1739.9, "end": 1741.3, "speaker": "Davron Usmonov", "text": "У меня все, спасибо.", "confidence": 0.788, "match_type": "single", "duration": 1.4}
+{"start": 1741.53, "end": 1743.86, "speaker": "Dan Khasis", "text": "Подожди, пожалуйста, подожди, пожалуйста.", "confidence": 0.9, "match_type": "split", "duration": 2.33}
+{"start": 1746.6, "end": 1749.3, "speaker": "Dan Khasis", "text": "Я хочу некоторые замечания сделать для цели", "confidence": 1.0, "match_type": "single", "duration": 2.7}
+{"start": 1749.3, "end": 1750.06, "speaker": "Dan Khasis", "text": "тренировки.", "confidence": 1.0, "match_type": "single", "duration": 0.76}
+{"start": 1751.26, "end": 1753.34, "speaker": "Dan Khasis", "text": "Здесь опять потерялся формат.", "confidence": 1.0, "match_type": "single", "duration": 2.08}
+{"start": 1754.34, "end": 1755.14, "speaker": "Dan Khasis", "text": "Это неправильно.", "confidence": 1.0, "match_type": "single", "duration": 0.8}
+{"start": 1755.38, "end": 1756.2, "speaker": "Dan Khasis", "text": "Второй пункт.", "confidence": 1.0, "match_type": "single", "duration": 0.82}
+{"start": 1757.06, "end": 1758.36, "speaker": "Dan Khasis", "text": "Здесь нет тайм-зоны.", "confidence": 1.0, "match_type": "single", "duration": 1.3}
+{"start": 1758.66, "end": 1760.4, "speaker": "Dan Khasis", "text": "Мы везде сейчас тайм-зоны отпутаем.", "confidence": 1.0, "match_type": "single", "duration": 1.74}
+{"start": 1761.34, "end": 1762.02, "speaker": "Dan Khasis", "text": "Третий пункт.", "confidence": 1.0, "match_type": "single", "duration": 0.68}
+{"start": 1762.12, "end": 1763.26, "speaker": "Dan Khasis", "text": "Колумн селектора нет.", "confidence": 1.0, "match_type": "single", "duration": 1.14}
+{"start": 1764.86, "end": 1766.04, "speaker": "Dan Khasis", "text": "Четвертый пункт.", "confidence": 1.0, "match_type": "single", "duration": 1.18}
+{"start": 1766.1, "end": 1767.72, "speaker": "Dan Khasis", "text": "Здесь нет аутпута.", "confidence": 1.0, "match_type": "single", "duration": 1.62}
+{"start": 1771.15, "end": 1772.73, "speaker": "Dan Khasis", "text": "Что такое UOM?", "confidence": 1.0, "match_type": "single", "duration": 1.58}
+{"start": 1773.47, "end": 1775.17, "speaker": "Dan Khasis", "text": "Full name, здесь только short name.", "confidence": 1.0, "match_type": "single", "duration": 1.7}
+{"start": 1782.48, "end": 1784.22, "speaker": "Dan Khasis", "text": "Еще один пункт я хочу сказать.", "confidence": 1.0, "match_type": "single", "duration": 1.74}
+{"start": 1790.32, "end": 1791.74, "speaker": "Dan Khasis", "text": "Сейчас это не надо делать.", "confidence": 1.0, "match_type": "single", "duration": 1.42}
+{"start": 1792.6, "end": 1795.56, "speaker": "Dan Khasis", "text": "Но в какой-то момент мы должны", "confidence": 0.528, "match_type": "dominant", "duration": 2.96}
+{"start": 1795.56, "end": 1797.54, "speaker": "Dan Khasis", "text": "будем на нашей стороне", "confidence": 1.0, "match_type": "single", "duration": 1.98}

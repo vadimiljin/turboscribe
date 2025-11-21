@@ -1,0 +1,9 @@
+# Для варианта с Playwright
+playwright==1.40.0
+
+# Для варианта с Selenium (альтернатива)
+selenium==4.15.2
+
+# Общие зависимости
+python-dotenv==1.0.0
+

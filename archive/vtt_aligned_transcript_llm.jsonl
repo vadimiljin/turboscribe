@@ -1,0 +1,320 @@
+{"start": 176.26, "end": 177.5, "speaker": "Artur Moskalenko", "text": "(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.) Дэн, привет.", "confidence": 0.58}
+{"start": 178.26, "end": 180.46, "speaker": "Semeyon S", "text": "Ребята, кто там хотел начать?", "confidence": 0.98}
+{"start": 181.64, "end": 181.9, "speaker": "Serhii Kasainov", "text": "Я.", "confidence": 0.99}
+{"start": 183.02, "end": 183.36, "speaker": "Semeyon S", "text": "Давай.", "confidence": 0.99}
+{"start": 184.62, "end": 186.74, "speaker": "Igor Skrynkovskyy", "text": "Давайте подождем чтобы Дэн сказал.", "confidence": 0.99}
+{"start": 187.66, "end": 188.94, "speaker": "Artur Moskalenko", "text": "Может он подключается.", "confidence": 0.95}
+{"start": 189.04, "end": 189.94, "speaker": "Dan Khasis", "text": "Да, я слушаю.", "confidence": 0.99}
+{"start": 189.94, "end": 197.68, "speaker": "Serhii Kasainov", "text": "Так, от меня маленький апдейт по снапшотам.", "confidence": 0.38}
+{"start": 198.24, "end": 201.38, "speaker": "Serhii Kasainov", "text": "Мы очень долго к этому шли и наконец-то пришли.", "confidence": 0.99}
+{"start": 202.32, "end": 209.74, "speaker": "Serhii Kasainov", "text": "Мы затянули таблицы из routes-листа практически уже во все снапшоты.", "confidence": 0.99}
+{"start": 209.88, "end": 211.3, "speaker": "Serhii Kasainov", "text": "Я сегодня закончу, будут все.", "confidence": 0.99}
+{"start": 212.14, "end": 220.38, "speaker": "Serhii Kasainov", "text": "Благодаря чему у нас на каждом снапшоте, по крайней мере пока для routes и destination, доступен весь тот функционал, который", "confidence": 0.99}
+{"start": 220.38, "end": 222.08, "speaker": "Serhii Kasainov", "text": "у нас здесь раньше не был.", "confidence": 0.99}
+{"start": 222.08, "end": 232.78, "speaker": "Serhii Kasainov", "text": "В частности полный список фильтров с поиском, с группировками, группировки собственно самой таблицы, группировки", "confidence": 0.99}
+{"start": 232.78, "end": 236.2, "speaker": "Serhii Kasainov", "text": "колонок, которые в частности для тайм-зоны.", "confidence": 0.99}
+{"start": 238.8, "end": 241.62, "speaker": "Serhii Kasainov", "text": "Да, этот вопрос меня тоже очень беспокоит.", "confidence": 0.94}
+{"start": 243.3, "end": 243.82, "speaker": "Serhii Kasainov", "text": "Как?", "confidence": 0.99}
+{"start": 244.94, "end": 245.4, "speaker": "Serhii Kasainov", "text": "None?", "confidence": 0.99}
+{"start": 246.54, "end": 247.24, "speaker": "Serhii Kasainov", "text": "None.", "confidence": 0.6}
+{"start": 247.46, "end": 250.02, "speaker": "Serhii Kasainov", "text": "Хорошо, none если можно, я бы тоже поменял.", "confidence": 0.99}
+{"start": 250.02, "end": 254.78, "speaker": "Vova", "text": "Только когда выбран none, здесь ничего не будет написано.", "confidence": 0.95}
+{"start": 254.88, "end": 257.48, "speaker": "Vova", "text": "Будет написано groupby просто, если выбран none.", "confidence": 0.99}
+{"start": 257.86, "end": 262.66, "speaker": "Vova", "text": "Вот здесь термин меняется на none, а здесь убирается совсем, когда none выбран.", "confidence": 0.99}
+{"start": 265.31, "end": 267.85, "speaker": "Serhii Kasainov", "text": "Ну groupby, давай хотя бы прочерк может?", "confidence": 0.99}
+{"start": 268.37, "end": 271.53, "speaker": "Serhii Kasainov", "text": "Нет, нет, нет.", "confidence": 0.85}
+{"start": 271.63, "end": 274.29, "speaker": "Vova", "text": "Групбай без двоеточия и без лейбла.", "confidence": 0.99}
+{"start": 274.41, "end": 276.49, "speaker": "Vova", "text": "Просто groupby и стрелочка вниз.", "confidence": 0.99}
+{"start": 276.91, "end": 278.85, "speaker": "Vova", "text": "Приглашает тебя выбрать группировку.", "confidence": 0.99}
+{"start": 279.99, "end": 282.87, "speaker": "Vova", "text": "Группировка отключена, ничего не выбрано.", "confidence": 0.99}
+{"start": 283.11, "end": 285.29, "speaker": "Serhii Kasainov", "text": "Я понял, вопросов нет, договорились, хорошо.", "confidence": 0.99}
+{"start": 286.13, "end": 287.45, "speaker": "Serhii Kasainov", "text": "На чем я остановился?", "confidence": 0.99}
+{"start": 287.69, "end": 293.85, "speaker": "Serhii Kasainov", "text": "Да, соответственно доступно вот это вот менюшечка, пока только вот те три пункта, которые здесь были.", "confidence": 0.99}
+{"start": 294.11, "end": 301.21, "speaker": "Serhii Kasainov", "text": "Сейчас в QA эту итерацию одобрят и затащу в принципе все пункты, которые есть в меню на routes-листе.", "confidence": 0.99}
+{"start": 301.21, "end": 307.29, "speaker": "Serhii Kasainov", "text": "То есть на снапшоте любом можно будет с routes-таблицей работать практически так же, как и на routes.", "confidence": 0.99}
+{"start": 307.93, "end": 310.01, "speaker": "Serhii Kasainov", "text": "То же самое, соответственно, для destination.", "confidence": 0.99}
+{"start": 315.07, "end": 317.51, "speaker": "Serhii Kasainov", "text": "Что тут еще интересного показать?", "confidence": 0.92}
+{"start": 318.41, "end": 322.69, "speaker": "Serhii Kasainov", "text": "А, ну метрики тоже тут соответственно автоматически стали доступны.", "confidence": 0.99}
+{"start": 323.39, "end": 333.25, "speaker": "Serhii Kasainov", "text": "Ну и дальше по снапшотам эта же таблица будет везде переиспользоваться с небольшими правками, что, например, там на юзер", "confidence": 0.99}
+{"start": 333.25, "end": 336.51, "speaker": "Serhii Kasainov", "text": "-снапшоте мы не будем допускать фильтрацию по юзеру.", "confidence": 0.99}
+{"start": 336.89, "end": 340.87, "speaker": "Serhii Kasainov", "text": "Или там на facility-снапшоте мы не будем делать группировку по facility.", "confidence": 0.99}
+{"start": 342.07, "end": 349.53, "speaker": "Serhii Kasainov", "text": "Вот это, в принципе, такие вот улучшения уже готовы.", "confidence": 0.99}
+{"start": 349.99, "end": 352.81, "speaker": "Serhii Kasainov", "text": "Скоро, думаю, в понедельник мы их доставим на route.", "confidence": 0.99}
+{"start": 353.39, "end": 357.83, "speaker": "Serhii Kasainov", "text": "И был у меня вопрос, Дэн, почему мы не зарелизили destination-снапшот?", "confidence": 0.99}
+{"start": 358.21, "end": 365.39, "speaker": "Serhii Kasainov", "text": "Ну, почему мы не зарелизили, я знаю, почему, может ты нам его одобришь, там по нему есть, конечно, мелкие оправки,", "confidence": 0.99}
+{"start": 365.47, "end": 370.47, "speaker": "Serhii Kasainov", "text": "но мне он выглядит лучше, чем многие другие снапшоты, которые мы уже зарелизили.", "confidence": 0.99}
+{"start": 378.24, "end": 387.9, "speaker": "Dan Khasis", "text": "Надо посмотреть, наверное, была причина, я не помню причину, может вы неправильно помните, я неправильно помню, и просто теперь", "confidence": 0.99}
+{"start": 387.9, "end": 389.08, "speaker": "Dan Khasis", "text": "недопонимание.", "confidence": 0.99}
+{"start": 390.86, "end": 397.08, "speaker": "Serhii Kasainov", "text": "Ну там есть список тикетов, но опять же, мы их пересмотрим, я просто вот не помню, что там прям критичного", "confidence": 0.99}
+{"start": 397.08, "end": 397.4, "speaker": "Serhii Kasainov", "text": "было.", "confidence": 0.99}
+{"start": 397.74, "end": 398.52, "speaker": "Serhii Kasainov", "text": "Он идеален?", "confidence": 0.99}
+{"start": 398.62, "end": 399.42, "speaker": "Serhii Kasainov", "text": "Нет, он не идеален.", "confidence": 0.95}
+{"start": 399.44, "end": 401.84, "speaker": "Alexey Gusentsov", "text": "Ну точно нету таких левейших, я помню, к ним было.", "confidence": 0.99}
+{"start": 402.74, "end": 403.78, "speaker": "Serhii Kasainov", "text": "Кого нету?", "confidence": 0.79}
+{"start": 407.94, "end": 410.18, "speaker": "Serhii Kasainov", "text": "Ну в любом случае он выглядит лучше, чем budget optimization.", "confidence": 0.7}
+{"start": 410.2, "end": 411.5, "speaker": "Serhii Kasainov", "text": "Ой, извините, на интернет попал, извините.", "confidence": 0.3}
+{"start": 413.8, "end": 415.12, "speaker": "Serhii Kasainov", "text": "Да, Алексей, бывает.", "confidence": 0.99}
+{"start": 416.12, "end": 421.3, "speaker": "Serhii Kasainov", "text": "Он выглядит лучше, чем optimization-снапшот, чем user-снапшот и чем vehicle-снапшот.", "confidence": 0.99}
+{"start": 421.44, "end": 428.34, "speaker": "Serhii Kasainov", "text": "Карта прибавляет плюс 50%, нет, плюс 70% к привлекательности.", "confidence": 0.99}
+{"start": 429.32, "end": 436.34, "speaker": "Serhii Kasainov", "text": "Давайте может зарелизим, если что-то совсем плохо, я бы сегодня его быстро подправил и завтра бы релизнули.", "confidence": 0.99}
+{"start": 443.91, "end": 449.75, "speaker": "Semeyon S", "text": "Ну давай после звонка тикеты по диагонали глянем.", "confidence": 0.99}
+{"start": 453.54, "end": 457.48, "speaker": "Dan Khasis", "text": "Я не против ничего релизать рано или релизать часто.", "confidence": 0.87}
+{"start": 459.99, "end": 469.55, "speaker": "Dan Khasis", "text": "Мне просто больше любопытно, если есть какой-то уровень минимальной полезности", "confidence": 0.99}
+{"start": 469.55, "end": 473.91, "speaker": "Dan Khasis", "text": "этого релиза.", "confidence": 0.99}
+{"start": 478.49, "end": 483.71, "speaker": "Dan Khasis", "text": "Например, мы уже 6 месяцев пытаемся запустить это несчастное сервис тайм.", "confidence": 0.75}
+{"start": 483.97, "end": 493.73, "speaker": "Dan Khasis", "text": "Мы потратили на прошлый митинг в понедельник минимум час насчет historical service time и", "confidence": 0.99}
+{"start": 493.73, "end": 501.27, "speaker": "Dan Khasis", "text": "все вариации и варианты, которые с ним связаны, плюсы и минусы.", "confidence": 0.99}
+{"start": 501.27, "end": 506.95, "speaker": "Dan Khasis", "text": "Как это надо рассматривать и как это надо делать.", "confidence": 0.99}
+{"start": 510.45, "end": 520.07, "speaker": "Dan Khasis", "text": "Ок, так мы сделаем релиз destination, но если destination не имеет полноценную графическую линковку, relationship", "confidence": 0.99}
+{"start": 520.07, "end": 529.52, "speaker": "Dan Khasis", "text": "линковку, полноценный линк на ордер,", "confidence": 0.8}
+{"start": 529.62, "end": 539.16, "speaker": "Dan Khasis", "text": "полноценный линк на destination, полноценный линк на", "confidence": 0.77}
+{"start": 539.16, "end": 545.28, "speaker": "Dan Khasis", "text": "customer, на customer location, на strategic route, откуда это все произошло.", "confidence": 0.99}
+{"start": 545.46, "end": 551.84, "speaker": "Dan Khasis", "text": "Тогда какой смысл, если мы не показываем никакие высокоуровневые атрибуты и так далее.", "confidence": 0.94}
+{"start": 552.53, "end": 562.29, "speaker": "Dan Khasis", "text": "Например, в этом случае вы показываете, как я понимаю, это липовый ордер,", "confidence": 0.67}
+{"start": 562.31, "end": 563.47, "speaker": "Dan Khasis", "text": "это не настоящий.", "confidence": 0.99}
+{"start": 565.73, "end": 569.61, "speaker": "Serhii Kasainov", "text": "Я думаю, что это external order, это точно не наши айдишники.", "confidence": 0.99}
+{"start": 570.47, "end": 572.93, "speaker": "Dan Khasis", "text": "Где наш ордер объект?", "confidence": 0.89}
+{"start": 573.87, "end": 577.87, "speaker": "Serhii Kasainov", "text": "Ну мы договаривались наши внутренние айдишники не показывать.", "confidence": 0.99}
+{"start": 578.51, "end": 580.65, "speaker": "Dan Khasis", "text": "Не айдишники, а наш объект.", "confidence": 0.99}
+{"start": 584.39, "end": 585.31, "speaker": "Serhii Kasainov", "text": "Не понял.", "confidence": 0.99}
+{"start": 585.31, "end": 590.71, "speaker": "Vova", "text": "Здесь должен быть переход на ссылку на связь с ордером.", "confidence": 0.19}
+{"start": 591.57, "end": 593.53, "speaker": "Serhii Kasainov", "text": "Это понятно, здесь должна быть ссылка.", "confidence": 0.99}
+{"start": 594.97, "end": 597.57, "speaker": "Alexey Gusentsov", "text": "Да, ссылки мы делали, они должны быть и на ордере, и на кастомере.", "confidence": 0.99}
+{"start": 597.65, "end": 599.85, "speaker": "Alexey Gusentsov", "text": "Я не знаю, почему здесь нет, нужно разбираться, но они точно должны быть.", "confidence": 0.99}
+{"start": 600.35, "end": 601.85, "speaker": "Alexey Gusentsov", "text": "Может как раз таки есть такая пара, я не помню.", "confidence": 0.99}
+{"start": 601.91, "end": 603.81, "speaker": "Serhii Kasainov", "text": "На этом аккаунте нет ордер снапшота.", "confidence": 0.97}
+{"start": 604.45, "end": 605.51, "speaker": "Serhii Kasainov", "text": "То же самое с кастом.", "confidence": 0.99}
+{"start": 605.55, "end": 607.99, "speaker": "Serhii Kasainov", "text": "Это понятно, это мы сейчас очень быстро можем доделать.", "confidence": 0.99}
+{"start": 609.03, "end": 611.01, "speaker": "Serhii Kasainov", "text": "Тут просто большой уже объем работы сделал.", "confidence": 0.99}
+{"start": 611.01, "end": 615.85, "speaker": "Serhii Kasainov", "text": "Я просто помню, вот это вот не было, по-моему, запровнуто окончательно.", "confidence": 0.99}
+{"start": 616.49, "end": 618.23, "speaker": "Serhii Kasainov", "text": "Есть ли layout в порядке?", "confidence": 0.99}
+{"start": 618.35, "end": 621.81, "speaker": "Serhii Kasainov", "text": "Есть ли как бы тут прям очевидных замечаний, кроме перехода, нет?", "confidence": 0.99}
+{"start": 621.95, "end": 622.59, "speaker": "Serhii Kasainov", "text": "Давайте дожмем.", "confidence": 0.99}
+{"start": 623.33, "end": 627.07, "speaker": "Serhii Kasainov", "text": "Ну тут большой объем работы был выполнен, который просто висит.", "confidence": 0.99}
+{"start": 627.49, "end": 635.51, "speaker": "Dan Khasis", "text": "Я не спорю, я не спорю, но я просто пытаюсь тебе сказать, представь, что ты юзер, какая польза от этого?", "confidence": 0.95}
+{"start": 637.35, "end": 639.89, "speaker": "Dan Khasis", "text": "Например, ты показываешь маршрут.", "confidence": 0.99}
+{"start": 640.03, "end": 641.75, "speaker": "Dan Khasis", "text": "Я не знаю, если это хорошо или плохо.", "confidence": 0.99}
+{"start": 643.63, "end": 653.55, "speaker": "Dan Khasis", "text": "Geofence, если это пришел от Customer Location, а Customer Location пришел от Geotab, и мы не понимаем,", "confidence": 0.99}
+{"start": 653.71, "end": 654.95, "speaker": "Dan Khasis", "text": "что это от Geotab.", "confidence": 0.99}
+{"start": 655.31, "end": 660.21, "speaker": "Dan Khasis", "text": "Во-первых, здесь полигон дорисовать геотабовский.", "confidence": 0.99}
+{"start": 661.51, "end": 680.34, "speaker": "Dan Khasis", "text": "Когда я говорю насчет графика, я постоянно имею в виду, что все эти взаимодействованные отношения, вот", "confidence": 0.59}
+{"start": 680.34, "end": 690.19, "speaker": "Dan Khasis", "text": "что меня больше тревожит, какой смысл всего этого, если мы", "confidence": 0.99}
+{"start": 690.19, "end": 697.61, "speaker": "Dan Khasis", "text": "все равно завязали руки людям за спиной.", "confidence": 0.99}
+{"start": 697.75, "end": 699.75, "speaker": "Dan Khasis", "text": "И, кстати, здесь дефект вот этот.", "confidence": 0.99}
+{"start": 701.91, "end": 704.23, "speaker": "Dan Khasis", "text": "Мы же им завязали руки за спиной.", "confidence": 0.99}
+{"start": 705.07, "end": 710.17, "speaker": "Dan Khasis", "text": "Если это был ордер RouteFormation, мы не линкуем на него.", "confidence": 0.99}
+{"start": 710.95, "end": 714.77, "speaker": "Dan Khasis", "text": "Если это был Customer Location, мы это не показываем.", "confidence": 0.99}
+{"start": 715.89, "end": 720.21, "speaker": "Dan Khasis", "text": "Если это был Customer Location с Geotab, мы это тоже не показываем.", "confidence": 0.99}
+{"start": 720.35, "end": 723.37, "speaker": "Dan Khasis", "text": "Если у него был Geofence, мы его тоже не показываем.", "confidence": 0.99}
+{"start": 724.43, "end": 729.09, "speaker": "Dan Khasis", "text": "То есть что этот экран помогает людям?", "confidence": 0.99}
+{"start": 729.09, "end": 731.17, "speaker": "Dan Khasis", "text": "Attachments, окей, я согласен.", "confidence": 0.99}
+{"start": 731.95, "end": 735.23, "speaker": "Dan Khasis", "text": "Activities, окей, если фильтр работает, я согласен.", "confidence": 0.99}
+{"start": 736.99, "end": 739.17, "speaker": "Dan Khasis", "text": "History, что History показывает, я не понимаю.", "confidence": 0.99}
+{"start": 739.35, "end": 740.35, "speaker": "Dan Khasis", "text": "Что History показывает?", "confidence": 0.99}
+{"start": 742.53, "end": 744.09, "speaker": "Artur Moskalenko", "text": "Delivery Attempts.", "confidence": 0.99}
+{"start": 746.75, "end": 750.79, "speaker": "Dan Khasis", "text": "Я не понимаю, что это значит Delivery Attempts.", "confidence": 0.99}
+{"start": 750.87, "end": 752.17, "speaker": "Dan Khasis", "text": "Это копия Activities?", "confidence": 0.99}
+{"start": 756.41, "end": 758.25, "speaker": "Artur Moskalenko", "text": "По сути, да.", "confidence": 0.99}
+{"start": 760.51, "end": 762.27, "speaker": "Dan Khasis", "text": "Какой смысл это иметь тогда?", "confidence": 0.99}
+{"start": 762.27, "end": 767.73, "speaker": "Serhii Kasainov", "text": "И Activity, включая Activity по рауту.", "confidence": 0.8}
+{"start": 769.51, "end": 772.01, "speaker": "Dan Khasis", "text": "Я не понимаю, как это связано с чем-то.", "confidence": 0.99}
+{"start": 772.45, "end": 777.53, "speaker": "Maksym Silman", "text": "Насколько я помню, History – это исторически измененное название Notes.", "confidence": 0.99}
+{"start": 779.37, "end": 784.91, "speaker": "Alexey Gusentsov", "text": "Нет, то есть History – это как раз-таки Activities, а вот Activities – это Notes, по-моему.", "confidence": 0.99}
+{"start": 788.46, "end": 789.02, "speaker": "Serhii Kasainov", "text": "Я понял.", "confidence": 0.99}
+{"start": 789.98, "end": 796.14, "speaker": "Serhii Kasainov", "text": "Просто у нас в любом случае, чтобы посмотреть Destination вот в таком вот развернутом виде, у нас нет никакого интерфейса.", "confidence": 0.97}
+{"start": 796.14, "end": 804.82, "speaker": "Serhii Kasainov", "text": "То есть я должен идти в какой-нибудь Editor, там открывать этот второй Sidebar, листать вниз, находить вот эти вот,", "confidence": 0.99}
+{"start": 805.04, "end": 806.2, "speaker": "Serhii Kasainov", "text": "те же Visit Details.", "confidence": 0.99}
+{"start": 806.72, "end": 811.56, "speaker": "Serhii Kasainov", "text": "Вот так, чтобы я в одном месте мог глянуть конкретно один стоп, у нас такого нет.", "confidence": 0.99}
+{"start": 811.88, "end": 817.56, "speaker": "Dan Khasis", "text": "Я не, окей, но, так что мы, так что ты смотришь?", "confidence": 0.95}
+{"start": 817.66, "end": 821.12, "speaker": "Dan Khasis", "text": "Мы делаем полностью новую страницу, чтобы увидеть Custom Data?", "confidence": 0.99}
+{"start": 824.28, "end": 826.08, "speaker": "Serhii Kasainov", "text": "Мы под все делаем снапшоты.", "confidence": 0.99}
+{"start": 827.08, "end": 831.56, "speaker": "Dan Khasis", "text": "Я понимаю, окей, я говорю в первой версии, ты предлагаешь, мы делаем…", "confidence": 0.99}
+{"start": 832.84, "end": 834.82, "speaker": "Dan Khasis", "text": "Давай мы наизнанку на это посмотрим.", "confidence": 0.99}
+{"start": 835.08, "end": 840.72, "speaker": "Dan Khasis", "text": "Если ты хочешь посмотреть на снапшот, тебе нужно знать, куда ты поехал.", "confidence": 0.78}
+{"start": 841.86, "end": 844.98, "speaker": "Dan Khasis", "text": "Мы говорим насчет сайт-мэпа, Custom Forms.", "confidence": 0.99}
+{"start": 845.12, "end": 849.04, "speaker": "Dan Khasis", "text": "Тебе хотелось бы знать, какие Custom Forms, какие Workflows были сделаны.", "confidence": 0.99}
+{"start": 849.92, "end": 851.22, "speaker": "Dan Khasis", "text": "API для этого всего есть.", "confidence": 0.99}
+{"start": 852.04, "end": 854.8, "speaker": "Dan Khasis", "text": "История сейчас непонятна вообще, что здесь показывают.", "confidence": 0.99}
+{"start": 855.08, "end": 856.55, "speaker": "Dan Khasis", "text": "Невозможно, черта непонятна.", "confidence": 0.99}
+{"start": 856.84, "end": 859.1, "speaker": "Dan Khasis", "text": "Это выглядит как копия друг друга.", "confidence": 0.98}
+{"start": 859.4, "end": 869.24, "speaker": "Vova", "text": "По макету вот это было Activity Feed, а вот это было Workflows Completion Action,", "confidence": 0.99}
+{"start": 869.56, "end": 873.36, "speaker": "Vova", "text": "Mandatory и Optional Action, которые на Destination Completed.", "confidence": 0.99}
+{"start": 873.68, "end": 879.18, "speaker": "Vova", "text": "И ты их попросил назвать Activities, и оно начало пересекаться по имени с Activity Feed.", "confidence": 0.3}
+{"start": 879.18, "end": 881.0, "speaker": "Vova", "text": "А потом стало выглядеть странно.", "confidence": 0.3}
+{"start": 881.08, "end": 882.54, "speaker": "Vova", "text": "Activity Feed, потом Activities.", "confidence": 0.3}
+{"start": 885.44, "end": 889.04, "speaker": "Vova", "text": "Поэтому кто-то решил переименовать Activity Feed в History.", "confidence": 0.99}
+{"start": 892.28, "end": 893.14, "speaker": "Serhii Kasainov", "text": "Спорное решение?", "confidence": 0.99}
+{"start": 894.28, "end": 895.68, "speaker": "Dan Khasis", "text": "Я не согласен с этим.", "confidence": 0.99}
+{"start": 896.28, "end": 905.38, "speaker": "Dan Khasis", "text": "С точки зрения, что для меня History нужная вещь, и в History надо иметь список всех бывших маршрутов, где был", "confidence": 0.99}
+{"start": 905.38, "end": 908.84, "speaker": "Dan Khasis", "text": "этот адрес, где был этот Destination.", "confidence": 0.3}
+{"start": 909.16, "end": 911.84, "speaker": "Vova", "text": "Destination может быть только в одном маршруте.", "confidence": 0.99}
+{"start": 911.84, "end": 921.86, "speaker": "Dan Khasis", "text": "Нет, в этом, видите, вы слышали, что мы на ровном месте уже, что мы на ровном месте уже, даже", "confidence": 0.92}
+{"start": 921.86, "end": 930.26, "speaker": "Dan Khasis", "text": "внутри команды не согласны, что Destination, это ты приехал.", "confidence": 0.93}
+{"start": 930.64, "end": 940.56, "speaker": "Dan Khasis", "text": "Вот почему я как попугай говорю постоянно, полноценная линковка нужна на Customer и Customer Location, потому что", "confidence": 0.92}
+{"start": 940.56, "end": 944.58, "speaker": "Dan Khasis", "text": "по Customer Location мы можем видеть все предыдущие визиты.", "confidence": 0.99}
+{"start": 947.19, "end": 952.51, "speaker": "Dan Khasis", "text": "Сейчас бесполезно смотреть на Destination, потому что Destination...", "confidence": 0.99}
+{"start": 953.65, "end": 961.48, "speaker": "Dan Khasis", "text": "Давай мы перейдем на техническую фразеологию, больше чем на бизнесовую.", "confidence": 0.99}
+{"start": 962.28, "end": 972.25, "speaker": "Dan Khasis", "text": "У вас есть класс, и вы делаете new x class A, x", "confidence": 0.99}
+{"start": 972.25, "end": 974.57, "speaker": "Dan Khasis", "text": "класса типа A, правильно?", "confidence": 0.99}
+{"start": 975.29, "end": 985.28, "speaker": "Dan Khasis", "text": "И теперь вы можете инициализацию делать, копию класса A, как y и как z, правильно?", "confidence": 0.75}
+{"start": 985.6, "end": 988.02, "speaker": "Dan Khasis", "text": "И теперь у вас есть три инстанса класса A.", "confidence": 0.99}
+{"start": 992.18, "end": 1001.82, "speaker": "Dan Khasis", "text": "Но здесь получается, что Destination в этом случае, это является объектом, который", "confidence": 0.99}
+{"start": 1001.82, "end": 1004.98, "speaker": "Dan Khasis", "text": "типом классом, а класс у нас Destination.", "confidence": 0.99}
+{"start": 1006.52, "end": 1014.96, "speaker": "Dan Khasis", "text": "Но у нас нет истории всех бывших инициализаций инстанса этого объекта.", "confidence": 0.99}
+{"start": 1016.08, "end": 1025.12, "speaker": "Dan Khasis", "text": "А все предыдущие инициализации этого объекта, это все Destination, когда-либо за историю существовали.", "confidence": 0.99}
+{"start": 1029.24, "end": 1032.5, "speaker": "Igor Skrynkovskyy", "text": "Но у вас эта информация есть, да?", "confidence": 0.5}
+{"start": 1032.86, "end": 1033.58, "speaker": "Igor Skrynkovskyy", "text": "И она есть.", "confidence": 0.99}
+{"start": 1033.92, "end": 1040.56, "speaker": "Igor Skrynkovskyy", "text": "У нас есть эта информация, и даже через API, через route API, через это мы можем получить ее.", "confidence": 0.99}
+{"start": 1041.0, "end": 1045.98, "speaker": "Igor Skrynkovskyy", "text": "Просто нам нужно в фильтр передать определенные значения.", "confidence": 0.99}
+{"start": 1046.44, "end": 1050.0, "speaker": "Semeyon S", "text": "Сергей, открой, пожалуйста, скриншот, я в Zoom скинул.", "confidence": 0.99}
+{"start": 1051.36, "end": 1052.82, "speaker": "Semeyon S", "text": "Коли ты Slack не смотришь.", "confidence": 0.99}
+{"start": 1054.26, "end": 1062.76, "speaker": "Vova", "text": "Но вот эта информация вся, она именно об одном инстансе, об одном инстансе Destination, об одном визите на один адрес", "confidence": 0.99}
+{"start": 1062.76, "end": 1063.96, "speaker": "Vova", "text": "в конкретном маршруте.", "confidence": 0.99}
+{"start": 1064.46, "end": 1072.52, "speaker": "Vova", "text": "В History, да, можно разместить историю других визитов, других маршрутов, то есть другие Destination, другие инстансы.", "confidence": 0.99}
+{"start": 1072.82, "end": 1074.42, "speaker": "Vova", "text": "Вот их можно в History поставить.", "confidence": 0.99}
+{"start": 1075.9, "end": 1079.64, "speaker": "Vova", "text": "И там будет ссылка на другие Destination снапшоты.", "confidence": 0.99}
+{"start": 1080.56, "end": 1081.18, "speaker": "Dan Khasis", "text": "Да.", "confidence": 0.31}
+{"start": 1081.86, "end": 1083.18, "speaker": "Serhii Kasainov", "text": "Давайте это делать.", "confidence": 0.91}
+{"start": 1084.42, "end": 1089.8, "speaker": "Serhii Kasainov", "text": "А ActivityFeed потом сделаем, потому что, опять же, полезность ActivityFeed, мне кажется, поменьше.", "confidence": 0.99}
+{"start": 1090.96, "end": 1091.72, "speaker": "Dan Khasis", "text": "Я понял, что…", "confidence": 0.24}
+{"start": 1091.72, "end": 1097.5, "speaker": "Dan Khasis", "text": "ActivityFeed важен с точки зрения, что каждая вещь, которая там произошла, хорошо виден.", "confidence": 0.99}
+{"start": 1097.64, "end": 1107.5, "speaker": "Dan Khasis", "text": "GeoFence виден, этот, как его, у вас", "confidence": 0.98}
+{"start": 1107.5, "end": 1108.36, "speaker": "Dan Khasis", "text": "уже все есть.", "confidence": 0.99}
+{"start": 1108.36, "end": 1113.79, "speaker": "Dan Khasis", "text": "Вы должны просто вывести это на backend.", "confidence": 0.47}
+{"start": 1115.59, "end": 1117.27, "speaker": "Dan Khasis", "text": "Извиняюсь, на фронтенд с бэкэнда.", "confidence": 0.99}
+{"start": 1125.57, "end": 1132.75, "speaker": "Serhii Kasainov", "text": "То есть, пока мы не доделаем History и ActivityFeed, никаких движений по этому снапшоту вперед не будет.", "confidence": 0.99}
+{"start": 1134.97, "end": 1135.83, "speaker": "Serhii Kasainov", "text": "Я правильно понял?", "confidence": 0.99}
+{"start": 1136.29, "end": 1141.07, "speaker": "Dan Khasis", "text": "Я думаю, что если вы удалите время на History, открой Activity на секунду.", "confidence": 0.99}
+{"start": 1142.15, "end": 1145.01, "speaker": "Serhii Kasainov", "text": "Так, а нам как раз History, Игорь прав, нам очень легко сделать.", "confidence": 0.99}
+{"start": 1145.13, "end": 1151.95, "speaker": "Serhii Kasainov", "text": "У нас есть все фильтры, чтобы показать Destination и все остальные, у которых есть подвязка к кастомеру.", "confidence": 0.99}
+{"start": 1152.37, "end": 1155.75, "speaker": "Serhii Kasainov", "text": "Но я предполагаю, что где есть еще подвязка к…", "confidence": 0.99}
+{"start": 1155.75, "end": 1156.83, "speaker": "Serhii Kasainov", "text": "Нет, OrderID нет.", "confidence": 0.99}
+{"start": 1157.85, "end": 1165.97, "speaker": "Dan Khasis", "text": "У вас есть в OrderID в RadData табличке, в RadDestination, там есть полноценный внутренний OrderID.", "confidence": 0.9}
+{"start": 1167.83, "end": 1176.45, "speaker": "Dan Khasis", "text": "И, в принципе, если на то пошло, если говорить о 3, 4, 5 версиях вперед, когда можно открыть еще одну", "confidence": 0.96}
+{"start": 1176.45, "end": 1181.89, "speaker": "Dan Khasis", "text": "панель, чтобы, когда кликнулся Order, открылись бы все OrderLineItem.", "confidence": 0.95}
+{"start": 1182.07, "end": 1190.31, "speaker": "Dan Khasis", "text": "И потом ты кликнул OrderLineItem, может быть, откроется еще одна вкладка и покажет все транзакции с инвойсинг-системой.", "confidence": 0.99}
+{"start": 1190.37, "end": 1197.49, "speaker": "Dan Khasis", "text": "Или, может быть, здесь было бы транзакции и инвойсинг, потому что она же пролинкована к Destination, а сейчас API готов.", "confidence": 0.99}
+{"start": 1197.95, "end": 1201.69, "speaker": "Dan Khasis", "text": "Ребята его сделали, вы даже внедрили его сами на этой неделе.", "confidence": 0.99}
+{"start": 1204.89, "end": 1207.81, "speaker": "Dan Khasis", "text": "Потому что это же не на уровне Destination инвойсы.", "confidence": 0.99}
+{"start": 1209.12, "end": 1215.33, "speaker": "Serhii Kasainov", "text": "Ну да, просто History мы сейчас можем сделать очень быстро.", "confidence": 0.96}
+{"start": 1216.73, "end": 1219.63, "speaker": "Dan Khasis", "text": "Окей, шикарно, но кликни на Activity, пожалуйста, на секунду.", "confidence": 0.99}
+{"start": 1223.43, "end": 1225.91, "speaker": "Dan Khasis", "text": "Так здесь это неправильно.", "confidence": 0.99}
+{"start": 1226.07, "end": 1228.79, "speaker": "Dan Khasis", "text": "Это же не Activity.", "confidence": 0.89}
+{"start": 1229.43, "end": 1230.65, "speaker": "Dan Khasis", "text": "Для меня это не Activity.", "confidence": 0.99}
+{"start": 1230.77, "end": 1232.83, "speaker": "Dan Khasis", "text": "Мы везде называем это ActivityFeed.", "confidence": 0.99}
+{"start": 1233.83, "end": 1242.77, "speaker": "Vova", "text": "Нет, здесь должны быть заметки от водителей о том, как они successful, complete, или почему они проводили этот визит.", "confidence": 0.99}
+{"start": 1247.1, "end": 1248.1, "speaker": "Semeyon S", "text": "Это Notes.", "confidence": 0.99}
+{"start": 1248.28, "end": 1250.52, "speaker": "Dan Khasis", "text": "И это не Activity, опять говорю.", "confidence": 0.99}
+{"start": 1251.2, "end": 1254.12, "speaker": "Vova", "text": "Да, я не знаю, как его правильно называть.", "confidence": 0.99}
+{"start": 1254.2, "end": 1262.8, "speaker": "Vova", "text": "Я его называл всегда Proof of Visit или что-то такое, но тебе не понравилось название Proof of Visit, и", "confidence": 0.91}
+{"start": 1262.8, "end": 1264.5, "speaker": "Vova", "text": "ты сам сказал переименовать его в Activity.", "confidence": 0.99}
+{"start": 1265.5, "end": 1267.36, "speaker": "Vova", "text": "И на этом оно остановилось.", "confidence": 0.99}
+{"start": 1269.48, "end": 1270.12, "speaker": "Vova", "text": "Давай выберем.", "confidence": 0.99}
+{"start": 1270.3, "end": 1272.2, "speaker": "Dan Khasis", "text": "Мы вернемся к этому тогда.", "confidence": 0.99}
+{"start": 1273.26, "end": 1274.3, "speaker": "Dan Khasis", "text": "Я подумаю.", "confidence": 0.99}
+{"start": 1277.36, "end": 1282.66, "speaker": "Dan Khasis", "text": "Но инвойсы сюда пойдут, потому что вы знаете, с каким Destination инвойс связан.", "confidence": 0.99}
+{"start": 1284.22, "end": 1293.06, "speaker": "Dan Khasis", "text": "Если у нас будет Asset, чтобы кто-то разгрузил что-то, кто-то разгрузил что-то, кто-то загрузил что", "confidence": 0.77}
+{"start": 1293.06, "end": 1293.24, "speaker": "Dan Khasis", "text": "-то.", "confidence": 0.99}
+{"start": 1293.48, "end": 1296.82, "speaker": "Dan Khasis", "text": "Там будут тоже наклейки, которые были сосканированы.", "confidence": 0.99}
+{"start": 1296.96, "end": 1298.32, "speaker": "Dan Khasis", "text": "Тоже можно сюда поставить.", "confidence": 0.99}
+{"start": 1300.32, "end": 1300.92, "speaker": "Dan Khasis", "text": "Заказы.", "confidence": 0.99}
+{"start": 1301.14, "end": 1303.86, "speaker": "Dan Khasis", "text": "На одном Destination может быть множество заказов.", "confidence": 0.99}
+{"start": 1304.08, "end": 1306.56, "speaker": "Dan Khasis", "text": "Всегда могут заказы, вкладка по заказам быть.", "confidence": 0.99}
+{"start": 1308.78, "end": 1311.8, "speaker": "Dan Khasis", "text": "То есть я говорю в третья, четвертая, пятая версия и так далее.", "confidence": 0.99}
+{"start": 1314.78, "end": 1319.66, "speaker": "Dan Khasis", "text": "Здесь я и некоторые другие замечания небольшие.", "confidence": 0.99}
+{"start": 1320.78, "end": 1330.04, "speaker": "Dan Khasis", "text": "Что вот это на уровне маршрута, но я думаю, что имеет смысл сделать какой-то уровень вкладывания", "confidence": 0.98}
+{"start": 1330.04, "end": 1339.88, "speaker": "Dan Khasis", "text": "ценностей, потому что эта иллюзия как будто бы это на уровне Destination, но это неверно.", "confidence": 0.71}
+{"start": 1342.04, "end": 1344.4, "speaker": "Dan Khasis", "text": "Потом notification уведомления.", "confidence": 0.99}
+{"start": 1344.56, "end": 1354.46, "speaker": "Dan Khasis", "text": "У вас есть уже в системе notification history уведомление покупателю насчет доставки", "confidence": 0.97}
+{"start": 1354.46, "end": 1355.9, "speaker": "Dan Khasis", "text": "и так далее.", "confidence": 0.99}
+{"start": 1356.92, "end": 1360.6, "speaker": "Dan Khasis", "text": "Это тоже здесь может быть в какой-то будущей версии.", "confidence": 0.95}
+{"start": 1362.62, "end": 1365.62, "speaker": "Serhii Kasainov", "text": "Для этого нам надо запустить версию 1.", "confidence": 0.76}
+{"start": 1366.1, "end": 1370.16, "speaker": "Dan Khasis", "text": "Я не спорю с тобой, но здесь не хватает критических вещей.", "confidence": 0.99}
+{"start": 1370.28, "end": 1374.04, "speaker": "Dan Khasis", "text": "Кастомер здесь нужен, внешний order ID здесь нужен.", "confidence": 0.99}
+{"start": 1375.88, "end": 1377.28, "speaker": "Dan Khasis", "text": "Кастомер и кастомер location.", "confidence": 0.99}
+{"start": 1380.56, "end": 1382.7, "speaker": "Dan Khasis", "text": "Нет, потому что это константная вещь.", "confidence": 0.99}
+{"start": 1382.92, "end": 1390.58, "speaker": "Dan Khasis", "text": "Если речь идет о том, что ты обслуживаешь какую-то точку, тебе критически важно знать, кого ты обслуживаешь.", "confidence": 0.99}
+{"start": 1390.58, "end": 1399.34, "speaker": "Dan Khasis", "text": "Какой-то минимум, даже не custom data, это чепуха, но какой-то минимум.", "confidence": 0.9}
+{"start": 1401.6, "end": 1407.88, "speaker": "Dan Khasis", "text": "Игорь, неужели у нас нет customer ID и customer location ID до уровня Destination?", "confidence": 0.93}
+{"start": 1408.46, "end": 1408.76, "speaker": "Igor Skrynkovskyy", "text": "Есть.", "confidence": 0.99}
+{"start": 1409.46, "end": 1411.54, "speaker": "Dan Khasis", "text": "Вот оттуда мы это будем вытаскивать.", "confidence": 1.0}
+{"start": 1412.12, "end": 1420.6, "speaker": "Dan Khasis", "text": "То есть, если они это сделали по-черному и залили customer в Legacy поле, показывайте это здесь в медлелампочке.", "confidence": 0.99}
+{"start": 1420.6, "end": 1430.26, "speaker": "Dan Khasis", "text": "Если они это сделали современно, из Strategic Planner или из Customer Location Planner или из адрес Bookmap,", "confidence": 0.99}
+{"start": 1430.66, "end": 1436.08, "speaker": "Dan Khasis", "text": "нам нужно показать здесь полноценную ссылку на customer ID.", "confidence": 0.96}
+{"start": 1436.84, "end": 1441.74, "speaker": "Dan Khasis", "text": "В первую очередь, даже выше, чем адрес.", "confidence": 0.71}
+{"start": 1441.98, "end": 1447.92, "speaker": "Dan Khasis", "text": "Потому что это выйдет внешняя ссылка на customer и внешняя ссылка на customer location.", "confidence": 0.99}
+{"start": 1447.92, "end": 1456.58, "speaker": "Dan Khasis", "text": "И, в принципе, в 10 версии это может выйти на ссылку в Telematics, что", "confidence": 0.99}
+{"start": 1456.58, "end": 1460.1, "speaker": "Dan Khasis", "text": "в их внешнюю систему Telematics.", "confidence": 0.89}
+{"start": 1469.57, "end": 1470.69, "speaker": "Serhii Kasainov", "text": "Я все записал.", "confidence": 0.99}
+{"start": 1475.58, "end": 1476.16, "speaker": "Serhii Kasainov", "text": "У меня все.", "confidence": 0.99}
+{"start": 1476.72, "end": 1476.96, "speaker": "Serhii Kasainov", "text": "Спасибо.", "confidence": 0.99}
+{"start": 1481.27, "end": 1486.43, "speaker": "Dan Khasis", "text": "Если вы можете прибавить customer, и тогда запускать customer и customer location?", "confidence": 0.99}
+{"start": 1488.17, "end": 1489.01, "speaker": "Serhii Kasainov", "text": "Можем.", "confidence": 0.51}
+{"start": 1491.6, "end": 1496.11, "speaker": "Dan Khasis", "text": "И запускать я правильно услышал?", "confidence": 0.85}
+{"start": 1498.62, "end": 1508.52, "speaker": "Dan Khasis", "text": "Да, только нам надо закончить этот сайт-мэп, потому что вот эти PDF", "confidence": 0.99}
+{"start": 1508.52, "end": 1517.95, "speaker": "Dan Khasis", "text": "-attachments, потому что до конца непонятно.", "confidence": 0.38}
+{"start": 1528.43, "end": 1534.05, "speaker": "Dan Khasis", "text": "Эти люди, мы продаем landscaping и так далее, они не купят.", "confidence": 0.99}
+{"start": 1534.93, "end": 1541.61, "speaker": "Dan Khasis", "text": "Им надо будет видеть фотки, инструкции, которые мы дали водителю.", "confidence": 0.95}
+{"start": 1542.67, "end": 1545.69, "speaker": "Dan Khasis", "text": "Например, если они подпишут контракт, они захотят увидеть.", "confidence": 0.99}
+{"start": 1546.41, "end": 1547.73, "speaker": "Dan Khasis", "text": "Это в первую очередь.", "confidence": 0.95}
+{"start": 1548.03, "end": 1552.13, "speaker": "Dan Khasis", "text": "Их люди просто напрочь не могут работать без этого вообще.", "confidence": 0.99}
+{"start": 1557.32, "end": 1557.9, "speaker": "Serhii Kasainov", "text": "Я понял.", "confidence": 0.99}
+{"start": 1559.26, "end": 1565.96, "speaker": "Serhii Kasainov", "text": "Доврон, если ты собираешься показывать таблицу items, я бы не советовал, потому что здесь есть те замечания, которые мы обсуждали", "confidence": 0.99}
+{"start": 1565.96, "end": 1567.92, "speaker": "Serhii Kasainov", "text": "в прошлый раз, и которые не поправлены.", "confidence": 0.99}
+{"start": 1568.6, "end": 1572.38, "speaker": "Serhii Kasainov", "text": "И доллар на американском рынке слева пишут.", "confidence": 0.99}
+{"start": 1573.42, "end": 1579.28, "speaker": "Serhii Kasainov", "text": "Поэтому, во-первых, плохо, что ты сделал таблицу отдельно, а во-вторых, плохо, что она не учитывает эти замечания, которые", "confidence": 0.99}
+{"start": 1579.28, "end": 1580.24, "speaker": "Serhii Kasainov", "text": "были в понедельник.", "confidence": 0.99}
+{"start": 1580.92, "end": 1582.58, "speaker": "Serhii Kasainov", "text": "Это мой короткий оценок.", "confidence": 0.99}
+{"start": 1582.62, "end": 1582.96, "speaker": "Davron Usmonov", "text": "Спасибо.", "confidence": 0.65}
+{"start": 1583.16, "end": 1585.44, "speaker": "Davron Usmonov", "text": "В понедельник они успели сюда изменения внести.", "confidence": 0.99}
+{"start": 1585.58, "end": 1594.08, "speaker": "Davron Usmonov", "text": "Я, во-первых, хотел показать, что это тематический connection, который sub, и он немного отличается по своей структуре и наполнению", "confidence": 0.99}
+{"start": 1594.08, "end": 1597.36, "speaker": "Davron Usmonov", "text": "от остальных тематических соединений.", "confidence": 0.99}
+{"start": 1597.5, "end": 1599.18, "speaker": "Davron Usmonov", "text": "Тут, во-первых, не виклы, а items.", "confidence": 0.99}
+{"start": 1599.5, "end": 1607.26, "speaker": "Davron Usmonov", "text": "Дальше список будет пополняться, и левая колонка отображает инфу, которая относится именно к sub connection.", "confidence": 0.99}
+{"start": 1607.46, "end": 1614.96, "speaker": "Davron Usmonov", "text": "То есть тут нет инфы о виклах, а информация только то, что относится именно к данному connection.", "confidence": 0.99}
+{"start": 1615.62, "end": 1623.32, "speaker": "Davron Usmonov", "text": "В разработке у нас добавление фильтров, добавление колонок, поэтому это нулевая версия.", "confidence": 0.99}
+{"start": 1623.74, "end": 1630.88, "speaker": "Davron Usmonov", "text": "И вот, как сказал Сергей, еще нулевая, даже минус первая, потому что тут есть вещи, которые нужно поправить.", "confidence": 0.99}
+{"start": 1633.22, "end": 1635.06, "speaker": "Davron Usmonov", "text": "Это буквально нулевая версия.", "confidence": 0.99}
+{"start": 1639.05, "end": 1642.87, "speaker": "Vova", "text": "Можно твой approve по этому вопросу?", "confidence": 0.99}
+{"start": 1644.15, "end": 1646.65, "speaker": "Vova", "text": "Меня раздражает вот эта ступенька здесь.", "confidence": 0.99}
+{"start": 1647.31, "end": 1649.07, "speaker": "Vova", "text": "Ты ok с ней или нет?", "confidence": 0.99}
+{"start": 1650.25, "end": 1651.83, "speaker": "Dan Khasis", "text": "Один вопрос, и навсегда решим.", "confidence": 0.99}
+{"start": 1652.53, "end": 1653.47, "speaker": "Dan Khasis", "text": "А что с ней?", "confidence": 0.99}
+{"start": 1654.05, "end": 1655.41, "speaker": "Dan Khasis", "text": "Какой вариант от нее?", "confidence": 0.99}
+{"start": 1655.77, "end": 1660.19, "speaker": "Vova", "text": "Равнять по краю вот здесь можно, как второй вариант.", "confidence": 0.99}
+{"start": 1661.11, "end": 1663.05, "speaker": "Vova", "text": "Мне больше нравится, когда выравнено здесь.", "confidence": 0.99}
+{"start": 1663.67, "end": 1666.35, "speaker": "Dan Khasis", "text": "Я думаю, что она будет странно выглядеть выравнена.", "confidence": 0.99}
+{"start": 1666.97, "end": 1669.23, "speaker": "Dan Khasis", "text": "Подождите, это очень важно.", "confidence": 0.85}
+{"start": 1669.35, "end": 1670.95, "speaker": "Davron Usmonov", "text": "Полгода назад, Вова, было...", "confidence": 0.99}
+{"start": 1670.95, "end": 1673.73, "speaker": "Davron Usmonov", "text": "Да, подождите, дайте, пожалуйста, скажу.", "confidence": 0.85}
+{"start": 1675.15, "end": 1683.11, "speaker": "Igor Golovtsov", "text": "Да, было сначала, эта кнопка была, зеленая кнопка справа во всех заголовках страниц, приклеена к правому краю, выравнена по контенту,", "confidence": 0.99}
+{"start": 1683.51, "end": 1691.57, "speaker": "Igor Golovtsov", "text": "а слева был заголовок страницы, и breadcrumbs слева тоже были приклеены по контенту.", "confidence": 0.99}
+{"start": 1691.99, "end": 1696.25, "speaker": "Igor Golovtsov", "text": "Потом было сказано всем массово отодвинуть это от углов.", "confidence": 0.99}
+{"start": 1696.93, "end": 1701.03, "speaker": "Igor Golovtsov", "text": "То есть мы вернемся, если мы сейчас решим приклеить опять это к правому краю.", "confidence": 0.99}
+{"start": 1701.03, "end": 1703.41, "speaker": "Dan Khasis", "text": "Нет, она выглядит балансировано так.", "confidence": 0.99}
+{"start": 1703.77, "end": 1705.85, "speaker": "Dan Khasis", "text": "Она так правильно выглядит.", "confidence": 0.99}
+{"start": 1706.11, "end": 1707.45, "speaker": "Vova", "text": "Хорошо, я получил ответ.", "confidence": 0.99}
+{"start": 1707.75, "end": 1708.15, "speaker": "Vova", "text": "Спасибо.", "confidence": 0.99}
+{"start": 1709.41, "end": 1718.21, "speaker": "Dan Khasis", "text": "Если вы сделаете прямо в UI, прямо рукой просто взять и все сессии поменять, вы увидите, что это будет выглядеть", "confidence": 0.99}
+{"start": 1718.21, "end": 1722.55, "speaker": "Dan Khasis", "text": "очень некрасиво.", "confidence": 0.7}
+{"start": 1722.73, "end": 1725.67, "speaker": "Igor Golovtsov", "text": "Она так и была, просто убери там, сними галочку паддингов, да.", "confidence": 0.99}
+{"start": 1726.39, "end": 1728.35, "speaker": "Igor Golovtsov", "text": "Она так и была, ты сказал отодвинуть.", "confidence": 0.98}
+{"start": 1728.39, "end": 1731.69, "speaker": "Dan Khasis", "text": "Нет, она сразу начинает давить на мозги.", "confidence": 0.99}
+{"start": 1736.06, "end": 1736.86, "speaker": "Vova", "text": "Окей, я понял.", "confidence": 0.99}
+{"start": 1739.9, "end": 1741.3, "speaker": "Davron Usmonov", "text": "У меня все, спасибо.", "confidence": 0.75}
+{"start": 1741.3, "end": 1743.86, "speaker": "Dan Khasis", "text": "Подожди, пожалуйста, подожди, пожалуйста.", "confidence": 0.91}
+{"start": 1746.6, "end": 1750.06, "speaker": "Dan Khasis", "text": "Я хочу некоторые замечания сделать для цели тренировки.", "confidence": 0.99}
+{"start": 1751.26, "end": 1753.34, "speaker": "Dan Khasis", "text": "Здесь опять потерялся формат.", "confidence": 0.99}
+{"start": 1754.34, "end": 1755.14, "speaker": "Dan Khasis", "text": "Это неправильно.", "confidence": 0.99}
+{"start": 1755.38, "end": 1756.2, "speaker": "Dan Khasis", "text": "Второй пункт.", "confidence": 0.99}
+{"start": 1757.06, "end": 1758.36, "speaker": "Dan Khasis", "text": "Здесь нет тайм-зоны.", "confidence": 0.99}
+{"start": 1758.66, "end": 1760.4, "speaker": "Dan Khasis", "text": "Мы везде сейчас тайм-зоны отпутаем.", "confidence": 0.99}
+{"start": 1761.34, "end": 1762.02, "speaker": "Dan Khasis", "text": "Третий пункт.", "confidence": 0.99}
+{"start": 1762.12, "end": 1763.26, "speaker": "Dan Khasis", "text": "Колумн селектора нет.", "confidence": 0.99}
+{"start": 1764.86, "end": 1766.04, "speaker": "Dan Khasis", "text": "Четвертый пункт.", "confidence": 0.99}
+{"start": 1766.1, "end": 1767.72, "speaker": "Dan Khasis", "text": "Здесь нет аутпута.", "confidence": 0.99}
+{"start": 1771.15, "end": 1772.73, "speaker": "Dan Khasis", "text": "Что такое UOM?", "confidence": 0.99}
+{"start": 1773.47, "end": 1775.17, "speaker": "Dan Khasis", "text": "Full name, здесь только short name.", "confidence": 0.99}
+{"start": 1782.48, "end": 1784.22, "speaker": "Dan Khasis", "text": "Еще один пункт я хочу сказать.", "confidence": 0.99}
+{"start": 1790.32, "end": 1791.74, "speaker": "Dan Khasis", "text": "Сейчас это не надо делать.", "confidence": 0.99}
+{"start": 1792.6, "end": 1797.54, "speaker": "Dan Khasis", "text": "Но в какой-то момент мы должны будем на нашей стороне", "confidence": 0.91}
