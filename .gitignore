@@ -1,2 +1,6 @@
 .env
 *.mp4
+notes/
+archive/
+.venv/
+__pycache__/

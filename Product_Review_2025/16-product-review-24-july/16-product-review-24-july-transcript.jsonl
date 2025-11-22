@@ -1,0 +1,1078 @@
+{"start": 24, "end": 41.17, "speaker": "Oleksandr Ishchenko", "text": "Привет.", "confidence": 0.95}
+{"start": 109.83, "end": 127.0, "speaker": "Igor Skrynkovskyy", "text": "Привет.", "confidence": 0.95}
+{"start": 131, "end": 136.4, "speaker": "Serhii Kasainov", "text": "Игорь Скринковский, надо бы озвучивать, что мы в первой итерации делаем вот это вот, повторять, что мы делаем, ридомли-версию страниц?", "confidence": 0.95}
+{"start": 136.4, "end": 141.8, "speaker": "Serhii Kasainov", "text": "Ты про facility?", "confidence": 0.95}
+{"start": 141.8, "end": 147.2, "speaker": "Serhii Kasainov", "text": "Да.", "confidence": 0.95}
+{"start": 147.2, "end": 152.6, "speaker": "Igor Skrynkovskyy", "text": "Наверное, ну да, да.", "confidence": 0.95}
+{"start": 152.6, "end": 158.0, "speaker": "Oleksandr Ishchenko", "text": "Лучше уточнить скопия ожидания.", "confidence": 0.95}
+{"start": 160, "end": 176, "speaker": "Igor Skrynkovskyy", "text": "Мы с Сашей сегодня говорили насчет того, что мы будем пытаться сделать версию его уже полную, как по недельнику, но пока оставляем ее ридомли.", "confidence": 0.99}
+{"start": 181, "end": 185.12, "speaker": "Davron Usmonov", "text": "Игорь Скринковский, привет, у меня тоже вопрос.", "confidence": 0.95}
+{"start": 185.12, "end": 189.25, "speaker": "Davron Usmonov", "text": "Один тикет у нас нужен для деплоя тревью.", "confidence": 0.95}
+{"start": 189.25, "end": 193.38, "speaker": "Davron Usmonov", "text": "Я тебе в личку продублирую.", "confidence": 0.95}
+{"start": 193.38, "end": 197.5, "speaker": "Davron Usmonov", "text": "Есть возможность его как-то обмолвнуть?", "confidence": 0.95}
+{"start": 197.5, "end": 201.62, "speaker": "Davron Usmonov", "text": "Как бы единственный блокер остался.", "confidence": 0.95}
+{"start": 201.62, "end": 205.75, "speaker": "Davron Usmonov", "text": "Сейчас в личку продублирую.", "confidence": 0.95}
+{"start": 209.88, "end": 214.0, "speaker": "Davron Usmonov", "text": "Да, наверно, тебя слышно.", "confidence": 0.95}
+{"start": 221, "end": 225, "speaker": "Igor Skrynkovskyy", "text": "Ну, я думаю, да. Сейчас я Мишу Диме напишу.", "confidence": 0.29}
+{"start": 225, "end": 230, "speaker": "Davron Usmonov", "text": "Это последний тикет, который нам получат.", "confidence": 0.76}
+{"start": 318, "end": 321, "speaker": "Oleksandr Ishchenko", "text": "Пока еще ждем. Женя подключился. Женя, привет.", "confidence": 0.99}
+{"start": 322, "end": 323, "speaker": "Eugene", "text": "Да, привет.", "confidence": 0.95}
+{"start": 323, "end": 327.0, "speaker": "Oleksandr Ishchenko", "text": "У нас с тобой не получилось на преддемо с Инки поговорить в двух словах.", "confidence": 0.95}
+{"start": 327.0, "end": 331.0, "speaker": "Oleksandr Ishchenko", "text": "У тебя получилось с теми фиксами?", "confidence": 0.95}
+{"start": 332, "end": 333, "speaker": "Eugene", "text": "Да, я большую часть пофиксировал.", "confidence": 0.09}
+{"start": 333, "end": 334, "speaker": "Eugene", "text": "Которые твои команды.", "confidence": 0.19}
+{"start": 334, "end": 335, "speaker": "Eugene", "text": "Остальное я...", "confidence": 0.99}
+{"start": 335, "end": 340, "speaker": "Eugene", "text": "Чтобы глаза не кидалось во время демо по мап-плеерам. Я все правильно понимаю?", "confidence": 0.99}
+{"start": 340, "end": 341, "speaker": "Eugene", "text": "Да, да.", "confidence": 0.99}
+{"start": 341, "end": 344.0, "speaker": "Oleksandr Ishchenko", "text": "Хорошо.", "confidence": 0.95}
+{"start": 344.0, "end": 347.0, "speaker": "Oleksandr Ishchenko", "text": "Значит, по твоим джемби-айтам ты готов.", "confidence": 0.95}
+{"start": 347.0, "end": 350.0, "speaker": "Oleksandr Ishchenko", "text": "Окей.", "confidence": 0.95}
+{"start": 350.0, "end": 353.0, "speaker": "Oleksandr Ishchenko", "text": "Окей.", "confidence": 0.95}
+{"start": 353.0, "end": 356.0, "speaker": "Oleksandr Ishchenko", "text": "А в головы нам еще не хватает.", "confidence": 0.95}
+{"start": 356.0, "end": 359.0, "speaker": "Oleksandr Ishchenko", "text": "Семен, пока ты тут.", "confidence": 0.95}
+{"start": 359.0, "end": 362.0, "speaker": "Oleksandr Ishchenko", "text": "Как раз хотел тебе сказать.", "confidence": 0.95}
+{"start": 362.0, "end": 365.0, "speaker": "Oleksandr Ishchenko", "text": "Мы в чате откопали где по рекламе на карте.", "confidence": 0.95}
+{"start": 366, "end": 391, "speaker": "Oleksandr Ishchenko", "text": "Где ругались на то, что показывают бешеные цифры. 485 дней тому назад и так дальше. Вова предоставил фигму, где вот эти иконки с активных на неактивные переключать нужно.\n\nЕдинственное, что я в чате не нашел. И я в голове не помню. Звучала цифра.\n\nКакой вот этот edge за решет, когда мы вот эти иконки переключаем. Сейчас я покажу, о чем речь.", "confidence": 0.99}
+{"start": 391, "end": 405, "speaker": "Oleksandr Ishchenko", "text": "Чтобы визуально легче воспринималось. Мне нужна секунда. Ага, вот.\n\nЯ пошарю? Хорошо. Вот.\n\nС активной иконки на неактивную переключать.", "confidence": 0.89}
+{"start": 405, "end": 417, "speaker": "Oleksandr Ishchenko", "text": "То есть мы понимаем, но не понимаем когда. Edge за решет нам еще нужно ускаканить. Сегодня я это включил в агенду.\n\nВова сказал, если что, подхватит. В общем, единственное условие, которое мы не понимаем. Когда переключать.", "confidence": 0.99}
+{"start": 420, "end": 422, "speaker": "Oleksandr Ishchenko", "text": "И надеюсь, сегодня добьем этот вопрос.", "confidence": 0.99}
+{"start": 520, "end": 532, "speaker": "Igor Skrynkovskyy", "text": "Там Дэн вчера говорил, что он к врачу записан сегодня на утро. И что-то Дэн не отвечает. Возможно, он не присоединится.", "confidence": 0.99}
+{"start": 533, "end": 539, "speaker": "Oleksandr Ishchenko", "text": "Судя по активностям, которые уже сегодня были, не похоже. Но да, может как раз времечко подошло.", "confidence": 0.99}
+{"start": 555, "end": 577, "speaker": "Alex Shulga", "text": "Если Дэн не присоединится, то, пожалуйста, может быть вы не будете очень быстро разбегаться. У нас будет возможность обсудить пару вопросов по фильтру facility. Потому что вопросы как бы есть.\n\nОбсудить их нужно. Но пока не было возможности.", "confidence": 0.99}
+{"start": 582, "end": 588, "speaker": "Serhii Kasainov", "text": "Поддерживаем. Но обсуждать их без Дэна не так полезно, как было бы с ним.", "confidence": 0.89}
+{"start": 588, "end": 596.67, "speaker": "Alex Shulga", "text": "Да, в общем, все не так полезно, как с Дэном.", "confidence": 0.95}
+{"start": 596.67, "end": 605.33, "speaker": "Alex Shulga", "text": "Но я в целом буду признателен за любой фидбэк, который будет.", "confidence": 0.95}
+{"start": 605.33, "end": 614.0, "speaker": "Alex Shulga", "text": "Потому что иногда важно просто знать, что есть люди, которые думают в том же направлении, что и ты.", "confidence": 0.95}
+{"start": 617, "end": 629, "speaker": "Semeyon S", "text": "Алекс, прости, пока Дэна нет. У меня очень важный вопрос. Катерина, и вообще вопрос мобильной команды.\n\nВы готовы что-то показывать с реальными изменениями или нет?", "confidence": 0.99}
+{"start": 630, "end": 633, "speaker": "Kateryna Shevchenko", "text": "Да, сегодня Гаспар попробует сделать демо.", "confidence": 0.99}
+{"start": 651, "end": 682, "speaker": "Semeyon S", "text": "Это огромные проблемы. Если мобильная команда не готова показать что-то хорошее, что сделает Дэна счастливым, лучше не делать это сегодня. Потому что сегодня мы обсудим много разных проблем.\n\nЗвонок будет эмоциональным. И если вы увеличите температуру, все будут потерять.", "confidence": 0.9}
+{"start": 684, "end": 689, "speaker": "gaspar.eross", "text": "Понимаю, но у нас есть что-то показать. Мы обсудим проблемы, которые были упомянуты.", "confidence": 0.99}
+{"start": 690, "end": 693, "speaker": "gaspar.eross", "text": "И они не были решены через несколько недель. Поэтому у нас есть что-то показать.", "confidence": 0.99}
+{"start": 696, "end": 702, "speaker": "Semeyon S", "text": "Я надеюсь. Если есть проблемы с мобильной командой, я не буду обвинять.", "confidence": 0.25}
+{"start": 704, "end": 720, "speaker": "gaspar.eross", "text": "Мы хотим сражаться с проблемами, но мы должны улучшить. Если есть критики о нашем работе, это не проблема для меня. Нужно обсудить проблемы, которые не хороши.", "confidence": 0.08}
+{"start": 721, "end": 728, "speaker": "gaspar.eross", "text": "Но я позитивный с мобильной командой. И я сам буду делать презентацию.", "confidence": 0.65}
+{"start": 738, "end": 768.0, "speaker": "Oleksandr Ishchenko", "text": "Окей, Дэн, все хорошо.", "confidence": 0.95}
+{"start": 798.0, "end": 828.0, "speaker": "Serhii Kasainov", "text": "Игорь Скринковский, Игорь Головцов.", "confidence": 0.95}
+{"start": 830, "end": 851, "speaker": "Serhii Kasainov", "text": "Вам обоим вопрос. У нас главное меню, когда делалось, оно не подразумевало под собой, что оно будет хоть как-то ходить в опишечку. Это недочет, его надо переделывать.\n\nНо нам сейчас надо быстро решить проблему. Мы можем те же facility и фичу на facility положить в ответ бэка в html?", "confidence": 0.99}
+{"start": 856, "end": 861.5, "speaker": "Serhii Kasainov", "text": "Или какие у нас есть варианты?", "confidence": 0.95}
+{"start": 861.5, "end": 867.0, "speaker": "Igor Skrynkovskyy", "text": "Если это критически нужно, и вы по-другому не можете входить, а что остается?", "confidence": 0.95}
+{"start": 869, "end": 885, "speaker": "Igor Skrynkovskyy", "text": "Вообще подразумевалось первую версию facility сделать не в меню, а отдельно. Я не знаю, почему у нас дизайн... Вова нету.\n\nВова нету. Почему дизайн все остался на меню?", "confidence": 0.99}
+{"start": 886, "end": 890.67, "speaker": "Igor Skrynkovskyy", "text": "Но если надо, то ребята добавят.", "confidence": 0.95}
+{"start": 890.67, "end": 895.33, "speaker": "Igor Skrynkovskyy", "text": "Там они добавили уже в профиль API.", "confidence": 0.95}
+{"start": 895.33, "end": 900.0, "speaker": "Igor Skrynkovskyy", "text": "Видимо, надо туда в другое место.", "confidence": 0.95}
+{"start": 901, "end": 913, "speaker": "Alex Shulga", "text": "Я могу подтвердить, что в профиль API все выводится, но есть блокер, по-видимому, там в случае отсутствующих facility выводятся все.", "confidence": 0.99}
+{"start": 916, "end": 916, "speaker": "Igor Skrynkovskyy", "text": "Это бах.", "confidence": 0.7}
+{"start": 917, "end": 919.0, "speaker": "Alex Shulga", "text": "Да.", "confidence": 0.95}
+{"start": 919.0, "end": 921.0, "speaker": "Alex Shulga", "text": "Сейчас буду заводить.", "confidence": 0.95}
+{"start": 921.0, "end": 923.0, "speaker": "Igor Skrynkovskyy", "text": "Вова, привет.", "confidence": 0.95}
+{"start": 924, "end": 938, "speaker": "Igor Skrynkovskyy", "text": "Слушай, а почему у нас facility как это остались сверху в меню, если мы говорили о том, чтобы их положить в первой версии вот здесь в фильтре?", "confidence": 0.99}
+{"start": 939, "end": 941.0, "speaker": "Vova", "text": "Я не знаю.", "confidence": 0.95}
+{"start": 941.0, "end": 943.0, "speaker": "Vova", "text": "Вопрос не ко мне.", "confidence": 0.95}
+{"start": 943.0, "end": 945.0, "speaker": "Igor Skrynkovskyy", "text": "Подожди, подожди.", "confidence": 0.95}
+{"start": 946, "end": 959, "speaker": "Semeyon S", "text": "Игорь, подожди, подожди. Все правильно, потому что на звонке с Дэном, когда это было в прошлый четверг или даже позапрошлый четверг, он предложил разместить справа.", "confidence": 0.99}
+{"start": 964, "end": 968, "speaker": "Semeyon S", "text": "Как в AWS консоли ты выбираешь зоны.", "confidence": 0.99}
+{"start": 972, "end": 974, "speaker": "Igor Skrynkovskyy", "text": "Я помню это.", "confidence": 0.99}
+{"start": 974, "end": 977.78, "speaker": "Igor Skrynkovskyy", "text": "Просто вопрос в том, что мы же говорили, что вот эту версию мы делаем на следующую версию, когда у нас все будет заатрибутировано.", "confidence": 0.95}
+{"start": 977.78, "end": 981.56, "speaker": "Igor Skrynkovskyy", "text": "Потому что сейчас смотри ситуацию.", "confidence": 0.95}
+{"start": 981.56, "end": 985.33, "speaker": "Igor Skrynkovskyy", "text": "Мы routes добавили.", "confidence": 0.95}
+{"start": 985.33, "end": 989.11, "speaker": "Igor Skrynkovskyy", "text": "Routes имеет все с facility.", "confidence": 0.95}
+{"start": 989.11, "end": 992.89, "speaker": "Igor Skrynkovskyy", "text": "То есть при выборе facility routes будет реагировать.", "confidence": 0.95}
+{"start": 992.89, "end": 996.67, "speaker": "Igor Skrynkovskyy", "text": "Мы перейдем на orders, та же самая ситуация будет.", "confidence": 0.95}
+{"start": 996.67, "end": 1000.44, "speaker": "Igor Skrynkovskyy", "text": "Но мы перейдем на какой-то другой объект, этих значений не будет.", "confidence": 0.95}
+{"start": 1000.44, "end": 1004.22, "speaker": "Igor Skrynkovskyy", "text": "Они не будут использовать facility.", "confidence": 0.95}
+{"start": 1004.22, "end": 1008.0, "speaker": "Semeyon S", "text": "Значит, постепенно будем это делать.", "confidence": 0.95}
+{"start": 1010, "end": 1013, "speaker": "Semeyon S", "text": "Были озвучены все эти доводы.", "confidence": 0.99}
+{"start": 1014, "end": 1016.8, "speaker": "Semeyon S", "text": "Помню, в том числе ты говорил.", "confidence": 0.95}
+{"start": 1016.8, "end": 1019.6, "speaker": "Semeyon S", "text": "Но в конце Дэн сказал вот это.", "confidence": 0.95}
+{"start": 1019.6, "end": 1022.4, "speaker": "Semeyon S", "text": "Значит, решение это.", "confidence": 0.95}
+{"start": 1022.4, "end": 1025.2, "speaker": "Semeyon S", "text": "Другой вопрос, что выпадает, если честно, чем здесь говеннейшее, почему-то взятое из основных фильтров.", "confidence": 0.95}
+{"start": 1025.2, "end": 1028.0, "speaker": "Semeyon S", "text": "По-моему, Вова что-то другое нарисовал.", "confidence": 0.95}
+{"start": 1029, "end": 1032.75, "speaker": "Vova", "text": "Да, действительно, у нас с отступами не то.", "confidence": 0.95}
+{"start": 1032.75, "end": 1036.5, "speaker": "Vova", "text": "И, возможно, это я недосмотрел.", "confidence": 0.95}
+{"start": 1036.5, "end": 1040.25, "speaker": "Vova", "text": "Что здесь не те отступы стоят в выпадайке.", "confidence": 0.95}
+{"start": 1040.25, "end": 1044.0, "speaker": "Semeyon S", "text": "Вова, тут, по-моему, дело не в отступах, а что компонент неправильный.", "confidence": 0.95}
+{"start": 1045, "end": 1047.67, "speaker": "Semeyon S", "text": "Тебе не кажется?", "confidence": 0.95}
+{"start": 1047.67, "end": 1050.33, "speaker": "Vova", "text": "Компонент правильный.", "confidence": 0.95}
+{"start": 1050.33, "end": 1053.0, "speaker": "Vova", "text": "Это фильтр.", "confidence": 0.95}
+{"start": 1058, "end": 1080, "speaker": "Vova", "text": "Только он выровнян неправильно. Сейчас я его быстро подкостылю, чтобы он был нужного размера.", "confidence": 0.32}
+{"start": 1087, "end": 1091.0, "speaker": "Serhii Kasainov", "text": "Да, если бы оно было в рамках страницы, это нам немножко...", "confidence": 0.95}
+{"start": 1091.0, "end": 1095.0, "speaker": "Serhii Kasainov", "text": "даже не немножко, а сильно бы упростило жизнь.", "confidence": 0.95}
+{"start": 1095.0, "end": 1099.0, "speaker": "Igor Golovtsov", "text": "Тогда по всем страницам надо раскидать былки.", "confidence": 0.95}
+{"start": 1100, "end": 1110, "speaker": "Serhii Kasainov", "text": "Раскидать ее по всем страницам все равно придется, потому что чтобы оно начало по ним фильтровать, это надо поменять запрос на опишку.", "confidence": 0.99}
+{"start": 1111, "end": 1121, "speaker": "Vova", "text": "Ну-ка еще раз, уберите здесь галочки сейчас, что произойдет? Последнюю если убрать галочку.", "confidence": 0.44}
+{"start": 1122, "end": 1122, "speaker": "Vova", "text": "Что будет?", "confidence": 0.69}
+{"start": 1123, "end": 1127.75, "speaker": "Serhii Kasainov", "text": "Произойдет косяк, давайте так не делать.", "confidence": 0.95}
+{"start": 1127.75, "end": 1132.5, "speaker": "Vova", "text": "Ага, ну вот я и хотел его увидеть.", "confidence": 0.95}
+{"start": 1132.5, "end": 1137.25, "speaker": "Vova", "text": "Справа этот компонент.", "confidence": 0.95}
+{"start": 1137.25, "end": 1142.0, "speaker": "Vova", "text": "В общем, когда он был слева, это работало, а когда он справа, это уже не работает.", "confidence": 0.95}
+{"start": 1143, "end": 1149, "speaker": "Serhii Kasainov", "text": "Да, мы только что с Головцовым играми учились, как его встроить в новый вариант.", "confidence": 0.99}
+{"start": 1149, "end": 1152, "speaker": "Vova", "text": "Надо было сразу идти ко мне.", "confidence": 0.85}
+{"start": 1153, "end": 1165, "speaker": "Semeyon S", "text": "Ребята, ну вот если посмотреть прототип, а на том звонке Вова тоже был, там банальная выпадайка. Здесь этот компонент вообще плохо подходит.", "confidence": 0.99}
+{"start": 1167, "end": 1170.33, "speaker": "Vova", "text": "Он справа плохо подходит.", "confidence": 0.95}
+{"start": 1170.33, "end": 1173.67, "speaker": "Vova", "text": "Вообще компонент превосходный.", "confidence": 0.95}
+{"start": 1173.67, "end": 1177.0, "speaker": "Semeyon S", "text": "Вова, смотри, вот эти кнопки здесь, они вообще ни к чему.", "confidence": 0.95}
+{"start": 1177, "end": 1179.67, "speaker": "Semeyon S", "text": "Как это ни к чему?", "confidence": 0.95}
+{"start": 1179.67, "end": 1182.33, "speaker": "Semeyon S", "text": "Это форма быстрого выбора.", "confidence": 0.95}
+{"start": 1182.33, "end": 1185.0, "speaker": "Semeyon S", "text": "Я взял дропдаун, нажал чек, никаких аплайов, у меня информация поменялась.", "confidence": 0.95}
+{"start": 1185, "end": 1188.67, "speaker": "Vova", "text": "А здесь молча получается, ты можешь один выбрать или много?", "confidence": 0.95}
+{"start": 1188.67, "end": 1192.33, "speaker": "Semeyon S", "text": "Ну пожалуйста, выбрал много.", "confidence": 0.95}
+{"start": 1192.33, "end": 1196.0, "speaker": "Vova", "text": "И каждый раз перезагрузка после каждого клика?", "confidence": 0.95}
+{"start": 1197, "end": 1203, "speaker": "Semeyon S", "text": "Не после каждого клика, ты уж не передергивай. Есть умная логика для таких поведений.", "confidence": 0.99}
+{"start": 1204, "end": 1209, "speaker": "Semeyon S", "text": "Ребята лучше нас ее с тобой знают. Просто вот эта кнопка аплай, лишние клики.", "confidence": 0.98}
+{"start": 1210, "end": 1220, "speaker": "Semeyon S", "text": "Честно, у меня в фильтрах до сих пор немножко передергиваются вот эти наши лишние клики, но там они хоть как-то оправдаем. И здесь вообще неудобно будет.", "confidence": 0.99}
+{"start": 1222, "end": 1227, "speaker": "Serhii Kasainov", "text": "Тут только одно оправдание, если у нас очень много фасилити может быть. Да-да-да.", "confidence": 0.93}
+{"start": 1228, "end": 1231, "speaker": "Semeyon S", "text": "Ну их, знаешь, должно быть так это.", "confidence": 0.99}
+{"start": 1232, "end": 1237.0, "speaker": "Vova", "text": "Сотня другая тогда.", "confidence": 0.95}
+{"start": 1237.0, "end": 1242.0, "speaker": "Vova", "text": "Нет, я не буду против, если вы сможете гладко это сделать без аплай, чтобы оно динамически переменялось.", "confidence": 0.95}
+{"start": 1246, "end": 1257.0, "speaker": "Igor Golovtsov", "text": "Если убрать кнопки reset, cancel, apply и не выводить сбоку выбранные, то это получится компактно и более аккуратно в этом месте тогда эта штука.", "confidence": 0.95}
+{"start": 1257.0, "end": 1268.0, "speaker": "Serhii Kasainov", "text": "Просто кнопочка reset для multiselect, она имеет важный смысл, потому что когда выбирал много, тебе хочется это сбросить одним кликом.", "confidence": 0.95}
+{"start": 1269, "end": 1279, "speaker": "Vova", "text": "Там есть select all у нас в макете для этих всех вещей, чтобы ты мог uncheckнуть и сбросить, или select all нажать и выбрать все.", "confidence": 0.99}
+{"start": 1282, "end": 1290, "speaker": "Serhii Kasainov", "text": "Ну а при частичном выделении он начинает прыгать сначала intermediate вариант, потом select all, ну может быть.", "confidence": 0.99}
+{"start": 1291, "end": 1294, "speaker": "Oleksandr Ishchenko", "text": "Коллеги, к нам Дэн присоединился. Дэн, здравствуй.", "confidence": 0.99}
+{"start": 1296, "end": 1299, "speaker": "Dan Khasis", "text": "Да, я еще не у компьютера, здравствуй.", "confidence": 0.74}
+{"start": 1299, "end": 1302, "speaker": "Oleksandr Ishchenko", "text": "Ну тогда пусть ребята продолжат обсуждение.", "confidence": 0.99}
+{"start": 1303, "end": 1313.75, "speaker": "Dan Khasis", "text": "Мне просто любопытно, как мы на ровном месте с четкими спецификациями все равно не можем сделать ничего правильно.", "confidence": 0.95}
+{"start": 1313.75, "end": 1324.5, "speaker": "Dan Khasis", "text": "То есть всегда жалуются, product management нам ничего не говорит, техрайтеры нам ничего не говорят, переводчики неправильно нам дают.", "confidence": 0.95}
+{"start": 1324.5, "end": 1335.25, "speaker": "Dan Khasis", "text": "Мы видим в реальном времени, что конкретно все было написано и передато, все равно не делается правильно.", "confidence": 0.95}
+{"start": 1335.25, "end": 1346.0, "speaker": "Dan Khasis", "text": "И тоже неправильно, просто полностью неправильно.", "confidence": 0.95}
+{"start": 1355, "end": 1363, "speaker": "Igor Skrynkovskyy", "text": "Дэн, а контекст того, что ты говоришь, к чему они все правильно, это у Wavelog или у чем-то другого?", "confidence": 0.99}
+{"start": 1364, "end": 1368.0, "speaker": "Dan Khasis", "text": "Десять раз я сказал, что это должно называться RouteMetrics.", "confidence": 0.95}
+{"start": 1368.0, "end": 1372.0, "speaker": "Dan Khasis", "text": "Все равно мне присылают апдейт сегодня, мы сделали, посмотри, RouteSummary.", "confidence": 0.95}
+{"start": 1372.0, "end": 1376.0, "speaker": "Dan Khasis", "text": "Какое пизду RouteSummary?", "confidence": 0.95}
+{"start": 1376.0, "end": 1380.0, "speaker": "Dan Khasis", "text": "Вчера я написал слово summary, это текст, это описание, это description, а метрикс это цифры.", "confidence": 0.95}
+{"start": 1380.0, "end": 1384.0, "speaker": "Dan Khasis", "text": "Все равно написали RouteSummary и теплое.", "confidence": 0.95}
+{"start": 1384.0, "end": 1388.0, "speaker": "Oleksandr Ishchenko", "text": "В работе, Дэн, в работе.", "confidence": 0.95}
+{"start": 1388.0, "end": 1392.0, "speaker": "Dan Khasis", "text": "За минуту, за секунду, это пять секунд работы, как ты еще в работе.", "confidence": 0.95}
+{"start": 1392.0, "end": 1396.0, "speaker": "Dan Khasis", "text": "Вот что я не понимаю.", "confidence": 0.95}
+{"start": 1396.0, "end": 1400.0, "speaker": "Oleksandr Ishchenko", "text": "Ну там два запроса от тебя, передвинуть менюшки в гир и перевод.", "confidence": 0.95}
+{"start": 1400.0, "end": 1404.0, "speaker": "Oleksandr Ishchenko", "text": "Переводы есть в локалайзе, их все равно нужно выкатить.", "confidence": 0.95}
+{"start": 1405, "end": 1417, "speaker": "Oleksandr Ishchenko", "text": "Все равно какое-то время на фоне занимает, но это сегодня на стидже должно быть. Не перерывай, мы тебе отдельное уведомление либо пришлем, либо еще во время этого демо Юра напишет, что готово, мы тебя уведомим.", "confidence": 0.99}
+{"start": 1420, "end": 1431.38, "speaker": "Dan Khasis", "text": "Я пытаюсь сказать другую вещь.", "confidence": 0.95}
+{"start": 1431.38, "end": 1442.77, "speaker": "Dan Khasis", "text": "Поменять слово summary на метрикс это пять секунд работы.", "confidence": 0.95}
+{"start": 1442.77, "end": 1454.15, "speaker": "Dan Khasis", "text": "Если потом надо сделать экспорт из локалайз и импорт, окей.", "confidence": 0.95}
+{"start": 1454.15, "end": 1465.54, "speaker": "Dan Khasis", "text": "Но поменять слово метрикс в английском языке, мне наплевать насчет испанского, китайского, арабского, это должно быть пять секунд работы и пять секунд усилия, а не пять дней работы, как сейчас это произошло.", "confidence": 0.95}
+{"start": 1465.54, "end": 1476.92, "speaker": "Dan Khasis", "text": "Теперь умножить это на намного сложнее вещи и почему вы ожидаете другие результаты.", "confidence": 0.95}
+{"start": 1476.92, "end": 1488.31, "speaker": "Dan Khasis", "text": "Понятно, оно было в очереди, сейчас будет, оно будет.", "confidence": 0.95}
+{"start": 1488.31, "end": 1499.69, "speaker": "Dan Khasis", "text": "Да, но у Линекса и у других систем 50 лет люди исследуют алгоритмы очередей и никто не имеет одну очередь для супер сложных тесок и для супер легких тесок.", "confidence": 0.95}
+{"start": 1499.69, "end": 1511.08, "speaker": "Dan Khasis", "text": "Там идет парализация.", "confidence": 0.95}
+{"start": 1511.08, "end": 1522.46, "speaker": "Dan Khasis", "text": "Одна группа или любой джуниор-программист может поменять слово summary на метрикс за пять секунд.", "confidence": 0.95}
+{"start": 1522.46, "end": 1533.85, "speaker": "Dan Khasis", "text": "Почему это идет в той же очереди, в том же кью, в том же теск-листе, как, например, делать новую архитектуру, это же полностью нелогически и неразумно.", "confidence": 0.95}
+{"start": 1533.85, "end": 1545.23, "speaker": "Dan Khasis", "text": "Например, у нас есть серьезные проблемы с этими route metrics, у нас есть серьезные проблемы с отсутствием total.", "confidence": 0.95}
+{"start": 1545.23, "end": 1556.62, "speaker": "Dan Khasis", "text": "Некоторые эти вещи займут тоже 30 секунд сделать.", "confidence": 0.95}
+{"start": 1556.62, "end": 1568.0, "speaker": "Dan Khasis", "text": "Например, прибавить слово time, сверху групп Но если я должен сказать это, потом идет Артура, потом идет Тикет, потом идет Саша, потом идет QA, потом якобы QA что-то проверяет, когда нихуя все равно не работает, потом идет Вовя, может еще QA сделать, он находит 100 дефектов, вы опять сначала процесс начинаете, проходит 5 недель или 5 месяцев и у нас словом route metrics меняется.", "confidence": 0.95}
+{"start": 1571, "end": 1574, "speaker": "Vova", "text": "А чего, правильно сказать, никто не ходит больше?", "confidence": 0.99}
+{"start": 1574, "end": 1579, "speaker": "Oleksandr Ishchenko", "text": "Попробуем ускорить, может Сергей подскажет, теслаколазин не помогал.", "confidence": 0.91}
+{"start": 1580, "end": 1588.48, "speaker": "Dan Khasis", "text": "Я запустил route for me в 2008 году, Вова сделал дизайн, я сделал PHP, Игорь подсоединился, ты 34 года, у нас было два сервера, нет, у нас был один сервер, продакшн, я заходил через SFTP, CyberDuck, я у себя писал в Eclipse PHP и я заливал SFTP прямо на живую, на продакшн.", "confidence": 0.95}
+{"start": 1588.48, "end": 1596.97, "speaker": "Dan Khasis", "text": "Никаких QA, никаких, просто мы заливали на живую, на продакшн, на один сервер SFTP.", "confidence": 0.95}
+{"start": 1596.97, "end": 1605.45, "speaker": "Dan Khasis", "text": "Потом еще два года прошло, мы прибавили стейджинг сервер, но все равно деплоили просто copy and paste PHP файлы на SFTP.", "confidence": 0.95}
+{"start": 1605.45, "end": 1613.94, "speaker": "Dan Khasis", "text": "Потом еще два года прошло, иногда, чтобы вы понимали, когда была сделка с клиентом, мы заходили прямо на Shell, я на лету Vim менял в хедере меню на живую, чтобы закрыть сделку, потому что клиент хотел лейбл в каком-то месте, прямо сейчас.", "confidence": 0.95}
+{"start": 1613.94, "end": 1622.42, "speaker": "Dan Khasis", "text": "Мы не покупаем, если у вас не написано здесь какой-то адрес.", "confidence": 0.95}
+{"start": 1622.42, "end": 1630.91, "speaker": "Dan Khasis", "text": "Мы приходили и на PHP на живую редактировали output HTML в for loop.", "confidence": 0.95}
+{"start": 1630.91, "end": 1639.39, "speaker": "Dan Khasis", "text": "Но когда было два опытных программиста, это было возможно.", "confidence": 0.95}
+{"start": 1639.39, "end": 1647.88, "speaker": "Dan Khasis", "text": "Когда есть 25 программистов разных уровней, это невозможно.", "confidence": 0.95}
+{"start": 1647.88, "end": 1656.36, "speaker": "Dan Khasis", "text": "Я просто говорю, что если нам надо выбрать, что мы сейчас делаем, и что я описал, как было, нам надо быть ближе, как было, а не как сейчас есть.", "confidence": 0.95}
+{"start": 1656.36, "end": 1664.85, "speaker": "Dan Khasis", "text": "Потому что мы просто проголим за эти сроки.", "confidence": 0.95}
+{"start": 1664.85, "end": 1673.33, "speaker": "Dan Khasis", "text": "Из-за этого бага, из-за этих трех багов, что Python неправильно считает время, 15 лет, то есть вообще даже не считал время.", "confidence": 0.95}
+{"start": 1673.33, "end": 1681.82, "speaker": "Dan Khasis", "text": "Второй баг.", "confidence": 0.95}
+{"start": 1681.82, "end": 1690.3, "speaker": "Dan Khasis", "text": "Кто-то засунул planned, dynamic, actual время в дэшборд этот говняный, не подчинили его 3 года, плюс отсутствие route matrix, которые работают, плюс неправильная арифметика.", "confidence": 0.95}
+{"start": 1690.3, "end": 1698.79, "speaker": "Dan Khasis", "text": "Мы должны были несколько тысяч долларов тратить, послать Паркера, Эллена, взять самолет, взять номер, в ресторан вывезти клиентов.", "confidence": 0.95}
+{"start": 1698.79, "end": 1707.27, "speaker": "Dan Khasis", "text": "Два дня они там в этой пустыне, где там 50 градусов тепла, пробыли, чтобы этих людей успокоить.", "confidence": 0.95}
+{"start": 1707.27, "end": 1715.76, "speaker": "Dan Khasis", "text": "За пилот они тратят 1500 в месяц.", "confidence": 0.95}
+{"start": 1715.76, "end": 1724.24, "speaker": "Dan Khasis", "text": "Значит, пилот у них 3 или 4 месяца.", "confidence": 0.95}
+{"start": 1724.24, "end": 1732.73, "speaker": "Dan Khasis", "text": "Все деньги, которые мы якобы бы заработали на пилоте, мы уже пропили на поездку туда.", "confidence": 0.95}
+{"start": 1732.73, "end": 1741.21, "speaker": "Dan Khasis", "text": "И эта поездка была только из-за UI-дефектов, связанных с этими тремя вещами, которые, в принципе, я не хочу сказать, что баги не существуют, но как фирма мы только делаем одну вещь.", "confidence": 0.95}
+{"start": 1741.21, "end": 1749.7, "speaker": "Dan Khasis", "text": "Кто-то заливает маршрут, мы оцениваем маршрут, потом кто-то едет, мы оцениваем, как они объехали, потом мы дельту делаем.", "confidence": 0.95}
+{"start": 1749.7, "end": 1758.18, "speaker": "Dan Khasis", "text": "Вся сложность это в алгоритме.", "confidence": 0.95}
+{"start": 1758.18, "end": 1766.67, "speaker": "Dan Khasis", "text": "Нигде в другом месте нет сложности.", "confidence": 0.95}
+{"start": 1766.67, "end": 1775.15, "speaker": "Dan Khasis", "text": "И на ровном месте мы сделаем все возможные ошибки.", "confidence": 0.95}
+{"start": 1775.15, "end": 1783.64, "speaker": "Dan Khasis", "text": "Я немножко даже удивлен, что нам другие люди платят деньги.", "confidence": 0.95}
+{"start": 1783.64, "end": 1792.12, "speaker": "Dan Khasis", "text": "Это просто показывает, какие тупые большинство операторов, что они не замечают, что у нас полностью все неправильно и полностью все коряво.", "confidence": 0.95}
+{"start": 1792.12, "end": 1800.61, "speaker": "Dan Khasis", "text": "И теперь мы наконец-то набрали правильных сотрудников и желание это починить раз и навсегда.", "confidence": 0.95}
+{"start": 1800.61, "end": 1809.09, "speaker": "Dan Khasis", "text": "И хуяк это занимает.", "confidence": 0.95}
+{"start": 1809.09, "end": 1817.58, "speaker": "Dan Khasis", "text": "Людям делают процедуру открытого сердца быстрее, чем мы можем лейбл поменять.", "confidence": 0.95}
+{"start": 1817.58, "end": 1826.06, "speaker": "Dan Khasis", "text": "Вот в чем проблема.", "confidence": 0.95}
+{"start": 1826.06, "end": 1834.55, "speaker": "Dan Khasis", "text": "Нам надо постараться сделать так, чтобы мы могли лейблы менять просто в локалайзе без разработчиков.", "confidence": 0.95}
+{"start": 1834.55, "end": 1843.03, "speaker": "Dan Khasis", "text": "К этому мы были очень близки.", "confidence": 0.95}
+{"start": 1843.03, "end": 1851.52, "speaker": "Serhii Kasainov", "text": "Это все делалось.", "confidence": 0.95}
+{"start": 1851.52, "end": 1860.0, "speaker": "Serhii Kasainov", "text": "Просто у нас английский язык все равно подгружается локально из репозитория.", "confidence": 0.95}
+{"start": 1862, "end": 1865, "speaker": "Serhii Kasainov", "text": "Это, я думаю, решит вопрос.", "confidence": 0.67}
+{"start": 1868, "end": 1876.93, "speaker": "Dan Khasis", "text": "Да, но даже в репозитории мы делаем commit и pull requests.", "confidence": 0.95}
+{"start": 1876.93, "end": 1885.86, "speaker": "Serhii Kasainov", "text": "Поехали.", "confidence": 0.95}
+{"start": 1885.86, "end": 1894.79, "speaker": "Serhii Kasainov", "text": "Ну, как я тебе вчера отписал, что у меня, например, у одного человека, у нас мало у кого есть права деплойть на прод, тем более вне окна.", "confidence": 0.95}
+{"start": 1894.79, "end": 1903.71, "speaker": "Dan Khasis", "text": "А локалайз можно задеплойть относительно безопасно и без админских прав.", "confidence": 0.95}
+{"start": 1921.57, "end": 1930.5, "speaker": "Dan Khasis", "text": "Да, ты вернулся.", "confidence": 0.95}
+{"start": 1930.5, "end": 1939.43, "speaker": "Dan Khasis", "text": "Я говорю, что там есть физическое ограничение или философское ограничение?", "confidence": 0.95}
+{"start": 1939.43, "end": 1948.36, "speaker": "Dan Khasis", "text": "Настройки репозиториев ограничения.", "confidence": 0.95}
+{"start": 1948.36, "end": 1957.29, "speaker": "Igor Skrynkovskyy", "text": "Нет, насчет деплоймента, green window, если ты сделаешь деплоймент, тебе сервер говорит error, что время не совпадает?", "confidence": 0.95}
+{"start": 1957.29, "end": 1966.21, "speaker": "Igor Skrynkovskyy", "text": "Нет, это логия, это у нас философское есть ограничение в размере того, что мы делаем деплойменты только в определенное время.", "confidence": 0.95}
+{"start": 1966.21, "end": 1975.14, "speaker": "Igor Skrynkovskyy", "text": "Но, скажем так, мы никогда этим не лимитовали и это никогда бы не было проблемой.", "confidence": 0.95}
+{"start": 1975.14, "end": 1984.07, "speaker": "Igor Skrynkovskyy", "text": "Но Сергей прав, у него нет целых или полных прав для того, чтобы релизить это в любое время из-за настроек репозитория, потому что релизить могут там только 3 или 4 человека, которые имеют роль релиз-менеджера.", "confidence": 0.95}
+{"start": 1984.07, "end": 1993.0, "speaker": "Dan Khasis", "text": "Окей, но почему они блочат тогда Сергея?", "confidence": 0.95}
+{"start": 1994, "end": 2006, "speaker": "Igor Skrynkovskyy", "text": "Так они не блочат Сергея. Саша Кафтанов и Миша, они как бы два человека, которые работают онлайн с самого утра до самой поздней ночи.", "confidence": 0.99}
+{"start": 2008, "end": 2018, "speaker": "Dan Khasis", "text": "Просто Сергей закончил и показал, что он это сделал, и потом на этом дело закончилось. Никто ничего не задеплоил.", "confidence": 0.91}
+{"start": 2021, "end": 2025, "speaker": "Igor Skrynkovskyy", "text": "Возможно, Саша Кафтанов не знал о том, что нужно что-то деплоить.", "confidence": 0.99}
+{"start": 2025, "end": 2039, "speaker": "Igor Skrynkovskyy", "text": "Мы можем просто очень это сделать супер просто. Мы даем Сергею просто права на релиз вне окна и для всех UI-репозиториев, и у нас все проблемы уходят сразу.", "confidence": 0.99}
+{"start": 2040, "end": 2046.0, "speaker": "Igor Skrynkovskyy", "text": "Сергей будет релизить, когда ему нужно.", "confidence": 0.95}
+{"start": 2046.0, "end": 2052.0, "speaker": "Dan Khasis", "text": "Если QA подтверждает, и Сергей технически лидит JavaScript, тогда пусть он деплоит JavaScript вещи.", "confidence": 0.95}
+{"start": 2057, "end": 2062.0, "speaker": "Igor Skrynkovskyy", "text": "Хорошо, так и сделаем.", "confidence": 0.95}
+{"start": 2062.0, "end": 2067.0, "speaker": "Oleksandr Ishchenko", "text": "Сергей, поздравляю с новыми правами.", "confidence": 0.95}
+{"start": 2067.0, "end": 2072.0, "speaker": "Serhii Kasainov", "text": "С большими правами приходит большая ответственность.", "confidence": 0.95}
+{"start": 2076, "end": 2088.0, "speaker": "Dan Khasis", "text": "В отличие от ВИА, в отличие от ВИА, мы будем видеть, кто делает что, так у нас не будет сомнений, кто положил продакшн.", "confidence": 0.95}
+{"start": 2088.0, "end": 2100.0, "speaker": "Dan Khasis", "text": "Большинство самых крупных клиентов, которые платят большие деньги, они больше рассчитывают на API, чем на фронт-энд.", "confidence": 0.95}
+{"start": 2100.0, "end": 2112.0, "speaker": "Dan Khasis", "text": "И в Америке большинство юзеров только начинают работать в 6-7 утра.", "confidence": 0.95}
+{"start": 2112.0, "end": 2124.0, "speaker": "Dan Khasis", "text": "То есть только light and easy в Австралии как-то будет эффективно, но мы не можем всю Америку тормозить или портить из-за каких-то комгарублей.", "confidence": 0.95}
+{"start": 2124.0, "end": 2136.0, "speaker": "Dan Khasis", "text": "Поэтому мне мое решение про довести до ума localize нравится больше, потому что даже если мы абсолютно правильный JavaScript отправляем на deploy, с учетом особенностей JavaScript и NPM, это менеджер пакетов JavaScript, всегда есть маленькая вероятность, что все пойдет не так, как планировалось.", "confidence": 0.95}
+{"start": 2136.0, "end": 2148.0, "speaker": "Serhii Kasainov", "text": "Поэтому просто подменить JSON на продакшн и вот это вот мне супер безопасно.", "confidence": 0.95}
+{"start": 2148.0, "end": 2160.0, "speaker": "Serhii Kasainov", "text": "И мы можем это сделать и очень быстро.", "confidence": 0.95}
+{"start": 2160.0, "end": 2172.0, "speaker": "Serhii Kasainov", "text": "И это тогда не только релиз-менеджеры смогут проявить лейпы, а кто угодно, в том числе и с QA.", "confidence": 0.95}
+{"start": 2172.0, "end": 2184.0, "speaker": "Igor Skrynkovskyy", "text": "Сергей, там очень много вопросов встает насчет того, как данные в оригинальном виде или в английский язык должны замениться на что-то другое.", "confidence": 0.95}
+{"start": 2184, "end": 2192, "speaker": "Igor Skrynkovskyy", "text": "Потому что ты же не будешь в localize менять английский на английский или подменять лейпы для этого.", "confidence": 0.99}
+{"start": 2192, "end": 2195.67, "speaker": "Dan Khasis", "text": "Меня беспокоит другая вещь, что случается, когда localize лежит.", "confidence": 0.95}
+{"start": 2195.67, "end": 2199.33, "speaker": "Dan Khasis", "text": "Тогда что?", "confidence": 0.95}
+{"start": 2199.33, "end": 2203.0, "speaker": "Igor Skrynkovskyy", "text": "А у нас эти снапшоты хранятся.", "confidence": 0.95}
+{"start": 2203, "end": 2208, "speaker": "Igor Skrynkovskyy", "text": "То есть мы храним снапшот данных на какое-то время.", "confidence": 0.99}
+{"start": 2211, "end": 2228, "speaker": "Dan Khasis", "text": "Нам было бы хорошо иметь бокапы всего, что мы поставили этим localize, чтобы когда они прогулят или купят и они цены поднимут 10 раз, чтобы мы не были в неприятной ситуации.", "confidence": 0.86}
+{"start": 2229, "end": 2235.2, "speaker": "Igor Skrynkovskyy", "text": "Мы можем дополнительно бокапы делать, но, как я говорю, у нас снапшоты для каждого сервиса, где используется localize, они у нас есть уже.", "confidence": 0.95}
+{"start": 2235.2, "end": 2241.4, "speaker": "Igor Skrynkovskyy", "text": "Они разбросаны, но они есть.", "confidence": 0.95}
+{"start": 2241.4, "end": 2247.6, "speaker": "Igor Skrynkovskyy", "text": "Но мы дополнительно бокапы сделаем.", "confidence": 0.95}
+{"start": 2247.6, "end": 2253.8, "speaker": "Serhii Kasainov", "text": "И JSON подменяет, если я правильно знаю, наш CI.", "confidence": 0.95}
+{"start": 2253.8, "end": 2260.0, "speaker": "Serhii Kasainov", "text": "Поэтому, если localize лежит, он просто не запустится.", "confidence": 0.95}
+{"start": 2271, "end": 2280, "speaker": "Dan Khasis", "text": "Самая важная, горячая тема сейчас это что с этим временем алгоритмов, Семен? Вы нашли какие-то проблемы там?", "confidence": 0.94}
+{"start": 2285, "end": 2288, "speaker": "Semeyon S", "text": "Сейчас там перепроверяем.", "confidence": 0.99}
+{"start": 2289, "end": 2295.2, "speaker": "Semeyon S", "text": "Потому что значение очень странное и QA там какой-то...", "confidence": 0.95}
+{"start": 2295.2, "end": 2301.4, "speaker": "Semeyon S", "text": "Короче, я не понимаю.", "confidence": 0.95}
+{"start": 2301.4, "end": 2307.6, "speaker": "Semeyon S", "text": "Я вот сижу сейчас, сам воспроизвожу вот тесты вручную сам.", "confidence": 0.95}
+{"start": 2307.6, "end": 2313.8, "speaker": "Dan Khasis", "text": "Потому что я не очень понимаю, что там получилось в QA.", "confidence": 0.95}
+{"start": 2313.8, "end": 2320.0, "speaker": "Dan Khasis", "text": "Мне любопытно, ты же скачал HWAN, сделал код, который все скачал, там цифры бьются один в один по транзакциям.", "confidence": 0.95}
+{"start": 2320.0, "end": 2326.2, "speaker": "Dan Khasis", "text": "Потом он улучшил код она с 14 миллисекунд за полторы миллисекунды ранилась с этим.", "confidence": 0.95}
+{"start": 2326.2, "end": 2332.4, "speaker": "Semeyon S", "text": "Но он от DataFrame переписал там логику.", "confidence": 0.95}
+{"start": 2332.4, "end": 2338.6, "speaker": "Dan Khasis", "text": "Ну и теперь так проверь, если твоя старая функция правильно работает.", "confidence": 0.95}
+{"start": 2338.6, "end": 2344.8, "speaker": "Dan Khasis", "text": "Если она работает правильно, используй ее, потом перейди назад до DataFrame.", "confidence": 0.95}
+{"start": 2344.8, "end": 2351.0, "speaker": "Semeyon S", "text": "Да и, Дэн, я вот сейчас пытаюсь это все просто триггернуть и перепроверить, чтобы я понимал, как проверяю.", "confidence": 0.95}
+{"start": 2351.0, "end": 2357.2, "speaker": "Semeyon S", "text": "Потому что, ну...", "confidence": 0.95}
+{"start": 2357.2, "end": 2363.4, "speaker": "Dan Khasis", "text": "У меня еще вопрос насчет этого темы.", "confidence": 0.95}
+{"start": 2363.4, "end": 2369.6, "speaker": "Dan Khasis", "text": "Не забудь, пожалуйста, что таймштемпы приходят в рандомном порядке.", "confidence": 0.95}
+{"start": 2369.6, "end": 2375.8, "speaker": "Dan Khasis", "text": "И что может быть ситуация, где вы же имеете какой-то Redis ключ где-то, если правильно помню, не пересчитывать это чаще, чем одно количество раз в какой-то срок времени.", "confidence": 0.95}
+{"start": 2375.8, "end": 2382.0, "speaker": "Dan Khasis", "text": "Иначе каждый новый реквест будет бомбить сервера.", "confidence": 0.95}
+{"start": 2382.0, "end": 2388.2, "speaker": "Dan Khasis", "text": "Сейчас оно...", "confidence": 0.95}
+{"start": 2388.2, "end": 2394.4, "speaker": "Semeyon S", "text": "Старая логика работает так, что проверяются обновления, то есть если точка пришла вне в своем порядке, она отбрасывается.", "confidence": 0.95}
+{"start": 2394.4, "end": 2400.6, "speaker": "Semeyon S", "text": "А потом исторически все равно берется по сортировке уже на следующих шагах.", "confidence": 0.95}
+{"start": 2400.6, "end": 2406.8, "speaker": "Semeyon S", "text": "Да, это хорошо, но в каком...", "confidence": 0.95}
+{"start": 2406.8, "end": 2413.0, "speaker": "Dan Khasis", "text": "То есть в каком шагу это происходит?", "confidence": 0.95}
+{"start": 2416, "end": 2419, "speaker": "Semeyon S", "text": "Это в потоке происходит, то есть как точки приходят.", "confidence": 0.99}
+{"start": 2420, "end": 2424.93, "speaker": "Dan Khasis", "text": "Просто другими словами, если пришло к тебе вот этих 5000 точек, ты же не 5000 раз подскачиваешь 5000 вещ...", "confidence": 0.95}
+{"start": 2424.93, "end": 2429.86, "speaker": "Dan Khasis", "text": "объектов.", "confidence": 0.95}
+{"start": 2429.86, "end": 2434.79, "speaker": "Dan Khasis", "text": "5000, то есть 1000, потом 1001, потом 1002.", "confidence": 0.95}
+{"start": 2434.79, "end": 2439.71, "speaker": "Dan Khasis", "text": "Мы же, мне кажется, ставили Redis ключ, который имел RouteID, который тогда запрещал пересчет, потому что RouteID полноценный не чаще, чем там количество минут.", "confidence": 0.95}
+{"start": 2439.71, "end": 2444.64, "speaker": "Dan Khasis", "text": "Логика немножко другая.", "confidence": 0.95}
+{"start": 2444.64, "end": 2449.57, "speaker": "Dan Khasis", "text": "На N минут такого нет.", "confidence": 0.95}
+{"start": 2449.57, "end": 2454.5, "speaker": "Semeyon S", "text": "Есть, если...", "confidence": 0.95}
+{"start": 2454.5, "end": 2459.43, "speaker": "Semeyon S", "text": "Там как работает.", "confidence": 0.95}
+{"start": 2459.43, "end": 2464.36, "speaker": "Semeyon S", "text": "Вот поток начинается, и в первый раз идет запрос на Distance, на Dynamo, чтобы выбрать массив точек и сделать первоначальный расчет.", "confidence": 0.95}
+{"start": 2464.36, "end": 2469.29, "speaker": "Semeyon S", "text": "Вот.", "confidence": 0.95}
+{"start": 2469.29, "end": 2474.21, "speaker": "Semeyon S", "text": "В дальнейшем идет пересчет на лету без похода в Dynamo.", "confidence": 0.95}
+{"start": 2474.21, "end": 2479.14, "speaker": "Semeyon S", "text": "В Dynamo моя логика обращается, если возникает слишком большой gap между координатами в 10 километров.", "confidence": 0.95}
+{"start": 2479.14, "end": 2484.07, "speaker": "Semeyon S", "text": "У тебя же нету...", "confidence": 0.95}
+{"start": 2484.07, "end": 2489.0, "speaker": "Dan Khasis", "text": "А где ты сохраняешь все эти временные точки в Redis?", "confidence": 0.95}
+{"start": 2496, "end": 2501.0, "speaker": "Semeyon S", "text": "Вообще, надо сейчас с этим travel time добить.", "confidence": 0.95}
+{"start": 2501.0, "end": 2506.0, "speaker": "Semeyon S", "text": "Вот.", "confidence": 0.95}
+{"start": 2506.0, "end": 2511.0, "speaker": "Semeyon S", "text": "Доразобраться.", "confidence": 0.95}
+{"start": 2511.0, "end": 2516.0, "speaker": "Semeyon S", "text": "Я вспомню логику, и, возможно, будет это дело пересмотреть кэширование, чтобы меньше запросов было.", "confidence": 0.95}
+{"start": 2516, "end": 2520.6, "speaker": "Dan Khasis", "text": "Меня просто беспокоит, что мы будем полить бешеные деньги на ...", "confidence": 0.95}
+{"start": 2520.6, "end": 2525.2, "speaker": "Dan Khasis", "text": "Ну, запросы к Динамо и трафик особенно бешеный, да.", "confidence": 0.95}
+{"start": 2525.2, "end": 2529.8, "speaker": "Semeyon S", "text": "Вот это прям очень неприятно.", "confidence": 0.95}
+{"start": 2529.8, "end": 2534.4, "speaker": "Semeyon S", "text": "Есть там такое.", "confidence": 0.95}
+{"start": 2534.4, "end": 2539.0, "speaker": "Dan Khasis", "text": "Ну и сначала с цифрами разобраться.", "confidence": 0.95}
+{"start": 2539.0, "end": 2543.6, "speaker": "Dan Khasis", "text": "Если ты не будешь пересчитывать это чаще, чем энное количество минут, тогда этого не будет.", "confidence": 0.95}
+{"start": 2543.6, "end": 2548.2, "speaker": "Semeyon S", "text": "Ну да, я добавлю эту логику, да и все.", "confidence": 0.95}
+{"start": 2548.2, "end": 2552.8, "speaker": "Semeyon S", "text": "Так я думал, что она есть.", "confidence": 0.95}
+{"start": 2552.8, "end": 2557.4, "speaker": "Semeyon S", "text": "Вот что я пытаюсь сказать.", "confidence": 0.95}
+{"start": 2557.4, "end": 2562.0, "speaker": "Semeyon S", "text": "Просто видишь, вот я закладывал большие гэпы где-то в 10 километров.", "confidence": 0.95}
+{"start": 2562, "end": 2569, "speaker": "Semeyon S", "text": "Там получается тогда задержка, она даже не 5 минут, она больше, на 10-15 минут должна.", "confidence": 0.99}
+{"start": 2569, "end": 2598, "speaker": "Semeyon S", "text": "Но что я не делал, я не проверял реальные гэпы, которые получаются. И опять же, вот этот новый кейс, когда у нас диапазон 5 секунд приходят точки, ну это логика, можешь себя повести иначе, не так как я привык. То есть тогда надо убирать вот эту мою проверку на 10 километров и менять тупо на задержку в 5 минут.\n\nИ все.", "confidence": 0.95}
+{"start": 2602, "end": 2605, "speaker": "Semeyon S", "text": "Упрощать, а упрощать, ну я с радостью. Лишь бы не усложнять.", "confidence": 0.99}
+{"start": 2613, "end": 2614, "speaker": "Dan Khasis", "text": "Окей, что у нас следующее?", "confidence": 0.99}
+{"start": 2616, "end": 2624.2, "speaker": "Oleksandr Ishchenko", "text": "Сергей тогда, не помню, Дженди у нас facility, эти best visibility фильтры, наброски, то что на понедельник готовится.", "confidence": 0.95}
+{"start": 2624.2, "end": 2632.4, "speaker": "Serhii Kasainov", "text": "Да, активно готовим frontend часть приложения для поддержки фильтрации по facility.", "confidence": 0.95}
+{"start": 2632.4, "end": 2640.6, "speaker": "Serhii Kasainov", "text": "Вот это мы получили от дизайн команды.", "confidence": 0.95}
+{"start": 2640.6, "end": 2648.8, "speaker": "Serhii Kasainov", "text": "Это превратилось вот в соответствующую имплементацию.", "confidence": 0.95}
+{"start": 2648.8, "end": 2657.0, "speaker": "Serhii Kasainov", "text": "У меня и у Семена есть сомнения по поводу UI для этой выпадайки, по-моему, она слишком переусложнена, но если facility действительно может быть очень много, то нам нужен серверный поиск.", "confidence": 0.95}
+{"start": 2658, "end": 2696, "speaker": "Dan Khasis", "text": "Вам всегда нужен серверный поиск, мне кажется. Промолчание надо подгружать первые 5 записей и потом в любые другие мы идем на сервер. Но здесь UI корявый, здесь все равно неправильно.\n\nОна слишком неправильная. Она как надутая. Это рыба, которая плавает под водой, которая надувается.\n\nBlowfish или Pufferfish. Для меня это так выглядит.", "confidence": 0.61}
+{"start": 2696, "end": 2705, "speaker": "Vova", "text": "Я точно так же среагировал сегодня 2 часа назад и в макете уменьшил эти гэпы. Они явно здесь слишком большие.", "confidence": 0.99}
+{"start": 2709, "end": 2711, "speaker": "Serhii Kasainov", "text": "Хорошо. Компонент станет более компактным.", "confidence": 0.99}
+{"start": 2711, "end": 2716.0, "speaker": "Dan Khasis", "text": "Если мы говорим прямо сейчас запускать, чтобы это работало, запускайте.", "confidence": 0.95}
+{"start": 2716.0, "end": 2721.0, "speaker": "Dan Khasis", "text": "Но это просто дохуя дупликации.", "confidence": 0.95}
+{"start": 2721.0, "end": 2726.0, "speaker": "Dan Khasis", "text": "Зачем вообще иметь?", "confidence": 0.95}
+{"start": 2726.0, "end": 2731.0, "speaker": "Dan Khasis", "text": "Потому что если список имеет 65 фасилити, тогда надо не забыть, что надо дерево будет по географии.", "confidence": 0.95}
+{"start": 2731.0, "end": 2736.0, "speaker": "Dan Khasis", "text": "Потому что фасилити проринкованы географией.", "confidence": 0.95}
+{"start": 2741, "end": 2742, "speaker": "Serhii Kasainov", "text": "А веб-блог нам вообще нужен?", "confidence": 0.99}
+{"start": 2745, "end": 2759, "speaker": "Dan Khasis", "text": "Только если там 500 фасилити или 100 фасилити и ты сделал поиск и ты выбрал на 57 странице какое-то фасилити теперь и ты уже забыл.", "confidence": 0.99}
+{"start": 2764, "end": 2793, "speaker": "Vova", "text": "Совершенно верно. Этот UI имеет смысл. Он дает тебе возможность сделать несколько поисков.\n\nСперва поискать 1 фасилити, добавить ее. Потом поискать 2 фасилити, добавить ее. И ты видишь, что ты добавил.\n\nЭтот UI имеет смысл, когда у тебя больше 20 фасилитис. Если у тебя до 20 фасилитис, то эту панель можно не использовать. И поисков не делать.\n\nИ просто дать здесь простой список плоских 20 айтемов.", "confidence": 0.99}
+{"start": 2800, "end": 2810, "speaker": "Serhii Kasainov", "text": "То есть если у нас опишки пришло меньше, чем размер страницы, мы уверены, что фасилити у нас немного и мы упрощаем этот UI до невозможности.", "confidence": 0.99}
+{"start": 2810, "end": 2812.5, "speaker": "Vova", "text": "Ну да, поиск не имеет смысла особо, если у тебя меньше 20 фасилитис.", "confidence": 0.95}
+{"start": 2812.5, "end": 2815.0, "speaker": "Vova", "text": "Я бы так сказал.", "confidence": 0.95}
+{"start": 2816, "end": 2848, "speaker": "Dan Khasis", "text": "Если вы хотите сделать покруче, я не говорю это прямо сейчас сделать, я просто вам идею рассказываю. Было бы интересно как-то подсвечивать этим людям, например, текущий статус. Вот у тебя есть красные, у тебя есть зеленые кластера, желтые кластера.\n\nОн в хорошем штате, в плохом штате, не в географическом штате, но я имею в виду статус, здоровье кластера.", "confidence": 0.94}
+{"start": 2860, "end": 2863, "speaker": "Serhii Kasainov", "text": "Это что-то про бкн-инфраструктуру, наверное.", "confidence": 0.92}
+{"start": 2865, "end": 2869.66, "speaker": "Dan Khasis", "text": "Это больше насчет, как я показывал, Вова, помнишь, в этом в нетворкинг-сайте там была ситуация, где она показывает, я могу снова показать, если надо, чтобы всем напомнить.", "confidence": 0.95}
+{"start": 2869.66, "end": 2874.32, "speaker": "Dan Khasis", "text": "Дайте экрану секунду.", "confidence": 0.95}
+{"start": 2874.32, "end": 2878.98, "speaker": "Dan Khasis", "text": "Да, я понял тебя, о чем ты говоришь.", "confidence": 0.95}
+{"start": 2878.98, "end": 2883.64, "speaker": "Dan Khasis", "text": "Вот этот сайт, видите, это разные сайты.", "confidence": 0.95}
+{"start": 2888.3, "end": 2892.96, "speaker": "Vova", "text": "Если бы он был красный.", "confidence": 0.95}
+{"start": 2892.96, "end": 2897.62, "speaker": "Dan Khasis", "text": "Теперь это список всех физических локейшенов, они все в рамках дочерней организации.", "confidence": 0.95}
+{"start": 2897.62, "end": 2902.29, "speaker": "Dan Khasis", "text": "Я могу создать новый сайт.", "confidence": 0.95}
+{"start": 2902.29, "end": 2906.95, "speaker": "Dan Khasis", "text": "Сайт — это их синоним facility.", "confidence": 0.95}
+{"start": 2906.95, "end": 2911.61, "speaker": "Dan Khasis", "text": "И потом его можно смотреть так.", "confidence": 0.95}
+{"start": 2911.61, "end": 2916.27, "speaker": "Dan Khasis", "text": "Когда ты смотришь на сайт, там есть какие-то элементарные данные.", "confidence": 0.95}
+{"start": 2916.27, "end": 2920.93, "speaker": "Dan Khasis", "text": "Когда мы смотрим на наш facility, ты не понимаешь, какое здоровье facility.", "confidence": 0.95}
+{"start": 2920.93, "end": 2925.59, "speaker": "Dan Khasis", "text": "Например, текущее.", "confidence": 0.95}
+{"start": 2925.59, "end": 2930.25, "speaker": "Dan Khasis", "text": "Никого не волнует, что было вчера, например.", "confidence": 0.95}
+{"start": 2930.25, "end": 2934.91, "speaker": "Dan Khasis", "text": "Но вот сегодня, какой текущий прогресс сегодняшнего дня всех маршрутов?", "confidence": 0.95}
+{"start": 2934.91, "end": 2939.57, "speaker": "Dan Khasis", "text": "У нас же есть это.", "confidence": 0.95}
+{"start": 2939.57, "end": 2944.23, "speaker": "Dan Khasis", "text": "У вас есть group by date и у вас есть filter by facility.", "confidence": 0.95}
+{"start": 2944.23, "end": 2948.89, "speaker": "Dan Khasis", "text": "Например, здесь написаны другие данные насчет ...", "confidence": 0.95}
+{"start": 2948.89, "end": 2953.55, "speaker": "Dan Khasis", "text": "Мне, например, критикал какой-то флаг, что-то running behind.", "confidence": 0.95}
+{"start": 2953.55, "end": 2958.21, "speaker": "Dan Khasis", "text": "Например, в updates выключил ...", "confidence": 0.95}
+{"start": 2958.21, "end": 2962.87, "speaker": "Dan Khasis", "text": "retries, wi-fi, сколько guests.", "confidence": 0.95}
+{"start": 2962.87, "end": 2967.54, "speaker": "Dan Khasis", "text": "ISP, в нашем случае, это может быть accountable человек.", "confidence": 0.95}
+{"start": 2967.54, "end": 2972.2, "speaker": "Dan Khasis", "text": "IP-адрес выключим.", "confidence": 0.95}
+{"start": 2972.2, "end": 2976.86, "speaker": "Dan Khasis", "text": "Status, operating normal и так далее.", "confidence": 0.95}
+{"start": 2976.86, "end": 2981.52, "speaker": "Dan Khasis", "text": "Теперь я вижу 55 своих facilities.", "confidence": 0.95}
+{"start": 2981.52, "end": 2986.18, "speaker": "Dan Khasis", "text": "Я вижу, что мой или ...", "confidence": 0.95}
+{"start": 2986.18, "end": 2990.84, "speaker": "Dan Khasis", "text": "какая метрика мне важна?", "confidence": 0.95}
+{"start": 2990.84, "end": 2995.5, "speaker": "Dan Khasis", "text": "Например, какой процент маршрутов еще не начали ехать?", "confidence": 0.95}
+{"start": 2995.5, "end": 3000.16, "speaker": "Dan Khasis", "text": "Для меня это важно.", "confidence": 0.95}
+{"start": 3000.16, "end": 3004.82, "speaker": "Dan Khasis", "text": "Например, started.", "confidence": 0.95}
+{"start": 3004.82, "end": 3009.48, "speaker": "Dan Khasis", "text": "Я ожидаю уже, что на этот текущий момент 99% уже было started.", "confidence": 0.95}
+{"start": 3009.48, "end": 3014.14, "speaker": "Dan Khasis", "text": "Сколько у меня сегодня водителей активных?", "confidence": 0.95}
+{"start": 3014.14, "end": 3018.8, "speaker": "Dan Khasis", "text": "Потому что у меня есть уже пролинковано, сколько у меня есть активных этих.", "confidence": 0.95}
+{"start": 3018.8, "end": 3023.46, "speaker": "Dan Khasis", "text": "Смотри, я могу сделать уже.", "confidence": 0.95}
+{"start": 3023.46, "end": 3028.12, "speaker": "Dan Khasis", "text": "У нас это невозможно.", "confidence": 0.95}
+{"start": 3028.12, "end": 3032.79, "speaker": "Dan Khasis", "text": "У меня маленький экран, я хочу компактнее.", "confidence": 0.95}
+{"start": 3032.79, "end": 3037.45, "speaker": "Dan Khasis", "text": "И потом провалиться можно в любой из этих facilities.", "confidence": 0.95}
+{"start": 3037.45, "end": 3042.11, "speaker": "Dan Khasis", "text": "То есть прямо сейчас я могу видеть drivers, vehicles и routes на текущий день.", "confidence": 0.95}
+{"start": 3042.11, "end": 3046.77, "speaker": "Dan Khasis", "text": "Текущий статус.", "confidence": 0.95}
+{"start": 3046.77, "end": 3051.43, "speaker": "Dan Khasis", "text": "Мне неважно, сколько работает, мне неважна аналитика, мне неважны сложные тренды.", "confidence": 0.95}
+{"start": 3051.43, "end": 3056.09, "speaker": "Dan Khasis", "text": "Я говорю просто прямо сейчас, сколько signed vehicles, сколько signed.", "confidence": 0.95}
+{"start": 3056.09, "end": 3060.75, "speaker": "Dan Khasis", "text": "И у нас это есть.", "confidence": 0.95}
+{"start": 3060.75, "end": 3065.41, "speaker": "Dan Khasis", "text": "И ISP это accountable человек.", "confidence": 0.95}
+{"start": 3065.41, "end": 3070.07, "speaker": "Dan Khasis", "text": "Ты знаешь прямо сейчас ответственный за этот.", "confidence": 0.95}
+{"start": 3070.07, "end": 3074.73, "speaker": "Dan Khasis", "text": "В принципе, этому человеку можно позвонить.", "confidence": 0.95}
+{"start": 3074.73, "end": 3079.39, "speaker": "Dan Khasis", "text": "В принципе, этому можно сделать ссылку на телефонный номер в WhatsApp.", "confidence": 0.95}
+{"start": 3079.39, "end": 3084.05, "speaker": "Dan Khasis", "text": "В принципе, можно на Slack ссылку поставить.", "confidence": 0.95}
+{"start": 3084.05, "end": 3088.71, "speaker": "Dan Khasis", "text": "А статус это может быть интерпретация всех других вещей.", "confidence": 0.95}
+{"start": 3088.71, "end": 3093.37, "speaker": "Dan Khasis", "text": "Например, running behind.", "confidence": 0.95}
+{"start": 3093.37, "end": 3098.04, "speaker": "Dan Khasis", "text": "Потому что сейчас очень они поздно начали.", "confidence": 0.95}
+{"start": 3098.04, "end": 3102.7, "speaker": "Dan Khasis", "text": "Но если у меня было много географии, потому что у нас будет география, facilities внутри географии, тогда идет группировка по географиям.", "confidence": 0.95}
+{"start": 3102.7, "end": 3107.36, "speaker": "Dan Khasis", "text": "И у меня теперь на уровне географии такие же метрики, как и здесь.", "confidence": 0.95}
+{"start": 3107.36, "end": 3112.02, "speaker": "Dan Khasis", "text": "Водители, маршруты, вехалы.", "confidence": 0.95}
+{"start": 3112.02, "end": 3116.68, "speaker": "Dan Khasis", "text": "Опять все уже есть в текущей базе.", "confidence": 0.95}
+{"start": 3116.68, "end": 3121.34, "speaker": "Dan Khasis", "text": "Стрейчки не нужно, BigQuery не нужен.", "confidence": 0.95}
+{"start": 3121.34, "end": 3126.0, "speaker": "Dan Khasis", "text": "И ты можешь фильтровать по сайт групп.", "confidence": 0.95}
+{"start": 3126.0, "end": 3130.66, "speaker": "Dan Khasis", "text": "Это и есть география, в принципе.", "confidence": 0.95}
+{"start": 3139.98, "end": 3144.64, "speaker": "Dan Khasis", "text": "И отсюда ты кликаешь, ты можешь переходить здесь.", "confidence": 0.95}
+{"start": 3144.64, "end": 3149.3, "speaker": "Dan Khasis", "text": "Здесь Network.", "confidence": 0.95}
+{"start": 3149.3, "end": 3153.96, "speaker": "Dan Khasis", "text": "А здесь, например...", "confidence": 0.95}
+{"start": 3153.96, "end": 3158.62, "speaker": "Dan Khasis", "text": "Кстати, видите, как стриминг у них идет.", "confidence": 0.95}
+{"start": 3158.62, "end": 3163.29, "speaker": "Dan Khasis", "text": "Это как я всегда рассказываю, что мы должны сделать.", "confidence": 0.95}
+{"start": 3163.29, "end": 3167.95, "speaker": "Dan Khasis", "text": "Прежде мы это не сделали.", "confidence": 0.95}
+{"start": 3167.95, "end": 3172.61, "speaker": "Dan Khasis", "text": "Если у тебя за рулем 100 водителей, значит у тебя километраж и время так же двигается.", "confidence": 0.95}
+{"start": 3172.61, "end": 3177.27, "speaker": "Dan Khasis", "text": "Но мы это не показываем.", "confidence": 0.95}
+{"start": 3177.27, "end": 3181.93, "speaker": "Dan Khasis", "text": "Таким образом.", "confidence": 0.95}
+{"start": 3181.93, "end": 3186.59, "speaker": "Dan Khasis", "text": "И можно переключаться сразу.", "confidence": 0.95}
+{"start": 3186.59, "end": 3191.25, "speaker": "Dan Khasis", "text": "Если это Network, ты можешь переключиться, например...", "confidence": 0.95}
+{"start": 3191.25, "end": 3195.91, "speaker": "Dan Khasis", "text": "Есть топология этой сети.", "confidence": 0.95}
+{"start": 3195.91, "end": 3200.57, "speaker": "Dan Khasis", "text": "Сейчас найду.", "confidence": 0.95}
+{"start": 3200.57, "end": 3205.23, "speaker": "Dan Khasis", "text": "И видно...", "confidence": 0.95}
+{"start": 3205.23, "end": 3209.89, "speaker": "Dan Khasis", "text": "Вот это моя география, это мой регион, это мои водители, то есть машины.", "confidence": 0.95}
+{"start": 3209.89, "end": 3214.55, "speaker": "Dan Khasis", "text": "Потом в машине сидит этот водитель.", "confidence": 0.95}
+{"start": 3214.55, "end": 3219.21, "speaker": "Dan Khasis", "text": "Я кликаю на любой объект, он открывается моментально.", "confidence": 0.95}
+{"start": 3219.21, "end": 3223.87, "speaker": "Dan Khasis", "text": "В зависимости от типа объекта.", "confidence": 0.95}
+{"start": 3223.87, "end": 3228.54, "speaker": "Dan Khasis", "text": "Контроль, панель, динамически показывают разные вещи.", "confidence": 0.95}
+{"start": 3228.54, "end": 3233.2, "speaker": "Dan Khasis", "text": "Ссылки всегда синие.", "confidence": 0.95}
+{"start": 3233.2, "end": 3237.86, "speaker": "Dan Khasis", "text": "Обыкновенные вещи.", "confidence": 0.95}
+{"start": 3237.86, "end": 3242.52, "speaker": "Dan Khasis", "text": "Темно-серые.", "confidence": 0.95}
+{"start": 3242.52, "end": 3247.18, "speaker": "Dan Khasis", "text": "Немножко яркие синие.", "confidence": 0.95}
+{"start": 3247.18, "end": 3251.84, "speaker": "Dan Khasis", "text": "Здесь дефект, мне кажется.", "confidence": 0.95}
+{"start": 3251.84, "end": 3256.5, "speaker": "Dan Khasis", "text": "Неправильный фон.", "confidence": 0.95}
+{"start": 3256.5, "end": 3261.16, "speaker": "Dan Khasis", "text": "И кстати, насчет Вова, твоей идеи, что в машине.", "confidence": 0.95}
+{"start": 3261.16, "end": 3265.82, "speaker": "Dan Khasis", "text": "Если они загрузили что-то, можно машину показывать, правильно?", "confidence": 0.95}
+{"start": 3265.82, "end": 3270.48, "speaker": "Dan Khasis", "text": "Что в машине и где лежит.", "confidence": 0.95}
+{"start": 3270.48, "end": 3275.14, "speaker": "Dan Khasis", "text": "Потому что можно видеть, никто это не имеет сейчас.", "confidence": 0.95}
+{"start": 3275.14, "end": 3279.8, "speaker": "Dan Khasis", "text": "Из конкурентов.", "confidence": 0.95}
+{"start": 3284.46, "end": 3289.12, "speaker": "Dan Khasis", "text": "У меня в этой географии, в этом складу, есть такая-то машина с таким водителем, и в той машине лежат эти вещи.", "confidence": 0.95}
+{"start": 3289.12, "end": 3293.79, "speaker": "Dan Khasis", "text": "Это, например, ордер-лист.", "confidence": 0.95}
+{"start": 3293.79, "end": 3298.45, "speaker": "Dan Khasis", "text": "И ты видишь описание всех этих вещей, и ты можешь конкретно эту вещь как-то редактировать.", "confidence": 0.95}
+{"start": 3298.45, "end": 3303.11, "speaker": "Dan Khasis", "text": "Индивидуально.", "confidence": 0.95}
+{"start": 3303.11, "end": 3307.77, "speaker": "Dan Khasis", "text": "И конечно, там есть VIN number и фильтрация.", "confidence": 0.95}
+{"start": 3307.77, "end": 3312.43, "speaker": "Dan Khasis", "text": "Покажи мне все электрические машины, покажи мне все газовые машины, покажи мне все машины, которые имеют мало топлива, много топлива, большой двигатель, маленький двигатель.", "confidence": 0.95}
+{"start": 3312.43, "end": 3317.09, "speaker": "Dan Khasis", "text": "Максимальная скорость такого типа.", "confidence": 0.95}
+{"start": 3317.09, "end": 3321.75, "speaker": "Dan Khasis", "text": "Фильтрация.", "confidence": 0.95}
+{"start": 3321.75, "end": 3326.41, "speaker": "Dan Khasis", "text": "И можно переключиться на другой use case моментально.", "confidence": 0.95}
+{"start": 3326.41, "end": 3331.07, "speaker": "Dan Khasis", "text": "То есть ты хочешь перейти на режим камер, ты переходишь на режим камер, и ты видишь сразу, что там происходит.", "confidence": 0.95}
+{"start": 3331.07, "end": 3335.73, "speaker": "Dan Khasis", "text": "Потом ты кликаешь на вещи, она зумин делает.", "confidence": 0.95}
+{"start": 3335.73, "end": 3340.39, "speaker": "Dan Khasis", "text": "И ты можешь зумин делать.", "confidence": 0.95}
+{"start": 3340.39, "end": 3345.05, "speaker": "Dan Khasis", "text": "И там рассматривать.", "confidence": 0.95}
+{"start": 3345.05, "end": 3349.71, "speaker": "Dan Khasis", "text": "У тебя есть 100 водителей, ты кликнул на любую вещь, ты видишь камеру всех водителей, ты видишь одометр всех водителей, ты видишь там такометр всех водителей.", "confidence": 0.95}
+{"start": 3349.71, "end": 3354.37, "speaker": "Dan Khasis", "text": "Почему?", "confidence": 0.95}
+{"start": 3354.37, "end": 3359.04, "speaker": "Dan Khasis", "text": "Потому что Telematic все это показывает.", "confidence": 0.95}
+{"start": 3359.04, "end": 3363.7, "speaker": "Dan Khasis", "text": "И все моментально одним кликом работает.", "confidence": 0.95}
+{"start": 3363.7, "end": 3368.36, "speaker": "Dan Khasis", "text": "Где есть движение или алерт, она начинает подсвечивать.", "confidence": 0.95}
+{"start": 3368.36, "end": 3373.02, "speaker": "Dan Khasis", "text": "Короче, мы это показывали раньше уже.", "confidence": 0.95}
+{"start": 3373.02, "end": 3377.68, "speaker": "Dan Khasis", "text": "Ну это экземпляр, как это все гладко идет.", "confidence": 0.95}
+{"start": 3377.68, "end": 3382.34, "speaker": "Dan Khasis", "text": "Ты кликаешь, и ты можешь моментально между facilities прыгать.", "confidence": 0.95}
+{"start": 3382.34, "end": 3387.0, "speaker": "Dan Khasis", "text": "Ты видишь, вот группы, вот группы, all sites, tempo и так далее.", "confidence": 0.95}
+{"start": 3389, "end": 3410, "speaker": "Vova", "text": "Идея показать overall facility score или какой-то performance или health facility прямо на верхнем уровне, чтобы ты уже еще до того, как ее выбрал, уже увидел ее health. Прекрасная идея такая, мы ее пока что не считаем. Но нарисовать я уже могу ее.", "confidence": 0.99}
+{"start": 3410, "end": 3416.22, "speaker": "Dan Khasis", "text": "Мы можем сделать какую-то элементарную версию этого health скоро.", "confidence": 0.95}
+{"start": 3416.22, "end": 3422.44, "speaker": "Dan Khasis", "text": "Просто считать, сколько количество маршрутов начались или прогресс.", "confidence": 0.95}
+{"start": 3422.44, "end": 3428.67, "speaker": "Dan Khasis", "text": "У тебя есть n количество destination, какой процент всех destination ты объехал.", "confidence": 0.95}
+{"start": 3428.67, "end": 3434.89, "speaker": "Dan Khasis", "text": "И это для первой версии не проблема.", "confidence": 0.95}
+{"start": 3434.89, "end": 3441.11, "speaker": "Dan Khasis", "text": "90% людям это самое важное.", "confidence": 0.95}
+{"start": 3441.11, "end": 3447.33, "speaker": "Dan Khasis", "text": "Кстати, мне надо через час и пять минут уезжать.", "confidence": 0.95}
+{"start": 3447.33, "end": 3453.56, "speaker": "Dan Khasis", "text": "Мы можем быстро идти, но у меня есть час и пять минут у компьютера.", "confidence": 0.95}
+{"start": 3453.56, "end": 3459.78, "speaker": "Dan Khasis", "text": "Если здесь посмотреть на routes list, я уберу это и уберу это.", "confidence": 0.95}
+{"start": 3459.78, "end": 3466.0, "speaker": "Dan Khasis", "text": "Я зашел под этим человеком в его аккаунт.", "confidence": 0.95}
+{"start": 3466.0, "end": 3472.22, "speaker": "Dan Khasis", "text": "И, например, у меня прогресс важнее всего, я двигаю прогресс сюда.", "confidence": 0.95}
+{"start": 3472.22, "end": 3478.44, "speaker": "Dan Khasis", "text": "Она идеально все показывает.", "confidence": 0.95}
+{"start": 3478.44, "end": 3484.67, "speaker": "Dan Khasis", "text": "Теперь я включаю группировку, но почему-то отсутствует facility.", "confidence": 0.95}
+{"start": 3484.67, "end": 3490.89, "speaker": "Dan Khasis", "text": "Представьте себе, что он был.", "confidence": 0.95}
+{"start": 3490.89, "end": 3497.11, "speaker": "Dan Khasis", "text": "Давай сделаем status и представим, что это facility.", "confidence": 0.95}
+{"start": 3497.11, "end": 3503.33, "speaker": "Dan Khasis", "text": "Уже все есть.", "confidence": 0.95}
+{"start": 3503.33, "end": 3509.56, "speaker": "Dan Khasis", "text": "Давай на сегодня перейдем.", "confidence": 0.95}
+{"start": 3509.56, "end": 3515.78, "speaker": "Dan Khasis", "text": "Сегодняшняя дата я бы увидел на списке своих facility, что у меня есть столько маршрутов started, planned, извиняюсь, неправильно, planned, started, completed.", "confidence": 0.95}
+{"start": 3515.78, "end": 3522.0, "speaker": "Dan Khasis", "text": "И вот мы говорили насчет route metrics, мы уже две недели, говорим, поменять цвет этого.", "confidence": 0.95}
+{"start": 3523, "end": 3524, "speaker": "Vova", "text": "У нас пейджонги уже поменяли.", "confidence": 0.99}
+{"start": 3526, "end": 3527, "speaker": "Dan Khasis", "text": "Почему они на продакшене?", "confidence": 0.98}
+{"start": 3528, "end": 3528, "speaker": "Dan Khasis", "text": "Не знаю.", "confidence": 0.65}
+{"start": 3541, "end": 3596, "speaker": "Dan Khasis", "text": "И все, теперь просто берется, что здесь есть какое-то количество destinations и visited destinations. И мы видим, что прогресс на уровне facility это просто сумма всех этих destinations и сумма всех visited marked as completed руками. И все, и это уйдет на уровне facility.\n\nТакой же progress bar, все то же самое. И счетчики эти элементарные, которые уже у нас есть. Вон они, прямо здесь.", "confidence": 0.65}
+{"start": 3600, "end": 3608, "speaker": "Vova", "text": "Окей, хорошо, мы туда вставим маленький прогресс барчик в этот facility selector.", "confidence": 0.69}
+{"start": 3609, "end": 3623, "speaker": "Dan Khasis", "text": "Да, но вы можете этот прогресс бар вставить на уровне агрегации, прямо сюда, потому что вот скажи мне, какой процент started маршрутов progressive?", "confidence": 0.89}
+{"start": 3625, "end": 3626, "speaker": "Vova", "text": "Мы рисовали.", "confidence": 0.99}
+{"start": 3626, "end": 3628, "speaker": "Dan Khasis", "text": "Или сюда поставим?", "confidence": 0.96}
+{"start": 3629, "end": 3636.0, "speaker": "Vova", "text": "Да, в макетах самых начальных, которым уже два года, вот здесь должны были выводиться метрики группы.", "confidence": 0.95}
+{"start": 3636.0, "end": 3643.0, "speaker": "Vova", "text": "Но это никогда не было имплементировано.", "confidence": 0.95}
+{"start": 3643.0, "end": 3650.0, "speaker": "Vova", "text": "И еще здесь должно было быть меню группы, чтобы можно было взять и сделать какие-то bulk actions сразу с группой целые.", "confidence": 0.95}
+{"start": 3650, "end": 3654.29, "speaker": "Dan Khasis", "text": "Балк actions с группой критическая вещь, потому что если я хочу взять все эти вещи в этой группе, я не могу.", "confidence": 0.95}
+{"start": 3654.29, "end": 3658.57, "speaker": "Dan Khasis", "text": "Да.", "confidence": 0.95}
+{"start": 3658.57, "end": 3662.86, "speaker": "Dan Khasis", "text": "Если я хочу посмотреть на все вчерашние маршруты, я должен мучиться.", "confidence": 0.95}
+{"start": 3662.86, "end": 3667.14, "speaker": "Dan Khasis", "text": "Если их было 50 штук, я должен кликать каждую.", "confidence": 0.95}
+{"start": 3667.14, "end": 3671.43, "speaker": "Dan Khasis", "text": "Но это уже чувствуется намного более гладко, но теперь я не могу двигать левее.", "confidence": 0.95}
+{"start": 3671.43, "end": 3675.71, "speaker": "Dan Khasis", "text": "Это слишком много места, меняет компактность.", "confidence": 0.95}
+{"start": 3675.71, "end": 3680.0, "speaker": "Dan Khasis", "text": "Она портит мне возможность видеть все критические метрики.", "confidence": 0.95}
+{"start": 3680, "end": 3684, "speaker": "Vova", "text": "Это происходит, потому что у нас группировка неправильно сделана.", "confidence": 0.97}
+{"start": 3686, "end": 3691, "speaker": "Dan Khasis", "text": "Это происходит, потому что callspan minwidth настроен неправильно.", "confidence": 0.95}
+{"start": 3692, "end": 3701, "speaker": "Vova", "text": "Да, у нас сделана callspan группировка. Это должны были быть настоящие ряды в таблице. В общем.", "confidence": 0.99}
+{"start": 3702, "end": 3708.0, "speaker": "Serhii Kasainov", "text": "Я все-таки думаю, что это просто minwidth для колонки routeName, потому что она бывает достаточно длинной.", "confidence": 0.95}
+{"start": 3708.0, "end": 3714.0, "speaker": "Dan Khasis", "text": "Так сделай minwidth просто 100 пикселей, а не 250 или 75.", "confidence": 0.95}
+{"start": 3718, "end": 3720, "speaker": "Serhii Kasainov", "text": "Зафиксировался, не сделаем.", "confidence": 0.99}
+{"start": 3733, "end": 3737.62, "speaker": "Dan Khasis", "text": "Наверное, еще в другом месте тоже.", "confidence": 0.95}
+{"start": 3737.62, "end": 3742.25, "speaker": "Dan Khasis", "text": "Видишь, call fixed.", "confidence": 0.95}
+{"start": 3742.25, "end": 3746.88, "speaker": "Dan Khasis", "text": "Я не знаю, что это значит, но это может значить, что если ты двигаешься налево-направо, он frozen.", "confidence": 0.95}
+{"start": 3746.88, "end": 3751.5, "speaker": "Dan Khasis", "text": "Окей, тебе виднее, как это улучшить.", "confidence": 0.95}
+{"start": 3751.5, "end": 3756.12, "speaker": "Dan Khasis", "text": "Но теперь вы видите.", "confidence": 0.95}
+{"start": 3756.12, "end": 3760.75, "speaker": "Dan Khasis", "text": "И вот тоже самое здесь.", "confidence": 0.95}
+{"start": 3760.75, "end": 3765.38, "speaker": "Dan Khasis", "text": "Где наш выбор facility?", "confidence": 0.95}
+{"start": 3765.38, "end": 3770.0, "speaker": "Dan Khasis", "text": "Вот у нас есть facilities.", "confidence": 0.95}
+{"start": 3774.62, "end": 3779.25, "speaker": "Dan Khasis", "text": "Давай возьмем и...", "confidence": 0.95}
+{"start": 3779.25, "end": 3783.88, "speaker": "Vova", "text": "Здесь facilities, я не могу...", "confidence": 0.95}
+{"start": 3783.88, "end": 3788.5, "speaker": "Dan Khasis", "text": "Ну, точно так же, как и assign user должен работать, да?", "confidence": 0.95}
+{"start": 3788.5, "end": 3793.12, "speaker": "Dan Khasis", "text": "Да, так же.", "confidence": 0.95}
+{"start": 3797.75, "end": 3802.38, "speaker": "Dan Khasis", "text": "Цвет неправильный, здесь цвет неправильный.", "confidence": 0.95}
+{"start": 3802.38, "end": 3807.0, "speaker": "Dan Khasis", "text": "Опять возвращаясь на 5-секундную модификацию, это же неправильный цвет.", "confidence": 0.95}
+{"start": 3808, "end": 3843, "speaker": "Vova", "text": "Я, Дэн, топлю за то, чтобы сделать синий дефолтный цвет, потому что этот цвет максимально контрастный со всеми элементами на карте. Отлично видно. Зеленый не такой контрастный, поэтому я хочу планированные маршруты сделать синими.\n\nЦвет запланированного маршрута. А цвет проеханного маршрута просто... Та же синяя линия, она становится полой, незаполненной.\n\nТо есть ты проезжаешь, она гаснет по мере того, как ты проезжаешь. Участок, который ты проехал, становится погасшим. Я покажу.", "confidence": 0.99}
+{"start": 3843, "end": 3845.5, "speaker": "Vova", "text": "Я покажу.", "confidence": 0.95}
+{"start": 3845.5, "end": 3848.0, "speaker": "Dan Khasis", "text": "Синий цвет такого типа лучше для дефолта.", "confidence": 0.95}
+{"start": 3848.0, "end": 3850.5, "speaker": "Dan Khasis", "text": "Как гугл делает, когда ты проехал, он становится серым.", "confidence": 0.95}
+{"start": 3850.5, "end": 3853.0, "speaker": "Dan Khasis", "text": "Да-да.", "confidence": 0.95}
+{"start": 3853, "end": 3866, "speaker": "Vova", "text": "Но мы будем делать не серым, мы будем оставлять его синим, того же тона, потому что у нас есть Multiple Roads Map, там где все роуты разноцветные. Мы будем оставлять тот же цвет, просто убирать заливку из этой линии.", "confidence": 0.99}
+{"start": 3868, "end": 3872, "speaker": "Vova", "text": "Или белые, более жирные бордеры, но окей.", "confidence": 0.11}
+{"start": 3872, "end": 3875, "speaker": "Vova", "text": "Я могу пошарить экран и показать, как мы это нарисуем.", "confidence": 0.99}
+{"start": 3876, "end": 3878, "speaker": "Dan Khasis", "text": "Здесь намного все понятнее стало.", "confidence": 0.99}
+{"start": 3881, "end": 3903, "speaker": "Vova", "text": "Здесь я бы немножко тоже поговорил. Я тебе кидал, ты игнорировал мой макет. У нас была похожая система, только здесь вот был...\n\nЗдесь не было Plant, здесь был Actual, и процент разницы между Plant и Actual. Мне кажется, этот процент гораздо важнее, чем сравнивать просто Plant и Actual, да?", "confidence": 0.99}
+{"start": 3904, "end": 3926, "speaker": "Dan Khasis", "text": "Что нам нужно сделать, это сделать вот это немножко пошире, немножко пошире. И прибавить новую колонку Delta, и здесь поставить проценты в эту колонку. Взять в символ математический Delta и конкретно написать здесь вот эту Delta.", "confidence": 0.89}
+{"start": 3926, "end": 3960, "speaker": "Vova", "text": "Давай я покажу тебе очень быстро, что мы нарисовали. Ты мне просто скажешь, нравится тебе или нет. У нас это было нарисовано вот таким образом.\n\nDestinations – это маршрут не начатый. Destinations Distance Duration разбито по частям.", "confidence": 0.52}
+{"start": 3961, "end": 3963.75, "speaker": "Vova", "text": "Минимальное количество лейблов – все очень непонятно.", "confidence": 0.95}
+{"start": 3963.75, "end": 3966.5, "speaker": "Dan Khasis", "text": "Не, мне это непонятно.", "confidence": 0.95}
+{"start": 3966.5, "end": 3969.25, "speaker": "Vova", "text": "Нам нужно три колонки.", "confidence": 0.95}
+{"start": 3969.25, "end": 3972.0, "speaker": "Vova", "text": "Но этот маршрут еще не начался, здесь три колонки, смысла у них нет.", "confidence": 0.95}
+{"start": 3973, "end": 3975, "speaker": "Vova", "text": "Здесь еще нет Actual никакого.", "confidence": 0.95}
+{"start": 3976, "end": 3979.18, "speaker": "Vova", "text": "Дальше маршрут начался.", "confidence": 0.95}
+{"start": 3979.18, "end": 3982.36, "speaker": "Dan Khasis", "text": "Не, мы не хотим это.", "confidence": 0.95}
+{"start": 3982.36, "end": 3985.55, "speaker": "Dan Khasis", "text": "Ты пытаешься продавать, что мы не хотим.", "confidence": 0.95}
+{"start": 3985.55, "end": 3988.73, "speaker": "Dan Khasis", "text": "Мы не хотим это.", "confidence": 0.95}
+{"start": 3988.73, "end": 3991.91, "speaker": "Dan Khasis", "text": "Мы хотим столбик.", "confidence": 0.95}
+{"start": 3991.91, "end": 3995.09, "speaker": "Dan Khasis", "text": "Столбик.", "confidence": 0.95}
+{"start": 3995.09, "end": 3998.27, "speaker": "Dan Khasis", "text": "Неужели оставшиеся 25 человек на звонке мозги не начинают утомляться, делать парсинг, децентрализацию у себя в голове, сплит, этот стринг на слэш, в голове строить эти три колонки, потом сравнивать это.", "confidence": 0.95}
+{"start": 3998.27, "end": 4001.45, "speaker": "Dan Khasis", "text": "Нет.", "confidence": 0.95}
+{"start": 4001.45, "end": 4004.64, "speaker": "Dan Khasis", "text": "Сделай просто третью колонку с процентом.", "confidence": 0.95}
+{"start": 4004.64, "end": 4007.82, "speaker": "Dan Khasis", "text": "Мне нравится дерево.", "confidence": 0.95}
+{"start": 4007.82, "end": 4011.0, "speaker": "Dan Khasis", "text": "Мне нравится дерево.", "confidence": 0.95}
+{"start": 4011.0, "end": 4014.18, "speaker": "Dan Khasis", "text": "Нам надо его вернуть.", "confidence": 0.95}
+{"start": 4014.18, "end": 4017.36, "speaker": "Dan Khasis", "text": "Но мне не нравится дюрейшн.", "confidence": 0.95}
+{"start": 4017.36, "end": 4020.55, "speaker": "Dan Khasis", "text": "Я не знаю.", "confidence": 0.95}
+{"start": 4020.55, "end": 4023.73, "speaker": "Dan Khasis", "text": "Я не против слова дюрейшн.", "confidence": 0.95}
+{"start": 4023.73, "end": 4026.91, "speaker": "Dan Khasis", "text": "Но нам везде написано time.", "confidence": 0.95}
+{"start": 4026.91, "end": 4030.09, "speaker": "Dan Khasis", "text": "Тогда мы опять должны все везде менять.", "confidence": 0.95}
+{"start": 4030.09, "end": 4033.27, "speaker": "Dan Khasis", "text": "То, как сейчас сделано на продакшене, оно лучше.", "confidence": 0.95}
+{"start": 4033.27, "end": 4036.45, "speaker": "Artur Moskalenko", "text": "Просто немного устарело.", "confidence": 0.95}
+{"start": 4036.45, "end": 4039.64, "speaker": "Artur Moskalenko", "text": "То, что на экране.", "confidence": 0.95}
+{"start": 4039.64, "end": 4042.82, "speaker": "Artur Moskalenko", "text": "Я в чат скину.", "confidence": 0.95}
+{"start": 4042.82, "end": 4046.0, "speaker": "Artur Moskalenko", "text": "Вова, посмотри.", "confidence": 0.95}
+{"start": 4046, "end": 4048.6, "speaker": "Vova", "text": "Да нет, я видел.", "confidence": 0.95}
+{"start": 4048.6, "end": 4051.2, "speaker": "Vova", "text": "Я видел.", "confidence": 0.95}
+{"start": 4051.2, "end": 4053.8, "speaker": "Vova", "text": "Я просто хотел обсудить то, что проценты нам нужны.", "confidence": 0.95}
+{"start": 4053.8, "end": 4056.4, "speaker": "Vova", "text": "Потому что, на мой вкус, вот эта информация ключевая, самая важная.", "confidence": 0.95}
+{"start": 4056.4, "end": 4059.0, "speaker": "Dan Khasis", "text": "Я согласен.", "confidence": 0.95}
+{"start": 4059, "end": 4063.0, "speaker": "Dan Khasis", "text": "Но я не хотел Сергея...", "confidence": 0.95}
+{"start": 4063.0, "end": 4067.0, "speaker": "Dan Khasis", "text": "Бэкэнд должен это считать, а не Сергей.", "confidence": 0.95}
+{"start": 4067.0, "end": 4071.0, "speaker": "Dan Khasis", "text": "Если бэкэнд это не считает, я не хотел Сергея напрягать, делать это на фронтэнде, потому что это неправильно.", "confidence": 0.95}
+{"start": 4077, "end": 4099, "speaker": "Vova", "text": "Окей, я услышал. Вот расцветка роутов. Запланированный роут, частично проеханный роут, целиком проеханный роут.\n\nИ он просто становится...", "confidence": 0.62}
+{"start": 4100, "end": 4104.25, "speaker": "Vova", "text": "заливка пропадает линией.", "confidence": 0.95}
+{"start": 4104.25, "end": 4108.5, "speaker": "Dan Khasis", "text": "В принципе, мне нравится, но я хочу просто запомнить, что у нас есть база данных скорости.", "confidence": 0.95}
+{"start": 4108.5, "end": 4112.75, "speaker": "Dan Khasis", "text": "Если человек преувеличивал скорость, мы, может быть, захотим красно подсвечивать.", "confidence": 0.95}
+{"start": 4112.75, "end": 4117.0, "speaker": "Dan Khasis", "text": "Если он отклонился от маршрута, мы, может быть, захотим иначе это тоже подсвечивать.", "confidence": 0.95}
+{"start": 4117.0, "end": 4121.25, "speaker": "Dan Khasis", "text": "Но не сейчас, у нас нет времени на сейчас.", "confidence": 0.95}
+{"start": 4121.25, "end": 4125.5, "speaker": "Dan Khasis", "text": "И у нас нет технологий это сейчас делать.", "confidence": 0.95}
+{"start": 4125.5, "end": 4129.75, "speaker": "Vova", "text": "Вот отклонение от маршрута красное, это у нас тоже уже запланировано.", "confidence": 0.95}
+{"start": 4129.75, "end": 4134.0, "speaker": "Vova", "text": "Только у тебя бордер потерялся.", "confidence": 0.95}
+{"start": 4136, "end": 4137, "speaker": "Vova", "text": "Нет.", "confidence": 0.99}
+{"start": 4137, "end": 4141.0, "speaker": "Dan Khasis", "text": "Нет, все еще есть.", "confidence": 0.95}
+{"start": 4141.0, "end": 4145.0, "speaker": "Dan Khasis", "text": "Он не такой контрастный, как красный линий.", "confidence": 0.95}
+{"start": 4145.0, "end": 4149.0, "speaker": "Dan Khasis", "text": "Но окей, я согласен в теории, как ты это осуществил.", "confidence": 0.95}
+{"start": 4156, "end": 4188, "speaker": "Vova", "text": "Да, и когда много маршрутов разноцветных на карте, то у них они все... Сейчас я найду это место. Было бы здорово, если бы мы с тобой созвонились, и я тебе показал весь этот файл досконально, чтобы мы прошлись, и ты прокомментировал по всем вещам.\n\nЯ тебе посылал это через Google Doc, но, видимо, у тебя не нашлось времени все прокомментировать. Мы постарались подробно-подробно расписать, как карты должны работать все.", "confidence": 0.93}
+{"start": 4192, "end": 4194.0, "speaker": "Serhii Kasainov", "text": "Давайте вернемся к Facilities, пожалуйста.", "confidence": 0.95}
+{"start": 4194.0, "end": 4196.0, "speaker": "Serhii Kasainov", "text": "Это нам нужно уже.", "confidence": 0.95}
+{"start": 4197, "end": 4203, "speaker": "Vova", "text": "Хорошо. Facilities... Ну, я нарисую.\n\nЯ услышал весь видбэк, где надо по Facilities.", "confidence": 0.93}
+{"start": 4204, "end": 4239, "speaker": "Dan Khasis", "text": "Если уже готово у Сергея, запускайте, как есть, когда facility count больше, чем ноль. Если это уже готово, потому что у нас не хватает facility assignment в раут-пленере, у нас не хватает кнопки facility assignment в раут-листе, и у нас не хватает кнопки facility assignment в раут-снэпшоте, и так далее. И отсутствие этого ассаймента, без этого полностью бесполезно иметь выборка Facilities, если нет ассаймента Facilities.", "confidence": 0.99}
+{"start": 4242, "end": 4265, "speaker": "Igor Skrynkovskyy", "text": "Да, мы, параллельно уже заканчиваем тестирование на стейджинге для четырех сущностей, которые мы договорились. То есть это не только маршрут будет. Ребята, пакет уже как бы все готово сделали, некоторые функции мы уже передали на фронт-энд, чтобы добавлять.\n\nПотому оно будет.", "confidence": 0.99}
+{"start": 4266, "end": 4270, "speaker": "Oleksandr Ishchenko", "text": "Раут-снэпшот, ассайнмент в Facilities обещается. Аккуратный идей на понедельник.", "confidence": 0.99}
+{"start": 4272, "end": 4277, "speaker": "Kateryna Shevchenko", "text": "А если можно еще, у Саши была рука, у нас вопросы были по Facilities тоже.", "confidence": 0.99}
+{"start": 4279, "end": 4282.6, "speaker": "Igor Skrynkovskyy", "text": "У меня тоже еще будут.", "confidence": 0.95}
+{"start": 4282.6, "end": 4286.2, "speaker": "Igor Skrynkovskyy", "text": "Саша давно уже ждет.", "confidence": 0.95}
+{"start": 4286.2, "end": 4289.8, "speaker": "Vova", "text": "Я готов подождать, но у нас действительно порядка 20 вопросов, которые нужно обсудить в рамках вот этого вот фильтрации в Facilities.", "confidence": 0.95}
+{"start": 4289.8, "end": 4293.4, "speaker": "Vova", "text": "Извини, пожалуйста, Вов.", "confidence": 0.95}
+{"start": 4293.4, "end": 4297.0, "speaker": "Vova", "text": "Ничего страшного.", "confidence": 0.95}
+{"start": 4298, "end": 4308, "speaker": "Dan Khasis", "text": "Мы не можем делать полноценный UI-ревью. Мы делаем на этом звонке и особенно сегодня.", "confidence": 0.88}
+{"start": 4312, "end": 4323, "speaker": "Vova", "text": "То есть макеты не показывают тебе на Approve? Ты когда UI-ревью говоришь, ты имеешь в виду Approve макетов?", "confidence": 0.3}
+{"start": 4325, "end": 4340.5, "speaker": "Dan Khasis", "text": "Если мы говорим насчет макетов прямо сейчас, мой как бы ответ тебе это то, что если программисты копируют опять в тупую, как ты рисуешь, у нас будет проблема, потому что ты уже нарушил неправильными лейблами текст.", "confidence": 0.95}
+{"start": 4340.5, "end": 4356.0, "speaker": "Dan Khasis", "text": "Если они в тупую это скопируют, мы снова начнем весь процесс этого уродства с лейблами.", "confidence": 0.95}
+{"start": 4356, "end": 4361, "speaker": "Vova", "text": "Лейблы за скобками, речь о внешнем виде, как это отображать.", "confidence": 0.93}
+{"start": 4361, "end": 4364.27, "speaker": "Dan Khasis", "text": "Пиши тогда Lorem Ipsum, потому что я тебе гарантирую, что они будут это копировать.", "confidence": 0.95}
+{"start": 4364.27, "end": 4367.55, "speaker": "Dan Khasis", "text": "Ты знаешь, сколько крови у нас ушло убрать Destinations Done?", "confidence": 0.95}
+{"start": 4367.55, "end": 4370.82, "speaker": "Dan Khasis", "text": "И она теперь опять здесь появилась.", "confidence": 0.95}
+{"start": 4370.82, "end": 4374.09, "speaker": "Dan Khasis", "text": "Потому что я не в курсе, на что поменяли.", "confidence": 0.95}
+{"start": 4374.09, "end": 4377.36, "speaker": "Vova", "text": "Так пиши Lorem Ipsum тогда.", "confidence": 0.95}
+{"start": 4377.36, "end": 4380.64, "speaker": "Vova", "text": "Или Metric A, Metric B, Metric C.", "confidence": 0.95}
+{"start": 4383.91, "end": 4387.18, "speaker": "Vova", "text": "Хорошо.", "confidence": 0.95}
+{"start": 4387.18, "end": 4390.45, "speaker": "Vova", "text": "Но мне бы хотелось быть в курсе все-таки новых терминологий, правильных.", "confidence": 0.95}
+{"start": 4390.45, "end": 4393.73, "speaker": "Dan Khasis", "text": "Это было месяца назад, это не новая вещь.", "confidence": 0.95}
+{"start": 4393.73, "end": 4397.0, "speaker": "Dan Khasis", "text": "Месяца назад мы это поменяли.", "confidence": 0.95}
+{"start": 4397, "end": 4401, "speaker": "Dan Khasis", "text": "На Completed мы это поменяли.", "confidence": 0.95}
+{"start": 4402, "end": 4456, "speaker": "Dan Khasis", "text": "Здесь не хватает 2 или 3 уровня, Вова, тоже. Здесь полностью все неправильно. Потому что нам нужна воронка.\n\nВоронка значит рядами. Рядами значит, что идет Planned, потом Started, потом Pending, потом Failed, потом Done, потом Total. И на каждом этапе считается процент.\n\nКак ты сделал хуй, когда подсчитается процент? Мы автоматически не можем принимать это как решение. Как это было реализовано в RoutesMap раньше, это правильно.\n\nПросто там было не перешло на новую выборку колонок, и там математика корявая, и почему-то выключили ее из нового RoutesMap.", "confidence": 0.95}
+{"start": 4469, "end": 4487, "speaker": "Vova", "text": "То есть мы хотим здесь еще один ряд, и мы хотим здесь древовидную, я понимаю, древовидную таблицу? Или я неправильно тебя понял? Написать здесь Destinations, потом Pending, Completed, Failed.", "confidence": 0.89}
+{"start": 4488, "end": 4489.67, "speaker": "Dan Khasis", "text": "Мы хотим, как это было раньше.", "confidence": 0.95}
+{"start": 4489.67, "end": 4491.33, "speaker": "Dan Khasis", "text": "Больше мы хотим.", "confidence": 0.95}
+{"start": 4491.33, "end": 4493.0, "speaker": "Vova", "text": "Абсолютно так и было.", "confidence": 0.95}
+{"start": 4494, "end": 4497, "speaker": "Vova", "text": "Мы ничего не придумали. Лейблы здесь только неправильные.", "confidence": 0.99}
+{"start": 4500, "end": 4501, "speaker": "Dan Khasis", "text": "Нет, подожди секунду.", "confidence": 0.99}
+{"start": 4506, "end": 4512, "speaker": "Vova", "text": "А у меня открыто? Сейчас я шарю. Вот как оно было.", "confidence": 0.73}
+{"start": 4517, "end": 4520, "speaker": "Vova", "text": "Здесь написано Total, дальше Label, Value.", "confidence": 0.98}
+{"start": 4522, "end": 4525.43, "speaker": "Dan Khasis", "text": "Я почти уверен, что там было 2 или 3 ряда.", "confidence": 0.95}
+{"start": 4525.43, "end": 4528.86, "speaker": "Dan Khasis", "text": "Если мы сейчас не можем воспроизвести это, может быть потому, что маршрут не начин, может быть там.", "confidence": 0.95}
+{"start": 4528.86, "end": 4532.29, "speaker": "Dan Khasis", "text": "Это только было, когда...", "confidence": 0.95}
+{"start": 4532.29, "end": 4535.71, "speaker": "Dan Khasis", "text": "Да, нужно Legacy открыть.", "confidence": 0.95}
+{"start": 4535.71, "end": 4539.14, "speaker": "Dan Khasis", "text": "Будет как по старому.", "confidence": 0.95}
+{"start": 4539.14, "end": 4542.57, "speaker": "Artur Moskalenko", "text": "Вот так вот.", "confidence": 0.95}
+{"start": 4542.57, "end": 4546.0, "speaker": "Dan Khasis", "text": "Я открыл Legacy, но я не вижу его, к сожалению.", "confidence": 0.95}
+{"start": 4548, "end": 4557, "speaker": "Alex Shulga", "text": "Это для, например, маршрутов, у которых есть деманды. Характерно, там есть 3 леткам.", "confidence": 0.99}
+{"start": 4557, "end": 4561, "speaker": "Dan Khasis", "text": "Да, вот это надо его и напомнить, как это было сделано.", "confidence": 0.98}
+{"start": 4561, "end": 4562, "speaker": "Dan Khasis", "text": "Сейчас сделаем скриншот.", "confidence": 0.99}
+{"start": 4563, "end": 4567.52, "speaker": "Dan Khasis", "text": "Другая проблема, Вова, я вчера рассказывал Семенову и Игорю, это посмотри на timeline.", "confidence": 0.95}
+{"start": 4567.52, "end": 4572.04, "speaker": "Dan Khasis", "text": "Если ты хочешь...", "confidence": 0.95}
+{"start": 4572.04, "end": 4576.56, "speaker": "Dan Khasis", "text": "Я конкретно выбираю свои слова очень специфически.", "confidence": 0.95}
+{"start": 4576.56, "end": 4581.08, "speaker": "Dan Khasis", "text": "За следующие 10 миллисекунд скажи мне, сколько миль или сколько минут маршрут на третьем ряду?", "confidence": 0.95}
+{"start": 4581.08, "end": 4585.6, "speaker": "Dan Khasis", "text": "Время прошло, ответа нет.", "confidence": 0.95}
+{"start": 4585.6, "end": 4590.12, "speaker": "Dan Khasis", "text": "Потому что надо навести мышку.", "confidence": 0.95}
+{"start": 4590.12, "end": 4594.64, "speaker": "Dan Khasis", "text": "А сравни первый и третий маршрут.", "confidence": 0.95}
+{"start": 4594.64, "end": 4599.16, "speaker": "Dan Khasis", "text": "Какой короче?", "confidence": 0.95}
+{"start": 4599.16, "end": 4603.68, "speaker": "Dan Khasis", "text": "Окей, наводи мышку.", "confidence": 0.95}
+{"start": 4603.68, "end": 4608.2, "speaker": "Dan Khasis", "text": "Третий, первый, четвертый, седьмой.", "confidence": 0.95}
+{"start": 4608.2, "end": 4612.72, "speaker": "Dan Khasis", "text": "И ты ни черта не поймешь.", "confidence": 0.95}
+{"start": 4612.72, "end": 4617.24, "speaker": "Dan Khasis", "text": "Какие-то минимум, метрик самых важных мы должны выводить там, например, время, например, количество заказов, например, прогресс.", "confidence": 0.95}
+{"start": 4617.24, "end": 4621.76, "speaker": "Vova", "text": "Какой прогресс у твоего маршрута?", "confidence": 0.95}
+{"start": 4621.76, "end": 4626.28, "speaker": "Dan Khasis", "text": "Никто не знает.", "confidence": 0.95}
+{"start": 4626.28, "end": 4630.8, "speaker": "Dan Khasis", "text": "То есть ты хочешь какой-то кастомизируемый колонок сюда еще выводить?", "confidence": 0.95}
+{"start": 4630.8, "end": 4635.32, "speaker": "Dan Khasis", "text": "Или колонок, или просто write justified.", "confidence": 0.95}
+{"start": 4635.32, "end": 4639.84, "speaker": "Dan Khasis", "text": "Где route from EQA?", "confidence": 0.95}
+{"start": 4639.84, "end": 4644.36, "speaker": "Dan Khasis", "text": "Время, или прогресс, или что-то, или шестеренка.", "confidence": 0.95}
+{"start": 4644.36, "end": 4648.88, "speaker": "Dan Khasis", "text": "Пусть они выбирают.", "confidence": 0.95}
+{"start": 4648.88, "end": 4653.4, "speaker": "Dan Khasis", "text": "Но проблема, что сейчас никакая непонятна.", "confidence": 0.95}
+{"start": 4653.4, "end": 4657.92, "speaker": "Dan Khasis", "text": "Ты открыл 20 маршрутов, ты хочешь два маршрута сделать вместе, ты не понимаешь, ты не знаешь, какой эффект будет.", "confidence": 0.95}
+{"start": 4657.92, "end": 4662.44, "speaker": "Dan Khasis", "text": "Потому что не знаешь даже время или длину ни одного из этих маршрутов.", "confidence": 0.95}
+{"start": 4662.44, "end": 4666.96, "speaker": "Dan Khasis", "text": "А если ты начнешь смотреть на таблицу сверху, они, во-первых, маршруты могут быть не пошаговые.", "confidence": 0.95}
+{"start": 4666.96, "end": 4671.48, "speaker": "Dan Khasis", "text": "То есть ты сравниваешь первые, 50-е и 110-е, ты не сможешь одновременно их видеть на одной странице.", "confidence": 0.95}
+{"start": 4671.48, "end": 4676.0, "speaker": "Dan Khasis", "text": "Я понял проблему.", "confidence": 0.95}
+{"start": 4677, "end": 4693, "speaker": "Vova", "text": "Не проблема, мы сюда нарисуем пару дополнительных колонок. Вопрос ребятам, как будет просто это имплементировать. Хорошо, значит здесь в этой таблице появится просто второй ряд, потом с процентами.", "confidence": 0.68}
+{"start": 4697, "end": 4699.0, "speaker": "Dan Khasis", "text": "Да, нет, это могут быть три ряда.", "confidence": 0.95}
+{"start": 4699.0, "end": 4701.0, "speaker": "Dan Khasis", "text": "Могут быть три даже.", "confidence": 0.95}
+{"start": 4701, "end": 4704, "speaker": "Artur Moskalenko", "text": "Посмотри криншот в чате.", "confidence": 0.95}
+{"start": 4708, "end": 4712.67, "speaker": "Dan Khasis", "text": "Вова, если речь идет о том, что если речь идет о математике, все должно быть как бы в бухгалтерский режим в столбик.", "confidence": 0.95}
+{"start": 4712.67, "end": 4717.33, "speaker": "Dan Khasis", "text": "Если речь идет насчет operational view, им только нужно 2 или 3 метрики.", "confidence": 0.95}
+{"start": 4717.33, "end": 4722.0, "speaker": "Dan Khasis", "text": "Здесь более-менее все правильно, но здесь не хватает available.", "confidence": 0.95}
+{"start": 4722.0, "end": 4726.67, "speaker": "Dan Khasis", "text": "Здесь должно быть plant, actual, я так понимаю.", "confidence": 0.95}
+{"start": 4726.67, "end": 4731.33, "speaker": "Vova", "text": "Да, Вова прав.", "confidence": 0.95}
+{"start": 4731.33, "end": 4736.0, "speaker": "Dan Khasis", "text": "Давайте двигаться.", "confidence": 0.95}
+{"start": 4737, "end": 4737, "speaker": "Dan Khasis", "text": "А не maximum?", "confidence": 0.65}
+{"start": 4738, "end": 4749.25, "speaker": "Dan Khasis", "text": "Maximum – это старая попытка показать, что перед тем, как маршрут начался, какая была максимальная загрузка или максимально достигнута емкость перед актуальной operationalization этого маршрута.", "confidence": 0.95}
+{"start": 4749.25, "end": 4760.5, "speaker": "Dan Khasis", "text": "Но мы будем делать plant versus actual и в процентном выражении.", "confidence": 0.95}
+{"start": 4760.5, "end": 4771.75, "speaker": "Vova", "text": "У нас будет еще available, если в той машине было столько…\n\nЗдесь многие метрики не имеют availability к ним неприменимо.", "confidence": 0.95}
+{"start": 4771.75, "end": 4783.0, "speaker": "Dan Khasis", "text": "Окей, это отдельный разговор.", "confidence": 0.95}
+{"start": 4787, "end": 4791.71, "speaker": "Oleksandr Ishchenko", "text": "Давайте дальше.", "confidence": 0.95}
+{"start": 4791.71, "end": 4796.43, "speaker": "Oleksandr Ishchenko", "text": "Вова, по facility based visibility filter, ты свои 2 вопроса циклил по дизайну, то, что хотел.", "confidence": 0.95}
+{"start": 4796.43, "end": 4801.14, "speaker": "Oleksandr Ishchenko", "text": "Сolution, header level, мы можем двигаться с facility дальше.", "confidence": 0.95}
+{"start": 4801.14, "end": 4805.86, "speaker": "Oleksandr Ishchenko", "text": "Можно я еще один вопрос задам?", "confidence": 0.95}
+{"start": 4805.86, "end": 4810.57, "speaker": "Oleksandr Ishchenko", "text": "Да.", "confidence": 0.95}
+{"start": 4810.57, "end": 4815.29, "speaker": "Igor Skrynkovskyy", "text": "Дэн, смотри, вопрос того, вот Володя показывал дизайн с выпадающим списком facility.", "confidence": 0.95}
+{"start": 4815.29, "end": 4820.0, "speaker": "Igor Skrynkovskyy", "text": "Должны ли мы как-то по-другому отображать список facility для людей?", "confidence": 0.95}
+{"start": 4821, "end": 4826.17, "speaker": "Igor Skrynkovskyy", "text": "Например, есть человек, который у него засанено на 2 facility.", "confidence": 0.95}
+{"start": 4826.17, "end": 4831.33, "speaker": "Igor Skrynkovskyy", "text": "Он должен видеть только своих 2 или видеть все facility?", "confidence": 0.95}
+{"start": 4831.33, "end": 4836.5, "speaker": "Igor Skrynkovskyy", "text": "Которые он засанен.", "confidence": 0.95}
+{"start": 4836.5, "end": 4841.67, "speaker": "Dan Khasis", "text": "Если он супер администратор, он видит все.", "confidence": 0.95}
+{"start": 4841.67, "end": 4846.83, "speaker": "Dan Khasis", "text": "Если он обыкновенный route planner и он пролинкован к одному facility, он видит 1 facility.", "confidence": 0.95}
+{"start": 4846.83, "end": 4852.0, "speaker": "Dan Khasis", "text": "Если он route planner и у него 5 facilities, он видит 5 facilities.", "confidence": 0.95}
+{"start": 4853, "end": 4854, "speaker": "Igor Skrynkovskyy", "text": "Хорошо.", "confidence": 0.72}
+{"start": 4854, "end": 4856.67, "speaker": "Igor Skrynkovskyy", "text": "Для primary аккаунта и админ роли мы должны показывать все facility на данный момент или нет?", "confidence": 0.95}
+{"start": 4856.67, "end": 4859.33, "speaker": "Igor Skrynkovskyy", "text": "Для администратора?", "confidence": 0.95}
+{"start": 4859.33, "end": 4862.0, "speaker": "Igor Skrynkovskyy", "text": "Я не понимаю вопрос.", "confidence": 0.95}
+{"start": 4862.0, "end": 4864.67, "speaker": "Igor Skrynkovskyy", "text": "Для кого?", "confidence": 0.95}
+{"start": 4864.67, "end": 4867.33, "speaker": "Dan Khasis", "text": "Администратор плюс есть у нас роль primary аккаунт.", "confidence": 0.95}
+{"start": 4867.33, "end": 4870.0, "speaker": "Igor Skrynkovskyy", "text": "Это главный route аккаунт.", "confidence": 0.95}
+{"start": 4870.0, "end": 4872.67, "speaker": "Igor Skrynkovskyy", "text": "И у нас есть администратор.", "confidence": 0.95}
+{"start": 4872.67, "end": 4875.33, "speaker": "Igor Skrynkovskyy", "text": "Роль администратора.", "confidence": 0.95}
+{"start": 4875.33, "end": 4878.0, "speaker": "Igor Skrynkovskyy", "text": "Я думаю, что пока все администраторы видят все facilities.", "confidence": 0.95}
+{"start": 4878.0, "end": 4880.67, "speaker": "Dan Khasis", "text": "Ок.", "confidence": 0.95}
+{"start": 4880.67, "end": 4883.33, "speaker": "Dan Khasis", "text": "Значит все мы правильно сделали.", "confidence": 0.95}
+{"start": 4886, "end": 4886, "speaker": "Vova", "text": "Все.", "confidence": 0.66}
+{"start": 4887, "end": 4897, "speaker": "Vova", "text": "Если на человеке засанена только 1 facility, то это не drop down. То есть он не может switch на другой facility. У него просто будет написано facility такая-то и он не будет ничего с этим делать.", "confidence": 0.99}
+{"start": 4897, "end": 4905.42, "speaker": "Igor Skrynkovskyy", "text": "Мы не можем так сделать.", "confidence": 0.95}
+{"start": 4905.42, "end": 4913.83, "speaker": "Igor Skrynkovskyy", "text": "Почему?", "confidence": 0.95}
+{"start": 4913.83, "end": 4922.25, "speaker": "Dan Khasis", "text": "Потому что он должен иметь возможность выбрать или текущий scope видимости, то что дерево у нас сейчас, или выбрать facility.", "confidence": 0.95}
+{"start": 4922.25, "end": 4930.67, "speaker": "Dan Khasis", "text": "Вова имеет ввиду, что UI-контроллер не должен выглядеть, создавать неправильную иллюзию, что его можно как-то модифицировать, если его нельзя модифицировать, потому что размер его набора элементов всегда будет 0 или 1.", "confidence": 0.95}
+{"start": 4930.67, "end": 4939.08, "speaker": "Dan Khasis", "text": "И какой смысл показывать ему контроллер, который динамический.", "confidence": 0.95}
+{"start": 4939.08, "end": 4947.5, "speaker": "Dan Khasis", "text": "И в том смысле это просто обыкновенный div отпутать, который стилистически выглядит так же, но без стрелки и без возможности с ним как-то иметь interaction.", "confidence": 0.95}
+{"start": 4947.5, "end": 4955.92, "speaker": "Dan Khasis", "text": "Вот что Вова имеет ввиду.", "confidence": 0.95}
+{"start": 4964.33, "end": 4972.75, "speaker": "Igor Skrynkovskyy", "text": "Да, но тут вопрос, ему же нужно будет как-то скинуть, потому что вот этот контроллер он меняет поведение, меняет фильтр отображения данных.", "confidence": 0.95}
+{"start": 4972.75, "end": 4981.17, "speaker": "Igor Skrynkovskyy", "text": "То есть у него два состояния будет.", "confidence": 0.95}
+{"start": 4981.17, "end": 4989.58, "speaker": "Igor Skrynkovskyy", "text": "Или покажи мне то facility одно единственное, которое есть, или покажи мне все так, как я видел до этого.", "confidence": 0.95}
+{"start": 4989.58, "end": 4998.0, "speaker": "Igor Skrynkovskyy", "text": "Если мы будем просто показывать здесь типа facility там LA North 1, то он будет только это видеть.", "confidence": 0.95}
+{"start": 4999, "end": 5011, "speaker": "Vova", "text": "Так это мы и хотим, чтобы ограничить его область видимости этой facility. Если мы назначаем ему область видимости на одну facility, то ничего за ее пределами видеть больше не должен. И не должен иметь возможности выйти.", "confidence": 0.99}
+{"start": 5012, "end": 5064, "speaker": "Dan Khasis", "text": "Он даже не должен существовать, например, в scope у нас есть репорт, где мы смотрим за рабочих scope их бизнеса, и у нас есть репорт, где они смотрят за рабочих другого бизнеса. И мы не хотим, чтобы они знали, что даже существует в помине репорт, который позволяет нам шпионить на них, сколько они email посылают, кому, как часто, сколько митинги они ходят, сколько зумов они ходят, длина зума, сколько они сессии имеют в приложениях разных. То есть мы знаем, как администраторы, но они не знают, потому что у них нету прав.\n\nТак в этом случае здесь просто обыкновенный statement, что если facility count у сессии у этого чувака меньше, чем единица, мы только отпутаем facility, на который он имеет право смотреть. Вот и все.", "confidence": 0.99}
+{"start": 5069, "end": 5070, "speaker": "Igor Skrynkovskyy", "text": "Окей, я понял.", "confidence": 0.99}
+{"start": 5070, "end": 5078.83, "speaker": "Igor Skrynkovskyy", "text": "То есть мы, если у чувака есть одна facility, то мы показываем, даем доступ только к одной facility, и сразу ему как бы фильтр навязываем сразу, без возможности переключения.", "confidence": 0.95}
+{"start": 5078.83, "end": 5087.67, "speaker": "Igor Skrynkovskyy", "text": "Дэн, подтверди, пожалуйста.", "confidence": 0.95}
+{"start": 5087.67, "end": 5096.5, "speaker": "Dan Khasis", "text": "Это даже не навязка фильтра, вы обязаны динамически пересекать в рамках сессии и реквестов на все ресурсы, вы обязаны накладывать фильтр, если он существует, насчет facility.", "confidence": 0.95}
+{"start": 5096.5, "end": 5105.33, "speaker": "Dan Khasis", "text": "Нет, смотри, это понятно.", "confidence": 0.95}
+{"start": 5105.33, "end": 5114.17, "speaker": "Igor Skrynkovskyy", "text": "Вопрос в том, что мы меняем текущие, для тех, у кого есть facility, мы меняем текущее поведение, используя деревовидную систему скоупа видимости, на вот эту систему, что мы сразу включаем facility.", "confidence": 0.95}
+{"start": 5114.17, "end": 5123.0, "speaker": "Igor Skrynkovskyy", "text": "Володь, вернись, пожалуйста, назад.", "confidence": 0.95}
+{"start": 5125, "end": 5127.5, "speaker": "Vova", "text": "Хорошо, секунду.", "confidence": 0.95}
+{"start": 5127.5, "end": 5130.0, "speaker": "Igor Skrynkovskyy", "text": "Правильно, Дэн?", "confidence": 0.95}
+{"start": 5133, "end": 5153.33, "speaker": "Igor Skrynkovskyy", "text": "То есть мы сразу показываем facility 1, 2, 3, и сразу фильтр применяется на все те объекты или там на ту страницу, которую он смотрит.", "confidence": 0.95}
+{"start": 5153.33, "end": 5173.67, "speaker": "Dan Khasis", "text": "Это верно, но чтобы немножко технологически что-то описать, что вот это не равно enclose.", "confidence": 0.95}
+{"start": 5173.67, "end": 5194.0, "speaker": "Dan Khasis", "text": "Если говорить на уровне базы данной, если здесь было 500 facilities, здесь должен быть свой собственный статус, который называется all, или какой-то имеет свой уникальный идентификатор.", "confidence": 0.95}
+{"start": 5194.0, "end": 5214.33, "speaker": "Dan Khasis", "text": "Мы ни в коем случае не хотим делать end, facility, in, и вот этот массив сюда закрывать, потому что если это all, отсутствие фильтра end является полностью открытой видимость на пересечении юзер таблицы плюс facilities без лишних джойнов, потому что у нас много раз на скоупе получалось, где в списке есть тысяча элементов, и какие-то придурки выбирают нарочно 999 элементов, и эти одишки переходят с front-end на back-end, если там нет passing errors каким-то волшебным образом, и если есть и доходит это, тогда query engine начинает еле справляться с enclose, который имеет 999 uuids, и все взрывается к чертовой матери, так мы сделали, что максимальное количество индивидуально выбранных элементов, не более 100 или 500, и после этого ты обязан выбирать all, а all идет прямой join без enclose, потому что это взорвет систему, ты понимаешь?", "confidence": 0.95}
+{"start": 5214.33, "end": 5234.67, "speaker": "Dan Khasis", "text": "Я понимаю, но all это в случае, если у чувака есть доступ к всем facilities.", "confidence": 0.95}
+{"start": 5234.67, "end": 5255.0, "speaker": "Dan Khasis", "text": "Нет, нет, больше чем одной.", "confidence": 0.95}
+{"start": 5256, "end": 5259.0, "speaker": "Vova", "text": "Нет.", "confidence": 0.95}
+{"start": 5259.0, "end": 5262.0, "speaker": "Vova", "text": "All это включить доступ, показать мне данные всех, которым я имею...", "confidence": 0.95}
+{"start": 5262, "end": 5274.57, "speaker": "Igor Skrynkovskyy", "text": "А, я понял, я понял, что ты имеешь в виду, окей, окей.", "confidence": 0.95}
+{"start": 5274.57, "end": 5287.14, "speaker": "Dan Khasis", "text": "Потому что у тебя есть первая таблица members, вторая таблица facilities, третья таблица members plus facilities, там member плюс entity type, плюс entity id, в этом случае facilities, и all это просто inner join member и facilities, и это all без никаких and, in фильтров.", "confidence": 0.95}
+{"start": 5287.14, "end": 5299.71, "speaker": "Dan Khasis", "text": "А если они начинают выбирать индивидуально галочки, тогда мы имеем право вставлять эти параметры сюда.", "confidence": 0.95}
+{"start": 5299.71, "end": 5312.29, "speaker": "Dan Khasis", "text": "Отсутствие галочек является inner join на facilities.", "confidence": 0.95}
+{"start": 5312.29, "end": 5324.86, "speaker": "Dan Khasis", "text": "Но супер аккуратно надо сделать, потому что если в аккаунте 0 facilities, а вы включите вот это, тогда у всех взорвется вся система.", "confidence": 0.95}
+{"start": 5324.86, "end": 5337.43, "speaker": "Dan Khasis", "text": "То есть это только может быть, когда в аккаунте есть более одного facility заактивировано, и может быть даже нам надо настройку сделать в advanced setting, что там позволять или не позволять видимость за границей собственного пролинкованного facility на уровне рута, потому что мы не сделаем один правильный шаг, и все взорвется к чертовой матери.", "confidence": 0.95}
+{"start": 5337.43, "end": 5350.0, "speaker": "Dan Khasis", "text": "Вся система.", "confidence": 0.95}
+{"start": 5352, "end": 5406, "speaker": "Vova", "text": "Я еще хотел спросить, когда человек покупает себе addon facilities и включает его, мы же хотим сделать какой-то wizard, наверное, который позволит ему взять и теперь эти facilities внедрить, то есть протегать все сущности, которые есть в системе каким-то образом, или они будут автоматически на какой-то дефолтный facility записываться. Как это будет работать? Сразу после включения модуля facilities.\n\nЧто произойдет с сущностями? Как они будут затеганы? Или никак они не будут затеганы?\n\nМы хотим, чтобы после включения все было протегано. Желательно, чтобы мы форсили, чтобы все было протегано. Я правильно понимаю?\n\nНо как мы к этому придем? От состояния ничего не протегано к состоянию все протегано.", "confidence": 0.95}
+{"start": 5409, "end": 5411, "speaker": "Igor Skrynkovskyy", "text": "Так они будут сами руками тегать.", "confidence": 0.99}
+{"start": 5412, "end": 5424, "speaker": "Vova", "text": "Да, но у них будет процесс тогда, если мы дадим им свободу иметь не протеганные вещи, то тогда возникает куча вопросов, а как быть с непротеганными вещами? Кто их видит?", "confidence": 0.99}
+{"start": 5426, "end": 5433, "speaker": "Serhii Kasainov", "text": "У меня тот же вопрос с одним facility. Он принудительно выбран, а что делать с раутами, которые еще не ассайнуты на facility?", "confidence": 0.99}
+{"start": 5435, "end": 5437, "speaker": "Serhii Kasainov", "text": "Когда их показывать?", "confidence": 0.71}
+{"start": 5437, "end": 5452, "speaker": "Vova", "text": "Мне казалось, что самым идеальным решением было бы не разрешать этого переходного состояния, когда у тебя частично протегано, частично не протегано. То есть если ты включил facility, значит у тебя автоматически все должно протегаться.", "confidence": 0.98}
+{"start": 5453, "end": 5469, "speaker": "Igor Skrynkovskyy", "text": "Я потому и говорил насчет вот этого, что меняем ли мы логику, потому что если мы ее не меняем и мы вставляем типа покажи мне facility или выключи facility, но оставь мне тот набор тегов, которые я сейчас видел.", "confidence": 0.99}
+{"start": 5470, "end": 5472, "speaker": "Igor Skrynkovskyy", "text": "Или там те правила.", "confidence": 0.99}
+{"start": 5488, "end": 5742, "speaker": "Dan Khasis", "text": "Опять возвращаясь к ситуации, что есть ситуация, мы говорили раньше насчет accountability и visibility. Я покажу вам на скопе через секунду. Accountability это кто ответственный?\n\nVisibility это кто имеет право видеть? Экземпляр. Florida ответственный за все операции Tampa, Miami, Tallahassee и Jacksonville.\n\nВсе бухгалтерские вещи, все отчеты, все убытки, все доходы ответственны Mr. или Mrs. CFO Florida Executive Vice President, например. Потом в Нью-Йорке есть, потом в Калифорнии есть. Если вы думаете, что эти люди смотрят на какой-то заказ чьей-то бабушки каких-то цветов, это не происходит.\n\nТам есть ярхия, правильно? Там есть route manager, там есть dispatcher, под dispatcher есть водитель, потом идет destination, потом идет заказ, потом идет order line item, потом идет на заказе бабушка. И сумма всех этих вещей снизу наверх, в какой-то момент этот человек ответственный за performance его отделов, его складов, сколько денег они платят, как они наторговались на аренду, вовремя ли его водители и их менеджеры приходят на работу, правильно?\n\nТам же больше, чем только маршруты происходят в этом бизнесе. А здесь visibility это уже рядовые люди. Имеет ли этот человек право смотреть на это?\n\nДа, он имеет. Будет ли он смотреть? Нет, он не будет.\n\nПотому что это не его задача, это не его работа. Он бизнес аналист или он executive vice-president, не смотрит на это. Он смотрит на SLA, он смотрит на percentages и так далее.\n\nVisibility это имеет ли этот человек право смотреть на эти транзакции? Возможно, кстати, даже в рамках HIPAA аккаунта, что бухгалтеры не имеют права смотреть на медицинские данные. Например, в случае выборки facilities, если ты линкуешь в какую-то сущность, в какой-то другой сущности, мы тебе даем право.\n\nЭто почти как еще один пивот в архе нашего team management, что это почти как сказать, что team management теперь не выглядит как юзер под юзером под юзером, а team management выглядит как facility и другой facility, и один юзер может быть двумя facility одновременно, и в одном facility могут быть разные юзеры, но одновременно этот юзер может быть родительский юзер других юзеров, потому что это менеджер, это route planner, это водитель, но иногда этот водитель помогает работать в другом складу по субботам, заработать лишних денег, потому что у них не хватает водителей.\n\nУ него есть видимость в обоих facility, потому что или они руками включают субботу видимость на этот facility, и он берет и получает маршрут, а маршрут может быть пролинкован к одному facility в одно время, и юзер линкуется к маршруту, но если этот маршрут внутри facility, а тот юзер не имеет доступа на тот facility, он не в режиме глобальной включенности застройки, там restrict access, restrict user access by facility, по умолчанию вначале она, например, false, они включают галочку, теперь он только видит маршруты, даже если он на него засанен, он его не видит, потому что у него нету пролинковки на тот facility.", "confidence": 0.97}
+{"start": 5748, "end": 5780, "speaker": "Vova", "text": "Мы получим такую ситуацию, когда кто-то на аккаунте включил facilities, ни одна сущность не пролинкована к facilities, и получится, что все одновременно потеряют визибилити всех сущностей в системе, но этого допустить явно нельзя, поэтому в процессе включения facilities, как будто бы нужно все как куда-то протегать, чтобы люди не потеряли визибилити.", "confidence": 0.76}
+{"start": 5793, "end": 6303, "speaker": "Dan Khasis", "text": "Да, я покажу вам что-то. Workspace, мы идем на accountability, что мы видим автоматически, что у нас отсутствует. Во-первых, сколько людей или сколько сущностей имеют линковку или не имеют линковку.\n\nЯ много раз говорил, повторю опять, без этих дэшбордс большим бизнесом полностью наплевать насчет, что мы делаем. У тебя есть столько-то водителей без facilities, у тебя есть столько-то route-менеджеров без линковки на бизнес-юнит, у тебя столько есть машин, которые не пролинкованы на бизнес-юнит. И потом ты на любой из этих цифр кликаешь и ты видишь, что у меня есть столько-то географии, которые не пролинкованы к юзерам.\n\nПочему у меня юзер не пролинкован к географии? Я должен знать, сколько у меня водителей во Флориде, и я не знаю. И когда меня спросят бизнес-хозяева, я ни черта им не отвечу, я не знаю, сколько водителей во Флориде.\n\nТеперь я вижу всех водителей в этой географии, которые ... Сколько географий без водителей или наизнанку, мы и то, и то поддерживаем. Можешь делать активные сущности, все сущности с Accountable или без.\n\nИ теперь ты можешь кликнуть и провалиться. Покажи мне всех юзеров без родительского юзера, например. У этого человека 47 ролей, и у него нет родительского юзера.\n\nЭто проблема. Давай я починю эту проблему. Вот я ее могу починить здесь.\n\nОк. Я кликаю на человека. Теперь есть метрики насчет юзера.\n\nЭтот юзер пролинкован к 5 фасилитетов, 7 географий, 7 бизнес-юнитов, 5 line of business, столько-то скиллов, столько-то driver profiles, и все идет по датам. То есть чувак имел driver profile или driver скиллы в прошлом году такие-то, но теперь у него он получил больше квалификаций. Так теперь у него старые квалификации закрылись, открылись новые.\n\nИ начинается по времени, что окей, у этого в этой географии я выбираю. Теперь дерево. У нас по-прежнему нет дерева, к сожалению.\n\nТеперь с такого-то дня до какой-то день и потом кто ответственный и за что он ответственный. За performance, за топливо, за покупку инструментов, возобновление инвентарии в машинах и так далее, выбирается. И теперь существует линковка.\n\nТеперь все репорты по пересекаются с таймштемпами этих сущностей. И говорят, что да, сегодня этот человек в facility 1, но когда performance у facility 2 было говно, это было из-за этого человека. Но мы сейчас делаем линковку неправильно.\n\nМы говорим, что человек пролинкован к этому facility. Если он между facilities прыгает постоянно, по разным причинам, ты никогда не будешь знать, что было в том facility на тот момент, если у тебя нет эффективной даты начала и конца связи. Это показывает текущую иерархию.\n\nНо все записывается на уровне по таймштемпу. Аккаунтабилити, это мы говорим насчет ответственности. Кто ответственный и за что.\n\nИ на какой момент этот человек был ответственный за это. И можно выбрать очень низкий уровень или можно более высокий уровень. И теперь ты выбираешь, что этот человек был ответственный.\n\nКогда ты смотришь на репорты, ты можешь увидеть, что если ты делаешь группировку по facility и accountable person, что за один год ты группирован по месяцу, ты можешь видеть пять разных имен, потому что в январе был один человек, во феврале другой, в марте третий и так далее. Почему? Потому что все идет по таймлайну.\n\nБез таймлайнов это все детский сад. Почему? Потому что они наняли нового директора.\n\nЭтот человек шикарный. Они не могут доказать, что performance улучшился с этим человеком. Почему?\n\nПотому что все исторические транзакции теперь привязаны к нему. у нас есть bulk режим тоже. То есть ты можешь прибавить отдел, например, operations, fleet management, driver safety.\n\nУ нас ничего этого нет. И здесь ты можешь множество одновременно наращивать. И это очень важно, потому что все репорты.\n\nТеперь, когда люди будут заходить в систему, когда они уже зайдут в систему, у них динамически поменяется по умолчанию. Они имеют право, может быть, видеть много, но по умолчанию у них выбираются только те, на которых у них есть accountability. То есть, если я ответственный за 500 докторов, я по умолчанию выбираю 500, которые на меня пролинкованы.\n\nНо, в принципе, как суперадминистратор я имею право видеть все. Так теперь я выбираю все, она мне покажет все моментально. Как она это сделает?\n\nОна это сделает, потому что у меня есть право видеть все, но я пролинкован к более узкому субсету всего. Что это значит? Это значит, что по дереву юзеров подо мной 500 юзеров.\n\nЯ имею право видеть все их данные, но я только пролинкован к двумя facilities. В режиме строго facility линковки я только вижу пересечение юзеров и facilities, которые на меня пролинкованы. Потому что эти юзеры тоже пролинкованы к facilities.\n\nА в расслабленном режиме, с которым мы запускаемся оригинально, по умолчанию галочка выбирает два facilities, но я имею право видеть все facilities, потому что я как бы в shared организации. Это почти то же самое, как slack каналы. Похитрее, но почти то же самое.\n\nИ опять видите, что по умолчанию никто не показывает транзакции, как мы показываем маршруты. Показываются агрегаты. Сегодняшние маршруты, вчерашние, завтрашние и их статус.\n\nСколько было сделано, сколько было сделано, сколько было не сделано. По разному типу. Started, in progress, completed, orders, notes и так далее.\n\nИ потом только ты уже углубляешься и видишь список этих маршрутов или заказов и так далее.", "confidence": 0.79}
+{"start": 6312, "end": 6322, "speaker": "Vova", "text": "Это все прекрасно. Мне интересно, мы этим путем идем или нет? Игорь, у нас так это все имплементировано?", "confidence": 0.74}
+{"start": 6323, "end": 6334, "speaker": "Igor Skrynkovskyy", "text": "На данный момент нет. Но у нас есть возможность вот этот расслабленный мод делать и второй. У нас сейчас типа два мода.", "confidence": 0.74}
+{"start": 6335, "end": 6346, "speaker": "Igor Skrynkovskyy", "text": "Мы видим то, что на facility назначено и второй мод это то, что мы видим то, как было до этого для того, чтобы можно было делать assignment.", "confidence": 0.99}
+{"start": 6347, "end": 6352, "speaker": "Vova", "text": "Assignment у нас имеет дату эффективно?", "confidence": 0.88}
+{"start": 6353, "end": 6355, "speaker": "Igor Skrynkovskyy", "text": "Нет, конечно нет.", "confidence": 0.99}
+{"start": 6361, "end": 6368.64, "speaker": "Dan Khasis", "text": "А должны?", "confidence": 0.95}
+{"start": 6368.64, "end": 6376.27, "speaker": "Dan Khasis", "text": "Это это это стандартная практика SCD называется slow data warehousing slowly changing dimensions.", "confidence": 0.95}
+{"start": 6376.27, "end": 6383.91, "speaker": "Dan Khasis", "text": "И у нас сейчас сделана реализация неправильно.", "confidence": 0.95}
+{"start": 6383.91, "end": 6391.55, "speaker": "Dan Khasis", "text": "Это хороший график, который это объясняет, что fixed dimension override, add new row, add new attribute and history.", "confidence": 0.95}
+{"start": 6391.55, "end": 6399.18, "speaker": "Dan Khasis", "text": "Мы сделали номер 2.", "confidence": 0.95}
+{"start": 6399.18, "end": 6406.82, "speaker": "Dan Khasis", "text": "Может быть, что-то между 0.2 и 0.3.", "confidence": 0.95}
+{"start": 6406.82, "end": 6414.45, "speaker": "Dan Khasis", "text": "Но ты фиг поймешь, кто был ответственный за самый худший месяц в истории фирмы.", "confidence": 0.95}
+{"start": 6414.45, "end": 6422.09, "speaker": "Dan Khasis", "text": "Ты никогда это не поймешь.", "confidence": 0.95}
+{"start": 6422.09, "end": 6429.73, "speaker": "Dan Khasis", "text": "Особенно если администраторы бесконечно будут менять людей.", "confidence": 0.95}
+{"start": 6429.73, "end": 6437.36, "speaker": "Dan Khasis", "text": "override, override, override, override.", "confidence": 0.95}
+{"start": 6437.36, "end": 6445.0, "speaker": "Dan Khasis", "text": "Окей, у нас есть 15 минут.", "confidence": 0.95}
+{"start": 6445, "end": 6447, "speaker": "Igor Skrynkovskyy", "text": "Я записал.", "confidence": 0.99}
+{"start": 6447, "end": 6448, "speaker": "Dan Khasis", "text": "Скорее говорите.", "confidence": 0.95}
+{"start": 6450, "end": 6454.83, "speaker": "Vova", "text": "Если можно, Жень, ты покажешь маплееры.", "confidence": 0.95}
+{"start": 6454.83, "end": 6459.67, "speaker": "Vova", "text": "Можно я покажу вещь, которую нужно в девелопмент отдать, чтобы Дэн быстро сказал свое да.", "confidence": 0.95}
+{"start": 6459.67, "end": 6464.5, "speaker": "Vova", "text": "Это макет для драйвера, который выгружает машину.", "confidence": 0.95}
+{"start": 6464.5, "end": 6469.33, "speaker": "Vova", "text": "Он приехал на дестонейшн и он выгружает мороженое.", "confidence": 0.95}
+{"start": 6469.33, "end": 6474.17, "speaker": "Vova", "text": "Макс уже отнес эти макеты, показал мини-мелдсу и им понравилось.", "confidence": 0.95}
+{"start": 6474.17, "end": 6479.0, "speaker": "Vova", "text": "Теперь осталась отмашка от Дэна.", "confidence": 0.95}
+{"start": 6480, "end": 6483, "speaker": "Dan Khasis", "text": "Почему он показывает им, чтобы они запробовали?", "confidence": 0.98}
+{"start": 6486, "end": 6494, "speaker": "Vova", "text": "Хороший вопрос. Мне не было возможности показать, а им нужно было срочно что-то показывать. Я предложил им дать наши готовые макеты.", "confidence": 0.99}
+{"start": 6500, "end": 6503.4, "speaker": "Dan Khasis", "text": "Я не знаю.", "confidence": 0.95}
+{"start": 6503.4, "end": 6506.8, "speaker": "Dan Khasis", "text": "Здесь, во-первых, по-прежнему сверху неправильный дизайн.", "confidence": 0.95}
+{"start": 6506.8, "end": 6510.2, "speaker": "Vova", "text": "Вот это неправильно.", "confidence": 0.95}
+{"start": 6510.2, "end": 6513.6, "speaker": "Dan Khasis", "text": "Ты хотел тень добавить сюда.", "confidence": 0.95}
+{"start": 6513.6, "end": 6517.0, "speaker": "Dan Khasis", "text": "Да, но я столько раз уже сказал, что это просто...", "confidence": 0.95}
+{"start": 6519, "end": 6525, "speaker": "Vova", "text": "Тень добавим. Хорошо. Это я услышал, это мы еще не успели сделать.\n\nПросто по всем макетам разнести.", "confidence": 0.99}
+{"start": 6525, "end": 6528.0, "speaker": "Dan Khasis", "text": "Здесь нет заказа.", "confidence": 0.95}
+{"start": 6528.0, "end": 6531.0, "speaker": "Dan Khasis", "text": "Где здесь информация насчет заказа?", "confidence": 0.95}
+{"start": 6531.0, "end": 6534.0, "speaker": "Vova", "text": "Да, у них нет заказа как такового.", "confidence": 0.95}
+{"start": 6534.0, "end": 6537.0, "speaker": "Vova", "text": "У них есть кастомер, к которому они приехали и они приезжают туда без заказа.", "confidence": 0.95}
+{"start": 6537.0, "end": 6540.0, "speaker": "Vova", "text": "Это не совсем правда.", "confidence": 0.95}
+{"start": 6540.0, "end": 6543.0, "speaker": "Dan Khasis", "text": "Иногда они имеют заказ, иногда они его обрабатывают.", "confidence": 0.95}
+{"start": 6543, "end": 6610, "speaker": "Vova", "text": "Здесь, может быть, тогда просто будет прописано какой-то ордер. И у них... Насколько я понял, их use case, они приезжают, у них нет конкретной цели, что привезти.\n\nОни узнают, что нужно выгрузить, на месте уже приехав. И их задача в том, чтобы начать выгрузку. После этого запускается сканер.\n\nКогда ты сканируешь банки, коробки с мороженым, и у тебя автоматически счетчик находит это в inventory, находит цену и считает, сколько ты выгрузил. И считает total. И ты ходишь, сканируешь эти коробки одну за другой, и у тебя набивается список вещей, которые ты выгрузил.\n\nПотом ты нажимаешь done, заканчиваешь сканирование. Ты можешь еще по входу, по мере сканирования, если тебе, например, нужно выгрузить много однотипных, ты нажимаешь плюс-плюс-плюс, или нажимаешь на цифру и вводишь просто с клавиатуры количество. И таким образом у тебя автоматически ты можешь ввести лог того, что ты выгрузил.", "confidence": 0.99}
+{"start": 6612, "end": 6616.76, "speaker": "Dan Khasis", "text": "Здесь мы должны отдельно обсудить.", "confidence": 0.95}
+{"start": 6616.76, "end": 6621.52, "speaker": "Vova", "text": "Здесь есть проблема.", "confidence": 0.95}
+{"start": 6621.52, "end": 6626.29, "speaker": "Dan Khasis", "text": "Когда мы можем это сделать?", "confidence": 0.95}
+{"start": 6626.29, "end": 6631.05, "speaker": "Dan Khasis", "text": "Я не знаю, Вовик.", "confidence": 0.95}
+{"start": 6631.05, "end": 6635.81, "speaker": "Dan Khasis", "text": "Мы отдельно обсудим это.", "confidence": 0.95}
+{"start": 6635.81, "end": 6640.57, "speaker": "Dan Khasis", "text": "У нас проблема не с мобильным приложением.", "confidence": 0.95}
+{"start": 6640.57, "end": 6645.33, "speaker": "Dan Khasis", "text": "Кстати, а что backend поддерживает ноль из всего, что ты предлагаешь?", "confidence": 0.95}
+{"start": 6645.33, "end": 6650.1, "speaker": "Dan Khasis", "text": "Просто ноль.", "confidence": 0.95}
+{"start": 6650.1, "end": 6654.86, "speaker": "Igor Skrynkovskyy", "text": "Это неправда.", "confidence": 0.95}
+{"start": 6654.86, "end": 6659.62, "speaker": "Dan Khasis", "text": "Конкретно то, что Володя сделали, мы 2-3 недели назад сделали под это API.", "confidence": 0.95}
+{"start": 6659.62, "end": 6664.38, "speaker": "Igor Skrynkovskyy", "text": "Вы даете прайсинг уже?", "confidence": 0.95}
+{"start": 6664.38, "end": 6669.14, "speaker": "Igor Skrynkovskyy", "text": "Вы даете прайсинг?", "confidence": 0.95}
+{"start": 6669.14, "end": 6673.9, "speaker": "Igor Skrynkovskyy", "text": "Нет, но мы на уровне destination даем возможность.", "confidence": 0.95}
+{"start": 6673.9, "end": 6678.67, "speaker": "Igor Skrynkovskyy", "text": "Как он будет читать деньги без прайсинга?", "confidence": 0.95}
+{"start": 6678.67, "end": 6683.43, "speaker": "Igor Skrynkovskyy", "text": "Дэн, когда мы получим запрубленную таблицу, которой мы будем скачивать данные, мы просто свяжем все нити.", "confidence": 0.95}
+{"start": 6683.43, "end": 6688.19, "speaker": "Igor Skrynkovskyy", "text": "Сейчас, на данный момент, у нас разные части готовы, но они не связаны.", "confidence": 0.95}
+{"start": 6688.19, "end": 6692.95, "speaker": "Igor Skrynkovskyy", "text": "Вот эта часть, которая здесь есть, она уже имеет связь с destination, с order, с этим item, который, в свою очередь, имеет связь с внутренней ценой.", "confidence": 0.95}
+{"start": 6692.95, "end": 6697.71, "speaker": "Igor Skrynkovskyy", "text": "Они все не синхронизируются, но это все есть возможность добавлять.", "confidence": 0.95}
+{"start": 6697.71, "end": 6702.48, "speaker": "Dan Khasis", "text": "Я могу это детально рассказать отдельно, чтобы не тянуть всех.", "confidence": 0.95}
+{"start": 6707.24, "end": 6712.0, "speaker": "Dan Khasis", "text": "Так давай отдельно вернемся к этому.", "confidence": 0.95}
+{"start": 6714, "end": 6718, "speaker": "Vova", "text": "Чтобы закончить показывать, дальше водитель берет автограф.", "confidence": 0.99}
+{"start": 6719, "end": 6727.9, "speaker": "Dan Khasis", "text": "Я просто пытаюсь сказать, что это неправильный подход.", "confidence": 0.95}
+{"start": 6727.9, "end": 6736.8, "speaker": "Dan Khasis", "text": "Если кратко описать, почему это неправильный подход, потому что мы возвращаемся почти к той же проблеме, которая была на левом меню route snapshot, что ты пытаешься сделать почти как игру для бухгалтерского workflow.", "confidence": 0.95}
+{"start": 6736.8, "end": 6745.7, "speaker": "Dan Khasis", "text": "Когда у тебя есть 50 вещей, и они в этом корявом списке, и она не выглядит как будто она в столбик прибавляется, это начинается супер неудобно или неприятно.", "confidence": 0.95}
+{"start": 6745.7, "end": 6754.6, "speaker": "Dan Khasis", "text": "Здесь это не выглядит как финансовый workflow, хотя это финансовый workflow.", "confidence": 0.95}
+{"start": 6754.6, "end": 6763.5, "speaker": "Dan Khasis", "text": "Потом я бы не делал супер сложный один workflow в том же визуальном как здесь.", "confidence": 0.95}
+{"start": 6763.5, "end": 6772.4, "speaker": "Dan Khasis", "text": "Я бы сделал первый шаг, ты сделал это, ты закончил, ты идешь на второй шаг, ты идешь на третий шаг.", "confidence": 0.95}
+{"start": 6772.4, "end": 6781.3, "speaker": "Dan Khasis", "text": "Как этот чувак будет знать, у него в списке будет теперь 77 объектов, и он будет иметь скроллить хуй знает сколько, и потом в конце он увидит в самом-самом низу после скроллить бесконечно вот это.", "confidence": 0.95}
+{"start": 6781.3, "end": 6790.2, "speaker": "Dan Khasis", "text": "Нет, это неправильно.", "confidence": 0.95}
+{"start": 6790.2, "end": 6799.1, "speaker": "Dan Khasis", "text": "Это взрывается после пяти строк.", "confidence": 0.95}
+{"start": 6799.1, "end": 6808.0, "speaker": "Dan Khasis", "text": "Нет, здесь можно сделать какой-то дополнительный.", "confidence": 0.95}
+{"start": 6808, "end": 6814, "speaker": "Vova", "text": "Я понял. Если здесь очень много вещей, можно это все схлопнуть в отдельный уровень.", "confidence": 0.99}
+{"start": 6815, "end": 6835, "speaker": "Dan Khasis", "text": "Я бы сделал как виза сверху. Первый шаг, ты физические объекты обрабатываешь. Второй шаг, ты начинаешь какие-то тески делать бизнесовые.\n\nТретий шаг, ты закончил, и вот это превью. Ты готов? Да, я готов.\n\nПоехали. Ты готов? Я закончил.\n\nДа, окей, принт.", "confidence": 0.95}
+{"start": 6845, "end": 6878, "speaker": "Vova", "text": "Я услышал. Я услышал. Но визард-версия сюда натягивается отлично.\n\nЭто не будет несложно сделать. Почему мы сделали так? Потому что я знаю, что в некоторых use-кейсах мы не знаем заранее секвенс, в котором нужно действие делать, и кто-то может сперва взять оплату, потом ее выгружать.\n\nА в другой ситуации сперва выгружаешь, потом оплату берешь.", "confidence": 0.77}
+{"start": 6880, "end": 6882, "speaker": "Dan Khasis", "text": "Я не знаю ответ на этот вопрос.", "confidence": 0.99}
+{"start": 6882, "end": 6885, "speaker": "Vova", "text": "Возможно, нам нужно будет сделать конфигурацию этого визарда.", "confidence": 0.87}
+{"start": 6886, "end": 6890.0, "speaker": "Dan Khasis", "text": "У этих людей, как их звать, у них все есть договоры, контракты.", "confidence": 0.95}
+{"start": 6890.0, "end": 6894.0, "speaker": "Dan Khasis", "text": "То есть оплату они не берут никакую.", "confidence": 0.95}
+{"start": 6894.0, "end": 6898.0, "speaker": "Dan Khasis", "text": "Они...", "confidence": 0.95}
+{"start": 6898.0, "end": 6902.0, "speaker": "Dan Khasis", "text": "Я уже понял.", "confidence": 0.95}
+{"start": 6902.0, "end": 6906.0, "speaker": "Vova", "text": "Сорри, что перебил.", "confidence": 0.95}
+{"start": 6906.0, "end": 6910.0, "speaker": "Vova", "text": "У нас есть 7 минут, мы не покрыли 95% вещей.", "confidence": 0.95}
+{"start": 6910.0, "end": 6914.0, "speaker": "Dan Khasis", "text": "Наверное, нам будет завтра опять соединиться.", "confidence": 0.95}
+{"start": 6914.0, "end": 6918.0, "speaker": "Dan Khasis", "text": "Саша молчит, как рыба.", "confidence": 0.95}
+{"start": 6918.0, "end": 6922.0, "speaker": "Dan Khasis", "text": "Уже полтора часа.", "confidence": 0.95}
+{"start": 6922.0, "end": 6926.0, "speaker": "Dan Khasis", "text": "Саша, говори.", "confidence": 0.95}
+{"start": 6926, "end": 6931, "speaker": "Oleksandr Ishchenko", "text": "Четыре раза пробовал вернуть к адженде, но у вас время закончилось.", "confidence": 0.74}
+{"start": 6932, "end": 6934, "speaker": "Oleksandr Ishchenko", "text": "Я говорю, Алик Шулга Извините.", "confidence": 0.16}
+{"start": 6935, "end": 6936, "speaker": "Oleksandr Ishchenko", "text": "Тут Саша много.", "confidence": 0.96}
+{"start": 6936, "end": 6940.4, "speaker": "Alex Shulga", "text": "У нас действительно большая адженда.", "confidence": 0.95}
+{"start": 6940.4, "end": 6944.8, "speaker": "Alex Shulga", "text": "Я думаю, что Игорь и Сергей Костянов смогут проконсультировать меня по многим аспектам фильтрации facilities, которые нам нужны.", "confidence": 0.95}
+{"start": 6944.8, "end": 6949.2, "speaker": "Alex Shulga", "text": "Поэтому давайте продолжим с аджендой, а если вы позволите, мы останемся и дообсудим 20 вопросов, которые остались.", "confidence": 0.95}
+{"start": 6949.2, "end": 6953.6, "speaker": "Alex Shulga", "text": "Все равно за 7 минут не успеем.", "confidence": 0.95}
+{"start": 6953.6, "end": 6958.0, "speaker": "Alex Shulga", "text": "Извиняюсь.", "confidence": 0.95}
+{"start": 6960, "end": 6976, "speaker": "Oleksandr Ishchenko", "text": "Да, если за 7 минут не успеем, тогда возможно завтра в то же время, плюс-минус, окей? Просто наперед договориться. Хорошо.\n\nТогда по адженде, если пробуем 7 минут разбить, у нас еще мобилочки есть, но перед этим хотелось быстренько показать, Жень, покажешь мап лейра на Abiclache и там будет один вопросик.", "confidence": 0.99}
+{"start": 6979, "end": 6980, "speaker": "Oleksandr Ishchenko", "text": "Я его задам в конце.", "confidence": 0.99}
+{"start": 6981, "end": 7014, "speaker": "Eugene", "text": "Хорошо, то есть мы занимаемся сейчас унификацией карты как уже бизнес-компонент, а не просто как компонент, который отрисовывает слы и какие-то маркеры, а еще добавляем сюда бизнес-логику, так чтобы это можно было уже высокоуровнево переиспользовать в других местах, где у нас есть эта карта и соответственно мы тоже позволяем, будем позволять и уже частично позволяем это быстро и легко конфигурировать. Вот, то есть это вихи-кла страница здесь, это сейчас экспериментально первая версия вот такого компонента используется.\n\nИ да, Саш, вот эти лейра, которые здесь есть.", "confidence": 0.99}
+{"start": 7015, "end": 7016, "speaker": "Oleksandr Ishchenko", "text": "UserCustomerLocation, мы говорили, да.", "confidence": 0.99}
+{"start": 7016, "end": 7018, "speaker": "Oleksandr Ishchenko", "text": "Да, UserCustomerLocation.", "confidence": 0.41}
+{"start": 7018, "end": 7026, "speaker": "Oleksandr Ishchenko", "text": "Не, в один зон, то все, что есть сейчас на проде мы не смотрим, наверняка все-таки новое посмотрим и к вопросу давай подойдем аккуратно.", "confidence": 0.99}
+{"start": 7027, "end": 7032.2, "speaker": "Eugene", "text": "Так, у нас есть юзера и сейчас у нас проблема заключается в том, что юзера отрисовываются тем же маркером, что и vehicles.", "confidence": 0.95}
+{"start": 7032.2, "end": 7037.4, "speaker": "Eugene", "text": "Сегодня Вова показал нам, как это нужно правильно сделать, мы это сделаем.", "confidence": 0.95}
+{"start": 7037.4, "end": 7042.6, "speaker": "Oleksandr Ishchenko", "text": "Разделение по цвету на две разные иконки, да.", "confidence": 0.95}
+{"start": 7042.6, "end": 7047.8, "speaker": "Eugene", "text": "Мы сделаем разделение по цвету на две разные иконки, мы сделаем разделение по цвету для активных и неактивных юзеров и vehicles.", "confidence": 0.95}
+{"start": 7047.8, "end": 7053.0, "speaker": "Eugene", "text": "И вопрос наш был по поводу отсечения last update даты.", "confidence": 0.95}
+{"start": 7054, "end": 7056, "speaker": "Oleksandr Ishchenko", "text": "Давайте тогда я тут вопрос задам.", "confidence": 0.99}
+{"start": 7056, "end": 7083, "speaker": "Oleksandr Ishchenko", "text": "Дэн, мы помним твои запросы по поводу, ну тебе не нравилось, когда мы пишем 585 дней last update. И Вова нам решение тогда дал, все-таки у нас будут иконки активные, вот эти пульсирующие, меняться на неактивные. Единственное, что я в наших чатах упоминания о чем не нашел, это этот age threshold last update, то есть когда менять иконку на неактивную, 5 дней, 8 дней, 30 дней, вот не нашел я эту информацию, подскажи, пожалуйста.", "confidence": 0.99}
+{"start": 7084, "end": 7093, "speaker": "Vova", "text": "Я предложил 30 минут, если машина не двигалась 30 минут, то мы считаем, что ее позиция, что она уже стоит.", "confidence": 0.85}
+{"start": 7094, "end": 7100.78, "speaker": "Oleksandr Ishchenko", "text": "Дэн, ты тем временем покажи ту иконку, чтобы визуально было сразу видно и понятно, о чем речь.", "confidence": 0.95}
+{"start": 7100.78, "end": 7107.56, "speaker": "Oleksandr Ishchenko", "text": "Вот.", "confidence": 0.95}
+{"start": 7107.56, "end": 7114.33, "speaker": "Dan Khasis", "text": "Вот на эту пульсирующую, на эту серенькую непульсирующую когда менять?", "confidence": 0.95}
+{"start": 7114.33, "end": 7121.11, "speaker": "Dan Khasis", "text": "Какой возраст данных должен быть, чтобы мы считали, что это устарело?", "confidence": 0.95}
+{"start": 7121.11, "end": 7127.89, "speaker": "Dan Khasis", "text": "Мы опять в замкнутом круге, мы не решаем эти вещи, мы решаем дефолтное разумное значение, потом юзеры должны это решать или в advanced конфиге, или в аккаунт настройках.", "confidence": 0.95}
+{"start": 7127.89, "end": 7134.67, "speaker": "Dan Khasis", "text": "Посмотрите на любую платформу, они должны решать, но здесь есть еще одна вещь, вы слишком свободно пользуете слова неактивно, и это очень опасно, потому что неактивный юзер, это юзер, который не билуется в бухгалтерской системе, в аккаунтинге, в Redash.", "confidence": 0.95}
+{"start": 7134.67, "end": 7141.44, "speaker": "Dan Khasis", "text": "Что?", "confidence": 0.95}
+{"start": 7141.44, "end": 7148.22, "speaker": "Dan Khasis", "text": "Мы про vehicles сейчас, про юзеров.", "confidence": 0.95}
+{"start": 7148.22, "end": 7155.0, "speaker": "Dan Khasis", "text": "А мы также с vehicles, у нас биллинг идет и по юзерам, и по vehicles.", "confidence": 0.95}
+{"start": 7157, "end": 7169, "speaker": "Vova", "text": "Саша говорит под неактивным, Саша, я имею ввиду vehicles, location которого последний раз мы получали сколько-то времени назад?", "confidence": 0.8}
+{"start": 7169, "end": 7171, "speaker": "Oleksandr Ishchenko", "text": "800 дней назад.", "confidence": 0.95}
+{"start": 7173, "end": 7180.93, "speaker": "Dan Khasis", "text": "800 дней назад, почему?", "confidence": 0.95}
+{"start": 7180.93, "end": 7188.86, "speaker": "Dan Khasis", "text": "Я бы, во-первых, некоторые данные хорошо пользуются визуально, некоторые данные хорошо пользуются в режиме таблиц.", "confidence": 0.95}
+{"start": 7188.86, "end": 7196.79, "speaker": "Dan Khasis", "text": "Если у меня есть тысячи водителей, и из них 900 неактивные, я в помине не хочу их видеть на карте, если их не было 5 лет.", "confidence": 0.95}
+{"start": 7196.79, "end": 7204.71, "speaker": "Dan Khasis", "text": "Иногда люди не стирают vehicles, потому что они боятся состирать какой-то tracking history или что-то такое, или потому что telematics не десинхронизировала этих машин.", "confidence": 0.95}
+{"start": 7204.71, "end": 7212.64, "speaker": "Dan Khasis", "text": "То есть по умолчанию мы обязаны показывать активные машины из vehicles, которые marked as active.", "confidence": 0.95}
+{"start": 7212.64, "end": 7220.57, "speaker": "Dan Khasis", "text": "У нас есть архивация vehicles, можно его не удалять, а можно его заархивировать, и тогда он убирается с карты.", "confidence": 0.95}
+{"start": 7220.57, "end": 7228.5, "speaker": "Vova", "text": "Вот почему я говорю, что если посмотреть на их экран, проблема с их экраном это то, что, во-первых, как всегда, нет запятых в цифрах больше тысячи.", "confidence": 0.95}
+{"start": 7228.5, "end": 7236.43, "speaker": "Vova", "text": "Вы были в разговоре с Вова, мы согласовали эти правила, все равно мы их нарушаем в settings.", "confidence": 0.95}
+{"start": 7236.43, "end": 7244.36, "speaker": "Dan Khasis", "text": "Открой map шестеренку, кликни на users, например.", "confidence": 0.95}
+{"start": 7244.36, "end": 7252.29, "speaker": "Dan Khasis", "text": "Вот здесь должна идти фильтрация по статусам, как следующий этап дерева.", "confidence": 0.95}
+{"start": 7252.29, "end": 7260.21, "speaker": "Dan Khasis", "text": "И тоже самое с vehicles.", "confidence": 0.95}
+{"start": 7260.21, "end": 7268.14, "speaker": "Dan Khasis", "text": "А кстати, а где vehicles на карте vehicles?", "confidence": 0.95}
+{"start": 7268.14, "end": 7276.07, "speaker": "Dan Khasis", "text": "Почему здесь users?", "confidence": 0.95}
+{"start": 7276.07, "end": 7284.0, "speaker": "Dan Khasis", "text": "Где vehicles?", "confidence": 0.95}
+{"start": 7284, "end": 7289.5, "speaker": "Oleksandr Ishchenko", "text": "Из-за того, что это vehicles страница, vehicles по дефолту показываются.", "confidence": 0.95}
+{"start": 7289.5, "end": 7295.0, "speaker": "Oleksandr Ishchenko", "text": "Если мы users отключим, то только vehicles будут.", "confidence": 0.95}
+{"start": 7296, "end": 7299, "speaker": "Oleksandr Ishchenko", "text": "Да, но это непонятно, это супер кряво.", "confidence": 0.85}
+{"start": 7299, "end": 7305, "speaker": "Oleksandr Ishchenko", "text": "То есть добавить, чтобы это было selectable, unselectable, и где vehicles на странице.", "confidence": 0.96}
+{"start": 7305, "end": 7307.0, "speaker": "Dan Khasis", "text": "Правильно я понял?", "confidence": 0.95}
+{"start": 7307.0, "end": 7309.0, "speaker": "Dan Khasis", "text": "А как ты выберешь пять vehicles?", "confidence": 0.95}
+{"start": 7309.0, "end": 7311.0, "speaker": "Dan Khasis", "text": "Покажи мне только пять vehicles, как ты это сделаешь?", "confidence": 0.95}
+{"start": 7311.0, "end": 7313.0, "speaker": "Oleksandr Ishchenko", "text": "На карте.", "confidence": 0.95}
+{"start": 7313.0, "end": 7315.0, "speaker": "Oleksandr Ishchenko", "text": "Упущение, Дэн.", "confidence": 0.95}
+{"start": 7316, "end": 7319.8, "speaker": "Vova", "text": "Через галочки это должно быть.", "confidence": 0.95}
+{"start": 7319.8, "end": 7323.6, "speaker": "Vova", "text": "То есть, если ты здесь выбираешь пять vehicles, у тебя будет пять vehicles введены на карте.", "confidence": 0.95}
+{"start": 7323.6, "end": 7327.4, "speaker": "Oleksandr Ishchenko", "text": "Дэн ведет к тому, что там должно быть под map gear.", "confidence": 0.95}
+{"start": 7327.4, "end": 7331.2, "speaker": "Vova", "text": "Вот здесь есть фильтр vehicles.", "confidence": 0.95}
+{"start": 7331.2, "end": 7335.0, "speaker": "Vova", "text": "Ты можешь поискать конкретно vehicles, сделать фильтр, ты увидишь только то, что отфильтровалось.", "confidence": 0.95}
+{"start": 7337, "end": 7341.67, "speaker": "Dan Khasis", "text": "Другими словами скажу, что Вова прав, и не прав.", "confidence": 0.95}
+{"start": 7341.67, "end": 7346.33, "speaker": "Dan Khasis", "text": "Вова прав технически, но здесь получается супер запутанно.", "confidence": 0.95}
+{"start": 7346.33, "end": 7351.0, "speaker": "Dan Khasis", "text": "Если на то пошло, не делайте...", "confidence": 0.95}
+{"start": 7354, "end": 7367, "speaker": "Vova", "text": "Я бы написал здесь additional map layers. Это дополнительный, то есть основная сущность, на которую ты смотришь здесь, это vehicles. А это дополнительные сущности, которые ты можешь также, кроме vehicles, на этой карте увидеть.", "confidence": 0.99}
+{"start": 7372, "end": 7594, "speaker": "Dan Khasis", "text": "Смотрите, что я хочу просто сказать. Vehicle, asset, который мы прибавим, facility, user, trailer, генератор, который это tip asset. Они все имеют одну вещь.\n\nДве вещи, правильно? Может, три вещи. Таймштемп, скорость и позиция.\n\nИ в одном месте, в одной карте, в одной системе, я не знаю, как это назвать, но скажем, что это какая-то новая страница, new page, имеется список, если пользовать термины база данных, которые делает union all по всем этим типам сущностям, где у тебя SAP приходит в одном идентифицированном API-респонсе. Tip, позиция, скорость, таймштемп, tip, vehicle, user, territory, asset, trailer и так далее. Плюс фильтры по этим же вещам.\n\nИ теперь на этой карте у тебя есть все типы из этих вещей. И, кстати, территория тоже такой тип. Просто tip, position, территория, полигон, а не cut long.\n\nИ теперь у вас есть в одном инструменте возможность любые типы сущностей любым способом. Покажи мне все машины или все юзеры, которые двигаются быстрее, чем 100 миль в час, которые не двигались больше, чем за 30 минут, меньше, чем 30 минут не двигались в одном экране. А если речь идет насчет vehicles, да, здесь все правильно, но здесь неправильно, что критических полей по умолчанию не видно.\n\nНапример, last location, это нам нужен адрес, last time stamp. И когда речь идет насчет vehicles в режиме обсмотра vehicles, наша проблема другая. Наша проблема еще, что как вам сказать?\n\nОдну секунду. Я должен отключаться через минуту. Если вам надо еще говорить, я могу говорить, но отключаться я должен от компьютера.\n\nЧто когда ты смотришь на vehicles, это как ты играешь в какую-то как StarCraft. Ты должен моментально понять, где они, какого они типа, где они находятся, их статус, их здоровье, топливо или аккумулятор и так далее. Если мы посмотрим здесь, ты ни один из этих вопросов не ответишь.\n\nТы только ответишь может быть вопрос, если ты платишь за эту машину или нет. Потому что статус, это описывает статус оплаты, а не статус движения или где они находятся, или где они не должны находиться, или здоровье машины. И теперь, если мы в кучу будем перемешивать биллинг статус и актуальный operational статус, у нас будет три статуса на одном экране, это опять люди чокнутся.\n\nТак же, как они чокнулись недавно с дистанцией, с таймом и так далее.", "confidence": 0.9}
+{"start": 7599, "end": 7605, "speaker": "Oleksandr Ishchenko", "text": "Я тогда предлагаю, ну, раз тебе нужно бежать, то мы завтра просто продолжим с этой ажендой.", "confidence": 0.99}
+{"start": 7605, "end": 7660, "speaker": "Oleksandr Ishchenko", "text": "Мы закончили на Виклс, мы еще тут продолжим один момент подэмить завтра. И дальше по гене будет Гаспар. В сегодняшней суммаре, перед тем, как тебя отпустить 30 секунд, значит, тут, как минимум, две вот эти колонки добавят, которые это я писал.\n\nLast location, last timestamp. И в суммаре по, господи, как его, по last updated мы услышали дефолтное какое-то значение и должно быть user configurable. Тут наверняка, Вова, ты нам подскажешь, как это, да, нарисовать и потом отпустить на имплементацию.\n\nА ответ ты на этот вопрос дал. То есть не будет с решилда какого-то, а будет user configurable штука. Все остальное по мере того, как будет идти, будем показывать.\n\nПредлагаю туда завтра продолжить. И, ну, если ты не будешь у компа, презентация Гаспара наверняка не будет иметь смысла.", "confidence": 0.99}
+{"start": 7660, "end": 7663, "speaker": "Oleksandr Ishchenko", "text": "Там нужно вот визуально сидеть и смотреть будет. Вот.", "confidence": 0.99}
+{"start": 7665, "end": 7668, "speaker": "Oleksandr Ishchenko", "text": "У меня тогда все. Большое спасибо.", "confidence": 0.91}
+{"start": 7674, "end": 7749, "speaker": "Dan Khasis", "text": "Я смотрю на все через линзы юзкейса или paintpoint юзера. Если юзера, его задача на списке vehicles моментально увидеть людей, которые прямо сейчас работают, или моментально увидеть ресурсы, которые прямо сейчас можно использовать для какой-то задачи. Как мы решаем эти два вопроса, показывая чуваку список 5000 машин?\n\nНам нужно переходить на semantic filtering. Как мы сделали, например, в списке routes или в списке dispatch, mode или order. Semantic filtering это, например, покажи мне все машины, которые сейчас не активны.\n\nПокажи мне все машины, которые сейчас не на маршруте. Покажи мне все машины, которые сейчас на маршруте. Покажи мне все машины, которые на маршруте, которые уже на 95% закончены.\n\nПочему? Потому что я теперь знаю, что они почти закончились с маршрутом. Я могу что-то с ними сделать.\n\nТо есть shortcut'ы на фильтры, которые имеют бизнес-мысл.", "confidence": 0.97}
+{"start": 7755, "end": 7756, "speaker": "Vova", "text": "Звучит как V-model.", "confidence": 0.99}
+{"start": 7761, "end": 7777, "speaker": "Dan Khasis", "text": "Да, это V-model. Окей, тогда я Игорю и Семену отдельно перезвоню насчет метрик сервиса через несколько минут.", "confidence": 0.56}
+{"start": 7780, "end": 7796, "speaker": "Oleksandr Ishchenko", "text": "Хорошо, я тем временем тогда создаю встречу на завтра. Спасибо. Так, Гаспар, first of all, what we just agreed that your agenda item will go for tomorrow's call, same time.", "confidence": 0.78}
+{"start": 7797, "end": 7807, "speaker": "Oleksandr Ishchenko", "text": "So we'll just at the very beginning of the meeting we'll finish with the speech. And then all the time is yours.", "confidence": 0.99}
+{"start": 7808, "end": 7811.67, "speaker": "Oleksandr Ishchenko", "text": "Right after we'll just review your agenda items that are left under the design section.", "confidence": 0.95}
+{"start": 7811.67, "end": 7815.33, "speaker": "Oleksandr Ishchenko", "text": "So that's about it.", "confidence": 0.95}
+{"start": 7815.33, "end": 7819.0, "speaker": "gaspar.eross", "text": "Okay, that's fine for me.", "confidence": 0.95}
+{"start": 7821, "end": 7840, "speaker": "Oleksandr Ishchenko", "text": "Okay. Any other questions? У нас есть что-нибудь еще тут обсудить?\n\nЯ предлагаю, как обычно, когда мы что-то не успеваем задемить, то мы демим для самих себя, но раз мы уже договорились про завтра колл, предлагаю не тратить время на двойное демо, а завтра таки продолжить.", "confidence": 0.96}
+{"start": 7840, "end": 7841, "speaker": "Oleksandr Ishchenko", "text": "Как вы на это смотрите?", "confidence": 0.73}
+{"start": 7842, "end": 7845.0, "speaker": "Kateryna Shevchenko", "text": "Да, тогда на завтра, получается.", "confidence": 0.95}
+{"start": 7845.0, "end": 7848.0, "speaker": "Kateryna Shevchenko", "text": "У нас, правда, опросы по facility, то что, Саша?", "confidence": 0.95}
+{"start": 7848, "end": 7854, "speaker": "Alex Shulga", "text": "Если можно, Игорь, не уходи далеко, помогите, пожалуйста, разобраться.", "confidence": 0.86}
+{"start": 7855, "end": 7860, "speaker": "Oleksandr Ishchenko", "text": "Давай, тогда если тут можно без Дэна что-то обсудить, то давай, Саша, сделаешь.", "confidence": 0.99}
+{"start": 7860, "end": 7870.67, "speaker": "Alex Shulga", "text": "Я думаю, базовые вещи мы можем обсудить и без Дэна.", "confidence": 0.95}
+{"start": 7870.67, "end": 7881.33, "speaker": "Alex Shulga", "text": "Я все-таки хотел бы уточнить, что именно мы поняли из того, что сказал Дэн.", "confidence": 0.95}
+{"start": 7881.33, "end": 7892.0, "speaker": "Alex Shulga", "text": "Значит, насчет того, какие facility должны быть доступны для пользователя, для сабьюзера, который атрибутирован, например, с одной facility или с двумя facility, он должен видеть только эти facility.", "confidence": 0.95}
+{"start": 7892.0, "end": 7902.67, "speaker": "Alex Shulga", "text": "Я так интерпретировал слова, потому что мы делаем сейчас strict режим, правильно?", "confidence": 0.95}
+{"start": 7902.67, "end": 7913.33, "speaker": "Alex Shulga", "text": "Или мы все-таки делаем relaxed режим, когда пользователь, который атрибутирован фактически с двумя facility, видит все facility и мы при этом на всех страницах, если пользователь просматривает не те страницы, с которыми он атрибутирован, не те facility, с которыми он атрибутирован, этот пользователь будет видеть read-only режим этих страниц.", "confidence": 0.95}
+{"start": 7913.33, "end": 7924.0, "speaker": "Alex Shulga", "text": "Помогите, пожалуйста.", "confidence": 0.95}
+{"start": 7925, "end": 7928.0, "speaker": "Vova", "text": "Я понял, так что он этих страниц видеть не должен.", "confidence": 0.95}
+{"start": 7928.0, "end": 7931.0, "speaker": "Vova", "text": "Он должен видеть только то, что атрибутировано с ним.", "confidence": 0.95}
+{"start": 7931.0, "end": 7934.0, "speaker": "Vova", "text": "Окей.", "confidence": 0.95}
+{"start": 7934, "end": 7935, "speaker": "Igor Skrynkovskyy", "text": "Только свое.", "confidence": 0.99}
+{"start": 7935, "end": 7936, "speaker": "Igor Skrynkovskyy", "text": "Тогда мы на одной волне.", "confidence": 0.95}
+{"start": 7936, "end": 7940, "speaker": "Igor Skrynkovskyy", "text": "Первая версия должна быть расслабленной.", "confidence": 0.99}
+{"start": 7941, "end": 7945.4, "speaker": "Alex Shulga", "text": "То есть, что мы, давайте посмотрим.", "confidence": 0.95}
+{"start": 7945.4, "end": 7949.8, "speaker": "Alex Shulga", "text": "То, что сейчас работает.", "confidence": 0.95}
+{"start": 7949.8, "end": 7954.2, "speaker": "Igor Skrynkovskyy", "text": "Как оно сейчас работает?", "confidence": 0.95}
+{"start": 7954.2, "end": 7958.6, "speaker": "Igor Skrynkovskyy", "text": "То, что сейчас, как мы показываем данные, на базе дерева пользователей.", "confidence": 0.95}
+{"start": 7958.6, "end": 7963.0, "speaker": "Alex Shulga", "text": "Это расслабленная версия.", "confidence": 0.95}
+{"start": 7963.0, "end": 7967.4, "speaker": "Alex Shulga", "text": "Значит, будет вот этот все-таки селектор.", "confidence": 0.95}
+{"start": 7967.4, "end": 7971.8, "speaker": "Alex Shulga", "text": "По дефолту тут будет какое-то значение, которое называется facility non или что-нибудь в этом роде.", "confidence": 0.95}
+{"start": 7971.8, "end": 7976.2, "speaker": "Alex Shulga", "text": "И по дефолту у нас будет дерево, привычный визибильный телескоп.", "confidence": 0.95}
+{"start": 7976.2, "end": 7980.6, "speaker": "Alex Shulga", "text": "Дальше пользователь имеет возможность выбрать facility, с которыми он ассоциирован, с которым он атрибутирован.", "confidence": 0.95}
+{"start": 7980.6, "end": 7985.0, "speaker": "Alex Shulga", "text": "И если он выбрал здесь какие-то facility, значит дерево перестает отображаться, отображается только плоский режим по facility.", "confidence": 0.95}
+{"start": 7985.0, "end": 7989.4, "speaker": "Alex Shulga", "text": "Понял.", "confidence": 0.95}
+{"start": 7989.4, "end": 7993.8, "speaker": "Alex Shulga", "text": "Понял, супер.", "confidence": 0.95}
+{"start": 7993.8, "end": 7998.2, "speaker": "Igor Skrynkovskyy", "text": "Значит, мы понимаем, как этот режим без facility будет называться?", "confidence": 0.95}
+{"start": 7998.2, "end": 8002.6, "speaker": "Alex Shulga", "text": "Он же должен быть в том же самом дропдауне.", "confidence": 0.95}
+{"start": 8002.6, "end": 8007.0, "speaker": "Alex Shulga", "text": "Как он называться будет?", "confidence": 0.95}
+{"start": 8010, "end": 8017, "speaker": "Igor Skrynkovskyy", "text": "Я предлагаю написать, что non или unselect или как-то там facility non.", "confidence": 0.99}
+{"start": 8019, "end": 8028, "speaker": "Alex Shulga", "text": "Артур, Алекс Ищенко, вы больше всего работали с текстами, которые Dan поставлял. Ваше мнение?", "confidence": 0.99}
+{"start": 8029, "end": 8032.33, "speaker": "Oleksandr Ishchenko", "text": "Откуда-то вам сказано больше всего.", "confidence": 0.95}
+{"start": 8032.33, "end": 8035.67, "speaker": "Alex Shulga", "text": "Я помню жалобы Dan на non и всякие такие штуки.", "confidence": 0.95}
+{"start": 8035.67, "end": 8039.0, "speaker": "Alex Shulga", "text": "К чему вы обычно приходили?", "confidence": 0.95}
+{"start": 8039, "end": 8041, "speaker": "Alex Shulga", "text": "На что Dan меньше жаловался?", "confidence": 0.99}
+{"start": 8042, "end": 8047, "speaker": "Vova", "text": "У нас на некоторых местах существует сейчас non, и Dan не жалуется.", "confidence": 0.72}
+{"start": 8048, "end": 8052, "speaker": "Oleksandr Ishchenko", "text": "По-моему, non мы меняли на что-то default или что-то вот такое.", "confidence": 0.95}
+{"start": 8053, "end": 8055, "speaker": "Oleksandr Ishchenko", "text": "Надо сейчас на каких-то страницах посмотреть.", "confidence": 0.95}
+{"start": 8056, "end": 8059.5, "speaker": "Vova", "text": "И там это выглядит ужасно.", "confidence": 0.95}
+{"start": 8059.5, "end": 8063.0, "speaker": "Vova", "text": "Сейчас на странице routes группировка non называется группировка routes.", "confidence": 0.95}
+{"start": 8063.0, "end": 8066.5, "speaker": "Vova", "text": "Значит, route группированный по раутам.", "confidence": 0.95}
+{"start": 8066.5, "end": 8070.0, "speaker": "Vova", "text": "Это глупость какая-то.", "confidence": 0.95}
+{"start": 8070, "end": 8071.67, "speaker": "Oleksandr Ishchenko", "text": "Не знаю, но default мне больше нравится.", "confidence": 0.95}
+{"start": 8071.67, "end": 8073.33, "speaker": "Oleksandr Ishchenko", "text": "Дефолт.", "confidence": 0.95}
+{"start": 8073.33, "end": 8075.0, "speaker": "Alex Shulga", "text": "Окей.", "confidence": 0.95}
+{"start": 8078, "end": 8080, "speaker": "Alex Shulga", "text": "Возможно, это дефолт организации.", "confidence": 0.95}
+{"start": 8080, "end": 8085.5, "speaker": "Igor Skrynkovskyy", "text": "В общем, нужно я глубоко уверен, что здесь конкретно в группировке нужно писать non вместо route.", "confidence": 0.95}
+{"start": 8085.5, "end": 8091.0, "speaker": "Vova", "text": "Потому что группировка, по сути, отключена.", "confidence": 0.95}
+{"start": 8091.0, "end": 8096.5, "speaker": "Vova", "text": "Группировки нет.", "confidence": 0.95}
+{"start": 8096.5, "end": 8102.0, "speaker": "Vova", "text": "А мы каким-то образом зачем-то показываем здесь group by route, когда группировки никакой нет.", "confidence": 0.95}
+{"start": 8102.0, "end": 8107.5, "speaker": "Vova", "text": "И группировка по рауту вообще невозможна, потому что это как можно рауты группировать по раутам?", "confidence": 0.95}
+{"start": 8107.5, "end": 8113.0, "speaker": "Vova", "text": "Абсурдная.", "confidence": 0.95}
+{"start": 8113, "end": 8118, "speaker": "Alex Shulga", "text": "Я бы, извиняюсь, не зацикливался именно на этом селекторе.", "confidence": 0.92}
+{"start": 8118, "end": 8130, "speaker": "Alex Shulga", "text": "Давайте поговорим конкретно про facility. Что приемлемо здесь может быть? Кроме non.\n\nМеня устраивает non, но может быть дана не устроит.", "confidence": 0.99}
+{"start": 8133, "end": 8136.0, "speaker": "Maksym Silman", "text": "Группировка by none есть сейчас на веклах страницы.", "confidence": 0.95}
+{"start": 8136.0, "end": 8139.0, "speaker": "Maksym Silman", "text": "Можно посмотреть.", "confidence": 0.95}
+{"start": 8142, "end": 8153, "speaker": "Igor Skrynkovskyy", "text": "Смотрите, нам надо явно указать, что группировки, не группировки, а выбранной facility нет. Или что у нас там расслабленный какой-то...", "confidence": 0.99}
+{"start": 8153, "end": 8156.75, "speaker": "Vova", "text": "По сути, это отсутствие фильтрации.", "confidence": 0.95}
+{"start": 8156.75, "end": 8160.5, "speaker": "Vova", "text": "Вот эта штука, это фильтр.", "confidence": 0.95}
+{"start": 8160.5, "end": 8164.25, "speaker": "Vova", "text": "И здесь ты либо включаешь фильтр, либо отключаешь фильтр.", "confidence": 0.95}
+{"start": 8164.25, "end": 8168.0, "speaker": "Vova", "text": "И здесь может быть ситуация, когда просто можно сделать switch.", "confidence": 0.95}
+{"start": 8168, "end": 8170, "speaker": "Alex Shulga", "text": "Игорь, пожалуйста, не уходи.", "confidence": 0.91}
+{"start": 8171, "end": 8173, "speaker": "Vova", "text": "Отключение фильтрации по facility.", "confidence": 0.72}
+{"start": 8174, "end": 8193, "speaker": "Alex Shulga", "text": "Давайте тогда дальше пройдемся. Важные вопросы. Что нам делать с снапшотами?\n\nУ нас есть страница снапшотов, извиняюсь, на некоторых из этих страниц есть таблица. На таблице есть маршруты.", "confidence": 0.99}
+{"start": 8194, "end": 8203, "speaker": "Alex Shulga", "text": "Когда мы выбираем какое-то значение фильтра, а значит ли это, что мы должны фильтровать внутренние таблицы в снапшотах.", "confidence": 0.99}
+{"start": 8204, "end": 8212, "speaker": "Alex Shulga", "text": "Ведь снапшот — это страница со связями с теми сущностями. Одной сущностью со всеми другими.", "confidence": 0.99}
+{"start": 8213, "end": 8217.5, "speaker": "Alex Shulga", "text": "Как будто бы это проблема, потому что фильтр может быть неприменим.", "confidence": 0.95}
+{"start": 8217.5, "end": 8222.0, "speaker": "Alex Shulga", "text": "Но у нас есть возможность явно фильтровать.", "confidence": 0.95}
+{"start": 8222, "end": 8227.0, "speaker": "Vova", "text": "Отсюда фильтрация facility пропадает, потому что она переезжает туда на верхний уровень.", "confidence": 0.95}
+{"start": 8227.0, "end": 8232.0, "speaker": "Vova", "text": "То есть если мы уносим ее отсюда туда, фильтр по facility.", "confidence": 0.95}
+{"start": 8233, "end": 8238.75, "speaker": "Alex Shulga", "text": "Но все же, если у меня есть такой вид, и я здесь применил фильтр по facility return, это значит, что у меня только один маршрут здесь будет показан.", "confidence": 0.95}
+{"start": 8238.75, "end": 8244.5, "speaker": "Alex Shulga", "text": "В то же время этот снапшот связан с тремя маршрутами.", "confidence": 0.95}
+{"start": 8244.5, "end": 8250.25, "speaker": "Alex Shulga", "text": "Не будет ли это неявно?", "confidence": 0.95}
+{"start": 8250.25, "end": 8256.0, "speaker": "Alex Shulga", "text": "Не будет ли это конфузить?", "confidence": 0.95}
+{"start": 8262, "end": 8267.17, "speaker": "Vova", "text": "Этот vehicle для этой facility проехал один маршрут только.", "confidence": 0.95}
+{"start": 8267.17, "end": 8272.33, "speaker": "Vova", "text": "Остальные маршруты к этому контексту нерелевантны.", "confidence": 0.95}
+{"start": 8272.33, "end": 8277.5, "speaker": "Vova", "text": "Поэтому мы их здесь не показываем.", "confidence": 0.95}
+{"start": 8277.5, "end": 8282.67, "speaker": "Vova", "text": "Этот фильтр указывает на контекст, в котором ты смотришь на всю систему.", "confidence": 0.95}
+{"start": 8282.67, "end": 8287.83, "speaker": "Vova", "text": "То есть я хочу смотреть на снапшот в контексте какой-то facility.", "confidence": 0.95}
+{"start": 8287.83, "end": 8293.0, "speaker": "Vova", "text": "Это значит, что я должен видеть там только релевантные к этому контексту вещи.", "confidence": 0.95}
+{"start": 8294, "end": 8300.25, "speaker": "Serhii Kasainov", "text": "А снапшот?", "confidence": 0.95}
+{"start": 8300.25, "end": 8306.5, "speaker": "Serhii Kasainov", "text": "Что-то мне так не везет сегодня.", "confidence": 0.95}
+{"start": 8306.5, "end": 8312.75, "speaker": "Serhii Kasainov", "text": "Снапшот это не такая штука, которую диспетчер может, допустим, обнаружив проблему, просто сбросить кому-то в иерархии постарше и сказать вот смотри у нас.", "confidence": 0.95}
+{"start": 8312.75, "end": 8319.0, "speaker": "Serhii Kasainov", "text": "И человек должен открыть вот эту вот ссылочку, которая у нас прям статическая, и увидеть тот же результат, который увидел тот, кто скинул.", "confidence": 0.95}
+{"start": 8321, "end": 8322.67, "speaker": "Alex Shulga", "text": "Но это все равно не работает у вас.", "confidence": 0.95}
+{"start": 8322.67, "end": 8324.33, "speaker": "Vova", "text": "Не, не так это работает, да.", "confidence": 0.95}
+{"start": 8324.33, "end": 8326.0, "speaker": "Vova", "text": "Это не так.", "confidence": 0.95}
+{"start": 8327, "end": 8334, "speaker": "Serhii Kasainov", "text": "Нет, но если они в рамках одной компании, у них есть доступ к айдишнику к одному и тому же, потому что твоя иерархия выше, то это должно так работать.", "confidence": 0.99}
+{"start": 8335, "end": 8340, "speaker": "Vova", "text": "Но тот человек, у которого доступ выше, он может увидеть больше, чем тот человек, у которого иерархия ниже.", "confidence": 0.99}
+{"start": 8346, "end": 8350, "speaker": "Alex Shulga", "text": "Окей. Давайте пойдем дальше.", "confidence": 0.99}
+{"start": 8350, "end": 8391, "speaker": "Alex Shulga", "text": "Я пока что услышал, что лучше оставлять фильтрацию, и скорее всего такое дефолтное поведение у нас и будет, потому что таблица одна. Дальше у нас на таблице есть где-то будет facility и будет input, в котором можно будет это выбрать.", "confidence": 0.99}
+{"start": 8393, "end": 8397, "speaker": "Vova", "text": "Назначать можно на те facility, которые тебе доступны, я так понимаю.", "confidence": 0.99}
+{"start": 8397, "end": 8405.5, "speaker": "Alex Shulga", "text": "Да, но как это будет работать в случае с вот этим фильтром facility?", "confidence": 0.95}
+{"start": 8405.5, "end": 8414.0, "speaker": "Alex Shulga", "text": "То есть, вне зависимости от ситуации, будет нормально, что мы отображаем все facility в фильтре, позволяем атрибутировать, не отключаем этот input, да?", "confidence": 0.95}
+{"start": 8416, "end": 8463, "speaker": "Vova", "text": "Если у тебя только одна facility доступ есть, например, то ты по идее можешь только ее и назначить. Ты вообще по идее ничего за пределами, что на этом facility не назначено, ты не увидишь. Если твоя область видимости ограничена на этом facility, то ты атрибут этого вещь не увидишь.\n\nТы увидишь только вещь, которая атрибучена на facility, который ты назначил. Если ты назначен на две facility, в таком случае ты сможешь менять атрибуцию между теми facility, которыми у тебя есть доступ, но не за пределы своей видимости. Если нужно вынести за пределы своей видимости, то нужно обращаться к тому, у кого есть такие права, выше по иерархии.", "confidence": 0.99}
+{"start": 8464, "end": 8484, "speaker": "Alex Shulga", "text": "Окей, да, я извиняюсь, значит, у нас просто был разговор сегодня с Сергеем о том, что мы делаем read-only вид страниц в случае, если применен фильтр по facility. Это полностью, ну, это не так, я так понимаю, в каких-то контекстах, да? Или это все еще так?", "confidence": 0.99}
+{"start": 8486, "end": 8488.0, "speaker": "Vova", "text": "Первые террасы.", "confidence": 0.95}
+{"start": 8488.0, "end": 8490.0, "speaker": "Serhii Kasainov", "text": "Самые первые.", "confidence": 0.95}
+{"start": 8491, "end": 8491, "speaker": "Alex Shulga", "text": "Самые первые.", "confidence": 0.7}
+{"start": 8493, "end": 8510, "speaker": "Alex Shulga", "text": "И в этом случае мы как бы даже и на странице соцнапшотов мы должны как бы отключить все активные элементы, все активные инпуты, которые позволили бы переассайнить или переатрибутировать маршрут, да?", "confidence": 0.92}
+{"start": 8510, "end": 8532, "speaker": "Vova", "text": "Я не говорю про первую итерацию, я говорю вообще про туда, куда мы хотим прийти. Хотим мы прийти туда, где люди смогут в рамках своей зоны ответственности делать свою работу. И в том числе они будут перекидываться вещи из одной facility в другую и назначать водителей.\n\nВсе это им нужно будет.", "confidence": 0.99}
+{"start": 8532, "end": 8544, "speaker": "Alex Shulga", "text": "Да, я хотел бы сейчас разобраться именно с первой итерацией. Все-таки если в первой итерации мы делаем read-only режим, то и на сапшот он тоже распространяется, да?", "confidence": 0.99}
+{"start": 8551, "end": 8567, "speaker": "Vova", "text": "Я не очень... Мы же хотим сделать не просто первую итерацию, а mvp первую итерацию, правильно? Которая минимально полезна юзерам.\n\nИ будет ли польза от read-only? У меня есть сомнения.", "confidence": 0.99}
+{"start": 8568, "end": 8571.5, "speaker": "Alex Shulga", "text": "Я не знаю.", "confidence": 0.95}
+{"start": 8571.5, "end": 8575.0, "speaker": "Alex Shulga", "text": "Я вижу только то, что люди начали расходиться, в том числе Игорь, который мог бы прокомментировать.", "confidence": 0.95}
+{"start": 8575.0, "end": 8578.5, "speaker": "Alex Shulga", "text": "И это меня немножко огорчило.", "confidence": 0.95}
+{"start": 8578.5, "end": 8582.0, "speaker": "Alex Shulga", "text": "Честно говоря...", "confidence": 0.95}
+{"start": 8582, "end": 8584, "speaker": "Kateryna Shevchenko", "text": "Можем попробовать на завтра.", "confidence": 0.95}
+{"start": 8585, "end": 8587, "speaker": "Alex Shulga", "text": "Я не знаю, короче. Вот.", "confidence": 0.99}
+{"start": 8588, "end": 8593, "speaker": "Kateryna Shevchenko", "text": "Потому что это хорошо, на самом деле, ответы, что мы получили.", "confidence": 0.79}
+{"start": 8597, "end": 8614, "speaker": "Vova", "text": "У Дэна какое-то очень сильно более продвинутое видение того, что должно получиться, чем то, что мы пытаемся сделать. Явно. Я сегодня увидел это.\n\nЧто он вообще мечтает о гораздо более серьезном Rocket Science, чем мы делаем поделку.", "confidence": 0.99}
+{"start": 8615, "end": 8636, "speaker": "Alex Shulga", "text": "Я вижу только то, что сегодня четверг. До понедельника у нас фактически остается восемь часов. В лучшем случае мы можем выжать еще восемь за выходные, умноженные на количество QA.", "confidence": 0.99}
+{"start": 8636, "end": 8639, "speaker": "Alex Shulga", "text": "Требований нет. Фактически ничего не имплементировано.", "confidence": 0.99}
+{"start": 8641, "end": 8686, "speaker": "Alex Shulga", "text": "Ответить на вопросы некому, потому что мы не выделили достаточно ресурсов на это. Включая, есть фундаментальный вопрос, и я сразу озвучу это. Про пушер, про реалтаймовые апдейты.\n\nМы предполагаем, это не точно, потому что у нас нет референсной имплементации на стейджинге, на которой можно было протестить это. Но мы предполагаем то, поскольку пушер на странице раутлиста подключается через приват канал, по member ID. Возможно, что все реалтаймовые апдейты через пушер идут по иерархии пользователей.", "confidence": 0.99}
+{"start": 8686, "end": 8693, "speaker": "Alex Shulga", "text": "Это значит, что если применен будет фильтр по facility, фактически мы лишим пользователя реалтаймовых апдейтов.", "confidence": 0.99}
+{"start": 8694, "end": 8698.4, "speaker": "Alex Shulga", "text": "Мне кажется, это надо решить до того, как мы какую-то первую версию запустим, потому что ожидания могут быть совершенно другие от этого продукта.", "confidence": 0.95}
+{"start": 8698.4, "end": 8702.8, "speaker": "Alex Shulga", "text": "Я могу ошибаться, но, по-моему, пушер с отправкой по иерархии, он настолько в раутлисте и есть.", "confidence": 0.95}
+{"start": 8702.8, "end": 8707.2, "speaker": "Alexandr Kovtunov", "text": "Ты говоришь не только про раутлист, а вообще про все остальные.", "confidence": 0.95}
+{"start": 8707.2, "end": 8711.6, "speaker": "Alexandr Kovtunov", "text": "Мне кажется, у нас нигде больше нет пушера нормального, кроме как на раутлисте.", "confidence": 0.95}
+{"start": 8711.6, "end": 8716.0, "speaker": "Alexandr Kovtunov", "text": "На остальных я бы сказал, что там по руту.", "confidence": 0.95}
+{"start": 8716.0, "end": 8720.4, "speaker": "Alex Shulga", "text": "Там канал, приватный канал по root member.", "confidence": 0.95}
+{"start": 8720.4, "end": 8724.8, "speaker": "Alex Shulga", "text": "Понял.", "confidence": 0.95}
+{"start": 8724.8, "end": 8729.2, "speaker": "Alexandr Kovtunov", "text": "Окей.", "confidence": 0.95}
+{"start": 8729.2, "end": 8733.6, "speaker": "Alex Shulga", "text": "Я могу ошибаться, может быть и здесь по руту.", "confidence": 0.95}
+{"start": 8733.6, "end": 8738.0, "speaker": "Alex Shulga", "text": "Я не проверил это так.", "confidence": 0.95}
+{"start": 8739, "end": 8739, "speaker": "Alex Shulga", "text": "Окей.", "confidence": 0.65}
+{"start": 8740, "end": 8746.46, "speaker": "Alex Shulga", "text": "В принципе, если у нас по руту на раутлисте подключается к reindex routes, то у нас не будет проблем, я так понимаю, с реалтаймовыми апдейтами.", "confidence": 0.95}
+{"start": 8746.46, "end": 8752.92, "speaker": "Alex Shulga", "text": "Так?", "confidence": 0.95}
+{"start": 8752.92, "end": 8759.38, "speaker": "Alexandr Kovtunov", "text": "Как раз...", "confidence": 0.95}
+{"start": 8759.38, "end": 8765.85, "speaker": "Alexandr Kovtunov", "text": "Короче, я знаю точно, что в раутлисте, точнее в routes мы отсылаем пушер.", "confidence": 0.95}
+{"start": 8765.85, "end": 8772.31, "speaker": "Alexandr Kovtunov", "text": "У нас есть два канала, они работают параллельно.", "confidence": 0.95}
+{"start": 8772.31, "end": 8778.77, "speaker": "Alexandr Kovtunov", "text": "Один канал, который работает по руту, и он был всегда еще на старом раутлисте.", "confidence": 0.95}
+{"start": 8778.77, "end": 8785.23, "speaker": "Alexandr Kovtunov", "text": "Никто не заморачивался с тем, чтобы по конкретным мембрам отсылать.", "confidence": 0.95}
+{"start": 8785.23, "end": 8791.69, "speaker": "Alexandr Kovtunov", "text": "Потом было требование сделать рассылку по конкретным мембрам, которые как раз спорят с Hierarchy.", "confidence": 0.95}
+{"start": 8791.69, "end": 8798.15, "speaker": "Alexandr Kovtunov", "text": "То есть этот мембр ID и его owner, его owner, вверх и вниз.", "confidence": 0.95}
+{"start": 8798.15, "end": 8804.62, "speaker": "Alexandr Kovtunov", "text": "И там посылается сообщение пачки в пользу.", "confidence": 0.95}
+{"start": 8804.62, "end": 8811.08, "speaker": "Alex Shulga", "text": "Кто их использует и как, я не могу сказать.", "confidence": 0.95}
+{"start": 8811.08, "end": 8817.54, "speaker": "Alex Shulga", "text": "Вот это по Hierarchy пушер, он точно используется мобильными клиентами, но я вот сейчас зашел под сабом и под сабом точно используется приватный канал с мембр ID саба, а не рут мембра.", "confidence": 0.95}
+{"start": 8817.54, "end": 8824.0, "speaker": "Alex Shulga", "text": "Поэтому на раутлисте эта проблема, скорее всего, актуальна будет.", "confidence": 0.95}
+{"start": 8826, "end": 8859, "speaker": "Vova", "text": "По сути, event и пушер должны быть тем же фильтром, отфильтрованным, которым аксессом этого юзера. Если юзер имеет аксесс к каким-то facilities, соответственно, к каким-то сущностям в этих facilities, и об этих же сущностях event он и должен получать из пушера. А о том, к чему он доступа не имеет, update он не получает.\n\nПо сути, пушер должны фильтровать точно так же, как и все остальное.", "confidence": 0.99}
+{"start": 8862, "end": 8911, "speaker": "Alex Shulga", "text": "Окей. Ну, это, видимо, требует Игоря. Я сейчас ему уличку напишу.\n\nИнтересуюсь. Если можно, еще пару вопросов давайте рассмотрим. Мы говорили сегодня на звонке с Алексом Ищенко, что изначально предполагается имплементация на четырех страницах.\n\nРаутс, ордерс, кастомер локейшнс, что-то еще. Кастомерс. Я хотел бы отметить, что на страницах юзерс и vehicles и оптимизейшн профайлс у нас тоже есть атрибуция с facilities.\n\nНа юзерс и vehicles есть фильтр по facility, вроде бы должен быть.", "confidence": 0.99}
+{"start": 8912, "end": 8939, "speaker": "Alex Shulga", "text": "А, нет, его нету, фильтр по facility. Ну, в общем, он точно есть в Эдите. У нас есть facility вот здесь.\n\nИ мне не до конца очевидно, как бы, первое, если мы будем делать опять же read-only, то я так понимаю, что мы должны дизайвлить тоже и на этих страницах всю логику Эдита, да?", "confidence": 0.99}
+{"start": 8942, "end": 8946, "speaker": "Alex Shulga", "text": "Значит, подтвердите, пожалуйста.", "confidence": 0.99}
+{"start": 8950, "end": 8952, "speaker": "Serhii Kasainov", "text": "Юзерс мы пока не фильтруем, по-моему, вообще по facility.", "confidence": 0.99}
+{"start": 8953, "end": 8972, "speaker": "Alex Shulga", "text": "Юзерс по facility мы, кстати, не фильтруем, да, но вот в Эдит дроуэре есть facilities, да? И есть возможность, как бы, редактировать этого пользователя. Это значит, что если мы вот эту вот логику read-only будем имплементировать, я все еще не до конца въезжаю, как бы, какой MVP вы хотите, честно.", "confidence": 0.99}
+{"start": 8972, "end": 8982, "speaker": "Alex Shulga", "text": "Но если мы будем read-only в первой версии делать, read-only страницы, то вам нужно расширить просто скоп на юзерс и vehicles и optimization profiles, видимо.", "confidence": 0.99}
+{"start": 8988, "end": 9000, "speaker": "Serhii Kasainov", "text": "Я тоже не до конца понимаю, скажу честно. Но, опять же, первая итерация, это будет все под фичой. Проблем будет много.\n\nТут я вот с чем согласен, это факт.", "confidence": 0.99}
+{"start": 9000, "end": 9004.5, "speaker": "Alex Shulga", "text": "И, пожалуйста, последний вопрос на сегодня.", "confidence": 0.95}
+{"start": 9004.5, "end": 9009.0, "speaker": "Alex Shulga", "text": "Значит, да, извиняюсь, я потерял.", "confidence": 0.95}
+{"start": 9009.0, "end": 9013.5, "speaker": "Alex Shulga", "text": "Значит, вот в этом фильтре по facilities.", "confidence": 0.95}
+{"start": 9013.5, "end": 9018.0, "speaker": "Alex Shulga", "text": "Значит, я просто хочу обознать, что мы отображаем в списке facilities с любым статусом.", "confidence": 0.95}
+{"start": 9018.0, "end": 9022.5, "speaker": "Alex Shulga", "text": "И active, и archived.", "confidence": 0.95}
+{"start": 9022.5, "end": 9027.0, "speaker": "Alex Shulga", "text": "Значит, это может вызвать confusion.", "confidence": 0.95}
+{"start": 9028, "end": 9038, "speaker": "Alex Shulga", "text": "И, возможно, нам нужна какая-то плашка или какой-то признак в этом списке, в этом dropdown, который бы позволил отличить archived от active.", "confidence": 0.99}
+{"start": 9040, "end": 9042.5, "speaker": "Alex Shulga", "text": "Есть у нас это в дизайне?", "confidence": 0.95}
+{"start": 9042.5, "end": 9045.0, "speaker": "Vova", "text": "В дизайне нет, но идея правильная.", "confidence": 0.95}
+{"start": 9046, "end": 9052, "speaker": "Alex Shulga", "text": "Можно тогда как-бы это как-то до завтра отобразить? Может быть, короче, это получится.", "confidence": 0.99}
+{"start": 9054, "end": 9057, "speaker": "Alex Shulga", "text": "Я не уверен. Окей.", "confidence": 0.35}
+{"start": 9057, "end": 9059.5, "speaker": "Serhii Kasainov", "text": "Повторите, пожалуйста, еще раз.", "confidence": 0.95}
+{"start": 9059.5, "end": 9062.0, "speaker": "Serhii Kasainov", "text": "Что мы делаем с архивированными facilities в этом списке?", "confidence": 0.95}
+{"start": 9062, "end": 9072, "speaker": "Vova", "text": "Ничего не делаем. Они отображаются и позволяют атрибутировать любые сущности и фильтровать любые сущности по архивированным facility.", "confidence": 0.99}
+{"start": 9073, "end": 9074, "speaker": "Serhii Kasainov", "text": "Мы на них не можем оттаять.", "confidence": 0.95}
+{"start": 9075, "end": 9076, "speaker": "Vova", "text": "Нет, мы можем все делать.", "confidence": 0.95}
+{"start": 9077, "end": 9087, "speaker": "Vova", "text": "Не должно быть. Архивированная facility, она должна быть. Ее нельзя использовать.\n\nНа нее можно смотреть, но ее нельзя применять.", "confidence": 0.99}
+{"start": 9087, "end": 9100, "speaker": "Alex Shulga", "text": "Сейчас пока что можно применять. Игорь говорил, что архивные facilities будут использоваться для аналитики.", "confidence": 0.99}
+{"start": 9101, "end": 9102, "speaker": "Alex Shulga", "text": "Чтобы смотреть.", "confidence": 0.91}
+{"start": 9103, "end": 9127, "speaker": "Alex Shulga", "text": "И у нас большая проблема с тем, что такие архивированные facilities, их атрибуция не убирается с других сущностей, когда эти facilities становятся архивными. Это значит, что маршруты будут атрибутированы с архивными facilities. Это значит, что какие еще сущности?", "confidence": 0.99}
+{"start": 9128, "end": 9131.75, "speaker": "Vova", "text": "Это правильно.", "confidence": 0.95}
+{"start": 9131.75, "end": 9135.5, "speaker": "Vova", "text": "Если эта сущность принадлежит к facility, который заархивировали, то маршрут получается заархивированный с этой facility.", "confidence": 0.95}
+{"start": 9135.5, "end": 9139.25, "speaker": "Vova", "text": "Маршрут находится...", "confidence": 0.95}
+{"start": 9139.25, "end": 9143.0, "speaker": "Vova", "text": "Этот маршрут это уже история.", "confidence": 0.95}
+{"start": 9144, "end": 9155, "speaker": "Alex Shulga", "text": "Нет, ты не понял. Новые маршруты, которые создаются пользователями, которые атрибутированы с архивированной тоже будут атрибутированы с этой фасилити.", "confidence": 0.99}
+{"start": 9155, "end": 9171, "speaker": "Vova", "text": "Вот эти пользователи, они после этого уже не должны иметь возможность что-либо атрибутировать этой фасилити, которая заактивирована. Потому что это абсурд. Как ты можешь...", "confidence": 0.99}
+{"start": 9174, "end": 9184, "speaker": "Alex Shulga", "text": "Практика сейчас такая, что мы это делаем все равно. Более того, неважно, делаем мы это сейчас или нет, мы говорим о фильтре.", "confidence": 0.99}
+{"start": 9184, "end": 9191, "speaker": "Alex Shulga", "text": "Вот есть фильтр, и он должен как-то позволять выбрать архивированные фасилити, но мы просто не показываем, какие.", "confidence": 0.99}
+{"start": 9192, "end": 9222, "speaker": "Vova", "text": "Тут я целиком согласен. Потому что это речь о том, на какие ты смотришь. И смотреть ты должен в том числе на архивированные.\n\nПоказать здесь признак, что она архивированная, хорошее. Я думаю, мы сделаем здесь категории. Две группы.\n\nБудут Active и Archived. Или может быть будет какая-то галочка, в которую включаешь и видишь в том числе Archived. А по умолчанию Archived будет скрытой, например.", "confidence": 0.99}
+{"start": 9226, "end": 9229.0, "speaker": "Alex Shulga", "text": "Извиняюсь, еще один маленький вопрос.", "confidence": 0.95}
+{"start": 9229.0, "end": 9232.0, "speaker": "Alex Shulga", "text": "Должны ли выбранные фасилити сохраняться на сессию или после перелоги?", "confidence": 0.95}
+{"start": 9232.0, "end": 9235.0, "speaker": "Alex Shulga", "text": "Самообязательно.", "confidence": 0.95}
+{"start": 9237, "end": 9239.0, "speaker": "Vova", "text": "Обязательно.", "confidence": 0.95}
+{"start": 9239.0, "end": 9241.0, "speaker": "Alex Shulga", "text": "Окей.", "confidence": 0.95}
+{"start": 9241.0, "end": 9243.0, "speaker": "Alex Shulga", "text": "Сергей, это технологически возможно?", "confidence": 0.95}
+{"start": 9248, "end": 9250, "speaker": "Serhii Kasainov", "text": "Возможно. Все просто больно.", "confidence": 0.97}
+{"start": 9252, "end": 9271, "speaker": "Alex Shulga", "text": "Супер. Окей, спасибо, что проконсультировали. Тогда на завтра у меня буквально 2-3 вопроса будет.\n\nА вопрос по пуферу я сейчас Игорю отпишу. И буду надеяться, что он проконсультирует меня про сейчас.", "confidence": 0.99}
+{"start": 9271, "end": 9275.0, "speaker": "Oleksandr Ishchenko", "text": "И, Саша, там я еще на всякий случай скинул нашу встречу с бакенд-командой за вчера.", "confidence": 0.95}
+{"start": 9275.0, "end": 9279.0, "speaker": "Oleksandr Ishchenko", "text": "В фасилити по Финтрам.", "confidence": 0.95}
+{"start": 9279, "end": 9282.83, "speaker": "Oleksandr Ishchenko", "text": "Думаю, там тоже что-то может интересное найдешь.", "confidence": 0.95}
+{"start": 9282.83, "end": 9286.67, "speaker": "Oleksandr Ishchenko", "text": "Там все были.", "confidence": 0.95}
+{"start": 9286.67, "end": 9290.5, "speaker": "Serhii Kasainov", "text": "Дима, Саша, Игорь, Сергей.", "confidence": 0.95}
+{"start": 9290.5, "end": 9294.33, "speaker": "Serhii Kasainov", "text": "Если мы завтра это сможем все Дэну озвучить, что мы там делаем, будет прекрасно.", "confidence": 0.95}
+{"start": 9294.33, "end": 9298.17, "speaker": "Oleksandr Ishchenko", "text": "Давайте Дэну скинем запись прошлого звонка.", "confidence": 0.95}
+{"start": 9298.17, "end": 9302.0, "speaker": "Oleksandr Ishchenko", "text": "Я шутку не обзенил.", "confidence": 0.95}
+{"start": 9304, "end": 9307, "speaker": "Artur Moskalenko", "text": "Можно будет в самморе какой-то в тех лиц скинуть.", "confidence": 0.99}
+{"start": 9309, "end": 9315, "speaker": "Alex Shulga", "text": "Ну, это, кстати, очень хорошая идея. Мне очень она нравится. Я бы, возможно, даже...", "confidence": 0.99}
+{"start": 9316, "end": 9336, "speaker": "Alex Shulga", "text": "Проблема в том, что саммори очень плохо позволяет на примерах объяснять. Потому что я пытался примеры добавлять, но с примерами очень длинно выходит. А без примеров Дэн не понимает некоторые вещи.\n\nНу, так как и я, например, не понимаю некоторые вещи.", "confidence": 0.99}
+{"start": 9339, "end": 9342.57, "speaker": "Alex Shulga", "text": "Если ты можешь написать такое саммори, было бы просто отлично.", "confidence": 0.95}
+{"start": 9342.57, "end": 9346.14, "speaker": "Alex Shulga", "text": "Можно же вопросы так сформулировать.", "confidence": 0.95}
+{"start": 9349.71, "end": 9353.29, "speaker": "Artur Moskalenko", "text": "Можем попробовать.", "confidence": 0.95}
+{"start": 9353.29, "end": 9356.86, "speaker": "Alex Shulga", "text": "Окей, я извиняюсь, что я вас задержал.", "confidence": 0.95}
+{"start": 9356.86, "end": 9360.43, "speaker": "Alex Shulga", "text": "Спасибо огромное.", "confidence": 0.95}
+{"start": 9360.43, "end": 9364.0, "speaker": "Alex Shulga", "text": "У меня вопросов нет.", "confidence": 0.95}
+{"start": 9365, "end": 9366, "speaker": "Kateryna Shevchenko", "text": "Тебе спасибо, Саша.", "confidence": 0.99}
+{"start": 9367, "end": 9369, "speaker": "Oleksandr Ishchenko", "text": "Спасибо тебе, Саша.", "confidence": 0.68}
+{"start": 9370, "end": 9370, "speaker": "Kateryna Shevchenko", "text": "Тогда всем пока.", "confidence": 0.69}
+{"start": 9372, "end": 9374, "speaker": "Kateryna Shevchenko", "text": "Да, давайте готовимся к завтрашнему Дэну.", "confidence": 0.99}
+{"start": 9374, "end": 9375, "speaker": "Kateryna Shevchenko", "text": "Пока-пока.", "confidence": 0.99}
+{"start": 9376, "end": 9378, "speaker": "Oleksandr Ishchenko", "text": "Генерим агенду. Всем большое спасибо.", "confidence": 0.74}
+{"start": 9379, "end": 9380, "speaker": "Kateryna Shevchenko", "text": "Всем пока.", "confidence": 0.99}

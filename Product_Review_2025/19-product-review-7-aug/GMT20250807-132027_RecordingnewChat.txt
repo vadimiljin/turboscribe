@@ -1,0 +1,10 @@
+01:06:43	Mihail Krivulya:	route export поддерживает фильтр по фасилити на бэке
+02:11:04	Mihail Krivulya:	self::FUEL_LEVEL => true,
+self::ODOMETER => true,
+self::SPEED => true,
+self::ENGINE_RPM => true,
+self::ENGINE_COOLANT_TEMPERATURE => true,
+self::BATTERY_HEALTH => true,
+self::AVERAGE_BATTERY_TEMPERATURE => true,
+self::BATTERY_LEVEL => true,
+02:11:20	Maksym Silman:	Odometer (mi)Odometer (km)Speed (mph)Speed (km/h)Engine RPMEngine Coolant Temperature (°F)Engine Coolant Temperature (°C)Battery Health (%)Battery Temperature (°F)Battery Temperature (°C)Battery Level (%)Charge StatusEngine StatusDriver Seatbelt Status
