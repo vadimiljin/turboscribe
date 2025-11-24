@@ -1,0 +1,4 @@
+02:02:41	Dan Khasis:	Here’s the friction:
+He caught issues with our polyline tracking; says it’s not reliable enough for compliance
+We reduced tracking interval to 30s, and the route still shows gaps, even though we captured pings on the roads that were traveled they were not drawn to those roads
+02:02:51	Dan Khasis:	https://route4me.com/route/0232B213B2B7DBC42F9A1EFFD1B5C24D

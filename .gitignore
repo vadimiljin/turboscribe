@@ -1,5 +1,6 @@
 .env
 *.mp4
+*.mp4.part
 notes/
 archive/
 .venv/
