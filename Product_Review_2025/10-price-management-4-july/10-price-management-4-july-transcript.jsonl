@@ -1,0 +1,607 @@
+{"start": 3, "end": 18, "speaker": "Dan Khasis", "text": "Я удивлен всегда, когда люди записывают звонки, потому что я ни разу в жизни не просмотрел записанный звонок. У меня просто что-то как-то аллергия на это.", "confidence": 0.99}
+{"start": 19, "end": 24.8, "speaker": "Semeyon S", "text": "Ну это тяжело, некомфортно, но мы возвращаемся к звонкам.", "confidence": 0.95}
+{"start": 24.8, "end": 30.6, "speaker": "Semeyon S", "text": "Конечно, я не все слушаю, это просто нереально, это физически нереально.", "confidence": 0.95}
+{"start": 30.6, "end": 36.4, "speaker": "Semeyon S", "text": "Но время от времени возвращаюсь.", "confidence": 0.95}
+{"start": 36.4, "end": 42.2, "speaker": "Semeyon S", "text": "Опять же, Игорь забрал Головцов на анализ по стратегику, то, что вчера разговаривалось.", "confidence": 0.95}
+{"start": 42.2, "end": 48.0, "speaker": "Semeyon S", "text": "Поэтому записи нужны.", "confidence": 0.95}
+{"start": 51, "end": 57.0, "speaker": "Vova", "text": "Ты говоришь много вещей, ты не любишь повторять, говоришь много вещей, чтобы тебя не ходить, не переспрашивать.", "confidence": 0.95}
+{"start": 57.0, "end": 63.0, "speaker": "Vova", "text": "Мы пишем, а потом искусственным интеллектом анализируем запись, делаем саморизацию.", "confidence": 0.95}
+{"start": 63, "end": 66, "speaker": "Dan Khasis", "text": "Он русский язык сейчас читает, искусственный интеллект?", "confidence": 0.99}
+{"start": 67, "end": 67, "speaker": "Vova", "text": "Да.", "confidence": 0.69}
+{"start": 67, "end": 69, "speaker": "Oleksandr Ishchenko", "text": "Довольно-таки неплохо.", "confidence": 0.87}
+{"start": 70, "end": 74.0, "speaker": "Semeyon S", "text": "С русским языком он работает хорошо, но анализируем с помощью искусственного интеллекта.", "confidence": 0.95}
+{"start": 74.0, "end": 78.0, "speaker": "Semeyon S", "text": "Это очень смело сказано.", "confidence": 0.95}
+{"start": 80, "end": 81, "speaker": "Vova", "text": "Саморизируем.", "confidence": 0.99}
+{"start": 83, "end": 94, "speaker": "Semeyon S", "text": "Короче, мы как индексы потом используем, чтобы можно было прыгнуть в правильное место звонка. Сами тексты, они бесполезны.", "confidence": 0.99}
+{"start": 95, "end": 99, "speaker": "Dan Khasis", "text": "Да, я удивлен. Сейчас я ищу Юпитера, одну секунду.", "confidence": 0.4}
+{"start": 107, "end": 109, "speaker": "Dan Khasis", "text": "Окей, я нашел. Сейчас, секунду.", "confidence": 0.99}
+{"start": 127, "end": 416, "speaker": "Dan Khasis", "text": "Мне на скоп один наш ведущий парень там, чтобы не тратить время, на нашей команде. Он специалист в этих всех вещах. Он за 10 минут сделал нам это.\n\nИ я это послал Игорю несколько недель назад. Когда вы смотрите на это в таком виде, все намного более понятнее становится. Значит, как это работает?\n\nОни сделали веб. У них есть ERP SAP Business One. У них есть, они его называют Service Level Layer.\n\nИ он доступен через SQL Query. Некоторые query, они сохраняют их в юге, а некоторые у них... Кто это значит?\n\nОни. Они, это значит их администратор. Таких администраторов эти витрины настраивают.\n\nИ потом с помощью этих витрин он берет и как бы дает нам экземпляры. И он дал нам экземпляр Inventory Warehouse Report. И поехали.\n\nT2 в Joined таблице 2. Он сделал query на все возможные витрины. И она возвращает все возможные витрины, которые существуют в том конкретном SAP инстанции.\n\nЭто его говняные queries, которые он написал, чтобы рановался этот Service Layer. Или он шаблон использовал. Но неважно.\n\nВажно, что они это приготовили как источник. И теперь, если посмотреть на очищенную версию тех респонсов, мы видим, что у них есть 2 SQL Query на Warehouse, 1 SQL Query для список дистрибьюторов, Accounts Payable, Purchase Orders, Warehouse Info, Items, Groups, Invoices, детализацию, экстракция инвойса, какие данные есть в этом складе, глобальный список транзакций. И теперь мы берем один из этих queries и мы его раним.\n\nПросто пошагово, по лупу пошли. Значит, это первая query. И вот это ответ.\n\nЯ попросил дать нам программную query, связанную с Warehouse Items. И поехали. Baked brownie bites on hand, 0.\n\nКмерил – это важная тема, Вова. Это, сколько мы уже обещали. То есть, это промежуточный счетчик, где у тебя есть 10 штук на руках.\n\nТы уже продал 3 клиентам по 2 штуки. У тебя уже обещано 6. Значит, у тебя on hand 10, обещано 6.\n\nТы можешь продать еще 4. Не отменяя вот эти заказы. Нам это сейчас не важно, но это просто…\n\nТеперь average price – это средняя стоимость продажи. Это не средняя стоимость материала. Две разные вещи.\n\nКороче, так это материалы. Это их инвентарий. Потом у них есть следующее.\n\nВот это список всех вещей, которые они продают. Это их финальные товары. И поехали.\n\nItem codes. Вот это все их инвентарии, все их вещи, которые они продают. Или которые у них есть, или которые они продают.", "confidence": 0.69}
+{"start": 416, "end": 423, "speaker": "Dan Khasis", "text": "Или которые у них есть в этом, в складу.", "confidence": 0.57}
+{"start": 456, "end": 464, "speaker": "Dan Khasis", "text": "Сейчас мы запустим run. Run. Run all может быть есть.", "confidence": 0.63}
+{"start": 467, "end": 484, "speaker": "Dan Khasis", "text": "Run all. Материалы. Товары.", "confidence": 0.19}
+{"start": 491, "end": 492, "speaker": "Dan Khasis", "text": "Поехали.", "confidence": 0.99}
+{"start": 505, "end": 508, "speaker": "Dan Khasis", "text": "Вот это их инвентарии, вещей.", "confidence": 0.77}
+{"start": 516, "end": 519.67, "speaker": "Vova", "text": "Это просто списки номинований, правильно?", "confidence": 0.95}
+{"start": 519.67, "end": 523.33, "speaker": "Vova", "text": "Без цен.", "confidence": 0.95}
+{"start": 523.33, "end": 527.0, "speaker": "Vova", "text": "И без количества, без того, что наличие на складе.", "confidence": 0.95}
+{"start": 530, "end": 641, "speaker": "Dan Khasis", "text": "Не совсем, Вова. У тебя в складу есть два типа главных вещей. У тебя есть запчасти.\n\nЭто фирма Inrex Adexo. Мы сейчас с ними торгуемся. Я рассказывал вам, что они занимаются vending machines.\n\nЕсть материалы, а есть товары. Материалы пользуются как входные, чтобы делать товары. Но иногда материалы пользуются, чтобы делать сервис.\n\nУ многих фирм есть система делать инвентарии. Чтобы делать товары. Инвентарии самих товаров, которые произвели.\n\nСамых материалов, если ты заметишь. 7-Eleven Flyer. Это брошюр в 7-Eleven.\n\nБесплатные кофе-чашки. Потом стаканы. Nike рубашка.\n\nЭто все, что у них есть в своем вэрхаузе. У них есть материалы, товары. Это список.\n\nЭто все, что у них есть в вэрхаузе. Включая машину, которая весит 150 килограмм. Включая термометр, всех запчастей.\n\nВот что это за список.", "confidence": 0.66}
+{"start": 642, "end": 653, "speaker": "Vova", "text": "Это именно номинование позиций, которые у них есть. То есть, без учета. Есть они в наличии, сколько их, на каком складу.\n\nСколько они стоят без всего этого.", "confidence": 0.99}
+{"start": 654, "end": 673, "speaker": "Dan Khasis", "text": "Окей, может быть, это и глобальное. Ты слишком буквально воспринимаешь этот респонс. Потому что здесь урезанный респонс.\n\nНаш парень только сделал output к itemCode и itemName. Там есть другие данные, мы их просто не отпутаем.", "confidence": 0.95}
+{"start": 675, "end": 678, "speaker": "Vova", "text": "Я понял. Но это неинтересно, какие там есть данные.", "confidence": 0.98}
+{"start": 679, "end": 682.33, "speaker": "Dan Khasis", "text": "Мы можем посмотреть, кто у нас питончик.", "confidence": 0.95}
+{"start": 682.33, "end": 685.67, "speaker": "Dan Khasis", "text": "Что мы здесь делаем?", "confidence": 0.95}
+{"start": 685.67, "end": 689.0, "speaker": "Dan Khasis", "text": "Вэрдамп есть какой-то или как это сделать?", "confidence": 0.95}
+{"start": 692, "end": 694.5, "speaker": "Semeyon S", "text": "Дир.ай в принт лучше обернуть.", "confidence": 0.95}
+{"start": 694.5, "end": 697.0, "speaker": "Semeyon S", "text": "Мы получим список всех доступных полей.", "confidence": 0.95}
+{"start": 697.0, "end": 699.5, "speaker": "Semeyon S", "text": "Да-да-да.", "confidence": 0.95}
+{"start": 699.5, "end": 702.0, "speaker": "Semeyon S", "text": "И уже потом мы в этом списке что-нибудь добавим.", "confidence": 0.95}
+{"start": 702.0, "end": 704.5, "speaker": "Semeyon S", "text": "Так вот?", "confidence": 0.95}
+{"start": 704.5, "end": 707.0, "speaker": "Semeyon S", "text": "Да.", "confidence": 0.95}
+{"start": 709, "end": 713, "speaker": "Dan Khasis", "text": "Всё, я на питоне программирую теперь.", "confidence": 0.95}
+{"start": 717, "end": 719, "speaker": "Dan Khasis", "text": "Нет, здесь что-то не то получилось.", "confidence": 0.99}
+{"start": 720, "end": 726, "speaker": "Semeyon S", "text": "Ну, значит, это объект динамический. А не статический.", "confidence": 0.99}
+{"start": 727, "end": 729, "speaker": "Dan Khasis", "text": "Так это массив, да?", "confidence": 0.46}
+{"start": 731, "end": 743, "speaker": "Semeyon S", "text": "Нет, это объект. Вот у него эти magic методы. Так-так-так.", "confidence": 0.62}
+{"start": 744, "end": 751, "speaker": "Dan Khasis", "text": "Как нам сделать принт всех ключей, которые есть в этом объекте?", "confidence": 0.75}
+{"start": 752, "end": 755.5, "speaker": "Semeyon S", "text": "Пробовать разные варианты надо.", "confidence": 0.95}
+{"start": 755.5, "end": 759.0, "speaker": "Semeyon S", "text": "Попробую i.items.", "confidence": 0.95}
+{"start": 759.0, "end": 762.5, "speaker": "Dan Khasis", "text": "А есть там этот...", "confidence": 0.95}
+{"start": 762.5, "end": 766.0, "speaker": "Semeyon S", "text": "Ну, стандартный это dir.", "confidence": 0.95}
+{"start": 766.0, "end": 769.5, "speaker": "Semeyon S", "text": "Но если объект динамический...", "confidence": 0.95}
+{"start": 769.5, "end": 773.0, "speaker": "Semeyon S", "text": "Нет-нет-нет, тебе скобочки надо было поставить.", "confidence": 0.95}
+{"start": 773.0, "end": 776.5, "speaker": "Dan Khasis", "text": "Это метод.", "confidence": 0.95}
+{"start": 776.5, "end": 780.0, "speaker": "Dan Khasis", "text": "Ага.", "confidence": 0.95}
+{"start": 780.0, "end": 783.5, "speaker": "Semeyon S", "text": "Вот, он тупленно вот выплюнул.", "confidence": 0.95}
+{"start": 783.5, "end": 787.0, "speaker": "Semeyon S", "text": "То, что из квельник вернул.", "confidence": 0.95}
+{"start": 787, "end": 791.67, "speaker": "Dan Khasis", "text": "Да, но здесь ключ...", "confidence": 0.95}
+{"start": 791.67, "end": 796.33, "speaker": "Dan Khasis", "text": "В некоторых вещах нет даже ключа, только value.", "confidence": 0.95}
+{"start": 796.33, "end": 801.0, "speaker": "Dan Khasis", "text": "Это почти как result set больше, чем объект полноценный.", "confidence": 0.95}
+{"start": 802, "end": 804.67, "speaker": "Semeyon S", "text": "Ну да.", "confidence": 0.95}
+{"start": 804.67, "end": 807.33, "speaker": "Semeyon S", "text": "Но это еще к колонке надо смотреть.", "confidence": 0.95}
+{"start": 807.33, "end": 810.0, "speaker": "Semeyon S", "text": "Смотря что он может...", "confidence": 0.95}
+{"start": 810, "end": 812.25, "speaker": "Vova", "text": "Это тип какой-то.", "confidence": 0.95}
+{"start": 812.25, "end": 814.5, "speaker": "Dan Khasis", "text": "Наверное.", "confidence": 0.95}
+{"start": 814.5, "end": 816.75, "speaker": "Dan Khasis", "text": "Сейчас.", "confidence": 0.95}
+{"start": 816.75, "end": 819.0, "speaker": "Dan Khasis", "text": "Капс.", "confidence": 0.95}
+{"start": 823, "end": 828.5, "speaker": "Vova", "text": "В общем, у них как будто бы юнит, в котором измеряется.", "confidence": 0.95}
+{"start": 828.5, "end": 834.0, "speaker": "Vova", "text": "Это отдельно хранится.", "confidence": 0.95}
+{"start": 834.0, "end": 839.5, "speaker": "Semeyon S", "text": "То есть, есть имя товара и отдельно юнит, в котором он измеряется.", "confidence": 0.95}
+{"start": 839.5, "end": 845.0, "speaker": "Vova", "text": "ItemCode, вон еще.", "confidence": 0.95}
+{"start": 846, "end": 848, "speaker": "Dan Khasis", "text": "Мы уже ItemCode, да, отпутали.", "confidence": 0.99}
+{"start": 850, "end": 851, "speaker": "Vova", "text": "ItemName был?", "confidence": 0.99}
+{"start": 857, "end": 1004, "speaker": "Dan Khasis", "text": "Да, так в любом случае, все же мы должны знать, вы должны знать, как я на это смотрю, то, что... Сейчас, секунду. Окей.\n\nRawMaterials, вот категоризация RawMaterials. И потом у них есть категоризация Toads, SanitationExpenses, Lids, Labels, Packing, Shipping, Cups, Candy, Freezer и так далее. Значит, как я на это смотрю, это то, что у нас будут разные эти RP-системы.\n\nСкажем, 5 максимум, 3 самых важных. SAP, Dynamics, NetSuite. Мы к ним подключаемся через Gateway.\n\nВ отличие от Telematics, там нет стандартизации. У каждого инстанса есть свои... такого типа, заебал, такого типа, где каждый каждый чувак, который думает, что он этот программист или IT-специалист, берет и делает свои вьюхи, делает свои витрины, делает свои эти модели, data-модели.\n\nНо все data-модели более-менее полностью совпадают с этими базовыми объект-типами, которые у нас есть. Базовые объект-типы, например, самое важное для нас это Inventory. Это типы вещей, товаров, которые они имеют право продавать.\n\nЭто для нас самое важное. В первую очередь. Получается, чтобы нам сделать invoice, у нас есть...", "confidence": 0.61}
+{"start": 1007, "end": 1032, "speaker": "Dan Khasis", "text": "Сейчас, секунду. SKUs их называют.", "confidence": 0.1}
+{"start": 1035, "end": 1210, "speaker": "Dan Khasis", "text": "Это Stock Keeping Unit. И у них есть тип. Например, мы видим здесь, что есть один из queries, это...\n\nВидите, SQL номер, item info 14, например. Сейчас, секунду. Если посмотреть на склады...\n\nВот, видите, это наши facilities. Значит, если смотреть на facility sync, если мы делаем sync facilities, в этом случае, например, это номер SQL 0.1. Итак, мы идем по списку SQL 0.1, это наши facilities. Было бы хорошо иметь адрес, но это второй вопрос.\n\nМы вернемся к нему. Потом есть, например, item info, скажем, давай посмотрим на 14 query. Видишь, здесь идет тип айтема.\n\nВ принципе, я не знаю, если можно поставить фильтр на тип айтема. Давай представим, что есть этот items. Более правильно сказать, что это item types, чем items.\n\nВидишь, потому что у них есть item code. Они его называют item info. Например, item types.\n\nИ это в этом случае SQL 14. Что нам нужно сделать, как я думаю, от всех наших ERP, в нашу ситуацию, то, что у нас gateway, это наш transport layer. Но наш data layer, нам нужно пройти через все их респонсы.\n\nИ нам нужно сделать mapping. В первой версии без UI, но во второй или третьей версии с каким-то UI, где у них будет список, что ты хочешь синхронизовать. Я сейчас дам пример вам.\n\nКогда ты соединяешь свой банковский счет к системе бухгалтерии, там есть выбор, что ты хочешь синхронизировать. Какой счет, какой исходный счет, и какой он маппается на какой target.", "confidence": 0.58}
+{"start": 1225, "end": 1227, "speaker": "Dan Khasis", "text": "Сейчас, секунду.", "confidence": 0.74}
+{"start": 1244, "end": 1254.22, "speaker": "Dan Khasis", "text": "Когда ты это делаешь, ты можешь выбрать какой source, какой destination.", "confidence": 0.95}
+{"start": 1254.22, "end": 1264.44, "speaker": "Dan Khasis", "text": "Почему это важно?", "confidence": 0.95}
+{"start": 1264.44, "end": 1274.65, "speaker": "Dan Khasis", "text": "Потому что у них могут приходить items из какой-то полной дряни.", "confidence": 0.95}
+{"start": 1274.65, "end": 1284.87, "speaker": "Dan Khasis", "text": "Мы не имеем права делать стандартные connections в их систему и ожидать консистентный результат из API, как мы ожидаем из всех наших других connections.", "confidence": 0.95}
+{"start": 1284.87, "end": 1295.09, "speaker": "Dan Khasis", "text": "Многие называют это ERP mapping process.", "confidence": 0.95}
+{"start": 1295.09, "end": 1305.31, "speaker": "Dan Khasis", "text": "Вот почему они строят middleware.", "confidence": 0.95}
+{"start": 1305.31, "end": 1315.53, "speaker": "Dan Khasis", "text": "Потому что middleware мапает говняные, рассоединенные, я сейчас найду экземпляры.", "confidence": 0.95}
+{"start": 1315.53, "end": 1325.75, "speaker": "Dan Khasis", "text": "Каждый у себя настроил, как они хотели свой ERP.", "confidence": 0.95}
+{"start": 1325.75, "end": 1335.96, "speaker": "Dan Khasis", "text": "И они потом до конца жизни его пользуют, плюс-минус вот эти как бы стратегии, связанные с типом объектов, которые они пользуют, в этом случае SAP One.", "confidence": 0.95}
+{"start": 1335.96, "end": 1346.18, "speaker": "Dan Khasis", "text": "Сейчас вижу, есть customer, есть заказ, есть quote.", "confidence": 0.95}
+{"start": 1346.18, "end": 1356.4, "speaker": "Dan Khasis", "text": "И потом все эти items входят в квитацию, например.", "confidence": 0.95}
+{"start": 1356.4, "end": 1366.62, "speaker": "Dan Khasis", "text": "Почему это нам важно?", "confidence": 0.95}
+{"start": 1366.62, "end": 1376.84, "speaker": "Dan Khasis", "text": "Потому что мы не хотим hardcoded в кодовую базу нашу эти mapping.", "confidence": 0.95}
+{"start": 1376.84, "end": 1387.05, "speaker": "Dan Khasis", "text": "Мы должны сделать линковку, где из этого, из SAP, это, например, items, из NetSuite это products, из Dynamics это...", "confidence": 0.95}
+{"start": 1387.05, "end": 1397.27, "speaker": "Dan Khasis", "text": "Но в итоге они все должны маппаться, например, на item types, например, в нашей системе.", "confidence": 0.95}
+{"start": 1397.27, "end": 1407.49, "speaker": "Dan Khasis", "text": "Но проблема, что здесь есть усложнительная промежуточная проблема, которая усложняет нам все, это то, что там нет прямого маппинга на уровне всей платформы.", "confidence": 0.95}
+{"start": 1407.49, "end": 1417.71, "speaker": "Dan Khasis", "text": "Так это более реально выглядит так, вот SAP Connection 1, там идет instance 999 для какого-то клиента уникально.", "confidence": 0.95}
+{"start": 1417.71, "end": 1427.93, "speaker": "Dan Khasis", "text": "И у него это тоже называется items.", "confidence": 0.95}
+{"start": 1427.93, "end": 1438.15, "speaker": "Dan Khasis", "text": "Но он, например, в items имеет какие-то custom data, и он не написал, как здесь в стандартный item код, и может быть у него есть какие-то custom key.", "confidence": 0.95}
+{"start": 1438.15, "end": 1448.36, "speaker": "Dan Khasis", "text": "И он хочет, чтобы мы этот custom key показали водителю.", "confidence": 0.95}
+{"start": 1448.36, "end": 1458.58, "speaker": "Dan Khasis", "text": "Но мы же не сможем это сделать, если мы не знаем о нем.", "confidence": 0.95}
+{"start": 1458.58, "end": 1468.8, "speaker": "Dan Khasis", "text": "Так если мы скажем, как выглядит финальное видение, оно выглядит как UI подсоединяется, так же, как и здесь.", "confidence": 0.95}
+{"start": 1468.8, "end": 1479.02, "speaker": "Dan Khasis", "text": "UI находит, backend находит и говорит UI, вот какие у вас есть объекты, выбери, которые ты хочешь инкнуть в route for me.", "confidence": 0.95}
+{"start": 1479.02, "end": 1489.24, "speaker": "Dan Khasis", "text": "Мы выбираем те, которые мы считаем, можем сделать, warehouse, item info, они выберут из списка, потом будет второй этап визита.", "confidence": 0.95}
+{"start": 1489.24, "end": 1499.45, "speaker": "Dan Khasis", "text": "Ок, мы сделали query этих типов, мы думаем, что это такого типа объекты.", "confidence": 0.95}
+{"start": 1499.45, "end": 1509.67, "speaker": "Dan Khasis", "text": "Ок, теперь они говорят, сделайте пожалуйста mapping.", "confidence": 0.95}
+{"start": 1509.67, "end": 1519.89, "speaker": "Dan Khasis", "text": "И они делают mapping, что вот это поле такое-то, это поле такое-то, это поле такое-то.", "confidence": 0.95}
+{"start": 1519.89, "end": 1530.11, "speaker": "Dan Khasis", "text": "Они его маппуют из их системы в нашу систему.", "confidence": 0.95}
+{"start": 1530.11, "end": 1540.33, "speaker": "Dan Khasis", "text": "Мы в первой версии это сделаем для них.", "confidence": 0.95}
+{"start": 1540.33, "end": 1550.55, "speaker": "Dan Khasis", "text": "Но если вы посмотрите, это годами делается, это 50 лет делается.", "confidence": 0.95}
+{"start": 1550.55, "end": 1560.76, "speaker": "Dan Khasis", "text": "Они выбирают, какое поле из source в target идет.", "confidence": 0.95}
+{"start": 1560.76, "end": 1570.98, "speaker": "Dan Khasis", "text": "Вот это их поля, это наши поля.", "confidence": 0.95}
+{"start": 1570.98, "end": 1581.2, "speaker": "Dan Khasis", "text": "Они маппуют их.", "confidence": 0.95}
+{"start": 1581.2, "end": 1591.42, "speaker": "Dan Khasis", "text": "Они пошагово проходят через все ключевые выбранные поля.", "confidence": 0.95}
+{"start": 1591.42, "end": 1601.64, "speaker": "Dan Khasis", "text": "Старый филд, новый филд.", "confidence": 0.95}
+{"start": 1601.64, "end": 1611.85, "speaker": "Dan Khasis", "text": "Старый их филд, наш филд.", "confidence": 0.95}
+{"start": 1611.85, "end": 1622.07, "speaker": "Dan Khasis", "text": "По категориям типов вещей.", "confidence": 0.95}
+{"start": 1622.07, "end": 1632.29, "speaker": "Dan Khasis", "text": "Так в итоге наша таблица на уровне connection, если у нас есть там telematics gateway, у нас есть connections, у нас есть connections, connection и у этого connection есть главные вещи, member id, рута, connection type, например, telematics, ERP и так далее.", "confidence": 0.95}
+{"start": 1632.29, "end": 1642.51, "speaker": "Dan Khasis", "text": "Vendor id тоже у нас есть.", "confidence": 0.95}
+{"start": 1642.51, "end": 1652.73, "speaker": "Dan Khasis", "text": "Это, например, один для Geotab, два для Samsara или там UUID и так далее.", "confidence": 0.95}
+{"start": 1652.73, "end": 1662.95, "speaker": "Dan Khasis", "text": "И потом у нас есть credentials.", "confidence": 0.95}
+{"start": 1662.95, "end": 1673.16, "speaker": "Dan Khasis", "text": "Может быть в этой таблице, может быть в другой, я не знаю.", "confidence": 0.95}
+{"start": 1673.16, "end": 1683.38, "speaker": "Dan Khasis", "text": "Наверное в этой же.", "confidence": 0.95}
+{"start": 1683.38, "end": 1693.6, "speaker": "Dan Khasis", "text": "Так теперь получается, что у нас происходит, что из этого connection, telematics gateway по какому-то расписанию скачивает данные.", "confidence": 0.95}
+{"start": 1693.6, "end": 1703.82, "speaker": "Dan Khasis", "text": "И выход этих данных на текущий момент, типы данных, это у нас есть сейчас vehicles, drivers может быть, если нет, то нужно, drivers, users.", "confidence": 0.95}
+{"start": 1703.82, "end": 1714.04, "speaker": "Dan Khasis", "text": "100% у нас есть customers, customer locations.", "confidence": 0.95}
+{"start": 1714.04, "end": 1724.25, "speaker": "Dan Khasis", "text": "У нас не хватает orders.", "confidence": 0.95}
+{"start": 1724.25, "end": 1734.47, "speaker": "Dan Khasis", "text": "Я уже посылал что-то от этого, вы знаете об этом.", "confidence": 0.95}
+{"start": 1744.69, "end": 1754.91, "speaker": "Dan Khasis", "text": "И еще самое важное, routes.", "confidence": 0.95}
+{"start": 1754.91, "end": 1765.13, "speaker": "Dan Khasis", "text": "У нас есть два типа routes.", "confidence": 0.95}
+{"start": 1765.13, "end": 1775.35, "speaker": "Dan Khasis", "text": "И потом есть actual, это те, которые состоялись.", "confidence": 0.95}
+{"start": 1775.35, "end": 1785.56, "speaker": "Dan Khasis", "text": "И эти, которые мы хотим рано через AI, или через ML, скажем.", "confidence": 0.95}
+{"start": 1785.56, "end": 1795.78, "speaker": "Dan Khasis", "text": "Или которые мы можем import as is, после дедупликации, или import, reoptimize, suggest, replace with master routes.", "confidence": 0.95}
+{"start": 1795.78, "end": 1806.0, "speaker": "Dan Khasis", "text": "Саша, я вижу, ты там руку поднял.", "confidence": 0.95}
+{"start": 1806, "end": 1829, "speaker": "Alex Shulga", "text": "Да, спасибо. Я извиняюсь, наверное, вы еще к этому не дошли, но у нас есть одна проблема с текущим telematics connections. Когда мы пересоздаем connections, мы начинаем sync заново, и все объекты заново синхронизируются и дуплицируются в нашей системе.\n\nВот если можно тоже проговорить этот момент, что должно происходить в случае пересоздания connections. Спасибо.", "confidence": 0.99}
+{"start": 1831, "end": 1832.67, "speaker": "Dan Khasis", "text": "Пересоздание в рамке одного аккаунта?", "confidence": 0.95}
+{"start": 1832.67, "end": 1834.33, "speaker": "Dan Khasis", "text": "Да.", "confidence": 0.95}
+{"start": 1834.33, "end": 1836.0, "speaker": "Dan Khasis", "text": "А как это возможно?", "confidence": 0.95}
+{"start": 1837, "end": 1854, "speaker": "Alex Shulga", "text": "Ну, например, если мы раз синхронизировали аккаунт, удалили connections, потом пересоздаем его. Так иногда делается для решения проблем синхронизации, потому что она иногда зависает в редких, очень редких случаях. И support иногда советует удалить connections и пересоздать его.", "confidence": 0.99}
+{"start": 1856, "end": 1866, "speaker": "Dan Khasis", "text": "Support надо переучивать. Я не знаю, что сказать. Support же работает на нас, мы не работаем на них.", "confidence": 0.91}
+{"start": 1867, "end": 1878, "speaker": "Alex Shulga", "text": "Окей, то есть основной пункт в том, что connections и к ERP-системе, и к Telematics Vendor не должен пересоздаваться никогда. Если я правильно понял, да?", "confidence": 0.99}
+{"start": 1879, "end": 1985, "speaker": "Dan Khasis", "text": "Я бы не сказал-то. Сейчас, одну секунду, я тебе покажу что-то. Это оригинальные спеки на Telematics Gateway из 2016 года.\n\nЯ не знаю, если вы их видели или нет. Data Synchronization. Динамически скачиваемые данные с расписанием, которое позволено дать вендору, который создает это.\n\nМы можем скачивать чаще, 60 секунд. Можем линковать множество Telematics accounts. Если есть отвал в серии Connection Failure, Connection Attempt is terminated and retried.\n\nNext Schedule and Refresh Interval. No limitations on how many failed attempts can occur before remote connections are automatically disabled. Disable Refresh Interval Attempts.\n\nConnection should be removed or disabled. Ок.", "confidence": 0.42}
+{"start": 1992, "end": 1994, "speaker": "Dan Khasis", "text": "Data Storage Duration. Сейчас, секунду.", "confidence": 0.99}
+{"start": 1998, "end": 2002, "speaker": "Dan Khasis", "text": "Вот это, кстати, с 2016 года это тикет.", "confidence": 0.99}
+{"start": 2005, "end": 2020, "speaker": "Dan Khasis", "text": "Receive Order Transactions. Any vehicle can have a route assigned to them.", "confidence": 0.26}
+{"start": 2025, "end": 2039, "speaker": "Dan Khasis", "text": "Ок. Просто счет. Зачем пересоздавать?\n\nТолько если они API-ключ вырубили. Почему нельзя апдейтнуть API-ключ через редактор? Зачем надо удалять, чёрт возьми, всё?", "confidence": 0.92}
+{"start": 2040, "end": 2052, "speaker": "Alex Shulga", "text": "Ок. Это справедливо. Но что должно произойти, если это случилось?\n\nОпять же, я не хотел бы уводить в сторону обсуждения. Я думаю, что это должно быть просто проговорено. Может быть, в рамках другого звонка.\n\nСпасибо.", "confidence": 0.99}
+{"start": 2054, "end": 2059, "speaker": "Dan Khasis", "text": "Тебе не надо спешить. Мне просто любопытно, что это значит. Почему нельзя редактировать Connection?", "confidence": 0.99}
+{"start": 2060, "end": 2083, "speaker": "Alex Shulga", "text": "Можно и нужно редактировать Connection. Просто в очень редких случаях мы можем столкнуться с ситуацией, когда Connection удалён и пересоздан с тем же вендором, с тем же составом ордеров, facilities, vehicles или чего бы там мы хотели бы синхронизировать с нашей системой.", "confidence": 0.99}
+{"start": 2084, "end": 2139, "speaker": "Dan Khasis", "text": "Да, но там же есть в рамках одного аккаунта у нас же есть первичный ключ на великол алиусе. То есть, если мы синхронизируем с другой системы, ты можешь без ограничений, с точки зрения чисто философской, ты можешь создать миллион Connections на Telematics Gateway. Если у нас вырубит, конечно, вендор перед тем, как они дадут нам сделать миллион реквестов в секунду, но они сделают эти реквесты и потом мы в рамках одного аккаунта обязаны делать дедупликацию по первичному ключу, внешнему ключу того объекта, иначе мы будем иметь проблемы с биллингом, потому что мы же берем деньги за количество уникальных машин.", "confidence": 0.9}
+{"start": 2141, "end": 2142, "speaker": "Alex Shulga", "text": "Окей, я понял.", "confidence": 0.99}
+{"start": 2142, "end": 2159.8, "speaker": "Dan Khasis", "text": "То есть, если у них есть внешний ресурс ID и у нас есть первичный ключ внутри root account ID запятая external account ID, мы же будем иметь и получим unique enforcement и дупликатов никогда не должно произойти.", "confidence": 0.95}
+{"start": 2159.8, "end": 2177.6, "speaker": "Dan Khasis", "text": "Потому что это наш первичный ключ и их первичный ключ.", "confidence": 0.95}
+{"start": 2177.6, "end": 2195.4, "speaker": "Dan Khasis", "text": "Так если посмотреть на эту ситуацию, здесь то же самое почти, что они могут создать свой SAP connection 50 раз, если мы им позволим это.", "confidence": 0.95}
+{"start": 2195.4, "end": 2213.2, "speaker": "Dan Khasis", "text": "Мы это не позволим, но если бы они это позволяли, тогда мы бы бесконечно скачивали все.", "confidence": 0.95}
+{"start": 2213.2, "end": 2231.0, "speaker": "Dan Khasis", "text": "Если мы останемся на бизнес уровне, мы увидим, что главная разница это прослойка, что прослойка этого в отличие от стандартного telematics, это то, что они могут в принципе иметь, я не говорю, что это возможно, но я говорю в принципе, один клиент может иметь четыре, окей, я дам пример.", "confidence": 0.95}
+{"start": 2231.0, "end": 2248.8, "speaker": "Dan Khasis", "text": "Ты взял банка 100 миллионов, чтобы раскрутить какой-то тип бизнеса, потому ты и ты с партнерами нашли депозит, положить 20 миллионов, чтобы в долг взять 80, теперь у вас есть 100 покупать разные бизнесы.", "confidence": 0.95}
+{"start": 2248.8, "end": 2266.6, "speaker": "Dan Khasis", "text": "Вы начинаете покупать разные бизнесы.", "confidence": 0.95}
+{"start": 2266.6, "end": 2284.4, "speaker": "Dan Khasis", "text": "Получается, что склады во Флориде пользуют SAP, а склады в Нью-Йорке пользуют Dynamics, потом вы начали покупать еще в Калифорнии и поняли, что там пользуют NetSuite.", "confidence": 0.95}
+{"start": 2284.4, "end": 2302.2, "speaker": "Dan Khasis", "text": "У каждого из этих есть inventory items, это в какой-то момент SAP будет миграция сделана в Dynamics или все перейдут в SAP, но это не будет overnight, а люди хотят пользоваться прямо сейчас, не за ночь, а прямо сейчас, они не хотят ждать полгода или год.", "confidence": 0.95}
+{"start": 2302.2, "end": 2320.0, "speaker": "Dan Khasis", "text": "Так мы делаем наш mapping layer, но этот mapping layer не на уровне вендора, хотя это тоже возможно, если бы у них были стандартные объекты, но у них нет полностью стандартных объектов.", "confidence": 0.95}
+{"start": 2320.0, "end": 2337.8, "speaker": "Dan Khasis", "text": "Этот mapping layer в комбинации с одним уникальным connection, в отличие от Telematics Gateway.", "confidence": 0.95}
+{"start": 2337.8, "end": 2355.6, "speaker": "Dan Khasis", "text": "Почему это важно?", "confidence": 0.95}
+{"start": 2355.6, "end": 2373.4, "speaker": "Dan Khasis", "text": "Это важный момент обсудить, потому что это влияет на все проекты, связанные вообще с любыми интеграциями, включая QuickBooks, но QuickBooks в отличие от этих Xero более-менее стандартизованы.", "confidence": 0.95}
+{"start": 2373.4, "end": 2391.2, "speaker": "Dan Khasis", "text": "И кстати, только что я вспомнил, как это делает эта фирма Zephyr это хорошо делает.", "confidence": 0.95}
+{"start": 2391.2, "end": 2409.0, "speaker": "Dan Khasis", "text": "Мы, конечно, не будем делать такой UI пока, но у них есть такой UI, где ты можешь сказать, что вот это поле отсюда мапается на это поле в этом сервисе другом, и потом ты выбираешь исходный сервис и destination поле, и она по цепочке все это ранует.", "confidence": 0.95}
+{"start": 2414, "end": 2421, "speaker": "Dan Khasis", "text": "Все эти шаги.", "confidence": 0.57}
+{"start": 2424, "end": 2684, "speaker": "Dan Khasis", "text": "И там есть статус каждого, если вы посмотрите. Видишь, категория маркетинг, и поехали. Send Slack Message, когда пришел лид.\n\nСделай это, когда то. Сделай это, когда то. И вот это включено, выключено, работает, не работает.\n\nВот этот mapping layer. В итоге это оказывается в RouteForm. А в RouteForm у нас будет, что у нас будет?\n\nУ нас будет customers, это их customers, у нас есть это. Customer locations у нас тоже есть. Потом у нас есть warehouse, это у нас facilities.\n\nПотом есть заказы, у нас есть заказы. И потом, что еще там есть? И мы наращиваем.\n\nДа, есть inventory, нас беспокоит первый inventory type даже больше, чем сам inventory. А потом уже есть actual inventory. Пока опять мы не беспокоимся, что у них есть выложено или нет, мы просто предполагаем, что там неограничено количество.\n\nЭто сколько брать денег, и это можно с точки зрения кому платить или у кого собирать. Это работает тот же алгоритм. И потом есть invoices.\n\nЗначит, но эти все маппинги происходят на уровне connection. Если мы говорим насчет ERP систем, а не вот этих детских систем, так мы знаем, что мы не построим полностью interactive wizard достаточно быстро. Так что нам нужно сделать, это нам нужно как минимум построить таблицы, которые себя представляют как бы они, и что у нас есть какой-то connection ID.\n\nМы не будем в первой версии поддерживать pivoting, unpivoting, repivoting, мы не пытаемся с нуля построить middleware систему. Нам нужно super key-value remapping. Это старый ключ или внешний ключ, это route-free ключ.\n\nМы можем сделать типификацию, если надо, где у нас есть там тип. У них есть тип, у нас есть тип. И теперь у нас для connection первого с SCP у нас есть...\n\nЯ не буду как... Это будет сохраняться как extract или dictionary, но я просто для... чтобы легче читать.\n\nExternal field type. Какой? Order.\n\nExternal field type. У них есть orders где-то здесь? Если нет, то, я думаю, у них проблема.\n\nДавай посмотрим на invoice. 104, 105.", "confidence": 0.59}
+{"start": 2700, "end": 2701, "speaker": "Dan Khasis", "text": "Адрес есть.", "confidence": 0.99}
+{"start": 2705, "end": 2709, "speaker": "Dan Khasis", "text": "711 invoice.", "confidence": 0.38}
+{"start": 2719, "end": 2720, "speaker": "Dan Khasis", "text": "Где это, блядь?", "confidence": 0.65}
+{"start": 2725, "end": 2728, "speaker": "Dan Khasis", "text": "Очень противно наверх идти. А, окей.", "confidence": 0.96}
+{"start": 2730, "end": 2731, "speaker": "Dan Khasis", "text": "Вот документ.", "confidence": 0.78}
+{"start": 2741, "end": 2748.07, "speaker": "Dan Khasis", "text": "Теперь мы берем и мапаем, что там был такой-то invoice на тип объекта.", "confidence": 0.95}
+{"start": 2748.07, "end": 2755.15, "speaker": "Dan Khasis", "text": "Потом в invoice была там line item.", "confidence": 0.95}
+{"start": 2755.15, "end": 2762.22, "speaker": "Dan Khasis", "text": "И это мапается у нас на invoice.", "confidence": 0.95}
+{"start": 2762.22, "end": 2769.3, "speaker": "Dan Khasis", "text": "Тоже на line item.", "confidence": 0.95}
+{"start": 2769.3, "end": 2776.37, "speaker": "Dan Khasis", "text": "Потом опять invoice.", "confidence": 0.95}
+{"start": 2776.37, "end": 2783.44, "speaker": "Dan Khasis", "text": "Потом у нас есть item code.", "confidence": 0.95}
+{"start": 2783.44, "end": 2790.52, "speaker": "Dan Khasis", "text": "Потом у нас есть item.", "confidence": 0.95}
+{"start": 2790.52, "end": 2797.59, "speaker": "Dan Khasis", "text": "У нас это item type, например.", "confidence": 0.95}
+{"start": 2797.59, "end": 2804.67, "speaker": "Dan Khasis", "text": "И поехали.", "confidence": 0.95}
+{"start": 2804.67, "end": 2811.74, "speaker": "Dan Khasis", "text": "Итак, мы проходим через все их поля, которые мы хотим промапать.", "confidence": 0.95}
+{"start": 2811.74, "end": 2818.81, "speaker": "Dan Khasis", "text": "Которые будут 1 сотая всех полей, которые у них есть.", "confidence": 0.95}
+{"start": 2818.81, "end": 2825.89, "speaker": "Dan Khasis", "text": "Вот почему я говорил Игорю, чтобы вы не парились это сами делать.", "confidence": 0.95}
+{"start": 2825.89, "end": 2832.96, "speaker": "Dan Khasis", "text": "Потому что вы никогда не выберете правильные поля.", "confidence": 0.95}
+{"start": 2832.96, "end": 2840.04, "speaker": "Dan Khasis", "text": "И Макс Пирогов никогда не выберет правильные поля.", "confidence": 0.95}
+{"start": 2840.04, "end": 2847.11, "speaker": "Dan Khasis", "text": "После того, как мы пройдем это упражнение маппинга, мы тогда сможем в нашем worker, который будет syncing с их системой, динамически перемапывать после скачивания их данных в наш формат.", "confidence": 0.95}
+{"start": 2847.11, "end": 2854.19, "speaker": "Dan Khasis", "text": "И потом писать в наш API эти данные в нашем формате.", "confidence": 0.95}
+{"start": 2854.19, "end": 2861.26, "speaker": "Dan Khasis", "text": "И получится, что у нас есть connection внешний.", "confidence": 0.95}
+{"start": 2861.26, "end": 2868.33, "speaker": "Dan Khasis", "text": "У нас есть gateway.", "confidence": 0.95}
+{"start": 2868.33, "end": 2875.41, "speaker": "Dan Khasis", "text": "Но теперь в gateway есть custom mapping.", "confidence": 0.95}
+{"start": 2875.41, "end": 2882.48, "speaker": "Dan Khasis", "text": "И он трансформирует это на run from объекты.", "confidence": 0.95}
+{"start": 2882.48, "end": 2889.56, "speaker": "Dan Khasis", "text": "И потом этот mapping выбирает после этой трансформации подходящий на наш API делать пост.", "confidence": 0.95}
+{"start": 2889.56, "end": 2896.63, "speaker": "Dan Khasis", "text": "По цепочке у нас приходит connection ksap1.", "confidence": 0.95}
+{"start": 2896.63, "end": 2903.7, "speaker": "Dan Khasis", "text": "Gateway скачивает все заактивированные объекты для того connection.", "confidence": 0.95}
+{"start": 2903.7, "end": 2910.78, "speaker": "Dan Khasis", "text": "Потому что на уровне каждого connection мы должны решать, что скачивать.", "confidence": 0.95}
+{"start": 2910.78, "end": 2917.85, "speaker": "Dan Khasis", "text": "Мы не хотим же все скачивать.", "confidence": 0.95}
+{"start": 2917.85, "end": 2924.93, "speaker": "Dan Khasis", "text": "Если у этого чувака есть тысячу вещей или десятки тысяч вещей, мы не хотим их все скачивать.", "confidence": 0.95}
+{"start": 2924.93, "end": 2932.0, "speaker": "Dan Khasis", "text": "Мы хотим скачивать только самые важные вещи, которые важны в этом случае.", "confidence": 0.95}
+{"start": 2933, "end": 2938.33, "speaker": "Dan Khasis", "text": "Для этого конкретного И что должно маппиться на custom data в нашу систему?", "confidence": 0.95}
+{"start": 2938.33, "end": 2943.67, "speaker": "Vova", "text": "Те поля, которые мы не заложили по дефолту.", "confidence": 0.95}
+{"start": 2943.67, "end": 2949.0, "speaker": "Vova", "text": "А ноу-клиенту они нужны в нашей системе.", "confidence": 0.95}
+{"start": 2950, "end": 3029, "speaker": "Dan Khasis", "text": "Да, так это почти как у вас в csv file wizard. Если мы сделаем настройку, если мы сделаем расширение configuration configuration для ERP-системы, у нас будет в этой таблице и у них будет один флаг, например sync custom data. Потом будет другой флаг, например, sync invoices.\n\nВ принципе, у нас должно было это так и работать уже. Если посмотреть на... Я не знаю, почему мы это по-прежнему не убрали.\n\nЯ же рассказывал Артуру много раз здесь отступ неправильный, что это надо убрать все.", "confidence": 0.48}
+{"start": 3030, "end": 3034, "speaker": "Vova", "text": "А там если это убрать, то становится непонятно, что это за цифра тогда.", "confidence": 0.99}
+{"start": 3038, "end": 3228, "speaker": "Dan Khasis", "text": "Я все свои мысли уже послал Артуру. Я не хочу сейчас отвлекаться. Но это большая проблема.\n\nИ показывать точку 9 часов, когда 57 часов это как показывать расстояние до Луны в миллиметров. Окей, смотрим на этот account settings. Мы знаем, что здесь нелогично, потому что telematics connections да есть, в принципе, settings.\n\nОни не в settings. Они в аккаунте, но они не в settings. То есть здесь они в аккаунте, но здесь они в settings.\n\nТо пошло, почему settings... telematics это не subset account settings, но он как-то здесь оказался. В любом случае, где здесь, если в редакторе вот видите sync telematics data, sync customer data, sync order data, sync asset data, как их еще у нас есть, invoices.\n\nИ мы проходим через все типы объектов, которые есть в telematics connections или в ERP gateway. Если база правильно сделана, и там даже если она неправильно сделана, надо alter table прибавлять 6 колонок или 7 колонок говняных, это все равно легко сделать. Здесь это появится, sync additional data.\n\nИ здесь будут эти счетчики, sync order, sync items, sync inventory. Ты откроешь этот connection ERP и мы будем знать по типу что это тип telematics ERP. И она будет показывать все эти типы вещей, которые здесь синкнуты с того ERP.\n\nЕсли через 10 версий ты включишь редактор ERP connection и сможешь делать mapping, то в первой версии мы даже не должны показывать mapping. Если мы хотим показывать mapping, мы можем показывать его в read-only режиме просто, так же как и здесь, они показывают. У вас есть invoices, мы их маппаем туда-сюда.", "confidence": 0.61}
+{"start": 3237, "end": 3241.0, "speaker": "Vova", "text": "А обратную синхронизацию мы же будем делать тоже?", "confidence": 0.95}
+{"start": 3241.0, "end": 3245.0, "speaker": "Vova", "text": "Если мы сгоняем invoice, мы должны им его отправить.", "confidence": 0.95}
+{"start": 3251, "end": 3311, "speaker": "Dan Khasis", "text": "Ок, если мы говорим в черно-белом точке зрения, ты прав, но мы еще не дошли до этого. Смотрите на секунду сюда, у кого-то есть какие-то вопросы и замечания, перейдем на следующий этап.", "confidence": 0.29}
+{"start": 3312, "end": 3323.33, "speaker": "Semeyon S", "text": "Я правильно понял, что как мы только добавляем ERP, во-первых, нам раздел надо переименовать telematics connections на просто connections.", "confidence": 0.95}
+{"start": 3323.33, "end": 3334.67, "speaker": "Semeyon S", "text": "А уже в следующих версиях, в принципе, скорее всего мы перенесем это в отдельный экран, отдельно от account settings.", "confidence": 0.95}
+{"start": 3334.67, "end": 3346.0, "speaker": "Semeyon S", "text": "И там уже будем развивать, чтобы было больше места, больше колонок, визард спокойно запустить, и это не выглядело перегруженным.", "confidence": 0.95}
+{"start": 3347, "end": 3351.83, "speaker": "Dan Khasis", "text": "С точки зрения roadmap, ты прав.", "confidence": 0.95}
+{"start": 3351.83, "end": 3356.67, "speaker": "Dan Khasis", "text": "Я бы просто сказал, что все вот эти вещи, это даже не пересекается со словом аккаунта.", "confidence": 0.95}
+{"start": 3361.5, "end": 3366.33, "speaker": "Dan Khasis", "text": "Это настройки корпорации.", "confidence": 0.95}
+{"start": 3366.33, "end": 3371.17, "speaker": "Dan Khasis", "text": "Давай я вам покажу New Relic, на секунду.", "confidence": 0.95}
+{"start": 3371.17, "end": 3376.0, "speaker": "Dan Khasis", "text": "Сейчас, на секунду.", "confidence": 0.95}
+{"start": 3390, "end": 3393, "speaker": "Semeyon S", "text": "У меня аккаунт под рукой есть, если что.", "confidence": 0.99}
+{"start": 3399, "end": 3558, "speaker": "Dan Khasis", "text": "New Relic. Теперь мы кликнем на вещь, я кликаю имя. Есть имя, потом есть administration.\n\nОтличается полностью от user preferences. Давай кликнем user preferences. И все.\n\nА вот теперь я кликну на administration, и поехали. Вот как administration у них выглядит. Кстати, вот data retention, как у них выглядит.\n\nYou can now archive all your logs and access them. Dismiss. Edit data retention.\n\nХуяк ты меняешь. Ingestion, сколько в систему у тебя приходит. Data limits.\n\nКак ты удаляешь лимиты. Логи. Это отдельная вещь.\n\nPlan the pricing, plan management. Потом previews and trials у нас. Пока этого нет.\n\nНо в принципе это были бы все вещи, которые видишь, как они сделали. Ты хочешь включить, например, у себя dispatch board или assignment board. Ты не говоришь support или sales.\n\nМы тебе даем preview. Бесплатный preview, это end preview. Ты выберешь, тебе интересно, хуяк ты включил.\n\nВот agreement ты включил. Поехали. Цены даже не опубликованы.\n\nЭто бесплатный preview, чтобы сделать testing.", "confidence": 0.45}
+{"start": 3560, "end": 3563, "speaker": "Semeyon S", "text": "А потом они автоматом начнут деньги брать по окончании.", "confidence": 0.99}
+{"start": 3563, "end": 3574, "speaker": "Dan Khasis", "text": "Или они скажут, просто мы выключаем, если ты хочешь купить, заходи, покупай.", "confidence": 0.82}
+{"start": 3576, "end": 3581, "speaker": "Semeyon S", "text": "Ну, учитывая, что при запуске есть agreement, я подозреваю, что они автоматом деньги начнут.", "confidence": 0.99}
+{"start": 3581, "end": 3594.75, "speaker": "Dan Khasis", "text": "Если бы мы тоже могли, было бы хорошо.", "confidence": 0.95}
+{"start": 3594.75, "end": 3608.5, "speaker": "Dan Khasis", "text": "Короче, так вы видите, они делают все о том, что мы говорим.", "confidence": 0.95}
+{"start": 3608.5, "end": 3622.25, "speaker": "Dan Khasis", "text": "Кстати, насчет SLA, который мы должны будем сделать, это вот эти scorecards, SLA и так далее.", "confidence": 0.95}
+{"start": 3622.25, "end": 3636.0, "speaker": "Dan Khasis", "text": "Я не хочу отвлекаться, но в принципе это будет.", "confidence": 0.95}
+{"start": 3636.0, "end": 3649.75, "speaker": "Dan Khasis", "text": "Вот, кстати, preview, включаешь.", "confidence": 0.95}
+{"start": 3649.75, "end": 3663.5, "speaker": "Dan Khasis", "text": "Я не знаю, сколько это будет стоить, но я знаю, что у них был этот вот service levels.", "confidence": 0.95}
+{"start": 3663.5, "end": 3677.25, "speaker": "Dan Khasis", "text": "У нас этого нет, критическая вещь.", "confidence": 0.95}
+{"start": 3677.25, "end": 3691.0, "speaker": "Dan Khasis", "text": "У тебя будет load scan, sort scan, pickup time, load time, service time, drive time.", "confidence": 0.95}
+{"start": 3691.0, "end": 3704.75, "speaker": "Dan Khasis", "text": "Ты выбираешь, мне это нравится, мне это нравится, continue и поехали.", "confidence": 0.95}
+{"start": 3718.5, "end": 3732.25, "speaker": "Dan Khasis", "text": "У нас это бизнес-люди, но они выберут это и потом будут настраивать, что это какой-то вес и так далее.", "confidence": 0.95}
+{"start": 3732.25, "end": 3746.0, "speaker": "Dan Khasis", "text": "И потом будет на уровне всей фирмы, на уровне каждого сервиса, на уровне каждого склада, водителя, машины и так далее, как мы на скопе видели вчера.", "confidence": 0.95}
+{"start": 3746.0, "end": 3759.75, "speaker": "Dan Khasis", "text": "У нас как насчет, Вова спросил насчет конкретных invoice, у них есть, Вова сделал глубокий research насчет как ведущие фирмы строят invoicing, на фоне каких методов они строят invoicing, то есть скидки, то, другое, третье.", "confidence": 0.95}
+{"start": 3759.75, "end": 3773.5, "speaker": "Dan Khasis", "text": "Нам сказал клиент, что на первой версии им не нужно ни скидки, ни объемные скидки, ничего им не нужно, кроме чего-то элементарного.", "confidence": 0.95}
+{"start": 3773.5, "end": 3787.25, "speaker": "Dan Khasis", "text": "Как это сейчас работает?", "confidence": 0.95}
+{"start": 3787.25, "end": 3801.0, "speaker": "Dan Khasis", "text": "Я вам расскажу, как это сейчас работает.", "confidence": 0.95}
+{"start": 3801.0, "end": 3814.75, "speaker": "Dan Khasis", "text": "Доктор, не доктор, как его, драйвер, драйвер, моя DRF в конце, вся середина была испорчена.", "confidence": 0.95}
+{"start": 3814.75, "end": 3828.5, "speaker": "Dan Khasis", "text": "Драйвер берет и все загружает в систему, и потом получается ситуация, где ему дают Excel файл по e-mail, в этом Excel файле есть выгрузка всех цен этих товаров, и это выглядит, как вот эта экземплярная таблица.", "confidence": 0.95}
+{"start": 3828.5, "end": 3842.25, "speaker": "Dan Khasis", "text": "Называется price sheet, например.", "confidence": 0.95}
+{"start": 3842.25, "end": 3856.0, "speaker": "Dan Khasis", "text": "У Паркера, мне кажется, даже есть у меня в e-mail, одну секунду, мы проверим.", "confidence": 0.95}
+{"start": 3884, "end": 3885, "speaker": "Dan Khasis", "text": "Ага, я нашел.", "confidence": 0.99}
+{"start": 3890, "end": 3897, "speaker": "Dan Khasis", "text": "Вот это, как выглядит их вещь. У них есть UPC, Universal Product Code, и цена, например.", "confidence": 0.93}
+{"start": 3909, "end": 3911, "speaker": "Dan Khasis", "text": "И они сами придумали свой UPC.", "confidence": 0.99}
+{"start": 3917, "end": 3942, "speaker": "Dan Khasis", "text": "Короче, это ее список был. Самая новая версия 0.0.0.1, если мы выберем какой-то первичный ключ, как UPC или SKU, у нас будет список здесь, в инвентаре. На моем аккаунте, как всегда, ничего не включено.\n\nА, нет, смотри, включено. Inventory Manager.", "confidence": 0.96}
+{"start": 3944, "end": 3951, "speaker": "Semeyon S", "text": "Только они еще, ну, до конца не переработаны. В процессе все, я просто предупреждаю.", "confidence": 0.97}
+{"start": 3952, "end": 3955, "speaker": "Dan Khasis", "text": "Я понимаю. Окей, вот у нас есть.", "confidence": 0.99}
+{"start": 3958, "end": 3958, "speaker": "Dan Khasis", "text": "Сейчас, секунду.", "confidence": 0.65}
+{"start": 3968, "end": 3999, "speaker": "Dan Khasis", "text": "Окей, нам более правильно менять это на, или сделать отдельно SKU, UPC, или все поменять на UPC. Потому что SKU это внутренняя ID в их бизнесе. А UPC это универсальный код.\n\nТак нам более правильно поменять это все, не пользовать SKU, а пользовать UPC. Или поддерживать и UPC, и SKU.", "confidence": 0.79}
+{"start": 4000, "end": 4012, "speaker": "Semeyon S", "text": "Ну, со SKU же проще, что мы экспортнем, что клиент скажет, или через интерфейс выберет внутреннюю, то мы и запишем.", "confidence": 0.99}
+{"start": 4013, "end": 4025.8, "speaker": "Dan Khasis", "text": "Нет, но это две разные вещи.", "confidence": 0.95}
+{"start": 4025.8, "end": 4038.6, "speaker": "Dan Khasis", "text": "Потому что ты газовая станция, ты продаешь бензин 85, 85-ый газ, и ты это называешь B85, а ты покупаешь это, тебе привозят, а они это называют не B85, а 85B.", "confidence": 0.95}
+{"start": 4038.6, "end": 4051.4, "speaker": "Dan Khasis", "text": "Это просто совершенно разные вещи.", "confidence": 0.95}
+{"start": 4051.4, "end": 4064.2, "speaker": "Dan Khasis", "text": "То есть это недостаток оригинального оригинальной архитектуры, что более правильно сделать UPC, все переименовать балком SKU на UPC, оставить как required field, и потом прибавить SKU as optional field.", "confidence": 0.95}
+{"start": 4064.2, "end": 4077.0, "speaker": "Dan Khasis", "text": "Потому что SKU не всегда нужен, UPC всегда нужен.", "confidence": 0.95}
+{"start": 4080, "end": 4086.33, "speaker": "Semeyon S", "text": "То есть мы будем считать, что в ERP клиента UPC всегда есть.", "confidence": 0.95}
+{"start": 4086.33, "end": 4092.67, "speaker": "Semeyon S", "text": "Да.", "confidence": 0.95}
+{"start": 4092.67, "end": 4099.0, "speaker": "Semeyon S", "text": "Плюс мы найдем эти все словари UPC стандартные, ну и будем их поддерживать.", "confidence": 0.95}
+{"start": 4100, "end": 4107, "speaker": "Dan Khasis", "text": "Нам не надо расшифровывать, они нам скажут в их системе их UPC.", "confidence": 0.99}
+{"start": 4109, "end": 4117, "speaker": "Semeyon S", "text": "Окей, ну то есть это так факультативно получается. Чисто проверить при желании. Понял.", "confidence": 0.97}
+{"start": 4118, "end": 4140, "speaker": "Dan Khasis", "text": "Так вот это их UPC где-то здесь есть. Окей, так в итоге у нас в этой странице остается теперь инвентарь. Здесь что-то не то.\n\nЯ одну секунду, я проверю что-то.", "confidence": 0.63}
+{"start": 4185, "end": 4188, "speaker": "Dan Khasis", "text": "Сейчас посмотрим, что наши друзья думают.", "confidence": 0.99}
+{"start": 4231, "end": 4237.63, "speaker": "Dan Khasis", "text": "Вот видишь, как items и settings.", "confidence": 0.95}
+{"start": 4237.63, "end": 4244.26, "speaker": "Dan Khasis", "text": "В любом случае мы переименуем на что-то более разумное.", "confidence": 0.95}
+{"start": 4250.89, "end": 4257.52, "speaker": "Dan Khasis", "text": "Потом мы должны убрать отсюда это.", "confidence": 0.95}
+{"start": 4257.52, "end": 4264.15, "speaker": "Dan Khasis", "text": "Это не должно здесь быть больше.", "confidence": 0.95}
+{"start": 4264.15, "end": 4270.78, "speaker": "Dan Khasis", "text": "Это неправильно.", "confidence": 0.95}
+{"start": 4270.78, "end": 4277.41, "speaker": "Dan Khasis", "text": "Стоимость и цена не связаны вообще с типом.", "confidence": 0.95}
+{"start": 4277.41, "end": 4284.04, "speaker": "Dan Khasis", "text": "Стоимость и цена динамически меняются в зависимости от клиента.", "confidence": 0.95}
+{"start": 4284.04, "end": 4290.67, "speaker": "Dan Khasis", "text": "Здесь только есть одна ситуация, если это поменять на дефолт, что в отсутствии custom цен это есть дефолт, но это тоже неправильно.", "confidence": 0.95}
+{"start": 4290.67, "end": 4297.3, "speaker": "Dan Khasis", "text": "Почему?", "confidence": 0.95}
+{"start": 4297.3, "end": 4303.93, "speaker": "Dan Khasis", "text": "Потому что база данных, если мы на уровне товара будем сохранять в уровне типа товара его стоимость дефолтную, мы по времени не будем знать, как она меняется.", "confidence": 0.95}
+{"start": 4303.93, "end": 4310.56, "speaker": "Dan Khasis", "text": "Значит, даже если мы оставим как есть, мы обязаны подтвердить, что это как минимум в двух таблиц базы данных, где первая таблица описывает первичный ключ и главные метаданные этого товара, а вторая таблица ответственна за как цены меняются по времени, что вот этот товар с кодом номер один в внутреннем UUID имел цену 27 начиная с такой-то даты.", "confidence": 0.95}
+{"start": 4310.56, "end": 4317.19, "speaker": "Dan Khasis", "text": "Нам надо подтвердить, что UUID, а не BEGIN, потому что опять все зовется к чертовой матери, и нам нужны типы.", "confidence": 0.95}
+{"start": 4317.19, "end": 4323.81, "speaker": "Dan Khasis", "text": "У нас отсутствует типов.", "confidence": 0.95}
+{"start": 4323.81, "end": 4330.44, "speaker": "Dan Khasis", "text": "Правильно, Семен?", "confidence": 0.95}
+{"start": 4330.44, "end": 4337.07, "speaker": "Dan Khasis", "text": "Семен, какие типы мы сейчас увидим?", "confidence": 0.95}
+{"start": 4337.07, "end": 4343.7, "speaker": "Dan Khasis", "text": "Напомнит нам.", "confidence": 0.95}
+{"start": 4343.7, "end": 4350.33, "speaker": "Dan Khasis", "text": "Да, их сейчас нет.", "confidence": 0.95}
+{"start": 4356.96, "end": 4363.59, "speaker": "Dan Khasis", "text": "Это built-in types.", "confidence": 0.95}
+{"start": 4363.59, "end": 4370.22, "speaker": "Semeyon S", "text": "Это хорошее слово используют для наших целей, built-in types.", "confidence": 0.95}
+{"start": 4370.22, "end": 4376.85, "speaker": "Dan Khasis", "text": "Потом их можно наращивать.", "confidence": 0.95}
+{"start": 4376.85, "end": 4383.48, "speaker": "Dan Khasis", "text": "Потом у нас есть Oracle, inventory items, serial drop ship item, assembly item, kit package, non-inventory item, service item.", "confidence": 0.95}
+{"start": 4383.48, "end": 4390.11, "speaker": "Dan Khasis", "text": "Они это сохраняют items and inventory.", "confidence": 0.95}
+{"start": 4396.74, "end": 4403.37, "speaker": "Dan Khasis", "text": "Интересно.", "confidence": 0.95}
+{"start": 4403.37, "end": 4410.0, "speaker": "Dan Khasis", "text": "А Microsoft их сохраняет в items.", "confidence": 0.95}
+{"start": 4422, "end": 4432, "speaker": "Dan Khasis", "text": "Сейчас, секунду. Мне любопытно.", "confidence": 0.23}
+{"start": 4439, "end": 4465, "speaker": "Dan Khasis", "text": "Просто как Microsoft сделала, как всегда, звучит как придурочная хуйня. Кстати, они бешеные деньги зарабатывают. У них уже 3,5 или 3,5 триллиона стоимость их фирмы сейчас.\n\nС клаудом и с этим, с офисом и с AI, OpenAI, они эту хуйню всем сейчас толкают.", "confidence": 0.94}
+{"start": 4465, "end": 4469, "speaker": "Dan Khasis", "text": "Все эти сервисы. Весь Enterprise пользуют их.", "confidence": 0.99}
+{"start": 4477, "end": 4479.67, "speaker": "Semeyon S", "text": "Офис до сих пор все берут.", "confidence": 0.95}
+{"start": 4479.67, "end": 4482.33, "speaker": "Semeyon S", "text": "Мне кажется, у них сейчас такая же дикая конкуренция.", "confidence": 0.95}
+{"start": 4482.33, "end": 4485.0, "speaker": "Dan Khasis", "text": "Или G Suite или Office.", "confidence": 0.95}
+{"start": 4520, "end": 4522.0, "speaker": "Vova", "text": "Типично Dynamics пользуются компанией поменьше.", "confidence": 0.95}
+{"start": 4522.0, "end": 4524.0, "speaker": "Vova", "text": "20 юзеров.", "confidence": 0.95}
+{"start": 4524.0, "end": 4526.0, "speaker": "Dan Khasis", "text": "Это смешно.", "confidence": 0.95}
+{"start": 4529, "end": 4664, "speaker": "Dan Khasis", "text": "Это связано, кстати, с Ralford, что мы хотим как фирма быть больше здесь, чем здесь. Потому что когда 20 юзеров, вся наша работа дрогает. Они ее не оценивают.\n\nImplementation effort. 3, 6 месяцев, 6, 12, 2 года почти. Ok, SAP One, это то, что наш клиент пользует.\n\nВот это, видишь, SQL, что мы пользуем через Restful Wrapper. Видишь, CRM, Inventory, Basic. Я не знаю, что такое MRP.\n\nЭто, наверное, Enterprise Warehouse Management, Transportation Management и так далее. Ок, так мы видим, как AI пользоваться и что они нам интересно рассказывают. Мы должны выбрать, как назвать это.", "confidence": 0.32}
+{"start": 4681, "end": 4697, "speaker": "Semeyon S", "text": "Ну, Item Types, как по мне, звучит лучше всего, подходит под наши задачи. Material Types, это более глубокая вещь. Больше как-то лично меня...", "confidence": 0.94}
+{"start": 4697, "end": 4700, "speaker": "Dan Khasis", "text": "У нас же есть Sublocation, вы только что сделали.", "confidence": 0.86}
+{"start": 4703, "end": 4706, "speaker": "Vova", "text": "Мне в голове крутилось все время название Products and Services.", "confidence": 0.99}
+{"start": 4709, "end": 4719, "speaker": "Dan Khasis", "text": "Products and Services полностью отличаются от их вообще. Самое близкое это Items and Inventory. Если мы настроены на...", "confidence": 0.39}
+{"start": 4721, "end": 4726, "speaker": "Vova", "text": "Да, оно похоже, но не включает сервисы, потому что мы как будто бы сюда же хотим.", "confidence": 0.99}
+{"start": 4727, "end": 4827, "speaker": "Dan Khasis", "text": "Когда включает сервисы, смотри. Вот, Service Item, это тип. Мы должны сделать...\n\nЯ сейчас говорю насчет заголовок. Заголовок будет, например, это Items and Inventory будет заголовок. И потом внутри заголовок там будет еще в Account Settings как у них в этом...\n\nСейчас, секунду, мне любопытно что-то. Они Material Types. Я думаю, нам нужно этот Item Types.\n\nИ один из... Так же, как мы сделали уже для Customer Locations. Если посмотреть на Locations, у вас есть Location Type.\n\nКак это отличается? Просто у нас Built-in. И мы Built-in пиздим от дистинктивного списка HANA, то есть SAP и NetSuite.\n\nИ мы мэппаем их. И мы не парим за первые 12 месяцев. Мы не думаем насчет Custom типов этих.\n\nInventory Types. Мы просто берем из их списка. Сейчас.", "confidence": 0.43}
+{"start": 4838, "end": 4842, "speaker": "Vova", "text": "Услуги, товары, расходники. Я думаю, что-то такое будет.", "confidence": 0.99}
+{"start": 4854, "end": 5080, "speaker": "Dan Khasis", "text": "Сейчас она думает насчет этого Materials Master. Но это то, что у них просто дочерний экранный настроек в этом UI. В принципе, то некоторые бы как бы Entrepreneurs сделали.\n\nОни бы выбрали одну систему NetSuite, SAP или Dynamics, которая ближе всего подходит к их Target Customer Profile. И они бы всю систему подточили под ту систему. Всю свою систему под их систему.\n\nИ это было бы сделано так, та фирма бы как бы все их Customers бы говорили, что никого нет в мире лучше, который делает интеграцию с SAP, чем Runform. И они бы только Targeting делали этих Customers. И их внутренние люди бы стали экспортерами только в тех Customers, в тех Mappings и так далее.\n\nОкей, но если мы пройдемся, мы хотим, в принципе, то же самое. Артур постоянно меня спрашивает, на счет дерева. Logistics, General, Materials Master, Basic Settings, Material Types.\n\nУ тебя есть, например, материал, тип, сталь, диапазоны. Какой диапазон? Диапазон по типам.\n\nУ тебя не может быть минусовое количество стали. Только позитивно. Но у тебя не может быть миллиард тонн тоже.\n\nУ тебя может быть, скажем, только 1000 тонн в одном, в одной транзакции. External Material Groups, Divisions, Laboratories, Storage Conditions, Separation. Нам это не надо сейчас.\n\nМожет через год или два. Field Selection Industries. Тоже не надо.\n\nPlan Specific Fields. Хорошая вещь. Нам тоже не надо.\n\nОкей, так пока все понятно. Это у нас переименуется на что-то другое. Мы решим.\n\nПрограммисты на звонке могут подтвердить сейчас, как Cost и Price сохраняются в той же таблице или отдельно, если проверить схему.", "confidence": 0.53}
+{"start": 5084, "end": 5089.0, "speaker": "Semeyon S", "text": "Александр, можешь быстро посмотреть?", "confidence": 0.95}
+{"start": 5089.0, "end": 5094.0, "speaker": "Semeyon S", "text": "Модельки-то должны быть у микросервиса.", "confidence": 0.95}
+{"start": 5094.0, "end": 5099.0, "speaker": "Vova", "text": "Мы обсуждали, что все это отдельно должно быть.", "confidence": 0.95}
+{"start": 5099, "end": 5101, "speaker": "Vova", "text": "Должно быть. Не знаю, как сейчас.", "confidence": 0.9}
+{"start": 5102, "end": 5106, "speaker": "Semeyon S", "text": "Сейчас, скорее всего, в одной табличке. Даю процентов 90.", "confidence": 0.99}
+{"start": 5108, "end": 5122, "speaker": "Dan Khasis", "text": "Окей. Теперь почему-то у меня в миллиметре пишется, может, что аккаунт может быть в метрике. Окей, я не знаю.\n\nЗаписываем в Task список.", "confidence": 0.79}
+{"start": 5134, "end": 5143.75, "speaker": "Vova", "text": "Мне кажется, у нас не хватает единицы измерения, в чем этот item измеряется.", "confidence": 0.95}
+{"start": 5143.75, "end": 5153.5, "speaker": "Vova", "text": "Что-то будет измеряться в часах, что-то будет в квадратных метрах, что-то в штуках, что-то на вес, что-то по объему.", "confidence": 0.95}
+{"start": 5153.5, "end": 5163.25, "speaker": "Dan Khasis", "text": "И цена, соответственно, за эту единицу будет высчитываться.", "confidence": 0.95}
+{"start": 5163.25, "end": 5173.0, "speaker": "Vova", "text": "То есть unit, в котором...", "confidence": 0.95}
+{"start": 5176, "end": 5178.5, "speaker": "Dan Khasis", "text": "Окей.", "confidence": 0.95}
+{"start": 5178.5, "end": 5181.0, "speaker": "Dan Khasis", "text": "Да, я записываю все это.", "confidence": 0.95}
+{"start": 5181.0, "end": 5183.5, "speaker": "Vova", "text": "Это все есть.", "confidence": 0.95}
+{"start": 5183.5, "end": 5186.0, "speaker": "Vova", "text": "В первой версии нам не нужны диапазоны и ограничения.", "confidence": 0.95}
+{"start": 5193, "end": 5199, "speaker": "Alexandr Kovtunov", "text": "Я посмотрел инвентарь модели в спальне. Да, у нас там все поляки в ней.", "confidence": 0.99}
+{"start": 5199, "end": 5202, "speaker": "Alexandr Kovtunov", "text": "А что они?", "confidence": 0.42}
+{"start": 5204, "end": 5205, "speaker": "Alexandr Kovtunov", "text": "Это все в одной таблице.", "confidence": 0.99}
+{"start": 5205, "end": 5209.92, "speaker": "Dan Khasis", "text": "А, окей, надо будет разбить.", "confidence": 0.95}
+{"start": 5209.92, "end": 5214.85, "speaker": "Dan Khasis", "text": "Вам везет, что там ноль клиентов пользуют.", "confidence": 0.95}
+{"start": 5224.69, "end": 5229.62, "speaker": "Dan Khasis", "text": "Вова и другие ребята тоже.", "confidence": 0.95}
+{"start": 5229.62, "end": 5234.54, "speaker": "Dan Khasis", "text": "Facilities, как многие фирмы делают, особенно из-за бухгалтерии.", "confidence": 0.95}
+{"start": 5234.54, "end": 5239.46, "speaker": "Dan Khasis", "text": "Кстати, здесь отсутствуют хит-мэпы полностью тоже.", "confidence": 0.95}
+{"start": 5239.46, "end": 5244.38, "speaker": "Dan Khasis", "text": "Если ты хочешь посмотреть, где находятся водители ближе ко всем Facilities, или...", "confidence": 0.95}
+{"start": 5244.38, "end": 5249.31, "speaker": "Dan Khasis", "text": "Ты открыл.", "confidence": 0.95}
+{"start": 5249.31, "end": 5254.23, "speaker": "Dan Khasis", "text": "У нас не хватает сейчас Vehicles, правильно?", "confidence": 0.95}
+{"start": 5254.23, "end": 5259.15, "speaker": "Dan Khasis", "text": "Где этот Vehicles?", "confidence": 0.95}
+{"start": 5259.15, "end": 5264.08, "speaker": "Dan Khasis", "text": "Vehicles еще нет, Vehicles map и Users еще нет.", "confidence": 0.95}
+{"start": 5264.08, "end": 5269.0, "speaker": "Dan Khasis", "text": "Users map, правильно?", "confidence": 0.95}
+{"start": 5270, "end": 5274, "speaker": "Semeyon S", "text": "Еще нет. Но мы уже нарисовали это, и, кажется, имплементация началась.", "confidence": 0.99}
+{"start": 5274, "end": 5276, "speaker": "Semeyon S", "text": "Она еще не готова.", "confidence": 0.99}
+{"start": 5276, "end": 5278, "speaker": "Semeyon S", "text": "Она супер сырая.", "confidence": 0.99}
+{"start": 5278, "end": 5283.65, "speaker": "Dan Khasis", "text": "Да, давай представим, что это готово, потому что это легкая вещь, и это будет сделано на 100%.", "confidence": 0.95}
+{"start": 5283.65, "end": 5289.31, "speaker": "Dan Khasis", "text": "Так меня это не беспокоит никак.", "confidence": 0.95}
+{"start": 5289.31, "end": 5294.96, "speaker": "Dan Khasis", "text": "Я просто хочу вам фантазию или видение рассказать, что ты открыл...", "confidence": 0.95}
+{"start": 5294.96, "end": 5300.61, "speaker": "Dan Khasis", "text": "Если ты открыл карту Vehicles, ты бы хотел увидеть все твои склады.", "confidence": 0.95}
+{"start": 5300.61, "end": 5306.27, "speaker": "Dan Khasis", "text": "Ты открыл карту Users, ты бы хотел видеть, где они находятся с твоими складами.", "confidence": 0.95}
+{"start": 5306.27, "end": 5311.92, "speaker": "Dan Khasis", "text": "Проблема в том, что в Users надо быть критически...", "confidence": 0.95}
+{"start": 5311.92, "end": 5317.57, "speaker": "Dan Khasis", "text": "У нас есть все, кроме того, что нужно.", "confidence": 0.95}
+{"start": 5317.57, "end": 5323.22, "speaker": "Dan Khasis", "text": "Например, фасилити.", "confidence": 0.95}
+{"start": 5323.22, "end": 5328.88, "speaker": "Dan Khasis", "text": "В дефолтном фасилити этого юзера отсутствует фильтр.", "confidence": 0.95}
+{"start": 5328.88, "end": 5334.53, "speaker": "Dan Khasis", "text": "То же самое здесь.", "confidence": 0.95}
+{"start": 5334.53, "end": 5340.18, "speaker": "Dan Khasis", "text": "Потому что какой use case?", "confidence": 0.95}
+{"start": 5340.18, "end": 5345.84, "speaker": "Dan Khasis", "text": "Use case, что ты берешь и ты открыл этот...", "confidence": 0.95}
+{"start": 5345.84, "end": 5351.49, "speaker": "Dan Khasis", "text": "Сейчас, секунду.", "confidence": 0.95}
+{"start": 5351.49, "end": 5357.14, "speaker": "Dan Khasis", "text": "Я в Slack фотки скидывал вчера.", "confidence": 0.95}
+{"start": 5357.14, "end": 5362.8, "speaker": "Dan Khasis", "text": "Сейчас мы посмотрим, если...", "confidence": 0.95}
+{"start": 5362.8, "end": 5368.45, "speaker": "Dan Khasis", "text": "Логин надо делать.", "confidence": 0.95}
+{"start": 5368.45, "end": 5374.1, "speaker": "Dan Khasis", "text": "Окей.", "confidence": 0.95}
+{"start": 5374.1, "end": 5379.76, "speaker": "Dan Khasis", "text": "Ты хочешь посмотреть все твои склады и какие юзеры возле них.", "confidence": 0.95}
+{"start": 5379.76, "end": 5385.41, "speaker": "Dan Khasis", "text": "И ты на карте.", "confidence": 0.95}
+{"start": 5385.41, "end": 5391.06, "speaker": "Dan Khasis", "text": "Ты просто хочешь кликнуть склад, склад, склад.", "confidence": 0.95}
+{"start": 5391.06, "end": 5396.71, "speaker": "Dan Khasis", "text": "Если пойти на FlightAware, этот сервис, я напишу просто GFK, Нью-Йоркский аэропорт.", "confidence": 0.95}
+{"start": 5396.71, "end": 5402.37, "speaker": "Dan Khasis", "text": "Она покажет мне все GFK-центры, все самолеты вокруг него.", "confidence": 0.95}
+{"start": 5402.37, "end": 5408.02, "speaker": "Dan Khasis", "text": "Фасилити, это наш GFK.", "confidence": 0.95}
+{"start": 5408.02, "end": 5413.67, "speaker": "Dan Khasis", "text": "Машины двигаются у нас и у них.", "confidence": 0.95}
+{"start": 5413.67, "end": 5419.33, "speaker": "Dan Khasis", "text": "Кстати, почему у них так все красиво выглядит и двигается?", "confidence": 0.95}
+{"start": 5419.33, "end": 5424.98, "speaker": "Dan Khasis", "text": "Потому что они пользуются два или три подхода.", "confidence": 0.95}
+{"start": 5424.98, "end": 5430.63, "speaker": "Dan Khasis", "text": "Во-первых, они показывают, наверное, липовые аэрострики, где находится самолет в зависимости от задуманного оригинального путя.", "confidence": 0.95}
+{"start": 5430.63, "end": 5436.29, "speaker": "Dan Khasis", "text": "Значит, они не должны идти постоянно на сервер.", "confidence": 0.95}
+{"start": 5436.29, "end": 5441.94, "speaker": "Dan Khasis", "text": "Они знают, с какой скоростью машина двигается.", "confidence": 0.95}
+{"start": 5441.94, "end": 5447.59, "speaker": "Dan Khasis", "text": "Они знают последнюю позицию.", "confidence": 0.95}
+{"start": 5447.59, "end": 5453.24, "speaker": "Dan Khasis", "text": "Они могут по пути задуманного, по пути маршрута просто двигать иконку на следующую точку по времени.", "confidence": 0.95}
+{"start": 5453.24, "end": 5458.9, "speaker": "Dan Khasis", "text": "А если они ошибку будут, как бы, ошибку сделают, просто она сдвинется в другое место, или ты сделаешь рефреш.", "confidence": 0.95}
+{"start": 5458.9, "end": 5464.55, "speaker": "Dan Khasis", "text": "Заметьте, как суперэлементарно видно на каждом самолете подписка этого самолета.", "confidence": 0.95}
+{"start": 5464.55, "end": 5470.2, "speaker": "Dan Khasis", "text": "То есть, в Route4Me ты никак не увидишь информацию насчет этих машин.", "confidence": 0.95}
+{"start": 5470.2, "end": 5475.86, "speaker": "Dan Khasis", "text": "Ты должен мучиться, чтобы понять, о чем речь идет.", "confidence": 0.95}
+{"start": 5475.86, "end": 5481.51, "speaker": "Dan Khasis", "text": "В отличие от наведимышку, ты моментально поймешь, что вот этот самолет с какой-то кличкой 10200 футов в воздухе с такой-то скоростью двигается каким-то таймштемпом.", "confidence": 0.95}
+{"start": 5481.51, "end": 5487.16, "speaker": "Dan Khasis", "text": "И я выбрал facility, она мне показывает возле facility, что там возле facility.", "confidence": 0.95}
+{"start": 5487.16, "end": 5492.82, "speaker": "Dan Khasis", "text": "У нас есть все данные, у нас есть все API, но у нас UI нет для этого суперкритического важного функционала.", "confidence": 0.95}
+{"start": 5492.82, "end": 5498.47, "speaker": "Dan Khasis", "text": "И здесь показывается, кстати, все, кто приехал, все уехали из того facility.", "confidence": 0.95}
+{"start": 5498.47, "end": 5504.12, "speaker": "Dan Khasis", "text": "Вот если бы у нас был склад, ты customer portal, к тебе приезжают 10 фирм из Route4Me, куда они приезжают, в какое окно или какую дверь в этом facility, когда они должны приехать, когда они должны уехать.", "confidence": 0.95}
+{"start": 5504.12, "end": 5509.78, "speaker": "Dan Khasis", "text": "И потом есть актуальное время и identifier.", "confidence": 0.95}
+{"start": 5509.78, "end": 5515.43, "speaker": "Dan Khasis", "text": "То есть, как это отличается вообще от нас?", "confidence": 0.95}
+{"start": 5515.43, "end": 5521.08, "speaker": "Dan Khasis", "text": "Никак.", "confidence": 0.95}
+{"start": 5521.08, "end": 5526.73, "speaker": "Dan Khasis", "text": "И ты кликаешь, ты видишь на счет аэропорта все данные, все самые важные данные.", "confidence": 0.95}
+{"start": 5526.73, "end": 5532.39, "speaker": "Dan Khasis", "text": "Кто пришел, кто ушел, и так далее.", "confidence": 0.95}
+{"start": 5532.39, "end": 5538.04, "speaker": "Dan Khasis", "text": "Вторая вещь, что они делают, они могут пользоваться сокетами, которые мы пытаемся пользоваться, но не пользуемся.", "confidence": 0.95}
+{"start": 5538.04, "end": 5543.69, "speaker": "Dan Khasis", "text": "Везде, где надо их пользоваться.", "confidence": 0.95}
+{"start": 5543.69, "end": 5549.35, "speaker": "Dan Khasis", "text": "А polling делаем.", "confidence": 0.95}
+{"start": 5549.35, "end": 5555.0, "speaker": "Dan Khasis", "text": "Можем проверить.", "confidence": 0.95}
+{"start": 5573, "end": 5576, "speaker": "Dan Khasis", "text": "Где у нас есть сокет? Здесь должен быть.", "confidence": 0.99}
+{"start": 5585, "end": 5587, "speaker": "Alexandr Kovtunov", "text": "Можно попробовать сокет выбрать и рефреш страниц видеть.", "confidence": 0.99}
+{"start": 5589, "end": 5606, "speaker": "Dan Khasis", "text": "Я думаю, что они, видишь, это не стандартный JSON на них идет. Это выглядит, как protobuf или что-то такого типа. Ты говоришь, рефреш, это что?", "confidence": 0.6}
+{"start": 5607, "end": 5611, "speaker": "Artur Moskalenko", "text": "Да, сокеты, кажется, подображаются в резерве русских финансов.", "confidence": 0.99}
+{"start": 5614, "end": 5616, "speaker": "Alexandr Kovtunov", "text": "Значит, нет.", "confidence": 0.98}
+{"start": 5617, "end": 5700, "speaker": "Dan Khasis", "text": "У них есть вот это, может быть, они поллингом делают это. Протобуф просто. Потому что это не выглядит, как JSON.\n\nВы как frame. Видишь? Окей, короче, если это бинарно, это hexviewer, давай посмотрим на UTF.\n\nВидишь, как они приходят? Они не приходят, как этот, Payload, у них приходит Payload от B64. Да, у них что-то там, это, может быть, бинарно что-то.\n\nКороче, ты кликнул на машину, и ты видишь информацию. UI корявый, но чуваки зарабатывают бешеные деньги. Они сделали систему, которая читает из всех аэропортов мира все датчики, все самолеты и так далее.\n\nНо принцип такой же, что у тебя есть машина, она есть с такой скоростью, в это время у нее были такие задержки, что было actual plant, plant actual.", "confidence": 0.64}
+{"start": 5703, "end": 5708, "speaker": "Semeyon S", "text": "Транспондеры открыты, и расписание, оно тоже открытое во всем мире.", "confidence": 0.99}
+{"start": 5709, "end": 5714.27, "speaker": "Dan Khasis", "text": "И они все это пересекают в одной базе красивой.", "confidence": 0.95}
+{"start": 5714.27, "end": 5719.55, "speaker": "Dan Khasis", "text": "Но там есть фичи, которые у других людей нету, например.", "confidence": 0.95}
+{"start": 5719.55, "end": 5724.82, "speaker": "Dan Khasis", "text": "Они сохраняют же где все наши самолеты были, и они продают это аэропортам.", "confidence": 0.95}
+{"start": 5724.82, "end": 5730.09, "speaker": "Dan Khasis", "text": "Не все аэропорта, как Нью-Йоркский аэропорт, который там миллиарды или десятки миллиардов бюджет имеет.", "confidence": 0.95}
+{"start": 5730.09, "end": 5735.36, "speaker": "Dan Khasis", "text": "Другие хотят просто заплатить такому человеку.", "confidence": 0.95}
+{"start": 5735.36, "end": 5740.64, "speaker": "Dan Khasis", "text": "Ну, такой фирме, я имею в виду.", "confidence": 0.95}
+{"start": 5740.64, "end": 5745.91, "speaker": "Dan Khasis", "text": "Плюс в Америке больше частных самолетов, чем коммерческих.", "confidence": 0.95}
+{"start": 5745.91, "end": 5751.18, "speaker": "Dan Khasis", "text": "У нас 50 или 60 тысяч частных самолетов, 15 тысяч частных аэропортов.", "confidence": 0.95}
+{"start": 5751.18, "end": 5756.45, "speaker": "Dan Khasis", "text": "Каждый третий человек в нашем районе имеет свой самолет.", "confidence": 0.95}
+{"start": 5756.45, "end": 5761.73, "speaker": "Dan Khasis", "text": "Маленький.", "confidence": 0.95}
+{"start": 5761.73, "end": 5767.0, "speaker": "Dan Khasis", "text": "Некоторые большие, некоторые огромные.", "confidence": 0.95}
+{"start": 5767.0, "end": 5772.27, "speaker": "Dan Khasis", "text": "И они сами пилоты этих самолетов.", "confidence": 0.95}
+{"start": 5772.27, "end": 5777.55, "speaker": "Dan Khasis", "text": "Его присмотреть, как удобно и сколько данных они путают на экране, с какой скоростью они это делают.", "confidence": 0.95}
+{"start": 5777.55, "end": 5782.82, "speaker": "Dan Khasis", "text": "Зеленые точки — это наши facilities.", "confidence": 0.95}
+{"start": 5782.82, "end": 5788.09, "speaker": "Dan Khasis", "text": "Почему я это показываю?", "confidence": 0.95}
+{"start": 5788.09, "end": 5793.36, "speaker": "Dan Khasis", "text": "Потому что все в этих областях, все имеют facility код, 3-4 буквы.", "confidence": 0.95}
+{"start": 5793.36, "end": 5798.64, "speaker": "Dan Khasis", "text": "И никто их не называет Prague City Center Opera.", "confidence": 0.95}
+{"start": 5798.64, "end": 5803.91, "speaker": "Dan Khasis", "text": "Они его будут называть там PRG-1, например.", "confidence": 0.95}
+{"start": 5803.91, "end": 5809.18, "speaker": "Dan Khasis", "text": "И когда все говорят PRG-1, все знают, что это значит.", "confidence": 0.95}
+{"start": 5809.18, "end": 5814.45, "speaker": "Dan Khasis", "text": "Тоже самое, как у АВС есть свои Алиусы.", "confidence": 0.95}
+{"start": 5814.45, "end": 5819.73, "speaker": "Dan Khasis", "text": "У Google есть список своих Алиусов.", "confidence": 0.95}
+{"start": 5819.73, "end": 5825.0, "speaker": "Dan Khasis", "text": "У всех есть вот эти.", "confidence": 0.95}
+{"start": 5827, "end": 5833, "speaker": "Vova", "text": "У SAP тоже сплошные коды кругом. И у Bloomberg сплошные коды. Все делают какие-то аббревиатуры короткие.", "confidence": 0.99}
+{"start": 5835, "end": 5923, "speaker": "Dan Khasis", "text": "Да, вот например AWS Melbourne, Sydney. И там есть разные Алиусы. Так у тебя есть facilities, мы должны эти facilities также зеленые...\n\nЗеленые — это все мои facilities. И вокруг них я вижу всех моих водителей или всех моих драйверов. Это две разные вещи.\n\nМашины и юзеры. Две разные вещи. Ты наводишь мышку, она моментально тебе показывает, о чем речь идет.\n\nТы кликаешь, она открывает снапшот этого facility, или это машина, или это самолет, и сразу детализация. Почему это важно для нас? Мы не просто болтаем без причины, а показать, что в use case у нас просто редактор, бесполезный редактор.\n\nОн никакой пользы не приносит. Я знаю, что вы это сделаете быстро. Я не сомневаюсь.\n\nЯ просто говорю, что пользы нет никакой. Если ты ходишь, где мои машины? Мы не можем ответить вопрос.\n\nГде мои водители? Мы не можем ответить вопрос. Когда ты делаешь диспетчинг, и твой бизнес не совсем раутинг, а больше диспетчинг, и ты не знаешь, где никто находится, это большая проблема.", "confidence": 0.95}
+{"start": 5927, "end": 5940, "speaker": "Vova", "text": "Первый этап — это показать, где кто находится. Второй этап — это автоматически делать health check всем этим вехиклам. Понимать, кто отклонился с маршрута, кто отпаздывает, и подсветить проблемы на этой карте сразу.", "confidence": 0.99}
+{"start": 5942, "end": 5948, "speaker": "Dan Khasis", "text": "Вот если бы этот чувак летел не в то место, это было бы, может быть, красное. Да.", "confidence": 0.9}
+{"start": 5950, "end": 5954, "speaker": "Vova", "text": "Или если бы он отклонился от маршрута, или, например, он отпаздывает.", "confidence": 0.76}
+{"start": 5957, "end": 5978, "speaker": "Dan Khasis", "text": "Заметьте, пожалуйста, что они сделали карту монохроматическую, desaturated, чтобы foreground был более контрастный, и тогда линии, когда ты смотришь на них, ты наводишь мышку, и линия, и вектор сразу подгружается моментально.", "confidence": 0.98}
+{"start": 5979, "end": 5981, "speaker": "Vova", "text": "Но они убрали еще лейблы все отсюда.", "confidence": 0.99}
+{"start": 5982, "end": 5987.83, "speaker": "Dan Khasis", "text": "И они убрали все лейблы, как я.", "confidence": 0.95}
+{"start": 5987.83, "end": 5993.67, "speaker": "Dan Khasis", "text": "И мы также должны делать вехал.", "confidence": 0.95}
+{"start": 5993.67, "end": 5999.5, "speaker": "Dan Khasis", "text": "Ты навел мышку на машину, и сразу видно топливо, скорость, альтитуда, направление.", "confidence": 0.95}
+{"start": 5999.5, "end": 6005.33, "speaker": "Dan Khasis", "text": "Может быть, ты кликнул на него, открывается снайпшот.", "confidence": 0.95}
+{"start": 6005.33, "end": 6011.17, "speaker": "Semeyon S", "text": "И плюс, они знают, что люди, наверное, сидят в темной комнате, на это смотрят, а яркие экраны слепят в темной комнате.", "confidence": 0.95}
+{"start": 6011.17, "end": 6017.0, "speaker": "Dan Khasis", "text": "Так они еще, наверное, из-за этого сделали.", "confidence": 0.95}
+{"start": 6023, "end": 6032.0, "speaker": "Vova", "text": "Мы все дизайны делаем с учетом темной темы, то есть у нас все дизайны готовы к тому, чтобы взять и переключить темную тему глобально по всему Ротуме.", "confidence": 0.95}
+{"start": 6032.0, "end": 6041.0, "speaker": "Vova", "text": "И мобильные интерфейсы, и дисктопные мы все делаем, вебовские все делаем.", "confidence": 0.95}
+{"start": 6043, "end": 6113, "speaker": "Dan Khasis", "text": "Ты видишь, кстати, как быстро рендеринг здесь идет для джава-скрипщиков? Она существенно быстрее, чем у нас все работает. И, кстати, когда ты смотришь, что они пишут?\n\nОни делают визуальную дедупликацию. И, видишь, иконка меняется. Вот это частный самолет.\n\nNetJets Aviation. Какой это самолет? Challenger 350.\n\nВот это Gulfstream G4. Это частный самолет. Потом здесь есть маленький пропеллерный самолетик.\n\nCessna Skyhawk. Как я говорю, у каждого третьего есть. Смотри, вот это говнюшка.\n\nЧувачки берутся, садятся, они улетают в горы к себе в хату.", "confidence": 0.64}
+{"start": 6114, "end": 6128, "speaker": "Semeyon S", "text": "Если ты посмотришь, сколько Skyhawk лет, и сколько он имеет моделей, и сколько было их продано за десятилетия, ты удивишься.", "confidence": 0.87}
+{"start": 6129, "end": 6137.17, "speaker": "Dan Khasis", "text": "Это один из бестселлеров.", "confidence": 0.95}
+{"start": 6137.17, "end": 6145.33, "speaker": "Dan Khasis", "text": "Они стоят, может, как Mercedes.", "confidence": 0.95}
+{"start": 6145.33, "end": 6153.5, "speaker": "Dan Khasis", "text": "Смотри.", "confidence": 0.95}
+{"start": 6153.5, "end": 6161.67, "speaker": "Dan Khasis", "text": "Cessna 172, да.", "confidence": 0.95}
+{"start": 6161.67, "end": 6169.83, "speaker": "Dan Khasis", "text": "Да, так ты можешь купить или Mercedes, или ты можешь поехать, если мы говорим о американских ценах, или ты можешь купить самолет, взять собаку и поехать в горы на выходные.", "confidence": 0.95}
+{"start": 6169.83, "end": 6178.0, "speaker": "Dan Khasis", "text": "Вот как ребята здесь рассуждают.", "confidence": 0.95}
+{"start": 6178.0, "end": 6186.17, "speaker": "Dan Khasis", "text": "То есть я, конечно, боюсь летать на маленьком самолете с одним пропеллером.", "confidence": 0.95}
+{"start": 6186.17, "end": 6194.33, "speaker": "Dan Khasis", "text": "Многие не такие обзливые.", "confidence": 0.95}
+{"start": 6194.33, "end": 6202.5, "speaker": "Dan Khasis", "text": "Так они берут и летят.", "confidence": 0.95}
+{"start": 6202.5, "end": 6210.67, "speaker": "Dan Khasis", "text": "180 лошадиных сил у меня в машине в 5 раз больше, но они летят.", "confidence": 0.95}
+{"start": 6210.67, "end": 6218.83, "speaker": "Dan Khasis", "text": "Так короче, мы видим, как это должно все выглядеть и как это все оптимально у них работает.", "confidence": 0.95}
+{"start": 6218.83, "end": 6227.0, "speaker": "Dan Khasis", "text": "Если мы смотрим на Location Type, мы видим то, что у них есть, они называют это Site, а не Facility.", "confidence": 0.95}
+{"start": 6227.0, "end": 6235.17, "speaker": "Dan Khasis", "text": "Unique Item, Unique Identification, Material Types, мы уже обсудили.", "confidence": 0.95}
+{"start": 6235.17, "end": 6243.33, "speaker": "Dan Khasis", "text": "Handling Units мы сейчас не делаем.", "confidence": 0.95}
+{"start": 6243.33, "end": 6251.5, "speaker": "Dan Khasis", "text": "Сейчас, секунду.", "confidence": 0.95}
+{"start": 6251.5, "end": 6259.67, "speaker": "Dan Khasis", "text": "Вот это типификация.", "confidence": 0.95}
+{"start": 6259.67, "end": 6267.83, "speaker": "Dan Khasis", "text": "NetSuite называет Inventory, Serial Lot, Assembly Line, Kit Package, Rupture, Special Order.", "confidence": 0.95}
+{"start": 6276.0, "end": 6284.17, "speaker": "Dan Khasis", "text": "К Вовину вопросу.", "confidence": 0.95}
+{"start": 6284.17, "end": 6292.33, "speaker": "Dan Khasis", "text": "Stock Managed Physical Item, Non-Stock Consumable Item, Service, Labor – это отдельная вещь.", "confidence": 0.95}
+{"start": 6292.33, "end": 6300.5, "speaker": "Dan Khasis", "text": "Если это в наши термины упрощенные, у нас может быть тип того, что мы хотим сделать.", "confidence": 0.95}
+{"start": 6300.5, "end": 6308.67, "speaker": "Dan Khasis", "text": "Inventory, Non-Inventory, Service – это самый простой вариант.", "confidence": 0.95}
+{"start": 6316.83, "end": 6325.0, "speaker": "Dan Khasis", "text": "Что-то такое?", "confidence": 0.95}
+{"start": 6330, "end": 6333, "speaker": "Vova", "text": "Осталось обсудить пресс-листы.", "confidence": 0.99}
+{"start": 6334, "end": 6337.33, "speaker": "Dan Khasis", "text": "Я понимаю, я имею в виду для Item Types.", "confidence": 0.95}
+{"start": 6337.33, "end": 6340.67, "speaker": "Dan Khasis", "text": "Все согласны, что-то покроют главное или нет?", "confidence": 0.95}
+{"start": 6340.67, "end": 6344.0, "speaker": "Dan Khasis", "text": "Или мы еще что-то пропустили?", "confidence": 0.95}
+{"start": 6347, "end": 6371, "speaker": "Vova", "text": "Само собой разумеется, вес, габариты и какие-то параметры. Они будут всего, кроме сервиса, габариты и вес. Но это все опционально иметь.\n\nЕсли мы это имеем, то тогда мы можем рассчитывать загрузку машины. Насколько планировать загрузку.", "confidence": 0.77}
+{"start": 6378, "end": 6423, "speaker": "Dan Khasis", "text": "Подожди секунду. Вот почему S&P называет это так, как они называют. Потому что четыре захаркоженных лимита 70-х годов мейнфрейма, которые все пользуются сегодня.\n\nОни не хотят менять длину, все сломается к чертовой матери. И слова берутся из немецкого языка. Все партнеры по-прежнему пользуются этими кодами, чтобы ничего не сломать.\n\nПотому что 60 лет тренировки уже. Видишь, первые четыре буквы.", "confidence": 0.76}
+{"start": 6427, "end": 6431.17, "speaker": "Vova", "text": "Я думал, откуда такие бешеные аббревиатуры?", "confidence": 0.95}
+{"start": 6431.17, "end": 6435.33, "speaker": "Vova", "text": "Это немецкий язык.", "confidence": 0.95}
+{"start": 6435.33, "end": 6439.5, "speaker": "Dan Khasis", "text": "Четыре буквы, блядь.", "confidence": 0.95}
+{"start": 6439.5, "end": 6443.67, "speaker": "Vova", "text": "Я думаю, что нам лучше замапить их.", "confidence": 0.95}
+{"start": 6443.67, "end": 6447.83, "speaker": "Vova", "text": "По крайней мере опционально сделать маппинг на человеческие имена.", "confidence": 0.95}
+{"start": 6447.83, "end": 6452.0, "speaker": "Vova", "text": "А для тех, кто с S&P пришел, мы можем для них оставить.", "confidence": 0.95}
+{"start": 6453, "end": 6551, "speaker": "Dan Khasis", "text": "Я думаю, что чтобы мы вернулись назад в AI, мы бы, если кто-то пришел и спросил вопрос, например, у нас уже будет статья один в один к этому, которую мы дадим Саше Яскову, которая будет промаппирована на наш тип. И потом для Dynamics, для Нацвета мы наизнанку сделаем маппинг в нашем саппорт-портале. Я думаю, что очень интересно, что с 60-летней давности немецкие буквы, которые хуй знает кто придумал и так далее, пользуются десятками тысяч, сотнями тысяч людей.\n\nЯ думаю, что там даже есть элемент inside joke в этом комьюнити, что если ты придешь на конференцию S&P и ты не знаешь, что такое K-Med, Dean или Lear, и начинают делать презентацию, ты как продавец или как маркетолог будешь на лоха похож, если ты не знаешь это.", "confidence": 0.67}
+{"start": 6559, "end": 6567, "speaker": "Vova", "text": "Я думаю, что масштабы проблемы такие, что иммиграцию сделать на человеческие какие-то другие терминологии уже просто невозможно, поэтому они с ней остаются.", "confidence": 0.99}
+{"start": 6568, "end": 6592, "speaker": "Dan Khasis", "text": "Да, я согласен полностью, но я наизнанку это смотрю с точки зрения маркетологии и sales-психологии. Если я придумал новую технологию для S&P, я хочу делать рекламу специалистам S&P, я буду писать consumable goods, а не NLAG.", "confidence": 0.96}
+{"start": 6594, "end": 6615, "speaker": "Vova", "text": "Я знаю, что мы можем сделать. Мы можем сделать у нас в настройках выбор, чтобы можно было выбрать терминологию, и мы будем мапить внутри на свои какие-то читаемые имена, а юзерам показывать терминологию, которую они предпочитают. Хотите S&P терминологию?\n\nПожалуйста. Хотите NSU терминологию? Пожалуйста.", "confidence": 0.99}
+{"start": 6616, "end": 6701, "speaker": "Dan Khasis", "text": "Да, это хорошая идея, согласен. Но это во второй версии, после того, как мы минимал запустим. Лучшие материалы для продажи.\n\nЕсли S&P, кто-то завтра решает купить Rout4me или RoadNet, или Rout4me, или Descartes, и они видят, что вся терминология в их стилизации, они купят нашу хуйню даже два раза не думая. Но это открывает другой вопрос. Сейчас мы сделали больше, как на Google.\n\nЕсли мы хотим сделать что-то с AWS или с Microsoft, я не говорю сейчас это делать, но может быть в следующем году, динамически менять тематику на SAP, NetSuite, как Wordpress старый, или PHP, MyAdmin. Ты не выбираешь theme или skin, и она динамично меняется. Но, окей, так чтобы закончить эту тему, потому что мне надо двигаться скоро.\n\nИнвентарь-менеджер, мы модифицируем и проверяем типы инвентаря, raw material, supplies, replacement part, service. Мы пропустили что-то или нет? Мы называем это item type или material type?", "confidence": 0.73}
+{"start": 6707, "end": 6711, "speaker": "Vova", "text": "Инвентарь мне нравился, как оно у нас было, инвентарь-айтем.", "confidence": 0.99}
+{"start": 6714, "end": 6716, "speaker": "Dan Khasis", "text": "Я понимаю, но...", "confidence": 0.92}
+{"start": 6722, "end": 6748, "speaker": "Semeyon S", "text": "Как по мне, лучше item type. Это тип конкретного у нас объекта или элемента получается. Material type, это же могут быть какие-то исходники и так далее.\n\nПо крайней мере, сейчас же нам не нужна такая глубина, что мы целую логистическую цепочку производства молотков будем от добычи угля делать.", "confidence": 0.99}
+{"start": 6750, "end": 6756.82, "speaker": "Dan Khasis", "text": "Окей, сейчас, Семен, одну секунду, мне выбило.", "confidence": 0.95}
+{"start": 6756.82, "end": 6763.65, "speaker": "Dan Khasis", "text": "Мы называем это item types.", "confidence": 0.95}
+{"start": 6763.65, "end": 6770.47, "speaker": "Dan Khasis", "text": "У нас будет item, service, spare part, raw material, supplies.", "confidence": 0.95}
+{"start": 6777.29, "end": 6784.12, "speaker": "Dan Khasis", "text": "Кстати, заметьте, вот это суперинтересная вещь, pipe.", "confidence": 0.95}
+{"start": 6790.94, "end": 6797.76, "speaker": "Dan Khasis", "text": "Если ты хочешь между странами считать, сколько газа прошло или нефти прошло через эти трубы, через сенсоры, ты будешь вот это в SAP делать.", "confidence": 0.95}
+{"start": 6797.76, "end": 6804.59, "speaker": "Dan Khasis", "text": "Или электричество.", "confidence": 0.95}
+{"start": 6804.59, "end": 6811.41, "speaker": "Dan Khasis", "text": "Technician time on site у нас есть уже.", "confidence": 0.95}
+{"start": 6811.41, "end": 6818.24, "speaker": "Dan Khasis", "text": "Non-stock consumables, это...", "confidence": 0.95}
+{"start": 6818.24, "end": 6825.06, "speaker": "Dan Khasis", "text": "Finish, semi-finish, raw finish.", "confidence": 0.95}
+{"start": 6825.06, "end": 6831.88, "speaker": "Dan Khasis", "text": "Physical product.", "confidence": 0.95}
+{"start": 6831.88, "end": 6838.71, "speaker": "Dan Khasis", "text": "Service у нас есть.", "confidence": 0.95}
+{"start": 6838.71, "end": 6845.53, "speaker": "Dan Khasis", "text": "Это, кстати, интересная вещь, returnable empties.", "confidence": 0.95}
+{"start": 6845.53, "end": 6852.35, "speaker": "Dan Khasis", "text": "Ты знаешь, когда ты заказываешь что-то, к тебе приходит посылка, и в посылке есть маленькая посылка вернуть что-то назад, например, слюню или мочевой экземпляр чего-то сдать назад.", "confidence": 0.95}
+{"start": 6852.35, "end": 6859.18, "speaker": "Dan Khasis", "text": "Так посылка приходит с посылкой внутри.", "confidence": 0.95}
+{"start": 6859.18, "end": 6866.0, "speaker": "Dan Khasis", "text": "Забавно.", "confidence": 0.95}
+{"start": 6867, "end": 6869, "speaker": "Semeyon S", "text": "Я с таким не сталкиваюсь.", "confidence": 0.92}
+{"start": 6870, "end": 6876.67, "speaker": "Dan Khasis", "text": "Чувак, в Америке это есть, суперпопулярно.", "confidence": 0.95}
+{"start": 6876.67, "end": 6883.33, "speaker": "Dan Khasis", "text": "Окей, значит, item type.", "confidence": 0.95}
+{"start": 6883.33, "end": 6890.0, "speaker": "Dan Khasis", "text": "Мы делаем reservation в базе данной отдельной таблицы для material types, но мы пока не делаем их, правильно?", "confidence": 0.95}
+{"start": 6890.0, "end": 6896.67, "speaker": "Dan Khasis", "text": "Мы не в UI не выводим их.", "confidence": 0.95}
+{"start": 6903.33, "end": 6910.0, "speaker": "Dan Khasis", "text": "Я имею в виду в целом, мы не забываем, что нам нужно будет...", "confidence": 0.95}
+{"start": 6914, "end": 6916, "speaker": "Semeyon S", "text": "Проработать этот вопрос.", "confidence": 0.79}
+{"start": 6916, "end": 6923.9, "speaker": "Dan Khasis", "text": "Да, но не сейчас.", "confidence": 0.95}
+{"start": 6923.9, "end": 6931.8, "speaker": "Dan Khasis", "text": "И тогда здесь будет тип, это двигается в отдельной таблице или вообще удаляется к чертовой матери в первой версии.", "confidence": 0.95}
+{"start": 6931.8, "end": 6939.7, "speaker": "Dan Khasis", "text": "Name, Q мы меняем на UPC и двигаем в первую колонку.", "confidence": 0.95}
+{"start": 6955.5, "end": 6963.4, "speaker": "Dan Khasis", "text": "И он будет, например, показывать group by facility.", "confidence": 0.95}
+{"start": 6963.4, "end": 6971.3, "speaker": "Dan Khasis", "text": "То есть ты, например, кликнул товар, ты видишь список складов, которые его имеют, и ты видишь сколько on hand и сколько on order, например.", "confidence": 0.95}
+{"start": 6971.3, "end": 6979.2, "speaker": "Dan Khasis", "text": "Это элементарная версия снапшота.", "confidence": 0.95}
+{"start": 6979.2, "end": 6987.1, "speaker": "Dan Khasis", "text": "Плюс какие-то метаданные насчет его.", "confidence": 0.95}
+{"start": 6987.1, "end": 6995.0, "speaker": "Dan Khasis", "text": "Было бы хорошо залить фото, но сейчас нет, это не надо делать.", "confidence": 0.95}
+{"start": 7002, "end": 7006, "speaker": "Vova", "text": "Мы в фотку можем даже найти товары по UPC.", "confidence": 0.99}
+{"start": 7008, "end": 7017.57, "speaker": "Dan Khasis", "text": "Да, но эти не имеют.", "confidence": 0.95}
+{"start": 7017.57, "end": 7027.14, "speaker": "Dan Khasis", "text": "Мы искали, ты видел, мы искали mini melt, мы не нашли.", "confidence": 0.95}
+{"start": 7027.14, "end": 7036.7, "speaker": "Dan Khasis", "text": "Но в любом случае, следующий пункт это, чтобы довести это до ума, эти водители имеют такую штуку, UPC, description и цена.", "confidence": 0.95}
+{"start": 7036.7, "end": 7046.27, "speaker": "Dan Khasis", "text": "Они открывают имейл в своем планшете или в своем айфоне и говорят, а клиент хотел 7 таких, 8 таких, 9 таких.", "confidence": 0.95}
+{"start": 7046.27, "end": 7055.84, "speaker": "Dan Khasis", "text": "И они в столбик берут и перемножают в столбики.", "confidence": 0.95}
+{"start": 7055.84, "end": 7065.41, "speaker": "Dan Khasis", "text": "Они это делают у клиента.", "confidence": 0.95}
+{"start": 7065.41, "end": 7074.97, "speaker": "Dan Khasis", "text": "На spreadsheet они заполняют документ, и потом они делают в калькуляторе у себя.", "confidence": 0.95}
+{"start": 7074.97, "end": 7084.54, "speaker": "Dan Khasis", "text": "У них получается стоимость.", "confidence": 0.95}
+{"start": 7084.54, "end": 7094.11, "speaker": "Dan Khasis", "text": "Потом они это все записывают на triple carbon copy paper, order sheet.", "confidence": 0.95}
+{"start": 7094.11, "end": 7103.68, "speaker": "Dan Khasis", "text": "Она так выглядит, вот на этом.", "confidence": 0.95}
+{"start": 7103.68, "end": 7113.24, "speaker": "Dan Khasis", "text": "Они берут, вырывают, дают одну копию клиенту.", "confidence": 0.95}
+{"start": 7113.24, "end": 7122.81, "speaker": "Dan Khasis", "text": "Вторую версию они посылают по почте в processing service center, который это официально сохраняет и для них делает back office processing.", "confidence": 0.95}
+{"start": 7122.81, "end": 7132.38, "speaker": "Dan Khasis", "text": "И третью версию они фотографируют в Radform, который мы, в принципе, можем искусственным интеллектом делать extraction, machine vision.", "confidence": 0.95}
+{"start": 7132.38, "end": 7141.95, "speaker": "Dan Khasis", "text": "Мы попросим скоп, ребята, помочь этим.", "confidence": 0.95}
+{"start": 7141.95, "end": 7151.51, "speaker": "Dan Khasis", "text": "В итоге в нашем мобильном приложении будет теперь на уровне два типа заказа.", "confidence": 0.95}
+{"start": 7151.51, "end": 7161.08, "speaker": "Dan Khasis", "text": "Если заранее кто-то знал, какого типа заказа вещи люди хотели, будет order, в order будет множество линий, будет item code из нашей системы inventory, которую мы только что обсуждали долго, item name и quantity, которое было заказано, задумано и заказано.", "confidence": 0.95}
+{"start": 7161.08, "end": 7170.65, "speaker": "Dan Khasis", "text": "И потом по умолчанию здесь будет default value, тот, который был в заказе, который пришел от них, например, 5, 6, 7, 8, 9.", "confidence": 0.95}
+{"start": 7170.65, "end": 7180.22, "speaker": "Dan Khasis", "text": "И потом они смогут сказать актуально, сколько они актуально дали.", "confidence": 0.95}
+{"start": 7180.22, "end": 7189.78, "speaker": "Dan Khasis", "text": "Актуально они могли дать только один или восемь.", "confidence": 0.95}
+{"start": 7189.78, "end": 7199.35, "speaker": "Dan Khasis", "text": "Они всегда ездят с большим, чем надо, на всякий случай, если они увидят, что там пусто было или клиент захотел побольше.", "confidence": 0.95}
+{"start": 7199.35, "end": 7208.92, "speaker": "Dan Khasis", "text": "Иногда клиент может отказаться в последнюю минуту.", "confidence": 0.95}
+{"start": 7208.92, "end": 7218.49, "speaker": "Dan Khasis", "text": "В итоге есть теперь стоимость того товара, которое мы будем показывать водителю, откуда стоимость товара, потому что у нас теперь будет еще одна таблица, самая важная, в первой версии, которая будет линковать на уровне кастомера, более правильно сказать, на уровне вот этих комбинаций где аккаунт, root аккаунта, кастомера, может быть, customer location.", "confidence": 0.95}
+{"start": 7218.49, "end": 7228.05, "speaker": "Dan Khasis", "text": "Я вернусь к database модели на секунду.", "confidence": 0.95}
+{"start": 7228.05, "end": 7237.62, "speaker": "Dan Khasis", "text": "Item.", "confidence": 0.95}
+{"start": 7237.62, "end": 7247.19, "speaker": "Dan Khasis", "text": "В первой версии мы не делаем.", "confidence": 0.95}
+{"start": 7247.19, "end": 7256.76, "speaker": "Dan Khasis", "text": "Мы не делаем купоны и так далее.", "confidence": 0.95}
+{"start": 7256.76, "end": 7266.32, "speaker": "Dan Khasis", "text": "Мы просто делаем элементарное переумножение.", "confidence": 0.95}
+{"start": 7266.32, "end": 7275.89, "speaker": "Dan Khasis", "text": "Это умножено на это, и мы берем столько-то денег.", "confidence": 0.95}
+{"start": 7275.89, "end": 7285.46, "speaker": "Dan Khasis", "text": "Мы говорим водителю брать столько-то денег.", "confidence": 0.95}
+{"start": 7285.46, "end": 7295.03, "speaker": "Dan Khasis", "text": "Потом водитель сохраняет это как в API, или в новый API, или в старый API.", "confidence": 0.95}
+{"start": 7295.03, "end": 7304.59, "speaker": "Dan Khasis", "text": "Мы обсудим это, может быть, в понедельник, еще один заново.", "confidence": 0.95}
+{"start": 7304.59, "end": 7314.16, "speaker": "Dan Khasis", "text": "И потом сумма всего этого мы вставляем в invoice объект.", "confidence": 0.95}
+{"start": 7314.16, "end": 7323.73, "speaker": "Dan Khasis", "text": "Когда они говорят, что мы генерируем invoice, они имеют в виду, что мы конкретно берем это, это, это и это из мобильного приложения и накладываем его в JSON объект, который выглядит как вот этот шаблон, где есть тип, количество, стоимость, и мы посчитали для водителя сумму.", "confidence": 0.95}
+{"start": 7323.73, "end": 7333.3, "speaker": "Dan Khasis", "text": "И все.", "confidence": 0.95}
+{"start": 7333.3, "end": 7342.86, "speaker": "Dan Khasis", "text": "И мы посылаем асинхронным пейлоудом им эти данные.", "confidence": 0.95}
+{"start": 7342.86, "end": 7352.43, "speaker": "Dan Khasis", "text": "Мобильный UI для этого мы уже нарисовали.", "confidence": 0.95}
+{"start": 7352.43, "end": 7362.0, "speaker": "Dan Khasis", "text": "Давай в понедельник его прорассмотрим опять снова с Антоном.", "confidence": 0.95}
+{"start": 7372, "end": 7377.75, "speaker": "Vova", "text": "А по поводу пресс-листов, я себя представляю таким образом, что будет сущность пресс-лист на уровне UI, которая conditionally применяется.", "confidence": 0.95}
+{"start": 7377.75, "end": 7383.5, "speaker": "Vova", "text": "И у пресс-листа может стоять какое-то условие, например, что он распространяется на какую-то группу клиентов или на какого-то одного клиента.", "confidence": 0.95}
+{"start": 7383.5, "end": 7389.25, "speaker": "Vova", "text": "Или если у него не стоит никакая condition, значит он распространяется на всех.", "confidence": 0.95}
+{"start": 7389.25, "end": 7395.0, "speaker": "Vova", "text": "И этих пресс-листов, их может быть несколько в системе, и каждого пресс-листа есть приоритет.", "confidence": 0.95}
+{"start": 7395.0, "end": 7400.75, "speaker": "Vova", "text": "У тебя есть базовый пресс-лист, а дальше ты можешь с более высоким приоритетом перекрывать его.", "confidence": 0.95}
+{"start": 7400.75, "end": 7406.5, "speaker": "Vova", "text": "Какие-то позиции в базовом листе перекрывать для каких-то клиентов, например.", "confidence": 0.95}
+{"start": 7406.5, "end": 7412.25, "speaker": "Vova", "text": "На другую цену оверайдить.", "confidence": 0.95}
+{"start": 7412.25, "end": 7418.0, "speaker": "Vova", "text": "Да, но не в первой версии, правильно?", "confidence": 0.95}
+{"start": 7418.0, "end": 7423.75, "speaker": "Vova", "text": "В первой версии мы делали...", "confidence": 0.95}
+{"start": 7423.75, "end": 7429.5, "speaker": "Vova", "text": "В первой версии без оверайдов, просто делаем один плоский пресс-лист в первой версии.", "confidence": 0.95}
+{"start": 7429.5, "end": 7435.25, "speaker": "Vova", "text": "Да.", "confidence": 0.95}
+{"start": 7435.25, "end": 7441.0, "speaker": "Vova", "text": "Во второй версии мы делаем оверайды, а в третьей версии мы делаем скидки и наценки на всякие сложные условия.", "confidence": 0.95}
+{"start": 7449, "end": 7485, "speaker": "Dan Khasis", "text": "Да, я должен двигаться, к сожалению. Но моя идея в том, что мы делаем вот этот items and inventory, или items and inventory manager. Потом мы берем это все и соединяем это все.\n\nМы делаем новую секцию, еще одну. Сделаем новую секцию, еще одну. Которая будет называться...", "confidence": 0.56}
+{"start": 7503, "end": 7505, "speaker": "Dan Khasis", "text": "Как это называется?", "confidence": 0.68}
+{"start": 7516.24, "end": 7519.35, "speaker": "Vova", "text": "Price management.", "confidence": 0.95}
+{"start": 7519.35, "end": 7522.47, "speaker": "Dan Khasis", "text": "И это price management, сколько они должны брать у своих клиентов.", "confidence": 0.95}
+{"start": 7522.47, "end": 7525.59, "speaker": "Dan Khasis", "text": "И потом мы пытаемся...", "confidence": 0.95}
+{"start": 7525.59, "end": 7528.71, "speaker": "Dan Khasis", "text": "И в первой версии мы просто грузим их spreadsheet.", "confidence": 0.95}
+{"start": 7528.71, "end": 7531.82, "speaker": "Dan Khasis", "text": "А во второй, и в третьей, и в четвертой версии мы синкаем это все.", "confidence": 0.95}
+{"start": 7531.82, "end": 7534.94, "speaker": "Dan Khasis", "text": "Если надо.", "confidence": 0.95}
+{"start": 7534.94, "end": 7538.06, "speaker": "Dan Khasis", "text": "Но пока мы просто делаем импорт.", "confidence": 0.95}
+{"start": 7538.06, "end": 7541.18, "speaker": "Dan Khasis", "text": "Если у них это есть в SAP, шикарно.", "confidence": 0.95}
+{"start": 7541.18, "end": 7544.29, "speaker": "Dan Khasis", "text": "Если у них нет, неважно.", "confidence": 0.95}
+{"start": 7544.29, "end": 7547.41, "speaker": "Dan Khasis", "text": "Нам Parker даст CSV, мы его грузим.", "confidence": 0.95}
+{"start": 7547.41, "end": 7550.53, "speaker": "Dan Khasis", "text": "И потом мы им даем редактор.", "confidence": 0.95}
+{"start": 7550.53, "end": 7553.65, "speaker": "Dan Khasis", "text": "И это им хватит.", "confidence": 0.95}
+{"start": 7553.65, "end": 7556.76, "speaker": "Dan Khasis", "text": "Все равно лучше, чем каждый водитель.", "confidence": 0.95}
+{"start": 7556.76, "end": 7559.88, "speaker": "Dan Khasis", "text": "Все считает сам.", "confidence": 0.95}
+{"start": 7559.88, "end": 7563.0, "speaker": "Dan Khasis", "text": "Безобразно.", "confidence": 0.95}
+{"start": 7576, "end": 7599, "speaker": "Vova", "text": "Если у них на стороне ERP уже какие-то используются скидки и какая-то динамическая цена в зависимости от клиента, по идее мы можем делать запрос на ERP, чтобы ERP сгенерировал цену. Чтобы ERP нам возвращал цену, и потом мы брали цену, уже готовим. То есть мы шлем контекст, в котором нужно сгенерировать цену.", "confidence": 0.99}
+{"start": 7600, "end": 7605, "speaker": "Dan Khasis", "text": "Если они умеют это сделать, это хорошая идея. Но я не знаю, если будут ограничения на Query Limits.", "confidence": 0.99}
+{"start": 7609, "end": 7615.5, "speaker": "Vova", "text": "Но я согласен в теории с тобой.", "confidence": 0.95}
+{"start": 7615.5, "end": 7622.0, "speaker": "Vova", "text": "Но чтобы на первую пору, пока мы этого не имеем, чтобы мы, по крайней мере, умели это запроксировать просто из их системы.", "confidence": 0.95}
+{"start": 7628, "end": 7632, "speaker": "Dan Khasis", "text": "Да, я согласен, но я не знаю, если они это смогут сделать.", "confidence": 0.99}
+{"start": 7641, "end": 7642, "speaker": "Dan Khasis", "text": "Окей, хорошо тогда.", "confidence": 0.99}
+{"start": 7645, "end": 7647.67, "speaker": "Semeyon S", "text": "Дэн, расшарь документы, пожалуйста, сразу же.", "confidence": 0.95}
+{"start": 7647.67, "end": 7650.33, "speaker": "Dan Khasis", "text": "Окей.", "confidence": 0.95}
+{"start": 7650.33, "end": 7653.0, "speaker": "Dan Khasis", "text": "Мы делаем Pry Sheet.", "confidence": 0.95}
+{"start": 7653, "end": 7671, "speaker": "Dan Khasis", "text": "Я думаю, что самая сложная вещь здесь будет, даже если в первой версии мы Pry Sheet в рядовом режиме запустим, а для них загрузим все свипы к Энде. Это тоже нас устраивает, Семен. Понял.\n\nДаже если первая версия Pry Sheet крада только в ряд.", "confidence": 0.99}
+{"start": 7674, "end": 7677, "speaker": "Semeyon S", "text": "Ну, мы, значит, так и сделаем.", "confidence": 0.65}
+{"start": 7677, "end": 7682, "speaker": "Dan Khasis", "text": "Экология покупателя, если они не видят, это не существует.", "confidence": 0.82}
+{"start": 7682, "end": 7698, "speaker": "Semeyon S", "text": "Да, и сделаем, прикрутим, сгенерим простые интерфейсы, чтобы что-то можно было показывать, что процесс идет, и будем двигаться дальше. Вот, я Python Script нашел.", "confidence": 0.98}
+{"start": 7701, "end": 7709.0, "speaker": "Dan Khasis", "text": "Я просто не представляю, как ребята собирались самостоятельно мэппинг делать.", "confidence": 0.95}
+{"start": 7709.0, "end": 7717.0, "speaker": "Dan Khasis", "text": "Мне лучше иногда, чтобы мы вообще ничего не делали, чем без контекста делали или непонятно делали.", "confidence": 0.95}
+{"start": 7718, "end": 7729, "speaker": "Vova", "text": "Я еще хотел бы упомянуть, что прайсинги, они должны обязательно хранить историю того, кто их когда менял, и с какого по какому числу они действовали.", "confidence": 0.99}
+{"start": 7729, "end": 7735.5, "speaker": "Dan Khasis", "text": "Да, это важная деталь архитектуры, которую мы должны ребят научить делать.", "confidence": 0.95}
+{"start": 7735.5, "end": 7742.0, "speaker": "Dan Khasis", "text": "Но в отсутствие квалифицированных архитектов, мы должны это вместе делать сами.", "confidence": 0.95}
+{"start": 7747, "end": 7750, "speaker": "Vova", "text": "Прайсинг должен быть в период, когда он работает.", "confidence": 0.95}
+{"start": 7750, "end": 7755, "speaker": "Dan Khasis", "text": "Мы в понедельник это можем официально закончить. Ну, тоже окей.", "confidence": 0.99}
+{"start": 7756, "end": 7763, "speaker": "Semeyon S", "text": "Мы в понедельник просто Мишу обязательно подключим и посмотрим текущую схему.", "confidence": 0.99}
+{"start": 7765, "end": 7836, "speaker": "Dan Khasis", "text": "Нам очень важно, пожалуйста, на уровне ордера, если мы будем записывать это все на уровне ордера. Что я имею в виду? Я имею в виду то, что, если даже, давай представим, что мы сделали прайсинг стратегии или прокси прайсинг стратегии, и все охуительно.\n\nМы сделали инвентарь, все охуительно, все сделал, окей. Но следующее, у нас есть проблема уже. Наша следующая проблема это то, что мобильное приложение должно сохранить это как-то.\n\nИ сохранять это в custom data это неправильно, это не custom вещи. Это полноценные бизнес-объекты, это не custom вещи. Мы должны это очень правильно сделать, обсудить в понедельник.\n\nКогда они нам будут присылать фронтенда, мы будем это правильно все делать, брать и пользоваться.", "confidence": 0.7}
+{"start": 7843, "end": 7854, "speaker": "Semeyon S", "text": "Окей, организуем. В понедельник в то же время?", "confidence": 0.29}
+{"start": 7858, "end": 7880, "speaker": "Dan Khasis", "text": "Плюс-минус, да. Если получится раньше, я сделаю раньше. Просто наше неадекватное предупреждение объявило, что оно не может прийти, что оно якобы заболело.\n\nТак здесь все это, весь график нарушился.", "confidence": 0.78}
+{"start": 7887, "end": 7893, "speaker": "Semeyon S", "text": "Окей, договорились, организуем. Плюс еще мобильную команду пригласим.", "confidence": 0.99}
+{"start": 7893, "end": 7909.5, "speaker": "Dan Khasis", "text": "Идея в том, что мобильщики будут посылать нам этот объект как полноценный оптифицированный объект, и мы его промепаем правильно, сохраним.", "confidence": 0.95}
+{"start": 7909.5, "end": 7926.0, "speaker": "Dan Khasis", "text": "И финальная вещь, мы должны будем сделать output invoice в нашем интерфейсе.", "confidence": 0.95}
+{"start": 7926.0, "end": 7942.5, "speaker": "Dan Khasis", "text": "Потому что после каждого ордера, ордер же, ордер на уровне этого, ордер на уровне, как его называют, остановки.", "confidence": 0.95}
+{"start": 7942.5, "end": 7959.0, "speaker": "Dan Khasis", "text": "Для каждого ордера в остановке там будет это, мы не хотим, надо продумать, если мы хотим один invoice на одну остановку или один invoice на каждый ордер, мы должны это будем решить.", "confidence": 0.95}
+{"start": 7960, "end": 7965, "speaker": "Semeyon S", "text": "Но это как-то конфигурироваться должно, потому что, а может быть, invoice же и на маршрут вполне.", "confidence": 0.99}
+{"start": 7966, "end": 7985.5, "speaker": "Dan Khasis", "text": "Да, но если только, да, но не совсем, Семен, потому что у тебя могут быть 15 разнообразных клиентов, но если у тебя на одном маршруте 10 клиентов 7-11, тогда да, тогда ты можешь один invoice сделать 7-11, но может быть, это настройка должна быть, где они выбирают, какого типа они хотят, one invoice per location, one invoice per route.", "confidence": 0.95}
+{"start": 7985.5, "end": 8005.0, "speaker": "Dan Khasis", "text": "Потому что если не все 7-11 владеют то же самое юрлицо, они каждый отдельно трекают для юридических и бухгалтерских сетей.", "confidence": 0.95}
+{"start": 8005, "end": 8012, "speaker": "Semeyon S", "text": "А если замэпать ордера на будущий invoice, это не слишком сложно?", "confidence": 0.82}
+{"start": 8013, "end": 8015, "speaker": "Vova", "text": "Один ордер, один invoice должно быть.", "confidence": 0.99}
+{"start": 8016, "end": 8027.0, "speaker": "Dan Khasis", "text": "На одной остановке могут быть 6 заказов, и потом в рамках 6 заказов могут быть 10 дочерних элементов каждого ордера.", "confidence": 0.95}
+{"start": 8027.0, "end": 8038.0, "speaker": "Dan Khasis", "text": "И так в итоге 60 строк может появиться на одном invoice для одной остановки.", "confidence": 0.95}
+{"start": 8038.0, "end": 8049.0, "speaker": "Dan Khasis", "text": "Но если есть 3 остановки на том же маршруте, и все они принадлежат Вове, потому что это все его фирма 7-11, значит Вова займется получать каждый день 30 invoice на каждый ордер.", "confidence": 0.95}
+{"start": 8049.0, "end": 8060.0, "speaker": "Dan Khasis", "text": "Его бухгалтеры, аккаунты скажут, что наша схема говно.", "confidence": 0.95}
+{"start": 8060.0, "end": 8071.0, "speaker": "Dan Khasis", "text": "Мы должны просто сделать выборку, чтобы они решали уровень агрегации на эксплуатации.", "confidence": 0.95}
+{"start": 8074, "end": 8077, "speaker": "Vova", "text": "Но агрегировать можно только, если это один и тот же кастинг, в любом случае.", "confidence": 0.99}
+{"start": 8080, "end": 8089, "speaker": "Dan Khasis", "text": "Да, я согласен. Окей, значит в понедельник закончим этот разговор. Окей, спасибо.", "confidence": 0.92}
+{"start": 8092, "end": 8092, "speaker": "Dan Khasis", "text": "Счастливо.", "confidence": 0.65}
+{"start": 8099, "end": 8103, "speaker": "Semeyon S", "text": "Так, нам нужно что-то досудить у меня минут.", "confidence": 0.99}
